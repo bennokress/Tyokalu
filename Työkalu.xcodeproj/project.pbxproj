@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		D3B6688A2F2E38A9001E99E3 /* PrettyLog in Frameworks */ = {isa = PBXBuildFile; productRef = D3B668892F2E38A9001E99E3 /* PrettyLog */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		D30D9E4C2F2E2B5500E83A87 /* Työkalu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Työkalu.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -23,6 +27,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D3B6688A2F2E38A9001E99E3 /* PrettyLog in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -66,6 +71,7 @@
 			);
 			name = "Työkalu";
 			packageProductDependencies = (
+				D3B668892F2E38A9001E99E3 /* PrettyLog */,
 			);
 			productName = "Työkalu";
 			productReference = D30D9E4C2F2E2B5500E83A87 /* Työkalu.app */;
@@ -95,6 +101,9 @@
 			);
 			mainGroup = D30D9E432F2E2B5500E83A87;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				D3B668882F2E38A9001E99E3 /* XCRemoteSwiftPackageReference "PrettyLog" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = D30D9E4D2F2E2B5500E83A87 /* Products */;
 			projectDirPath = "";
@@ -386,6 +395,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		D3B668882F2E38A9001E99E3 /* XCRemoteSwiftPackageReference "PrettyLog" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/bennokress/PrettyLog";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.0.4;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		D3B668892F2E38A9001E99E3 /* PrettyLog */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D3B668882F2E38A9001E99E3 /* XCRemoteSwiftPackageReference "PrettyLog" */;
+			productName = PrettyLog;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = D30D9E442F2E2B5500E83A87 /* Project object */;
 }
