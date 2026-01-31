@@ -17,6 +17,12 @@
             "value": "\"Työkalu\" is the Finnish word for \"tool\"."
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"Työkalu\" is the Finnish word for \"tool\"."
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -48,6 +54,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A Date can never be between two equal hours, please enter different numbers as earlier and later hours"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "A Date can never be between two equal hours, please enter different numbers as earlier and later hours"
@@ -89,6 +101,12 @@
             "value": "A day has 24 hours, so checking against hours higher than 24 is impossible"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A day has 24 hours, so checking against hours higher than 24 is impossible"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -125,6 +143,12 @@
             "value": "A day has no negative hours, so checking against hours lower than 0 is impossible"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A day has no negative hours, so checking against hours lower than 0 is impossible"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -155,6 +179,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "About This App"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "About This App"
@@ -196,6 +226,12 @@
             "value": "An attachment that will be displayed in the notification (optional, see UNNotificationAttachment for more information)"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "An attachment that will be displayed in the notification (optional, see UNNotificationAttachment for more information)"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -227,6 +263,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Attachment"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Attachment"
@@ -268,6 +310,12 @@
             "value": "Date"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Date"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -299,6 +347,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Date & Time"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Date & Time"
@@ -340,6 +394,12 @@
             "value": "Device Functionality"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Device Functionality"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -370,6 +430,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Did You Know?"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Did You Know?"
@@ -411,6 +477,12 @@
             "value": "Do nothing"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Do nothing"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -442,6 +514,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Earlier Hour"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Earlier Hour"
@@ -482,6 +560,12 @@
             "value": "Friday"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Friday"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -512,6 +596,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grant Permission"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Grant Permission"
@@ -553,6 +643,12 @@
             "value": "Grant notification permission"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grant notification permission"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -584,6 +680,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grant notification permission first"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Grant notification permission first"
@@ -625,6 +727,12 @@
             "value": "Hour Check"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hour Check"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -651,6 +759,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ist ${date} ${typeOfDay}?"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Is ${date} ${typeOfDay}?"
           }
         },
         "fi": {
@@ -681,6 +795,12 @@
             "value": "Ist ${date} ein ${typeOfDay}?"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Is ${date} a ${typeOfDay}?"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -707,6 +827,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ist ${date} an einem ${typeOfDay}?"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Is ${date} on a ${typeOfDay}?"
           }
         },
         "fi": {
@@ -740,6 +866,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Is %@ %@?"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Is %@ %@?"
@@ -781,6 +913,12 @@
             "value": "Is %@ a %@?"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Is %@ a %@?"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -812,6 +950,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Is %@ on a %@?"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Is %@ on a %@?"
@@ -853,6 +997,12 @@
             "value": "Is Type of Day"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Is Type of Day"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -879,6 +1029,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ist die Stunde von ${date} zwischen ${lowerBound} und ${upperBound}?"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Is the hour of ${date} between ${lowerBound} and ${upperBound}?"
           }
         },
         "fi": {
@@ -912,6 +1068,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Is the hour of %@ between %lld and %lld?"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Is the hour of %@ between %lld and %lld?"
@@ -953,6 +1115,12 @@
             "value": "Later Hour"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Later Hour"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -989,6 +1157,12 @@
             "value": "Message"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Message"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -1019,6 +1193,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Monday"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Monday"
@@ -1060,6 +1240,12 @@
             "value": "Notification ID"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notification ID"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -1090,6 +1276,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notification Permission"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Notification Permission"
@@ -1131,6 +1323,12 @@
             "value": "Notification permission was denied. Please enable it in Settings to use notification actions."
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notification permission was denied. Please enable it in Settings to use notification actions."
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -1160,6 +1358,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notification permission was denied. To use notification actions in Shortcuts, you need to enable notifications in the Settings app."
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Notification permission was denied. To use notification actions in Shortcuts, you need to enable notifications in the Settings app."
@@ -1201,6 +1405,12 @@
             "value": "Notifications are enabled."
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifications are enabled."
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -1232,6 +1442,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifications are provisionally allowed. Grant full permission for the best experience."
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Notifications are provisionally allowed. Grant full permission for the best experience."
@@ -1273,6 +1489,12 @@
             "value": "Notifications are temporarily allowed."
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifications are temporarily allowed."
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -1304,6 +1526,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifications are working correctly!"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Notifications are working correctly!"
@@ -1345,6 +1573,12 @@
             "value": "Notifications on iOS do not support attachments as large as the one you provided."
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifications on iOS do not support attachments as large as the one you provided."
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -1376,6 +1610,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifications on iOS do not support attachments of this type."
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Notifications on iOS do not support attachments of this type."
@@ -1417,6 +1657,12 @@
             "value": "Notifications on iOS do not support attachments of type '%@'."
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifications on iOS do not support attachments of type '%@'."
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -1452,6 +1698,12 @@
             "value": "Once notification permission is granted, there's no additional functionality here other than using the test button below to verify notifications work correctly."
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Once notification permission is granted, there's no additional functionality here other than using the test button below to verify notifications work correctly."
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -1481,6 +1733,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open Settings"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Open Settings"
@@ -1522,6 +1780,12 @@
             "value": "Open URL"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open URL"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -1551,6 +1815,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open app settings"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Open app settings"
@@ -1592,6 +1862,12 @@
             "value": "Opens a system dialog to allow notifications from this app"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Opens a system dialogue to allow notifications from this app"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -1621,6 +1897,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Opens the Settings app to enable notifications"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Opens the Settings app to enable notifications"
@@ -1656,6 +1938,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Permission required"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Permission required"
@@ -1697,6 +1985,12 @@
             "value": "Please grant notification permission to use all features."
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Please grant notification permission to use all features."
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -1727,6 +2021,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ready to send notifications"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Ready to send notifications"
@@ -1768,6 +2068,12 @@
             "value": "Run Shortcut"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Run Shortcut"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -1798,6 +2104,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Saturday"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Saturday"
@@ -1838,6 +2150,12 @@
             "value": "Send Test Notification"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Send Test Notification"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -1864,6 +2182,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Testmitteilung senden"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Send test notification"
           }
         },
         "fi": {
@@ -1897,6 +2221,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sends a test notification to verify the setup"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Sends a test notification to verify the setup"
@@ -1938,6 +2268,12 @@
             "value": "Setting a Notification ID will replace any older notification with the same Notification ID"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Setting a Notification ID will replace any older notification with the same Notification ID"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -1969,6 +2305,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Setting a Thread ID will group the notification with other notifications that have the same Thread ID"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Setting a Thread ID will group the notification with other notifications that have the same Thread ID"
@@ -2010,6 +2352,12 @@
             "value": "Shortcut Input Parameter"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shortcut Input Parameter"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -2041,6 +2389,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shortcut Name"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Shortcut Name"
@@ -2082,6 +2436,12 @@
             "value": "Show Notification"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show Notification"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -2108,6 +2468,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Zeige Mitteilung mit ${title} und ${message}"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show notification with ${title} and ${message}"
           }
         },
         "fi": {
@@ -2141,6 +2507,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show notification with %@ and %@"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Show notification with %@ and %@"
@@ -2182,6 +2554,12 @@
             "value": "Subtitle"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Subtitle"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -2212,6 +2590,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sunday"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Sunday"
@@ -2253,6 +2637,12 @@
             "value": "Tap Action"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tap Action"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -2282,6 +2672,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tap the button below to open Settings, then enable \"Allow Notifications\" for this app."
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Tap the button below to open Settings, then enable \"Allow Notifications\" for this app."
@@ -2323,6 +2719,12 @@
             "value": "Test Notification"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Test Notification"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -2352,6 +2754,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Test Notification Capability"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Test Notification Capability"
@@ -2387,6 +2795,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Test Notifications"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Test Notifications"
@@ -2428,6 +2842,12 @@
             "value": "The (unencoded) input of the Shortcut to run when the notification is tapped (optional)"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The (unencoded) input of the Shortcut to run when the notification is tapped (optional)"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -2459,6 +2879,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The URL to open when the notification is tapped (required if 'Tap Action' is \"Open URL\")"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "The URL to open when the notification is tapped (required if 'Tap Action' is \"Open URL\")"
@@ -2500,6 +2926,12 @@
             "value": "The beginning of the time frame to check against (15 means at or after 15:00/3pm)"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The beginning of the time frame to check against (15 means at or after 15:00/3pm)"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -2531,6 +2963,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The end of the time frame to check against (17 means before 17:00/5pm)"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "The end of the time frame to check against (17 means before 17:00/5pm)"
@@ -2572,6 +3010,12 @@
             "value": "The name of the Shortcut to run when the notification is tapped (required if 'Tap Action' is \"Run Shortcut\")"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The name of the Shortcut to run when the notification is tapped (required if 'Tap Action' is \"Run Shortcut\")"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -2606,6 +3050,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "The notification message can not be empty"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The notification message cannot be empty"
           }
         },
         "fi": {
@@ -2644,6 +3094,12 @@
             "value": "The notification title can not be empty"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The notification title cannot be empty"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -2675,6 +3131,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The subtitle of the notification (optional)"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "The subtitle of the notification (optional)"
@@ -2716,6 +3178,12 @@
             "value": "The tap action \"Open URL\" requires a valid URL"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The tap action \"Open URL\" requires a valid URL"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -2747,6 +3215,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The tap action \"Run Shortcut\" requires a valid Shortcut Name"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "The tap action \"Run Shortcut\" requires a valid Shortcut Name"
@@ -2788,6 +3262,12 @@
             "value": "The type of day you want to check for"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The type of day you want to check for"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -2819,6 +3299,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This action will display a notification on this device."
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "This action will display a notification on this device."
@@ -2860,6 +3346,12 @@
             "value": "This action will return a Boolean value representing if the given date has the given type of day."
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This action will return a Boolean value representing if the given date has the given type of day."
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -2896,6 +3388,12 @@
             "value": "This action will return a Boolean value representing if the hour of the given date is inside the given time frame."
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This action will return a Boolean value representing if the hour of the given date is inside the given time frame."
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -2926,6 +3424,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This app is your toolbox for Shortcuts, providing reusable actions that Apple doesn't include out of the box."
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "This app is your toolbox for Shortcuts, providing reusable actions that Apple doesn't include out of the box."
@@ -2967,6 +3471,12 @@
             "value": "This app needs permission to send notifications for Shortcuts actions."
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This app needs permission to send notifications for Shortcuts actions."
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -2997,6 +3507,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This app provides actions for the Shortcuts app."
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "This app provides actions for the Shortcuts app."
@@ -3038,6 +3554,12 @@
             "value": "Thread ID"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Thread ID"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -3068,6 +3590,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Thursday"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Thursday"
@@ -3109,6 +3637,12 @@
             "value": "Time Sensitive?"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Time Sensitive?"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -3140,6 +3674,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Title"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Title"
@@ -3180,6 +3720,12 @@
             "value": "Today"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Today"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -3215,6 +3761,12 @@
             "value": "Tomorrow"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tomorrow"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -3245,6 +3797,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tuesday"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Tuesday"
@@ -3286,6 +3844,12 @@
             "value": "Turning this on will allow the notification to break through Focus Modes"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Turning this on will allow the notification to break through Focus Modes"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -3317,6 +3881,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Type of Day"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Type of Day"
@@ -3358,6 +3928,12 @@
             "value": "Työkalu needs permission to send notifications. Please review your settings."
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Työkalu needs permission to send notifications. Please review your settings."
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -3394,6 +3970,12 @@
             "value": "URL"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -3420,6 +4002,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "War ${date} ${typeOfDay}?"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Was ${date} ${typeOfDay}?"
           }
         },
         "fi": {
@@ -3453,6 +4041,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Was %@ %@?"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Was %@ %@?"
@@ -3493,6 +4087,12 @@
             "value": "Wednesday"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wednesday"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -3528,6 +4128,12 @@
             "value": "Weekday"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weekday"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -3558,6 +4164,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weekend"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "Weekend"
@@ -3599,6 +4211,12 @@
             "value": "What happens when you tap on the notification"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "What happens when you tap on the notification"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -3634,6 +4252,12 @@
             "value": "Yesterday"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yesterday"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -3660,6 +4284,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "nachmittag"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "afternoon"
           }
         },
         "fi": {
@@ -3690,6 +4320,12 @@
             "value": "hinweis"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "alert"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -3716,6 +4352,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "abend"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "evening"
           }
         },
         "fi": {
@@ -3746,6 +4388,12 @@
             "value": "freitag"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "friday"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -3772,6 +4420,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "montag"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "monday"
           }
         },
         "fi": {
@@ -3802,6 +4456,12 @@
             "value": "morgen"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "morning"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -3830,6 +4490,12 @@
             "value": "nacht"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "night"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -3853,6 +4519,12 @@
     "push": {
       "localizations": {
         "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "push"
+          }
+        },
+        "en-GB": {
           "stringUnit": {
             "state": "translated",
             "value": "push"
@@ -3886,6 +4558,12 @@
             "value": "samstag"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "saturday"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -3912,6 +4590,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "sonntag"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "sunday"
           }
         },
         "fi": {
@@ -3942,6 +4626,12 @@
             "value": "donnerstag"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "thursday"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -3968,6 +4658,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "heute"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "today"
           }
         },
         "fi": {
@@ -3998,6 +4694,12 @@
             "value": "morgen"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "tomorrow"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -4024,6 +4726,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "dienstag"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "tuesday"
           }
         },
         "fi": {
@@ -4054,6 +4762,12 @@
             "value": "mittwoch"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "wednesday"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -4080,6 +4794,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "wochentag"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "weekday"
           }
         },
         "fi": {
@@ -4110,6 +4830,12 @@
             "value": "wochenende"
           }
         },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "weekend"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -4136,6 +4862,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "gestern"
+          }
+        },
+        "en-GB": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "yesterday"
           }
         },
         "fi": {
