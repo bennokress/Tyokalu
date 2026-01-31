@@ -97,6 +97,7 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				bg,
 				cs,
 				de,
 				"en-GB",

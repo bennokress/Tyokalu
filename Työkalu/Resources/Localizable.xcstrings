@@ -5,6 +5,12 @@
       "comment": "Different sentence only in Finnish!",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"Työkalu\" е финландската дума за \"инструмент\"."
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -131,6 +137,12 @@
       "comment": "Error message",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Дата никога не може да бъде между два еднакви часа, моля, въведете различни числа за по-ранен и по-късен час"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -257,6 +269,12 @@
       "comment": "Error message",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Денят има 24 часа, затова е невъзможно да се проверяват часове по-големи от 24"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -383,6 +401,12 @@
       "comment": "Error message",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Денят няма отрицателни часове, затова е невъзможно да се проверяват часове по-малки от 0"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -508,6 +532,12 @@
     "About This App": {
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "За това приложение"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -634,6 +664,12 @@
       "comment": "Parameter description",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Прикачен файл, който ще се показва в известието (незадължително, вижте UNNotificationAttachment за повече информация)"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -760,6 +796,12 @@
       "comment": "Parameter title",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Прикачен файл"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -886,6 +928,12 @@
       "comment": "Parameter title",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Дата"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -1012,6 +1060,12 @@
       "comment": "Intent category name",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Дата и час"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -1138,6 +1192,12 @@
       "comment": "Intent category name",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Функционалност на устройството"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -1263,6 +1323,12 @@
     "Did You Know?": {
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Знаехте ли?"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -1389,6 +1455,12 @@
       "comment": "Tap action option",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Не прави нищо"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -1515,6 +1587,12 @@
       "comment": "Parameter title",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "По-ранен час"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -1640,6 +1718,12 @@
     "Friday": {
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Петък"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -1765,6 +1849,12 @@
     "Grant Permission": {
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Разреши"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -1891,6 +1981,12 @@
       "comment": "Accessibility label for permission button",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Разреши известия"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -2017,6 +2113,12 @@
       "comment": "Accessibility hint when not authorized",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Първо разреши известия"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -2143,6 +2245,12 @@
       "comment": "Intent title",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Проверка на час"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -2267,6 +2375,12 @@
     },
     "Is ${date} ${typeOfDay}?": {
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date} ${typeOfDay} ли е?"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -2379,6 +2493,12 @@
     },
     "Is ${date} a ${typeOfDay}?": {
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date} ${typeOfDay} ли е?"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -2491,6 +2611,12 @@
     },
     "Is ${date} on a ${typeOfDay}?": {
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date} в ${typeOfDay} ли е?"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -2605,6 +2731,12 @@
       "comment": "Parameter summary for today/tomorrow case",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ %2$@ ли е?"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -2731,6 +2863,12 @@
       "comment": "Parameter summary default case",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ %2$@ ли е?"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -2857,6 +2995,12 @@
       "comment": "Parameter summary for weekend case",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ в %2$@ ли е?"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -2983,6 +3127,12 @@
       "comment": "Intent title",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Е тип ден"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -3107,6 +3257,12 @@
     },
     "Is the hour of ${date} between ${lowerBound} and ${upperBound}?": {
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Часът на ${date} между ${lowerBound} и ${upperBound} ли е?"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -3221,6 +3377,12 @@
       "comment": "Parameter summary for Hour Check intent",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Часът на %1$@ между %2$lld и %3$lld ли е?"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -3347,6 +3509,12 @@
       "comment": "Parameter title",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "По-късен час"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -3473,6 +3641,12 @@
       "comment": "Parameter title",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Съобщение"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -3598,6 +3772,12 @@
     "Monday": {
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Понеделник"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -3724,6 +3904,12 @@
       "comment": "Parameter title",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ИД на известие"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -3849,6 +4035,12 @@
     "Notification Permission": {
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Разрешение за известия"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -3975,6 +4167,12 @@
       "comment": "Permission status: denied",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Разрешението за известия беше отказано. Моля, активирайте го в Настройки, за да използвате действия с известия."
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -4099,6 +4297,12 @@
     },
     "Notification permission was denied. To use notification actions in Shortcuts, you need to enable notifications in the Settings app.": {
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Разрешението за известия беше отказано. За да използвате действия с известия в Shortcuts, трябва да активирате известията в приложението Настройки."
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -4225,6 +4429,12 @@
       "comment": "Permission status: authorized",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Известията са включени."
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -4351,6 +4561,12 @@
       "comment": "Permission status: provisional",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Известията са временно разрешени. Дайте пълно разрешение за най-добро изживяване."
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -4477,6 +4693,12 @@
       "comment": "Permission status: ephemeral",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Известията са временно разрешени."
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -4603,6 +4825,12 @@
       "comment": "Message for test notification",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Известията работят правилно!"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -4729,6 +4957,12 @@
       "comment": "Error message for attachment too large",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Известията на iOS не поддържат толкова големи прикачени файлове като този, който предоставихте."
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -4855,6 +5089,12 @@
       "comment": "Error message for unsupported attachment type (unknown type)",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Известията на iOS не поддържат прикачени файлове от този тип."
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -4981,6 +5221,12 @@
       "comment": "Error message for unsupported attachment type",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Известията на iOS не поддържат прикачени файлове от тип „%@\"."
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -5106,6 +5352,12 @@
     "Once notification permission is granted, there's no additional functionality here other than using the test button below to verify notifications work correctly.": {
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "След като разрешението за известия е дадено, тук няма допълнителна функционалност освен използването на бутона за тест по-долу, за да се провери дали известията работят правилно."
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -5230,6 +5482,12 @@
     },
     "Open Settings": {
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Отвори Настройки"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -5356,6 +5614,12 @@
       "comment": "Tap action option and notification button",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Отвори URL"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -5480,6 +5744,12 @@
     },
     "Open app settings": {
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Отвори настройките на приложението"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -5606,6 +5876,12 @@
       "comment": "Accessibility hint for permission button",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Отваря системен диалог за разрешаване на известия от това приложение"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -5730,6 +6006,12 @@
     },
     "Opens the Settings app to enable notifications": {
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Отваря приложението Настройки за включване на известията"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -5855,6 +6137,12 @@
     "Permission required": {
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Изисква се разрешение"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -5981,6 +6269,12 @@
       "comment": "Permission status: unknown default",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Моля, разрешете известията, за да използвате всички функции."
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -6106,6 +6400,12 @@
     "Ready to send notifications": {
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Готово за изпращане на известия"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -6232,6 +6532,12 @@
       "comment": "Tap action option and notification button",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Изпълни пряк път"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -6357,6 +6663,12 @@
     "Saturday": {
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Събота"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -6482,6 +6794,12 @@
     "Send Test Notification": {
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Изпрати тестово известие"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -6606,6 +6924,12 @@
     },
     "Send test notification": {
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Изпрати тестово известие"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -6720,6 +7044,12 @@
       "comment": "Accessibility hint when authorized",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Изпраща тестово известие за проверка на настройката"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -6846,6 +7176,12 @@
       "comment": "Parameter description",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Задаването на ИД на известие ще замени всички по-стари известия със същия ИД на известие"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -6972,6 +7308,12 @@
       "comment": "Parameter description",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Задаването на ИД на нишка ще групира известието с други известия, които имат същия ИД на нишка"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -7098,6 +7440,12 @@
       "comment": "Parameter title",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Входен параметър на пряк път"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -7224,6 +7572,12 @@
       "comment": "Parameter title",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Име на пряк път"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -7350,6 +7704,12 @@
       "comment": "Intent title",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Покажи известие"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -7474,6 +7834,12 @@
     },
     "Show notification with ${title} and ${message}": {
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Покажи известие с ${title} и ${message}"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -7588,6 +7954,12 @@
       "comment": "Parameter summary for Show Notification intent",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Покажи известие с %1$@ и %2$@"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -7714,6 +8086,12 @@
       "comment": "Parameter title",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Подзаглавие"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -7839,6 +8217,12 @@
     "Sunday": {
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Неделя"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -7965,6 +8349,12 @@
       "comment": "Parameter title and type display name",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Действие при докосване"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -8089,6 +8479,12 @@
     },
     "Tap the button below to open Settings, then enable \"Allow Notifications\" for this app.": {
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Докоснете бутона по-долу, за да отворите Настройки, след което активирайте „Разрешаване на известия\" за това приложение."
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -8215,6 +8611,12 @@
       "comment": "Title for test notification",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Тестово известие"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -8339,6 +8741,12 @@
     },
     "Test Notification Capability": {
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Тест на възможността за известия"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -8464,6 +8872,12 @@
     "Test Notifications": {
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Тест на известията"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -8590,6 +9004,12 @@
       "comment": "Parameter description",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Некодираният вход на прекия път, който да се изпълни при докосване на известието (незадължително)"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -8716,6 +9136,12 @@
       "comment": "Parameter description",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL адресът, който да се отвори при докосване на известието (задължително, ако „Действие при докосване\" е „Отвори URL\")"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -8842,6 +9268,12 @@
       "comment": "Parameter description",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Началото на времевата рамка за проверка (15 означава 15:00 или по-късно)"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -8968,6 +9400,12 @@
       "comment": "Parameter description",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Краят на времевата рамка за проверка (17 означава преди 17:00)"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -9094,6 +9532,12 @@
       "comment": "Parameter description",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Името на прекия път, който да се изпълни при докосване на известието (задължително, ако „Действие при докосване\" е „Изпълни пряк път\")"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -9220,6 +9664,12 @@
       "comment": "Error message",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Съобщението на известието не може да бъде празно"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -9346,6 +9796,12 @@
       "comment": "Error message",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Заглавието на известието не може да бъде празно"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -9472,6 +9928,12 @@
       "comment": "Parameter description",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Подзаглавието на известието (незадължително)"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -9598,6 +10060,12 @@
       "comment": "Error message",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Действието при докосване „Отвори URL\" изисква валиден URL"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -9724,6 +10192,12 @@
       "comment": "Error message",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Действието при докосване „Изпълни пряк път\" изисква валидно име на пряк път"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -9850,6 +10324,12 @@
       "comment": "Parameter description",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Типът на деня, който искате да проверите"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -9976,6 +10456,12 @@
       "comment": "Intent description",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Това действие ще покаже известие на това устройство."
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -10102,6 +10588,12 @@
       "comment": "Intent description",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Това действие ще върне булева стойност, представляваща дали дадената дата има дадения тип ден."
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -10228,6 +10720,12 @@
       "comment": "Intent description",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Това действие ще върне булева стойност, представляваща дали часът на дадената дата е в дадената времева рамка."
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -10353,6 +10851,12 @@
     "This app is your toolbox for Shortcuts, providing reusable actions that Apple doesn't include out of the box.": {
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Това приложение е вашата кутия с инструменти за Shortcuts, предоставяйки действия за многократна употреба, които Apple не включва стандартно."
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -10479,6 +10983,12 @@
       "comment": "Permission status: not determined",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Това приложение се нуждае от разрешение за изпращане на известия за действия на Shortcuts."
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -10604,6 +11114,12 @@
     "This app provides actions for the Shortcuts app.": {
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Това приложение предоставя действия за приложението Shortcuts."
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -10730,6 +11246,12 @@
       "comment": "Parameter title",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ИД на нишка"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -10855,6 +11377,12 @@
     "Thursday": {
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Четвъртък"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -10981,6 +11509,12 @@
       "comment": "Parameter title",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Времечувствително?"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -11107,6 +11641,12 @@
       "comment": "Parameter title",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Заглавие"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -11232,6 +11772,12 @@
     "Today": {
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Днес"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -11357,6 +11903,12 @@
     "Tomorrow": {
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Утре"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -11482,6 +12034,12 @@
     "Tuesday": {
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Вторник"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -11608,6 +12166,12 @@
       "comment": "Parameter description",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Включването на това ще позволи на известието да прекъсва режимите Фокус"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -11734,6 +12298,12 @@
       "comment": "Parameter title and type display name",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Тип ден"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -11860,6 +12430,12 @@
       "comment": "Error message for missing notification permission",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Työkalu се нуждае от разрешение за изпращане на известия. Моля, прегледайте настройките си."
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -11986,6 +12562,12 @@
       "comment": "Parameter title",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -12110,6 +12692,12 @@
     },
     "Was ${date} ${typeOfDay}?": {
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date} ${typeOfDay} ли беше?"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -12224,6 +12812,12 @@
       "comment": "Parameter summary for yesterday case",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ %2$@ ли беше?"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -12349,6 +12943,12 @@
     "Wednesday": {
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сряда"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -12474,6 +13074,12 @@
     "Weekday": {
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Делничен ден"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -12599,6 +13205,12 @@
     "Weekend": {
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Уикенд"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -12725,6 +13337,12 @@
       "comment": "Parameter description",
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Какво се случва, когато докоснете известието"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -12850,6 +13468,12 @@
     "Yesterday": {
       "extractionState": "manual",
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Вчера"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -12974,6 +13598,12 @@
     },
     "afternoon": {
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "следобед"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -13086,6 +13716,12 @@
     },
     "alert": {
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "сигнал"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -13198,6 +13834,12 @@
     },
     "evening": {
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "вечер"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -13310,6 +13952,12 @@
     },
     "friday": {
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "петък"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -13422,6 +14070,12 @@
     },
     "monday": {
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "понеделник"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -13534,6 +14188,12 @@
     },
     "morning": {
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "сутрин"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -13646,6 +14306,12 @@
     },
     "night": {
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "нощ"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -13758,6 +14424,12 @@
     },
     "push": {
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "push"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -13870,6 +14542,12 @@
     },
     "saturday": {
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "събота"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -13982,6 +14660,12 @@
     },
     "sunday": {
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "неделя"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -14094,6 +14778,12 @@
     },
     "thursday": {
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "четвъртък"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -14206,6 +14896,12 @@
     },
     "today": {
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "днес"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -14318,6 +15014,12 @@
     },
     "tomorrow": {
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "утре"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -14430,6 +15132,12 @@
     },
     "tuesday": {
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "вторник"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -14542,6 +15250,12 @@
     },
     "wednesday": {
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "сряда"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -14654,6 +15368,12 @@
     },
     "weekday": {
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "делничен ден"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -14766,6 +15486,12 @@
     },
     "weekend": {
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "уикенд"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -14878,6 +15604,12 @@
     },
     "yesterday": {
       "localizations": {
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "вчера"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
