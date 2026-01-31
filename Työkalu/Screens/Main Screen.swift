@@ -229,3 +229,8 @@ struct MainScreen: View {
     MainScreen()
         .environment(\.locale, Locale(identifier: "nb"))
 }
+
+#Preview("🇫🇮 Finnish") {
+    MainScreen()
+        .environment(\.locale, Locale(identifier: "fi"))
+}
