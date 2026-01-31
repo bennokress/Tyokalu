@@ -117,6 +117,7 @@
 				sk,
 				sl,
 				sv,
+				tr,
 				uk,
 				Base,
 			);

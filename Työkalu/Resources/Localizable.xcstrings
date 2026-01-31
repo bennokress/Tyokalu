@@ -131,6 +131,12 @@
             "value": "\"Työkalu\" är det finska ordet för \"verktyg\"."
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"Työkalu\" Fince \"araç\" anlamına gelir."
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -267,6 +273,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ett datum kan aldrig vara mellan två lika timmar, vänligen ange olika tal för tidigare och senare timme"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bir tarih hiçbir zaman iki eşit saat arasında olamaz, lütfen erken ve geç saat için farklı sayılar girin"
           }
         },
         "uk": {
@@ -407,6 +419,12 @@
             "value": "En dag har 24 timmar, så det är omöjligt att kontrollera mot timmar högre än 24"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bir günde 24 saat vardır, bu nedenle 24'ten büyük saatlere karşı kontrol yapmak imkansızdır"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -545,6 +563,12 @@
             "value": "En dag har inga negativa timmar, så det är omöjligt att kontrollera mot timmar lägre än 0"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bir günde negatif saat yoktur, bu nedenle 0'dan küçük saatlere karşı kontrol yapmak imkansızdır"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -680,6 +704,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Om denna app"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bu Uygulama Hakkında"
           }
         },
         "uk": {
@@ -820,6 +850,12 @@
             "value": "En bilaga som visas i aviseringen (valfritt, se UNNotificationAttachment för mer information)"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bildirimde görüntülenecek bir ek (isteğe bağlı, daha fazla bilgi için UNNotificationAttachment'a bakın)"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -956,6 +992,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Bilaga"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ek"
           }
         },
         "uk": {
@@ -1096,6 +1138,12 @@
             "value": "Datum"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tarih"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -1232,6 +1280,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Datum och tid"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tarih ve Saat"
           }
         },
         "uk": {
@@ -1372,6 +1426,12 @@
             "value": "Enhetsfunktionalitet"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cihaz İşlevselliği"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -1507,6 +1567,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Visste du?"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Biliyor muydunuz?"
           }
         },
         "uk": {
@@ -1647,6 +1713,12 @@
             "value": "Gör ingenting"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hiçbir şey yapma"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -1783,6 +1855,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tidigare timme"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erken Saat"
           }
         },
         "uk": {
@@ -1922,6 +2000,12 @@
             "value": "Fredag"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cuma"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -2057,6 +2141,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ge behörighet"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "İzin Ver"
           }
         },
         "uk": {
@@ -2197,6 +2287,12 @@
             "value": "Ge aviseringsbehörighet"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bildirim izni ver"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -2333,6 +2429,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ge aviseringsbehörighet först"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Önce bildirim izni verin"
           }
         },
         "uk": {
@@ -2473,6 +2575,12 @@
             "value": "Timmkontroll"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Saat Kontrolü"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -2595,6 +2703,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Är ${date} ${typeOfDay}?"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date} ${typeOfDay} mi?"
           }
         },
         "uk": {
@@ -2721,6 +2835,12 @@
             "value": "Är ${date} en ${typeOfDay}?"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date} bir ${typeOfDay} mı?"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -2843,6 +2963,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Är ${date} på en ${typeOfDay}?"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date} bir ${typeOfDay} günü mü?"
           }
         },
         "uk": {
@@ -2983,6 +3109,12 @@
             "value": "Är %1$@ %2$@?"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ %2$@ mı?"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -3119,6 +3251,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Är %1$@ en %2$@?"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ bir %2$@ mı?"
           }
         },
         "uk": {
@@ -3259,6 +3397,12 @@
             "value": "Är %1$@ på en %2$@?"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ bir %2$@ günü mü?"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -3397,6 +3541,12 @@
             "value": "Är typ av dag"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gün Türü Mü"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -3519,6 +3669,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Är timmen för ${date} mellan ${lowerBound} och ${upperBound}?"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date} saati ${lowerBound} ile ${upperBound} arasında mı?"
           }
         },
         "uk": {
@@ -3659,6 +3815,12 @@
             "value": "Är timmen för %1$@ mellan %2$lld och %3$lld?"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ saati %2$lld ile %3$lld arasında mı?"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -3795,6 +3957,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Senare timme"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geç Saat"
           }
         },
         "uk": {
@@ -3935,6 +4103,12 @@
             "value": "Meddelande"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mesaj"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -4070,6 +4244,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Måndag"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pazartesi"
           }
         },
         "uk": {
@@ -4210,6 +4390,12 @@
             "value": "Aviserings-ID"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bildirim Kimliği"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -4345,6 +4531,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Aviseringsbehörighet"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bildirim İzni"
           }
         },
         "uk": {
@@ -4485,6 +4677,12 @@
             "value": "Aviseringsbehörighet nekades. Vänligen aktivera den i Inställningar för att använda aviseringsåtgärder."
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bildirim izni reddedildi. Bildirim işlemlerini kullanmak için lütfen Ayarlar'dan etkinleştirin."
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -4619,6 +4817,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Aviseringsbehörighet nekades. För att använda aviseringsåtgärder i Genvägar måste du aktivera aviseringar i appen Inställningar."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bildirim izni reddedildi. Kestirmeler'de bildirim işlemlerini kullanmak için Ayarlar uygulamasından bildirimleri etkinleştirmeniz gerekiyor."
           }
         },
         "uk": {
@@ -4759,6 +4963,12 @@
             "value": "Aviseringar är aktiverade."
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bildirimler etkinleştirildi."
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -4895,6 +5105,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Aviseringar är preliminärt tillåtna. Ge fullständig behörighet för bästa upplevelse."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bildirimler geçici olarak izin verildi. En iyi deneyim için tam izin verin."
           }
         },
         "uk": {
@@ -5035,6 +5251,12 @@
             "value": "Aviseringar är tillfälligt tillåtna."
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bildirimler geçici olarak izinli."
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -5171,6 +5393,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Aviseringar fungerar korrekt!"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bildirimler doğru çalışıyor!"
           }
         },
         "uk": {
@@ -5311,6 +5539,12 @@
             "value": "Aviseringar på iOS stöder inte bilagor så stora som den du angav."
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iOS'taki bildirimler, sağladığınız kadar büyük ekleri desteklemiyor."
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -5447,6 +5681,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Aviseringar på iOS stöder inte bilagor av denna typ."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iOS'taki bildirimler bu türdeki ekleri desteklemiyor."
           }
         },
         "uk": {
@@ -5587,6 +5827,12 @@
             "value": "Aviseringar på iOS stöder inte bilagor av typen \"%@\"."
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iOS'taki bildirimler «%@» türündeki ekleri desteklemiyor."
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -5724,6 +5970,12 @@
             "value": "När aviseringsbehörighet har beviljats finns det ingen ytterligare funktionalitet här förutom att använda testknappen nedan för att verifiera att aviseringar fungerar korrekt."
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bildirim izni verildikten sonra, bildirimlerin doğru çalıştığını doğrulamak için aşağıdaki test düğmesini kullanmak dışında burada ek bir işlev yoktur."
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -5858,6 +6110,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Öppna Inställningar"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ayarları Aç"
           }
         },
         "uk": {
@@ -5998,6 +6256,12 @@
             "value": "Öppna URL"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL Aç"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -6132,6 +6396,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Öppna appinställningar"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uygulama ayarlarını aç"
           }
         },
         "uk": {
@@ -6272,6 +6542,12 @@
             "value": "Öppnar en systemdialog för att tillåta aviseringar från denna app"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bu uygulamadan bildirimlere izin vermek için bir sistem iletişim kutusu açar"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -6406,6 +6682,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Öppnar appen Inställningar för att aktivera aviseringar"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bildirimleri etkinleştirmek için Ayarlar uygulamasını açar"
           }
         },
         "uk": {
@@ -6543,6 +6825,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Behörighet krävs"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "İzin gerekli"
           }
         },
         "uk": {
@@ -6683,6 +6971,12 @@
             "value": "Vänligen ge aviseringsbehörighet för att använda alla funktioner."
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tüm özellikleri kullanmak için lütfen bildirim izni verin."
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -6818,6 +7112,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Redo att skicka aviseringar"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bildirim göndermeye hazır"
           }
         },
         "uk": {
@@ -6958,6 +7258,12 @@
             "value": "Kör genväg"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kestirme Çalıştır"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -7093,6 +7399,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Lördag"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cumartesi"
           }
         },
         "uk": {
@@ -7232,6 +7544,12 @@
             "value": "Skicka testavisering"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Test Bildirimi Gönder"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -7354,6 +7672,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Skicka testavisering"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Test bildirimi gönder"
           }
         },
         "uk": {
@@ -7494,6 +7818,12 @@
             "value": "Skickar en testavisering för att verifiera inställningarna"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kurulumu doğrulamak için bir test bildirimi gönderir"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -7630,6 +7960,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Att ange ett aviserings-ID ersätter alla äldre aviseringar med samma aviserings-ID"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bir Bildirim Kimliği ayarlamak, aynı Bildirim Kimliğine sahip eski bildirimlerin yerini alacaktır"
           }
         },
         "uk": {
@@ -7770,6 +8106,12 @@
             "value": "Att ange ett tråd-ID grupperar aviseringen med andra aviseringar som har samma tråd-ID"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bir İş Parçacığı Kimliği ayarlamak, bildirimi aynı İş Parçacığı Kimliğine sahip diğer bildirimlerle gruplandıracaktır"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -7906,6 +8248,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Genväg-inmatningsparameter"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kestirme Giriş Parametresi"
           }
         },
         "uk": {
@@ -8046,6 +8394,12 @@
             "value": "Genvägsnamn"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kestirme Adı"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -8184,6 +8538,12 @@
             "value": "Visa avisering"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bildirim Göster"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -8306,6 +8666,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Visa avisering med ${title} och ${message}"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${title} ve ${message} ile bildirim göster"
           }
         },
         "uk": {
@@ -8446,6 +8812,12 @@
             "value": "Visa avisering med %1$@ och %2$@"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ ve %2$@ ile bildirim göster"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -8584,6 +8956,12 @@
             "value": "Underrubrik"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alt Başlık"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -8719,6 +9097,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Söndag"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pazar"
           }
         },
         "uk": {
@@ -8859,6 +9243,12 @@
             "value": "Tryck-åtgärd"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dokunma İşlemi"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -8993,6 +9383,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tryck på knappen nedan för att öppna Inställningar och aktivera sedan \"Tillåt aviseringar\" för denna app."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ayarları açmak için aşağıdaki düğmeye dokunun, ardından bu uygulama için \"Bildirimlere İzin Ver\" seçeneğini etkinleştirin."
           }
         },
         "uk": {
@@ -9133,6 +9529,12 @@
             "value": "Testavisering"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Test Bildirimi"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -9267,6 +9669,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Testa aviseringsfunktion"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bildirim Yeteneğini Test Et"
           }
         },
         "uk": {
@@ -9404,6 +9812,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Testa aviseringar"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bildirimleri Test Et"
           }
         },
         "uk": {
@@ -9544,6 +9958,12 @@
             "value": "Den (okodade) inmatningen till genvägen som ska köras när aviseringen trycks (valfritt)"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bildirime dokunulduğunda çalıştırılacak kestirmenin (kodlanmamış) girişi (isteğe bağlı)"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -9680,6 +10100,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "URL:en som ska öppnas när aviseringen trycks (krävs om \"Tryck-åtgärd\" är \"Öppna URL\")"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bildirime dokunulduğunda açılacak URL («Dokunma İşlemi» «URL Aç» ise gereklidir)"
           }
         },
         "uk": {
@@ -9820,6 +10246,12 @@
             "value": "Början på tidsramen att kontrollera mot (15 betyder klockan 15:00 eller senare)"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kontrol edilecek zaman diliminin başlangıcı (15, saat 15:00 veya sonrası anlamına gelir)"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -9956,6 +10388,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Slutet på tidsramen att kontrollera mot (17 betyder före klockan 17:00)"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kontrol edilecek zaman diliminin sonu (17, saat 17:00'den önce anlamına gelir)"
           }
         },
         "uk": {
@@ -10096,6 +10534,12 @@
             "value": "Namnet på genvägen som ska köras när aviseringen trycks (krävs om \"Tryck-åtgärd\" är \"Kör genväg\")"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bildirime dokunulduğunda çalıştırılacak kestirmenin adı («Dokunma İşlemi» «Kestirme Çalıştır» ise gereklidir)"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -10232,6 +10676,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Aviseringsmeddelandet kan inte vara tomt"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bildirim mesajı boş olamaz"
           }
         },
         "uk": {
@@ -10372,6 +10822,12 @@
             "value": "Aviseringstiteln kan inte vara tom"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bildirim başlığı boş olamaz"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -10508,6 +10964,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Underrubriken till aviseringen (valfritt)"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bildirimin alt başlığı (isteğe bağlı)"
           }
         },
         "uk": {
@@ -10648,6 +11110,12 @@
             "value": "Tryck-åtgärden \"Öppna URL\" kräver en giltig URL"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "«URL Aç» dokunma işlemi geçerli bir URL gerektirir"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -10784,6 +11252,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tryck-åtgärden \"Kör genväg\" kräver ett giltigt genvägsnamn"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "«Kestirme Çalıştır» dokunma işlemi geçerli bir Kestirme Adı gerektirir"
           }
         },
         "uk": {
@@ -10924,6 +11398,12 @@
             "value": "Typen av dag du vill kontrollera för"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kontrol etmek istediğiniz gün türü"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -11060,6 +11540,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Denna åtgärd visar en avisering på denna enhet."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bu işlem, bu cihazda bir bildirim görüntüler."
           }
         },
         "uk": {
@@ -11200,6 +11686,12 @@
             "value": "Denna åtgärd returnerar ett booleskt värde som representerar om det angivna datumet har den angivna typen av dag."
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bu işlem, verilen tarihin verilen gün türüne sahip olup olmadığını temsil eden bir Boolean değeri döndürür."
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -11338,6 +11830,12 @@
             "value": "Denna åtgärd returnerar ett booleskt värde som representerar om timmen för det angivna datumet ligger inom den angivna tidsramen."
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bu işlem, verilen tarihin saatinin verilen zaman dilimi içinde olup olmadığını temsil eden bir Boolean değeri döndürür."
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -11473,6 +11971,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Denna app är din verktygslåda för Genvägar och tillhandahåller återanvändbara åtgärder som Apple inte inkluderar som standard."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bu uygulama, Kestirmeler için araç kutunuzdur ve Apple'ın varsayılan olarak sağlamadığı yeniden kullanılabilir işlemler sunar."
           }
         },
         "uk": {
@@ -11613,6 +12117,12 @@
             "value": "Denna app behöver behörighet att skicka aviseringar för Genvägar-åtgärder."
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bu uygulama, Kestirmeler işlemleri için bildirim göndermek üzere izin gerektirir."
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -11748,6 +12258,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Denna app tillhandahåller åtgärder för Genvägar-appen."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bu uygulama, Kestirmeler uygulaması için işlemler sağlar."
           }
         },
         "uk": {
@@ -11888,6 +12404,12 @@
             "value": "Tråd-ID"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "İş Parçacığı Kimliği"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -12023,6 +12545,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Torsdag"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Perşembe"
           }
         },
         "uk": {
@@ -12163,6 +12691,12 @@
             "value": "Tidskänslig?"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zamana Duyarlı mı?"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -12299,6 +12833,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Titel"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Başlık"
           }
         },
         "uk": {
@@ -12438,6 +12978,12 @@
             "value": "Idag"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bugün"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -12575,6 +13121,12 @@
             "value": "Imorgon"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yarın"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -12710,6 +13262,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tisdag"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Salı"
           }
         },
         "uk": {
@@ -12850,6 +13408,12 @@
             "value": "Att slå på detta tillåter aviseringen att bryta igenom fokuslägen"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bunu etkinleştirmek, bildirimin Odak Modlarını aşmasına izin verecektir"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -12986,6 +13550,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Typ av dag"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gün Türü"
           }
         },
         "uk": {
@@ -13126,6 +13696,12 @@
             "value": "Työkalu behöver behörighet att skicka aviseringar. Vänligen kontrollera dina inställningar."
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Työkalu bildirim göndermek için izne ihtiyaç duyuyor. Lütfen ayarlarınızı gözden geçirin."
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -13264,6 +13840,12 @@
             "value": "URL"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -13386,6 +13968,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Var ${date} ${typeOfDay}?"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date} ${typeOfDay} miydi?"
           }
         },
         "uk": {
@@ -13526,6 +14114,12 @@
             "value": "Var %1$@ %2$@?"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ %2$@ miydi?"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -13661,6 +14255,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Onsdag"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Çarşamba"
           }
         },
         "uk": {
@@ -13800,6 +14400,12 @@
             "value": "Vardag"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hafta İçi"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -13935,6 +14541,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Helg"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hafta Sonu"
           }
         },
         "uk": {
@@ -14075,6 +14687,12 @@
             "value": "Vad som händer när du trycker på aviseringen"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bildirime dokunduğunuzda ne olur"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -14212,6 +14830,12 @@
             "value": "Igår"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dün"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -14334,6 +14958,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "eftermiddag"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "öğleden sonra"
           }
         },
         "uk": {
@@ -14460,6 +15090,12 @@
             "value": "varning"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "uyarı"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -14582,6 +15218,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "kväll"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "akşam"
           }
         },
         "uk": {
@@ -14708,6 +15350,12 @@
             "value": "fredag"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "cuma"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -14830,6 +15478,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "måndag"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "pazartesi"
           }
         },
         "uk": {
@@ -14956,6 +15610,12 @@
             "value": "morgon"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "sabah"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -15080,6 +15740,12 @@
             "value": "natt"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "gece"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -15199,6 +15865,12 @@
           }
         },
         "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "push"
+          }
+        },
+        "tr": {
           "stringUnit": {
             "state": "translated",
             "value": "push"
@@ -15328,6 +16000,12 @@
             "value": "lördag"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "cumartesi"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -15450,6 +16128,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "söndag"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "pazar"
           }
         },
         "uk": {
@@ -15576,6 +16260,12 @@
             "value": "torsdag"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "perşembe"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -15698,6 +16388,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "idag"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "bugün"
           }
         },
         "uk": {
@@ -15824,6 +16520,12 @@
             "value": "imorgon"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "yarın"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -15946,6 +16648,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "tisdag"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "salı"
           }
         },
         "uk": {
@@ -16072,6 +16780,12 @@
             "value": "onsdag"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "çarşamba"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -16194,6 +16908,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "vardag"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hafta içi"
           }
         },
         "uk": {
@@ -16320,6 +17040,12 @@
             "value": "helg"
           }
         },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hafta sonu"
+          }
+        },
         "uk": {
           "stringUnit": {
             "state": "translated",
@@ -16442,6 +17168,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "igår"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "dün"
           }
         },
         "uk": {
