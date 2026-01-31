@@ -11,6 +11,12 @@
             "value": "\"Työkalu\" е финландската дума за \"инструмент\"."
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"Työkalu\" হল ফিনিশ ভাষায় \"tool\" শব্দের অর্থ।"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -189,6 +195,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Дата никога не може да бъде между два еднакви часа, моля, въведете различни числа за по-ранен и по-късен час"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "একটি তারিখ কখনও দুটি সমান ঘণ্টার মধ্যে থাকতে পারে না, অনুগ্রহ করে আগের এবং পরের ঘণ্টার জন্য আলাদা সংখ্যা দিন"
           }
         },
         "cs": {
@@ -371,6 +383,12 @@
             "value": "Денят има 24 часа, затова е невъзможно да се проверяват часове по-големи от 24"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "একটি দিনে ২৪ ঘণ্টা থাকে, তাই ২৪-এর বেশি ঘণ্টার বিরুদ্ধে পরীক্ষা করা সম্ভব নয়"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -551,6 +569,12 @@
             "value": "Денят няма отрицателни часове, затова е невъзможно да се проверяват часове по-малки от 0"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "একটি দিনে কোনো নেগেটিভ ঘণ্টা নেই, তাই ০-এর কম ঘণ্টার বিরুদ্ধে পরীক্ষা করা সম্ভব নয়"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -728,6 +752,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "За това приложение"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "এই অ্যাপ সম্পর্কে"
           }
         },
         "cs": {
@@ -910,6 +940,12 @@
             "value": "Прикачен файл, който ще се показва в известието (незадължително, вижте UNNotificationAttachment за повече информация)"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "বিজ্ঞপ্তিতে প্রদর্শিত হবে এমন একটি সংযুক্তি (ঐচ্ছিক, আরও তথ্যের জন্য UNNotificationAttachment দেখুন)"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -1088,6 +1124,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Прикачен файл"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "সংযুক্তি"
           }
         },
         "cs": {
@@ -1270,6 +1312,12 @@
             "value": "Дата"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "তারিখ"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -1448,6 +1496,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Дата и час"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "তারিখ ও সময়"
           }
         },
         "cs": {
@@ -1630,6 +1684,12 @@
             "value": "Функционалност на устройството"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ডিভাইস কার্যকারিতা"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -1807,6 +1867,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Знаехте ли?"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "আপনি কি জানতেন?"
           }
         },
         "cs": {
@@ -1989,6 +2055,12 @@
             "value": "Не прави нищо"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "কিছু করবেন না"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -2167,6 +2239,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "По-ранен час"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "আগের ঘণ্টা"
           }
         },
         "cs": {
@@ -2348,6 +2426,12 @@
             "value": "Петък"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "শুক্রবার"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -2525,6 +2609,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Разреши"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "অনুমতি দিন"
           }
         },
         "cs": {
@@ -2707,6 +2797,12 @@
             "value": "Разреши известия"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "বিজ্ঞপ্তির অনুমতি দিন"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -2885,6 +2981,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Първо разреши известия"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "প্রথমে বিজ্ঞপ্তির অনুমতি দিন"
           }
         },
         "cs": {
@@ -3067,6 +3169,12 @@
             "value": "Проверка на час"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ঘণ্টা পরীক্ষা"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -3245,6 +3353,12 @@
             "value": "${date} ${typeOfDay} ли е?"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date} কি ${typeOfDay}?"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -3409,6 +3523,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "${date} ${typeOfDay} ли е?"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date} কি একটি ${typeOfDay}?"
           }
         },
         "cs": {
@@ -3577,6 +3697,12 @@
             "value": "${date} в ${typeOfDay} ли е?"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date} কি একটি ${typeOfDay}-এ?"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -3743,6 +3869,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "%1$@ %2$@ ли е?"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ কি %2$@?"
           }
         },
         "cs": {
@@ -3925,6 +4057,12 @@
             "value": "%1$@ %2$@ ли е?"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ কি একটি %2$@?"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -4103,6 +4241,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "%1$@ в %2$@ ли е?"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ কি একটি %2$@-এ?"
           }
         },
         "cs": {
@@ -4285,6 +4429,12 @@
             "value": "Е тип ден"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "দিনের ধরন কি"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -4463,6 +4613,12 @@
             "value": "Часът на ${date} между ${lowerBound} и ${upperBound} ли е?"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date}-এর ঘণ্টা কি ${lowerBound} এবং ${upperBound}-এর মধ্যে?"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -4629,6 +4785,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Часът на %1$@ между %2$lld и %3$lld ли е?"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@-এর ঘণ্টা কি %2$lld এবং %3$lld-এর মধ্যে?"
           }
         },
         "cs": {
@@ -4811,6 +4973,12 @@
             "value": "По-късен час"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "পরের ঘণ্টা"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -4991,6 +5159,12 @@
             "value": "Съобщение"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "বার্তা"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -5168,6 +5342,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Понеделник"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "সোমবার"
           }
         },
         "cs": {
@@ -5350,6 +5530,12 @@
             "value": "ИД на известие"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "বিজ্ঞপ্তি ID"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -5527,6 +5713,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Разрешение за известия"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "বিজ্ঞপ্তির অনুমতি"
           }
         },
         "cs": {
@@ -5709,6 +5901,12 @@
             "value": "Разрешението за известия беше отказано. Моля, активирайте го в Настройки, за да използвате действия с известия."
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "বিজ্ঞপ্তির অনুমতি প্রত্যাখ্যান করা হয়েছে। বিজ্ঞপ্তি action ব্যবহার করতে অনুগ্রহ করে সেটিংসে এটি সক্ষম করুন।"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -5885,6 +6083,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Разрешението за известия беше отказано. За да използвате действия с известия в Shortcuts, трябва да активирате известията в приложението Настройки."
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "বিজ্ঞপ্তির অনুমতি প্রত্যাখ্যান করা হয়েছে। Shortcuts-এ বিজ্ঞপ্তি action ব্যবহার করতে, আপনাকে সেটিংস অ্যাপে বিজ্ঞপ্তি সক্ষম করতে হবে।"
           }
         },
         "cs": {
@@ -6067,6 +6271,12 @@
             "value": "Известията са включени."
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "বিজ্ঞপ্তি সক্ষম আছে।"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -6245,6 +6455,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Известията са временно разрешени. Дайте пълно разрешение за най-добро изживяване."
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "বিজ্ঞপ্তি অস্থায়ীভাবে অনুমোদিত। সেরা অভিজ্ঞতার জন্য সম্পূর্ণ অনুমতি দিন।"
           }
         },
         "cs": {
@@ -6427,6 +6643,12 @@
             "value": "Известията са временно разрешени."
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "বিজ্ঞপ্তি সাময়িকভাবে অনুমোদিত।"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -6605,6 +6827,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Известията работят правилно!"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "বিজ্ঞপ্তি সঠিকভাবে কাজ করছে!"
           }
         },
         "cs": {
@@ -6787,6 +7015,12 @@
             "value": "Известията на iOS не поддържат толкова големи прикачени файлове като този, който предоставихте."
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iOS-এ বিজ্ঞপ্তি আপনার প্রদান করা এত বড় সংযুক্তি সমর্থন করে না।"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -6965,6 +7199,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Известията на iOS не поддържат прикачени файлове от този тип."
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iOS-এ বিজ্ঞপ্তি এই ধরনের সংযুক্তি সমর্থন করে না।"
           }
         },
         "cs": {
@@ -7147,6 +7387,12 @@
             "value": "Известията на iOS не поддържат прикачени файлове от тип „%@\"."
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iOS-এ বিজ্ঞপ্তি «%@» ধরনের সংযুক্তি সমর্থন করে না।"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -7326,6 +7572,12 @@
             "value": "След като разрешението за известия е дадено, тук няма допълнителна функционалност освен използването на бутона за тест по-долу, за да се провери дали известията работят правилно."
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "একবার বিজ্ঞপ্তির অনুমতি দেওয়া হলে, বিজ্ঞপ্তি সঠিকভাবে কাজ করছে কিনা তা যাচাই করতে নীচের টেস্ট বোতাম ব্যবহার করা ছাড়া এখানে অন্য কোনো কার্যকারিতা নেই।"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -7502,6 +7754,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Отвори Настройки"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "সেটিংস খুলুন"
           }
         },
         "cs": {
@@ -7684,6 +7942,12 @@
             "value": "Отвори URL"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL খুলুন"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -7860,6 +8124,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Отвори настройките на приложението"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "অ্যাপ সেটিংস খুলুন"
           }
         },
         "cs": {
@@ -8042,6 +8312,12 @@
             "value": "Отваря системен диалог за разрешаване на известия от това приложение"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "এই অ্যাপ থেকে বিজ্ঞপ্তি অনুমোদন করতে একটি সিস্টেম ডায়ালগ খোলে"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -8218,6 +8494,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Отваря приложението Настройки за включване на известията"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "বিজ্ঞপ্তি সক্ষম করতে সেটিংস অ্যাপ খোলে"
           }
         },
         "cs": {
@@ -8397,6 +8679,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Изисква се разрешение"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "অনুমতি প্রয়োজন"
           }
         },
         "cs": {
@@ -8579,6 +8867,12 @@
             "value": "Моля, разрешете известията, за да използвате всички функции."
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "সমস্ত বৈশিষ্ট্য ব্যবহার করতে অনুগ্রহ করে বিজ্ঞপ্তির অনুমতি দিন।"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -8756,6 +9050,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Готово за изпращане на известия"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "বিজ্ঞপ্তি পাঠাতে প্রস্তুত"
           }
         },
         "cs": {
@@ -8938,6 +9238,12 @@
             "value": "Изпълни пряк път"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shortcut চালান"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -9115,6 +9421,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Събота"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "শনিবার"
           }
         },
         "cs": {
@@ -9296,6 +9608,12 @@
             "value": "Изпрати тестово известие"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "টেস্ট বিজ্ঞপ্তি পাঠান"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -9474,6 +9792,12 @@
             "value": "Изпрати тестово известие"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "টেস্ট বিজ্ঞপ্তি পাঠান"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -9640,6 +9964,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Изпраща тестово известие за проверка на настройката"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "সেটআপ যাচাই করতে একটি টেস্ট বিজ্ঞপ্তি পাঠায়"
           }
         },
         "cs": {
@@ -9822,6 +10152,12 @@
             "value": "Задаването на ИД на известие ще замени всички по-стари известия със същия ИД на известие"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "একটি বিজ্ঞপ্তি ID সেট করলে একই বিজ্ঞপ্তি ID সহ যেকোনো পুরানো বিজ্ঞপ্তি প্রতিস্থাপিত হবে"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -10000,6 +10336,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Задаването на ИД на нишка ще групира известието с други известия, които имат същия ИД на нишка"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "একটি থ্রেড ID সেট করলে বিজ্ঞপ্তিটি একই থ্রেড ID সহ অন্যান্য বিজ্ঞপ্তির সাথে গ্রুপ করা হবে"
           }
         },
         "cs": {
@@ -10182,6 +10524,12 @@
             "value": "Входен параметър на пряк път"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shortcut ইনপুট প্যারামিটার"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -10360,6 +10708,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Име на пряк път"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shortcut-এর নাম"
           }
         },
         "cs": {
@@ -10542,6 +10896,12 @@
             "value": "Покажи известие"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "বিজ্ঞপ্তি দেখান"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -10720,6 +11080,12 @@
             "value": "Покажи известие с ${title} и ${message}"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${title} এবং ${message} সহ বিজ্ঞপ্তি দেখান"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -10886,6 +11252,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Покажи известие с %1$@ и %2$@"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ এবং %2$@ সহ বিজ্ঞপ্তি দেখান"
           }
         },
         "cs": {
@@ -11068,6 +11440,12 @@
             "value": "Подзаглавие"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "সাবটাইটেল"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -11245,6 +11623,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Неделя"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "রবিবার"
           }
         },
         "cs": {
@@ -11427,6 +11811,12 @@
             "value": "Действие при докосване"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ট্যাপ Action"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -11603,6 +11993,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Докоснете бутона по-долу, за да отворите Настройки, след което активирайте „Разрешаване на известия\" за това приложение."
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "সেটিংস খুলতে নীচের বোতামে ট্যাপ করুন, তারপর এই অ্যাপের জন্য \"বিজ্ঞপ্তি অনুমোদন করুন\" সক্ষম করুন।"
           }
         },
         "cs": {
@@ -11785,6 +12181,12 @@
             "value": "Тестово известие"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "টেস্ট বিজ্ঞপ্তি"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -11961,6 +12363,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Тест на възможността за известия"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "বিজ্ঞপ্তি সক্ষমতা পরীক্ষা"
           }
         },
         "cs": {
@@ -12140,6 +12548,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Тест на известията"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "বিজ্ঞপ্তি পরীক্ষা"
           }
         },
         "cs": {
@@ -12322,6 +12736,12 @@
             "value": "Некодираният вход на прекия път, който да се изпълни при докосване на известието (незадължително)"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "বিজ্ঞপ্তিতে ট্যাপ করলে চলবে এমন Shortcut-এর (এনকোড না করা) ইনপুট (ঐচ্ছিক)"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -12500,6 +12920,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "URL адресът, който да се отвори при докосване на известието (задължително, ако „Действие при докосване\" е „Отвори URL\")"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "বিজ্ঞপ্তিতে ট্যাপ করলে খুলবে এমন URL (প্রয়োজন যদি 'ট্যাপ Action' হয় \"URL খুলুন\")"
           }
         },
         "cs": {
@@ -12682,6 +13108,12 @@
             "value": "Началото на времевата рамка за проверка (15 означава 15:00 или по-късно)"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "পরীক্ষা করার সময়সীমার শুরু (১৫ মানে ১৫:০০/বিকাল ৩টা বা তার পরে)"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -12860,6 +13292,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Краят на времевата рамка за проверка (17 означава преди 17:00)"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "পরীক্ষা করার সময়সীমার শেষ (১৭ মানে ১৭:০০/বিকাল ৫টার আগে)"
           }
         },
         "cs": {
@@ -13042,6 +13480,12 @@
             "value": "Името на прекия път, който да се изпълни при докосване на известието (задължително, ако „Действие при докосване\" е „Изпълни пряк път\")"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "বিজ্ঞপ্তিতে ট্যাপ করলে চলবে এমন Shortcut-এর নাম (প্রয়োজন যদি 'ট্যাপ Action' হয় \"Shortcut চালান\")"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -13220,6 +13664,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Съобщението на известието не може да бъде празно"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "বিজ্ঞপ্তির বার্তা খালি থাকতে পারে না"
           }
         },
         "cs": {
@@ -13402,6 +13852,12 @@
             "value": "Заглавието на известието не може да бъде празно"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "বিজ্ঞপ্তির শিরোনাম খালি থাকতে পারে না"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -13580,6 +14036,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Подзаглавието на известието (незадължително)"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "বিজ্ঞপ্তির সাবটাইটেল (ঐচ্ছিক)"
           }
         },
         "cs": {
@@ -13762,6 +14224,12 @@
             "value": "Действието при докосване „Отвори URL\" изисква валиден URL"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ট্যাপ action \"URL খুলুন\"-এর জন্য একটি বৈধ URL প্রয়োজন"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -13940,6 +14408,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Действието при докосване „Изпълни пряк път\" изисква валидно име на пряк път"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ট্যাপ action \"Shortcut চালান\"-এর জন্য একটি বৈধ Shortcut-এর নাম প্রয়োজন"
           }
         },
         "cs": {
@@ -14122,6 +14596,12 @@
             "value": "Типът на деня, който искате да проверите"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "আপনি যে দিনের ধরন পরীক্ষা করতে চান"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -14300,6 +14780,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Това действие ще покаже известие на това устройство."
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "এই action এই ডিভাইসে একটি বিজ্ঞপ্তি প্রদর্শন করবে।"
           }
         },
         "cs": {
@@ -14482,6 +14968,12 @@
             "value": "Това действие ще върне булева стойност, представляваща дали дадената дата има дадения тип ден."
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "এই action একটি বুলিয়ান মান প্রদান করবে যা প্রকাশ করে প্রদত্ত তারিখে প্রদত্ত দিনের ধরন আছে কিনা।"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -14662,6 +15154,12 @@
             "value": "Това действие ще върне булева стойност, представляваща дали часът на дадената дата е в дадената времева рамка."
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "এই action একটি বুলিয়ান মান প্রদান করবে যা প্রকাশ করে প্রদত্ত তারিখের ঘণ্টা প্রদত্ত সময়সীমার মধ্যে আছে কিনা।"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -14839,6 +15337,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Това приложение е вашата кутия с инструменти за Shortcuts, предоставяйки действия за многократна употреба, които Apple не включва стандартно."
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "এই অ্যাপটি Shortcuts-এর জন্য আপনার টুলবক্স, যা পুনঃব্যবহারযোগ্য action প্রদান করে যা Apple বক্সের বাইরে অন্তর্ভুক্ত করে না।"
           }
         },
         "cs": {
@@ -15021,6 +15525,12 @@
             "value": "Това приложение се нуждае от разрешение за изпращане на известия за действия на Shortcuts."
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shortcuts action-এর জন্য বিজ্ঞপ্তি পাঠাতে এই অ্যাপের অনুমতি প্রয়োজন।"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -15198,6 +15708,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Това приложение предоставя действия за приложението Shortcuts."
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "এই অ্যাপটি Shortcuts অ্যাপের জন্য action প্রদান করে।"
           }
         },
         "cs": {
@@ -15380,6 +15896,12 @@
             "value": "ИД на нишка"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "থ্রেড ID"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -15557,6 +16079,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Четвъртък"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "বৃহস্পতিবার"
           }
         },
         "cs": {
@@ -15739,6 +16267,12 @@
             "value": "Времечувствително?"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "সময় সংবেদনশীল?"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -15917,6 +16451,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Заглавие"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "শিরোনাম"
           }
         },
         "cs": {
@@ -16098,6 +16638,12 @@
             "value": "Днес"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "আজ"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -16277,6 +16823,12 @@
             "value": "Утре"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "আগামীকাল"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -16454,6 +17006,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Вторник"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "মঙ্গলবার"
           }
         },
         "cs": {
@@ -16636,6 +17194,12 @@
             "value": "Включването на това ще позволи на известието да прекъсва режимите Фокус"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "এটি চালু করলে বিজ্ঞপ্তি ফোকাস মোড ভেদ করতে পারবে"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -16814,6 +17378,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Тип ден"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "দিনের ধরন"
           }
         },
         "cs": {
@@ -16996,6 +17566,12 @@
             "value": "Työkalu се нуждае от разрешение за изпращане на известия. Моля, прегледайте настройките си."
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Työkalu-এর বিজ্ঞপ্তি পাঠাতে অনুমতি প্রয়োজন। অনুগ্রহ করে আপনার সেটিংস পর্যালোচনা করুন।"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -17171,6 +17747,12 @@
       "extractionState": "manual",
       "localizations": {
         "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL"
+          }
+        },
+        "bn": {
           "stringUnit": {
             "state": "translated",
             "value": "URL"
@@ -17354,6 +17936,12 @@
             "value": "${date} ${typeOfDay} ли беше?"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date} কি ${typeOfDay} ছিল?"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -17520,6 +18108,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "%1$@ %2$@ ли беше?"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ কি %2$@ ছিল?"
           }
         },
         "cs": {
@@ -17701,6 +18295,12 @@
             "value": "Сряда"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "বুধবার"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -17880,6 +18480,12 @@
             "value": "Делничен ден"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "কর্মদিবস"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -18057,6 +18663,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Уикенд"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "সপ্তাহান্ত"
           }
         },
         "cs": {
@@ -18239,6 +18851,12 @@
             "value": "Какво се случва, когато докоснете известието"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "বিজ্ঞপ্তিতে ট্যাপ করলে কী হয়"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -18416,6 +19034,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Вчера"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "গতকাল"
           }
         },
         "cs": {
@@ -18596,6 +19220,12 @@
             "value": "следобед"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "বিকাল"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -18760,6 +19390,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "сигнал"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "সতর্কতা"
           }
         },
         "cs": {
@@ -18928,6 +19564,12 @@
             "value": "вечер"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "সন্ধ্যা"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -19092,6 +19734,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "петък"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "শুক্রবার"
           }
         },
         "cs": {
@@ -19260,6 +19908,12 @@
             "value": "понеделник"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "সোমবার"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -19424,6 +20078,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "сутрин"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "সকাল"
           }
         },
         "cs": {
@@ -19592,6 +20252,12 @@
             "value": "нощ"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "রাত"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -19753,6 +20419,12 @@
     "push": {
       "localizations": {
         "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "push"
+          }
+        },
+        "bn": {
           "stringUnit": {
             "state": "translated",
             "value": "push"
@@ -19924,6 +20596,12 @@
             "value": "събота"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "শনিবার"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -20088,6 +20766,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "неделя"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "রবিবার"
           }
         },
         "cs": {
@@ -20256,6 +20940,12 @@
             "value": "четвъртък"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "বৃহস্পতিবার"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -20420,6 +21110,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "днес"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "আজ"
           }
         },
         "cs": {
@@ -20588,6 +21284,12 @@
             "value": "утре"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "আগামীকাল"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -20752,6 +21454,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "вторник"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "মঙ্গলবার"
           }
         },
         "cs": {
@@ -20920,6 +21628,12 @@
             "value": "сряда"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "বুধবার"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -21084,6 +21798,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "делничен ден"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "কর্মদিবস"
           }
         },
         "cs": {
@@ -21252,6 +21972,12 @@
             "value": "уикенд"
           }
         },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "সপ্তাহান্ত"
+          }
+        },
         "cs": {
           "stringUnit": {
             "state": "translated",
@@ -21416,6 +22142,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "вчера"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "গতকাল"
           }
         },
         "cs": {
