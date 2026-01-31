@@ -23,6 +23,12 @@
             "value": "\"Työkalu\" je finské slovo pro \"nástroj\"."
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"Työkalu\" er det finske ord for \"værktøj\"."
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -207,6 +213,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Datum nemůže být mezi dvěma stejnými hodinami, zadejte prosím různá čísla pro dřívější a pozdější hodinu"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En dato kan aldrig være mellem to ens timer, indtast venligst forskellige tal som tidligere og senere timer"
           }
         },
         "de": {
@@ -395,6 +407,12 @@
             "value": "Den má 24 hodin, takže kontrola hodin vyšších než 24 není možná"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En dag har 24 timer, så det er umuligt at kontrollere mod timer højere end 24"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -581,6 +599,12 @@
             "value": "Den nemá záporné hodiny, takže kontrola hodin nižších než 0 není možná"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En dag har ingen negative timer, så det er umuligt at kontrollere mod timer lavere end 0"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -764,6 +788,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "O této aplikaci"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Om denne app"
           }
         },
         "de": {
@@ -952,6 +982,12 @@
             "value": "Příloha, která se zobrazí v oznámení (volitelné, viz UNNotificationAttachment pro více informací)"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En vedhæftning, der vises i notifikationen (valgfri, se UNNotificationAttachment for mere information)"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -1136,6 +1172,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Příloha"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vedhæftning"
           }
         },
         "de": {
@@ -1324,6 +1366,12 @@
             "value": "Datum"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dato"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -1508,6 +1556,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Datum a čas"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dato og tid"
           }
         },
         "de": {
@@ -1696,6 +1750,12 @@
             "value": "Funkce zařízení"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enhedsfunktionalitet"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -1879,6 +1939,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Věděli jste?"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vidste du?"
           }
         },
         "de": {
@@ -2067,6 +2133,12 @@
             "value": "Nedělat nic"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gør ingenting"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -2251,6 +2323,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Dřívější hodina"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tidligere time"
           }
         },
         "de": {
@@ -2438,6 +2516,12 @@
             "value": "Pátek"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fredag"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -2621,6 +2705,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Udělit oprávnění"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Giv tilladelse"
           }
         },
         "de": {
@@ -2809,6 +2899,12 @@
             "value": "Udělit oprávnění k oznámením"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Giv notifikationstilladelse"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -2993,6 +3089,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Nejprve udělte oprávnění k oznámením"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Giv notifikationstilladelse først"
           }
         },
         "de": {
@@ -3181,6 +3283,12 @@
             "value": "Kontrola hodiny"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Timekontrol"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -3365,6 +3473,12 @@
             "value": "Je ${date} ${typeOfDay}?"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Er ${date} ${typeOfDay}?"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -3535,6 +3649,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Je ${date} ${typeOfDay}?"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Er ${date} en ${typeOfDay}?"
           }
         },
         "de": {
@@ -3709,6 +3829,12 @@
             "value": "Je ${date} v ${typeOfDay}?"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Er ${date} på en ${typeOfDay}?"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -3881,6 +4007,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Je %1$@ %2$@?"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Er %@ %@?"
           }
         },
         "de": {
@@ -4069,6 +4201,12 @@
             "value": "Je %1$@ %2$@?"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Er %@ en %@?"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -4253,6 +4391,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Je %1$@ v %2$@?"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Er %@ på en %@?"
           }
         },
         "de": {
@@ -4441,6 +4585,12 @@
             "value": "Je typ dne"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Er dagtype"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -4625,6 +4775,12 @@
             "value": "Je hodina ${date} mezi ${lowerBound} a ${upperBound}?"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Er timen for ${date} mellem ${lowerBound} og ${upperBound}?"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -4797,6 +4953,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Je hodina %1$@ mezi %2$lld a %3$lld?"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Er timen for %@ mellem %lld og %lld?"
           }
         },
         "de": {
@@ -4985,6 +5147,12 @@
             "value": "Pozdější hodina"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Senere time"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -5171,6 +5339,12 @@
             "value": "Zpráva"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Besked"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -5354,6 +5528,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Pondělí"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mandag"
           }
         },
         "de": {
@@ -5542,6 +5722,12 @@
             "value": "ID oznámení"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifikations-ID"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -5725,6 +5911,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Oprávnění k oznámením"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifikationstilladelse"
           }
         },
         "de": {
@@ -5913,6 +6105,12 @@
             "value": "Oprávnění k oznámením bylo zamítnuto. Pro použití akcí oznámení jej prosím povolte v Nastavení."
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifikationstilladelse blev afvist. Aktivér venligst i Indstillinger for at bruge notifikationshandlinger."
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -6095,6 +6293,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Oprávnění k oznámením bylo zamítnuto. Pro použití akcí oznámení ve Zkratkách musíte povolit oznámení v aplikaci Nastavení."
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifikationstilladelse blev afvist. For at bruge notifikationshandlinger i Genveje skal du aktivere notifikationer i appen Indstillinger."
           }
         },
         "de": {
@@ -6283,6 +6487,12 @@
             "value": "Oznámení jsou povolena."
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifikationer er aktiveret."
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -6467,6 +6677,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Oznámení jsou prozatímně povolena. Pro nejlepší zážitek udělte plné oprávnění."
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifikationer er foreløbigt tilladt. Giv fuld tilladelse for den bedste oplevelse."
           }
         },
         "de": {
@@ -6655,6 +6871,12 @@
             "value": "Oznámení jsou dočasně povolena."
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifikationer er midlertidigt tilladt."
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -6839,6 +7061,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Oznámení fungují správně!"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifikationer fungerer korrekt!"
           }
         },
         "de": {
@@ -7027,6 +7255,12 @@
             "value": "Oznámení na iOS nepodporují tak velké přílohy jako ta, kterou jste poskytli."
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifikationer på iOS understøtter ikke vedhæftninger så store som den, du har angivet."
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -7211,6 +7445,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Oznámení na iOS nepodporují přílohy tohoto typu."
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifikationer på iOS understøtter ikke vedhæftninger af denne type."
           }
         },
         "de": {
@@ -7399,6 +7639,12 @@
             "value": "Oznámení na iOS nepodporují přílohy typu „%@\"."
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifikationer på iOS understøtter ikke vedhæftninger af typen '%@'."
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -7584,6 +7830,12 @@
             "value": "Jakmile je uděleno oprávnění k oznámením, není zde žádná další funkcionalita kromě použití testovacího tlačítka níže pro ověření, že oznámení fungují správně."
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Når notifikationstilladelsen er givet, er der ingen yderligere funktionalitet her udover at bruge testknappen nedenfor for at bekræfte, at notifikationer fungerer korrekt."
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -7766,6 +8018,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Otevřít Nastavení"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Åbn Indstillinger"
           }
         },
         "de": {
@@ -7954,6 +8212,12 @@
             "value": "Otevřít URL"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Åbn URL"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -8136,6 +8400,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Otevřít nastavení aplikace"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Åbn app-indstillinger"
           }
         },
         "de": {
@@ -8324,6 +8594,12 @@
             "value": "Otevře systémový dialog pro povolení oznámení z této aplikace"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Åbner en systemdialog for at tillade notifikationer fra denne app"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -8506,6 +8782,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Otevře aplikaci Nastavení pro povolení oznámení"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Åbner appen Indstillinger for at aktivere notifikationer"
           }
         },
         "de": {
@@ -8691,6 +8973,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Vyžadováno oprávnění"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tilladelse påkrævet"
           }
         },
         "de": {
@@ -8879,6 +9167,12 @@
             "value": "Pro použití všech funkcí prosím udělte oprávnění k oznámením."
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Giv venligst notifikationstilladelse for at bruge alle funktioner."
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -9062,6 +9356,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Připraveno k odesílání oznámení"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Klar til at sende notifikationer"
           }
         },
         "de": {
@@ -9250,6 +9550,12 @@
             "value": "Spustit zkratku"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kør genvej"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -9433,6 +9739,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Sobota"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lørdag"
           }
         },
         "de": {
@@ -9620,6 +9932,12 @@
             "value": "Odeslat testovací oznámení"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Send testnotifikation"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -9804,6 +10122,12 @@
             "value": "Odeslat testovací oznámení"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Send testnotifikation"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -9976,6 +10300,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Odešle testovací oznámení pro ověření nastavení"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sender en testnotifikation for at bekræfte opsætningen"
           }
         },
         "de": {
@@ -10164,6 +10494,12 @@
             "value": "Nastavení ID oznámení nahradí všechna starší oznámení se stejným ID oznámení"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Indstilling af et notifikations-ID vil erstatte enhver ældre notifikation med samme notifikations-ID"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -10348,6 +10684,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Nastavení ID vlákna seskupí oznámení s ostatními oznámeními, která mají stejné ID vlákna"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Indstilling af et tråd-ID vil gruppere notifikationen med andre notifikationer, der har samme tråd-ID"
           }
         },
         "de": {
@@ -10536,6 +10878,12 @@
             "value": "Vstupní parametr zkratky"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Genvejen inputparameter"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -10720,6 +11068,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Název zkratky"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Genvejsnavn"
           }
         },
         "de": {
@@ -10908,6 +11262,12 @@
             "value": "Zobrazit oznámení"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vis notifikation"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -11092,6 +11452,12 @@
             "value": "Zobrazit oznámení s ${title} a ${message}"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vis notifikation med ${title} og ${message}"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -11264,6 +11630,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Zobrazit oznámení s %1$@ a %2$@"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vis notifikation med %@ og %@"
           }
         },
         "de": {
@@ -11452,6 +11824,12 @@
             "value": "Podtitulek"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Undertitel"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -11635,6 +12013,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Neděle"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Søndag"
           }
         },
         "de": {
@@ -11823,6 +12207,12 @@
             "value": "Akce při klepnutí"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trykhandling"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -12005,6 +12395,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Klepněte na tlačítko níže pro otevření Nastavení a poté povolte „Povolit oznámení\" pro tuto aplikaci."
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tryk på knappen nedenfor for at åbne Indstillinger, og aktivér derefter \"Tillad notifikationer\" for denne app."
           }
         },
         "de": {
@@ -12193,6 +12589,12 @@
             "value": "Testovací oznámení"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testnotifikation"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -12375,6 +12777,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Testovat funkci oznámení"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Test notifikationsevne"
           }
         },
         "de": {
@@ -12560,6 +12968,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Testovat oznámení"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Test notifikationer"
           }
         },
         "de": {
@@ -12748,6 +13162,12 @@
             "value": "(Nekódovaný) vstup zkratky, která se spustí při klepnutí na oznámení (volitelné)"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Den (ukodede) input til genvejen, der skal køres, når der trykkes på notifikationen (valgfri)"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -12932,6 +13352,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "URL adresa, která se otevře při klepnutí na oznámení (vyžadováno, pokud je „Akce při klepnutí\" nastavena na „Otevřít URL\")"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Den URL, der skal åbnes, når der trykkes på notifikationen (påkrævet hvis 'Trykhandling' er \"Åbn URL\")"
           }
         },
         "de": {
@@ -13120,6 +13546,12 @@
             "value": "Začátek časového rámce pro kontrolu (15 znamená od 15:00)"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Begyndelsen af tidsrammen at kontrollere mod (15 betyder kl. 15:00 eller senere)"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -13304,6 +13736,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Konec časového rámce pro kontrolu (17 znamená před 17:00)"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Slutningen af tidsrammen at kontrollere mod (17 betyder før kl. 17:00)"
           }
         },
         "de": {
@@ -13492,6 +13930,12 @@
             "value": "Název zkratky, která se spustí při klepnutí na oznámení (vyžadováno, pokud je „Akce při klepnutí\" nastavena na „Spustit zkratku\")"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Navnet på genvejen, der skal køres, når der trykkes på notifikationen (påkrævet hvis 'Trykhandling' er \"Kør genvej\")"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -13676,6 +14120,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Zpráva oznámení nemůže být prázdná"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifikationsbeskeden kan ikke være tom"
           }
         },
         "de": {
@@ -13864,6 +14314,12 @@
             "value": "Název oznámení nemůže být prázdný"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifikationstitlen kan ikke være tom"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -14048,6 +14504,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Podtitulek oznámení (volitelné)"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Undertitlen på notifikationen (valgfri)"
           }
         },
         "de": {
@@ -14236,6 +14698,12 @@
             "value": "Akce při klepnutí „Otevřít URL\" vyžaduje platnou URL adresu"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trykhandlingen \"Åbn URL\" kræver en gyldig URL"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -14420,6 +14888,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Akce při klepnutí „Spustit zkratku\" vyžaduje platný název zkratky"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trykhandlingen \"Kør genvej\" kræver et gyldigt genvejsnavn"
           }
         },
         "de": {
@@ -14608,6 +15082,12 @@
             "value": "Typ dne, který chcete zkontrolovat"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Den type dag, du vil kontrollere for"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -14792,6 +15272,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tato akce zobrazí oznámení na tomto zařízení."
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Denne handling viser en notifikation på denne enhed."
           }
         },
         "de": {
@@ -14980,6 +15466,12 @@
             "value": "Tato akce vrátí booleovskou hodnotu reprezentující, zda má dané datum daný typ dne."
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Denne handling returnerer en boolsk værdi, der angiver, om den givne dato har den givne dagtype."
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -15166,6 +15658,12 @@
             "value": "Tato akce vrátí booleovskou hodnotu reprezentující, zda je hodina daného data v daném časovém rámci."
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Denne handling returnerer en boolsk værdi, der angiver, om timen for den givne dato er inden for den givne tidsramme."
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -15349,6 +15847,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tato aplikace je vaše sada nástrojů pro Zkratky, poskytující opakovaně použitelné akce, které Apple standardně nezahrnuje."
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Denne app er din værktøjskasse til Genveje og giver genanvendelige handlinger, som Apple ikke inkluderer som standard."
           }
         },
         "de": {
@@ -15537,6 +16041,12 @@
             "value": "Tato aplikace potřebuje oprávnění k odesílání oznámení pro akce Zkratek."
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Denne app har brug for tilladelse til at sende notifikationer til genvejshandlinger."
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -15720,6 +16230,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tato aplikace poskytuje akce pro aplikaci Zkratky."
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Denne app giver handlinger til appen Genveje."
           }
         },
         "de": {
@@ -15908,6 +16424,12 @@
             "value": "ID vlákna"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tråd-ID"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -16091,6 +16613,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Čtvrtek"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Torsdag"
           }
         },
         "de": {
@@ -16279,6 +16807,12 @@
             "value": "Časově citlivé?"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tidsfølsom?"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -16463,6 +16997,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Název"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Titel"
           }
         },
         "de": {
@@ -16650,6 +17190,12 @@
             "value": "Dnes"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "I dag"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -16835,6 +17381,12 @@
             "value": "Zítra"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "I morgen"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -17018,6 +17570,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Úterý"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tirsdag"
           }
         },
         "de": {
@@ -17206,6 +17764,12 @@
             "value": "Zapnutím této možnosti umožníte oznámení prolomit režimy soustředění"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aktivering af dette vil tillade notifikationen at bryde igennem Fokustilstande"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -17390,6 +17954,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Typ dne"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dagtype"
           }
         },
         "de": {
@@ -17578,6 +18148,12 @@
             "value": "Työkalu potřebuje oprávnění k odesílání oznámení. Zkontrolujte prosím svá nastavení."
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Työkalu har brug for tilladelse til at sende notifikationer. Gennemgå venligst dine indstillinger."
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -17759,6 +18335,12 @@
           }
         },
         "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL"
+          }
+        },
+        "da": {
           "stringUnit": {
             "state": "translated",
             "value": "URL"
@@ -17948,6 +18530,12 @@
             "value": "Byl ${date} ${typeOfDay}?"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Var ${date} ${typeOfDay}?"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -18120,6 +18708,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Byl %1$@ %2$@?"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Var %@ %@?"
           }
         },
         "de": {
@@ -18307,6 +18901,12 @@
             "value": "Středa"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Onsdag"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -18492,6 +19092,12 @@
             "value": "Všední den"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hverdag"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -18675,6 +19281,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Víkend"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weekend"
           }
         },
         "de": {
@@ -18863,6 +19475,12 @@
             "value": "Co se stane, když klepnete na oznámení"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hvad der sker, når du trykker på notifikationen"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -19046,6 +19664,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Včera"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "I går"
           }
         },
         "de": {
@@ -19232,6 +19856,12 @@
             "value": "odpoledne"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "eftermiddag"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -19402,6 +20032,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "upozornění"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "advarsel"
           }
         },
         "de": {
@@ -19576,6 +20212,12 @@
             "value": "večer"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "aften"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -19746,6 +20388,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "pátek"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "fredag"
           }
         },
         "de": {
@@ -19920,6 +20568,12 @@
             "value": "pondělí"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "mandag"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -20090,6 +20744,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "ráno"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "morgen"
           }
         },
         "de": {
@@ -20264,6 +20924,12 @@
             "value": "noc"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "nat"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -20431,6 +21097,12 @@
           }
         },
         "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "push"
+          }
+        },
+        "da": {
           "stringUnit": {
             "state": "translated",
             "value": "push"
@@ -20608,6 +21280,12 @@
             "value": "sobota"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "lørdag"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -20778,6 +21456,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "neděle"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "søndag"
           }
         },
         "de": {
@@ -20952,6 +21636,12 @@
             "value": "čtvrtek"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "torsdag"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -21122,6 +21812,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "dnes"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "i dag"
           }
         },
         "de": {
@@ -21296,6 +21992,12 @@
             "value": "zítra"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "i morgen"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -21466,6 +22168,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "úterý"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "tirsdag"
           }
         },
         "de": {
@@ -21640,6 +22348,12 @@
             "value": "středa"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "onsdag"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -21810,6 +22524,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "všední den"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hverdag"
           }
         },
         "de": {
@@ -21984,6 +22704,12 @@
             "value": "víkend"
           }
         },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "weekend"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -22154,6 +22880,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "včera"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "i går"
           }
         },
         "de": {
