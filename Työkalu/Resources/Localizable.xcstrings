@@ -3821,6 +3821,12 @@
             "value": "Este ${date} ${typeOfDay}?"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Je ${date} ${typeOfDay}?"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -4011,6 +4017,12 @@
             "value": "Este ${date} o ${typeOfDay}?"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Je ${date} ${typeOfDay}?"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -4199,6 +4211,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Este ${date} într-o ${typeOfDay}?"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Je ${date} v ${typeOfDay}?"
           }
         },
         "sl": {
@@ -5205,6 +5223,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Este ora din ${date} între ${lowerBound} și ${upperBound}?"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Je hodina ${date} medzi ${lowerBound} a ${upperBound}?"
           }
         },
         "sl": {
@@ -10890,6 +10914,12 @@
             "value": "Trimiteți notificare de test"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Odoslať testovacie oznámenie"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -12302,6 +12332,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Afișați notificarea cu ${title} și ${message}"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zobraziť oznámenie s ${title} a ${message}"
           }
         },
         "sl": {
@@ -19826,6 +19862,12 @@
             "value": "A fost ${date} ${typeOfDay}?"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bol ${date} ${typeOfDay}?"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -21236,6 +21278,12 @@
             "value": "după-amiază"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "popoludnie"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -21424,6 +21472,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "alertă"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "upozornenie"
           }
         },
         "sl": {
@@ -21616,6 +21670,12 @@
             "value": "seară"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "večer"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -21804,6 +21864,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "vineri"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "piatok"
           }
         },
         "sl": {
@@ -21996,6 +22062,12 @@
             "value": "luni"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "pondelok"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -22184,6 +22256,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "dimineață"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ráno"
           }
         },
         "sl": {
@@ -22376,6 +22454,12 @@
             "value": "noapte"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "noc"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -22561,6 +22645,12 @@
           }
         },
         "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "push"
+          }
+        },
+        "sk": {
           "stringUnit": {
             "state": "translated",
             "value": "push"
@@ -22756,6 +22846,12 @@
             "value": "sâmbătă"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "sobota"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -22944,6 +23040,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "duminică"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "nedeľa"
           }
         },
         "sl": {
@@ -23136,6 +23238,12 @@
             "value": "joi"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "štvrtok"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -23324,6 +23432,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "astăzi"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "dnes"
           }
         },
         "sl": {
@@ -23516,6 +23630,12 @@
             "value": "mâine"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "zajtra"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -23704,6 +23824,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "marți"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "utorok"
           }
         },
         "sl": {
@@ -23896,6 +24022,12 @@
             "value": "miercuri"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "streda"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -24084,6 +24216,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "zi lucrătoare"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "pracovný deň"
           }
         },
         "sl": {
@@ -24276,6 +24414,12 @@
             "value": "weekend"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "víkend"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -24464,6 +24608,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "ieri"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "včera"
           }
         },
         "sl": {
