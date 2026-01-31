@@ -15,6 +15,12 @@
             "state": "translated",
             "value": "\"Työkalu\" is the Finnish word for \"tool\"."
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"Työkalu\" er det finske ordet for \"verktøy\"."
+          }
         }
       }
     },
@@ -32,6 +38,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "A Date can never be between two equal hours, please enter different numbers as earlier and later hours"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En dato kan aldri være mellom to like timer, vennligst oppgi forskjellige tall for tidligere og senere time"
           }
         }
       }
@@ -51,6 +63,12 @@
             "state": "translated",
             "value": "A day has 24 hours, so checking against hours higher than 24 is impossible"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En dag har 24 timer, så det er umulig å sjekke mot timer høyere enn 24"
+          }
         }
       }
     },
@@ -69,6 +87,12 @@
             "state": "translated",
             "value": "A day has no negative hours, so checking against hours lower than 0 is impossible"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En dag har ingen negative timer, så det er umulig å sjekke mot timer lavere enn 0"
+          }
         }
       }
     },
@@ -86,6 +110,12 @@
             "state": "translated",
             "value": "About This App"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Om denne appen"
+          }
         }
       }
     },
@@ -96,6 +126,12 @@
             "state": "translated",
             "value": "nachmittag"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ettermiddag"
+          }
         }
       }
     },
@@ -105,6 +141,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "hinweis"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "varsel"
           }
         }
       }
@@ -124,6 +166,12 @@
             "state": "translated",
             "value": "An attachment that will be displayed in the notification (optional, see UNNotificationAttachment for more information)"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Et vedlegg som vises i varselet (valgfritt, se UNNotificationAttachment for mer informasjon)"
+          }
         }
       }
     },
@@ -141,6 +189,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Attachment"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vedlegg"
           }
         }
       }
@@ -160,6 +214,12 @@
             "state": "translated",
             "value": "Date"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dato"
+          }
         }
       }
     },
@@ -177,6 +237,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Date & Time"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dato og tid"
           }
         }
       }
@@ -196,6 +262,12 @@
             "state": "translated",
             "value": "Device Functionality"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enhetsfunksjonalitet"
+          }
         }
       }
     },
@@ -212,6 +284,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Did You Know?"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Visste du?"
           }
         }
       }
@@ -231,6 +309,12 @@
             "state": "translated",
             "value": "Do nothing"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gjør ingenting"
+          }
         }
       }
     },
@@ -249,6 +333,12 @@
             "state": "translated",
             "value": "Earlier Hour"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tidligere time"
+          }
         }
       }
     },
@@ -259,6 +349,12 @@
             "state": "translated",
             "value": "abend"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "kveld"
+          }
         }
       }
     },
@@ -268,6 +364,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "freitag"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "fredag"
           }
         }
       }
@@ -285,6 +387,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Friday"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fredag"
           }
         }
       }
@@ -304,6 +412,12 @@
             "state": "translated",
             "value": "Grant notification permission"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gi varslingstillatelse"
+          }
         }
       }
     },
@@ -322,6 +436,12 @@
             "state": "translated",
             "value": "Grant notification permission first"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gi varslingstillatelse først"
+          }
         }
       }
     },
@@ -338,6 +458,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Grant Permission"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gi tillatelse"
           }
         }
       }
@@ -357,6 +483,12 @@
             "state": "translated",
             "value": "Hour Check"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Timesjekk"
+          }
         }
       }
     },
@@ -374,6 +506,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Is %@ %@?"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Er %1$@ %2$@?"
           }
         }
       }
@@ -393,6 +531,12 @@
             "state": "translated",
             "value": "Is %@ a %@?"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Er %1$@ en %2$@?"
+          }
         }
       }
     },
@@ -411,6 +555,12 @@
             "state": "translated",
             "value": "Is %@ on a %@?"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Er %1$@ i en %2$@?"
+          }
         }
       }
     },
@@ -420,6 +570,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ist ${date} ${typeOfDay}?"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Er ${date} ${typeOfDay}?"
           }
         }
       }
@@ -431,6 +587,12 @@
             "state": "translated",
             "value": "Ist ${date} ein ${typeOfDay}?"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Er ${date} en ${typeOfDay}?"
+          }
         }
       }
     },
@@ -440,6 +602,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ist ${date} an einem ${typeOfDay}?"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Er ${date} i en ${typeOfDay}?"
           }
         }
       }
@@ -459,6 +627,12 @@
             "state": "translated",
             "value": "Is the hour of %@ between %lld and %lld?"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Er timen til %1$@ mellom %2$lld og %3$lld?"
+          }
         }
       }
     },
@@ -468,6 +642,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ist die Stunde von ${date} zwischen ${lowerBound} und ${upperBound}?"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Er timen til ${date} mellom ${lowerBound} og ${upperBound}?"
           }
         }
       }
@@ -487,6 +667,12 @@
             "state": "translated",
             "value": "Is Type of Day"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Er type dag"
+          }
         }
       }
     },
@@ -504,6 +690,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Later Hour"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Senere time"
           }
         }
       }
@@ -523,6 +715,12 @@
             "state": "translated",
             "value": "Message"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Melding"
+          }
         }
       }
     },
@@ -532,6 +730,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "montag"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "mandag"
           }
         }
       }
@@ -550,12 +754,24 @@
             "state": "translated",
             "value": "Monday"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mandag"
+          }
         }
       }
     },
     "morning": {
       "localizations": {
         "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "morgen"
+          }
+        },
+        "nb": {
           "stringUnit": {
             "state": "translated",
             "value": "morgen"
@@ -569,6 +785,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "nacht"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "natt"
           }
         }
       }
@@ -588,6 +810,12 @@
             "state": "translated",
             "value": "Notification ID"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Varslings-ID"
+          }
         }
       }
     },
@@ -604,6 +832,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Notification Permission"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Varslingstillatelse"
           }
         }
       }
@@ -623,6 +857,12 @@
             "state": "translated",
             "value": "Notification permission was denied. Please enable it in Settings to use notification actions."
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Varslingstillatelse ble avslått. Vennligst aktiver det i Innstillinger for å bruke varslingshandlinger."
+          }
         }
       }
     },
@@ -638,6 +878,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Notification permission was denied. To use notification actions in Shortcuts, you need to enable notifications in the Settings app."
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Varslingstillatelse ble avslått. For å bruke varslingshandlinger i Snarveier må du aktivere varsler i Innstillinger-appen."
           }
         }
       }
@@ -657,6 +903,12 @@
             "state": "translated",
             "value": "Notifications are enabled."
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Varsler er aktivert."
+          }
         }
       }
     },
@@ -674,6 +926,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Notifications are provisionally allowed. Grant full permission for the best experience."
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Varsler er foreløpig tillatt. Gi full tillatelse for best opplevelse."
           }
         }
       }
@@ -693,6 +951,12 @@
             "state": "translated",
             "value": "Notifications are temporarily allowed."
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Varsler er midlertidig tillatt."
+          }
         }
       }
     },
@@ -710,6 +974,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Notifications are working correctly!"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Varsler fungerer som de skal!"
           }
         }
       }
@@ -729,6 +999,12 @@
             "state": "translated",
             "value": "Notifications on iOS do not support attachments as large as the one you provided."
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Varsler på iOS støtter ikke vedlegg så store som det du oppga."
+          }
         }
       }
     },
@@ -746,6 +1022,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Notifications on iOS do not support attachments of this type."
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Varsler på iOS støtter ikke vedlegg av denne typen."
           }
         }
       }
@@ -765,6 +1047,12 @@
             "state": "translated",
             "value": "Notifications on iOS do not support attachments of type '%@'."
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Varsler på iOS støtter ikke vedlegg av typen «%@»."
+          }
         }
       }
     },
@@ -782,6 +1070,12 @@
             "state": "translated",
             "value": "Once notification permission is granted, there's no additional functionality here other than using the test button below to verify notifications work correctly."
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Når varslingstillatelse er gitt, er det ingen annen funksjonalitet her enn å bruke testknappen nedenfor for å bekrefte at varsler fungerer riktig."
+          }
         }
       }
     },
@@ -798,6 +1092,12 @@
             "state": "translated",
             "value": "Open app settings"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Åpne appinnstillinger"
+          }
         }
       }
     },
@@ -813,6 +1113,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Open Settings"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Åpne Innstillinger"
           }
         }
       }
@@ -832,6 +1138,12 @@
             "state": "translated",
             "value": "Open URL"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Åpne URL"
+          }
         }
       }
     },
@@ -850,6 +1162,12 @@
             "state": "translated",
             "value": "Opens a system dialog to allow notifications from this app"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Åpner en systemdialog for å tillate varsler fra denne appen"
+          }
         }
       }
     },
@@ -865,6 +1183,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Opens the Settings app to enable notifications"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Åpner Innstillinger-appen for å aktivere varsler"
           }
         }
       }
@@ -882,6 +1206,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Permission required"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tillatelse kreves"
           }
         }
       }
@@ -901,12 +1231,24 @@
             "state": "translated",
             "value": "Please grant notification permission to use all features."
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vennligst gi varslingstillatelse for å bruke alle funksjoner."
+          }
         }
       }
     },
     "push": {
       "localizations": {
         "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "push"
+          }
+        },
+        "nb": {
           "stringUnit": {
             "state": "translated",
             "value": "push"
@@ -928,6 +1270,12 @@
             "state": "translated",
             "value": "Ready to send notifications"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Klar til å sende varsler"
+          }
         }
       }
     },
@@ -946,6 +1294,12 @@
             "state": "translated",
             "value": "Run Shortcut"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kjør snarvei"
+          }
         }
       }
     },
@@ -955,6 +1309,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "samstag"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "lørdag"
           }
         }
       }
@@ -973,6 +1333,12 @@
             "state": "translated",
             "value": "Saturday"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lørdag"
+          }
         }
       }
     },
@@ -982,6 +1348,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Testmitteilung senden"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Send testvarsel"
           }
         }
       }
@@ -999,6 +1371,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Send Test Notification"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Send testvarsel"
           }
         }
       }
@@ -1018,6 +1396,12 @@
             "state": "translated",
             "value": "Sends a test notification to verify the setup"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sender et testvarsel for å bekrefte oppsettet"
+          }
         }
       }
     },
@@ -1035,6 +1419,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Setting a Notification ID will replace any older notification with the same Notification ID"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Å sette en varslings-ID vil erstatte eldre varsler med samme varslings-ID"
           }
         }
       }
@@ -1054,6 +1444,12 @@
             "state": "translated",
             "value": "Setting a Thread ID will group the notification with other notifications that have the same Thread ID"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Å sette en tråd-ID vil gruppere varselet med andre varsler som har samme tråd-ID"
+          }
         }
       }
     },
@@ -1071,6 +1467,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Shortcut Input Parameter"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snarvei-inngangsparameter"
           }
         }
       }
@@ -1090,6 +1492,12 @@
             "state": "translated",
             "value": "Shortcut Name"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snarveinavn"
+          }
         }
       }
     },
@@ -1107,6 +1515,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Show Notification"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vis varsel"
           }
         }
       }
@@ -1126,6 +1540,12 @@
             "state": "translated",
             "value": "Show notification with %@ and %@"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vis varsel med %1$@ og %2$@"
+          }
         }
       }
     },
@@ -1135,6 +1555,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Zeige Mitteilung mit ${title} und ${message}"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vis varsel med ${title} og ${message}"
           }
         }
       }
@@ -1154,6 +1580,12 @@
             "state": "translated",
             "value": "Subtitle"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Undertittel"
+          }
         }
       }
     },
@@ -1163,6 +1595,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "sonntag"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "søndag"
           }
         }
       }
@@ -1180,6 +1618,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Sunday"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Søndag"
           }
         }
       }
@@ -1199,6 +1643,12 @@
             "state": "translated",
             "value": "Tap Action"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trykk-handling"
+          }
         }
       }
     },
@@ -1214,6 +1664,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tap the button below to open Settings, then enable \"Allow Notifications\" for this app."
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trykk på knappen nedenfor for å åpne Innstillinger, og aktiver deretter «Tillat varsler» for denne appen."
           }
         }
       }
@@ -1233,6 +1689,12 @@
             "state": "translated",
             "value": "Test Notification"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testvarsel"
+          }
         }
       }
     },
@@ -1248,6 +1710,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Test Notification Capability"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Test varslingsfunksjon"
           }
         }
       }
@@ -1265,6 +1733,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Test Notifications"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Test varsler"
           }
         }
       }
@@ -1284,6 +1758,12 @@
             "state": "translated",
             "value": "The (unencoded) input of the Shortcut to run when the notification is tapped (optional)"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Den (ukodede) inngangen til snarveien som skal kjøres når varselet trykkes (valgfritt)"
+          }
         }
       }
     },
@@ -1301,6 +1781,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "The beginning of the time frame to check against (15 means at or after 15:00/3pm)"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Begynnelsen av tidsrammen å sjekke mot (15 betyr klokken 15:00 eller senere)"
           }
         }
       }
@@ -1320,6 +1806,12 @@
             "state": "translated",
             "value": "The end of the time frame to check against (17 means before 17:00/5pm)"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Slutten av tidsrammen å sjekke mot (17 betyr før klokken 17:00)"
+          }
         }
       }
     },
@@ -1337,6 +1829,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "The name of the Shortcut to run when the notification is tapped (required if 'Tap Action' is \"Run Shortcut\")"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Navnet på snarveien som skal kjøres når varselet trykkes (påkrevd hvis «Trykk-handling» er «Kjør snarvei»)"
           }
         }
       }
@@ -1356,6 +1854,12 @@
             "state": "translated",
             "value": "The notification message can not be empty"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Varslingsmeldingen kan ikke være tom"
+          }
         }
       }
     },
@@ -1373,6 +1877,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "The notification title can not be empty"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Varslingstittelen kan ikke være tom"
           }
         }
       }
@@ -1392,6 +1902,12 @@
             "state": "translated",
             "value": "The subtitle of the notification (optional)"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Undertittelen til varselet (valgfritt)"
+          }
         }
       }
     },
@@ -1409,6 +1925,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "The tap action \"Open URL\" requires a valid URL"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trykk-handlingen «Åpne URL» krever en gyldig URL"
           }
         }
       }
@@ -1428,6 +1950,12 @@
             "state": "translated",
             "value": "The tap action \"Run Shortcut\" requires a valid Shortcut Name"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trykk-handlingen «Kjør snarvei» krever et gyldig snarveinavn"
+          }
         }
       }
     },
@@ -1445,6 +1973,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "The type of day you want to check for"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Typen dag du vil sjekke for"
           }
         }
       }
@@ -1464,6 +1998,12 @@
             "state": "translated",
             "value": "The URL to open when the notification is tapped (required if 'Tap Action' is \"Open URL\")"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL-en som skal åpnes når varselet trykkes (påkrevd hvis «Trykk-handling» er «Åpne URL»)"
+          }
         }
       }
     },
@@ -1481,6 +2021,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "This action will display a notification on this device."
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Denne handlingen vil vise et varsel på denne enheten."
           }
         }
       }
@@ -1500,6 +2046,12 @@
             "state": "translated",
             "value": "This action will return a Boolean value representing if the given date has the given type of day."
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Denne handlingen vil returnere en boolsk verdi som representerer om den gitte datoen har den gitte typen dag."
+          }
         }
       }
     },
@@ -1518,6 +2070,12 @@
             "state": "translated",
             "value": "This action will return a Boolean value representing if the hour of the given date is inside the given time frame."
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Denne handlingen vil returnere en boolsk verdi som representerer om timen til den gitte datoen er innenfor den gitte tidsrammen."
+          }
         }
       }
     },
@@ -1534,6 +2092,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "This app is your toolbox for Shortcuts, providing reusable actions that Apple doesn't include out of the box."
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Denne appen er din verktøykasse for Snarveier, og gir gjenbrukbare handlinger som Apple ikke inkluderer som standard."
           }
         }
       }
@@ -1553,6 +2117,12 @@
             "state": "translated",
             "value": "This app needs permission to send notifications for Shortcuts actions."
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Denne appen trenger tillatelse til å sende varsler for Snarveier-handlinger."
+          }
         }
       }
     },
@@ -1569,6 +2139,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "This app provides actions for the Shortcuts app."
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Denne appen gir handlinger for Snarveier-appen."
           }
         }
       }
@@ -1588,6 +2164,12 @@
             "state": "translated",
             "value": "Thread ID"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tråd-ID"
+          }
         }
       }
     },
@@ -1597,6 +2179,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "donnerstag"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "torsdag"
           }
         }
       }
@@ -1614,6 +2202,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Thursday"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Torsdag"
           }
         }
       }
@@ -1633,6 +2227,12 @@
             "state": "translated",
             "value": "Time Sensitive?"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tidssensitiv?"
+          }
         }
       }
     },
@@ -1651,6 +2251,12 @@
             "state": "translated",
             "value": "Title"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tittel"
+          }
         }
       }
     },
@@ -1660,6 +2266,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "heute"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "i dag"
           }
         }
       }
@@ -1678,6 +2290,12 @@
             "state": "translated",
             "value": "Today"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "I dag"
+          }
         }
       }
     },
@@ -1687,6 +2305,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "morgen"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "i morgen"
           }
         }
       }
@@ -1705,6 +2329,12 @@
             "state": "translated",
             "value": "Tomorrow"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "I morgen"
+          }
         }
       }
     },
@@ -1714,6 +2344,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "dienstag"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "tirsdag"
           }
         }
       }
@@ -1731,6 +2367,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tuesday"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tirsdag"
           }
         }
       }
@@ -1750,6 +2392,12 @@
             "state": "translated",
             "value": "Turning this on will allow the notification to break through Focus Modes"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Å slå dette på vil tillate varselet å bryte gjennom fokusmoduser"
+          }
         }
       }
     },
@@ -1767,6 +2415,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Työkalu needs permission to send notifications. Please review your settings."
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Työkalu trenger tillatelse til å sende varsler. Vennligst sjekk innstillingene dine."
           }
         }
       }
@@ -1786,6 +2440,12 @@
             "state": "translated",
             "value": "Type of Day"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Type dag"
+          }
         }
       }
     },
@@ -1800,6 +2460,12 @@
           }
         },
         "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL"
+          }
+        },
+        "nb": {
           "stringUnit": {
             "state": "translated",
             "value": "URL"
@@ -1822,6 +2488,12 @@
             "state": "translated",
             "value": "Was %@ %@?"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Var %1$@ %2$@?"
+          }
         }
       }
     },
@@ -1832,6 +2504,12 @@
             "state": "translated",
             "value": "War ${date} ${typeOfDay}?"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Var ${date} ${typeOfDay}?"
+          }
         }
       }
     },
@@ -1841,6 +2519,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "mittwoch"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "onsdag"
           }
         }
       }
@@ -1859,6 +2543,12 @@
             "state": "translated",
             "value": "Wednesday"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Onsdag"
+          }
         }
       }
     },
@@ -1868,6 +2558,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "wochentag"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ukedag"
           }
         }
       }
@@ -1886,6 +2582,12 @@
             "state": "translated",
             "value": "Weekday"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ukedag"
+          }
         }
       }
     },
@@ -1895,6 +2597,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "wochenende"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "helg"
           }
         }
       }
@@ -1912,6 +2620,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Weekend"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Helg"
           }
         }
       }
@@ -1931,6 +2645,12 @@
             "state": "translated",
             "value": "What happens when you tap on the notification"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hva som skjer når du trykker på varselet"
+          }
         }
       }
     },
@@ -1940,6 +2660,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "gestern"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "i går"
           }
         }
       }
@@ -1957,6 +2683,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Yesterday"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "I går"
           }
         }
       }
