@@ -3707,6 +3707,12 @@
             "value": "Είναι ${date} ${typeOfDay};"
           }
         },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Is ${date} ${typeOfDay}?"
+          }
+        },
         "en-GB": {
           "stringUnit": {
             "state": "translated",
@@ -3903,6 +3909,12 @@
             "value": "Είναι ${date} ${typeOfDay};"
           }
         },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Is ${date} a ${typeOfDay}?"
+          }
+        },
         "en-GB": {
           "stringUnit": {
             "state": "translated",
@@ -4097,6 +4109,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Είναι ${date} ${typeOfDay};"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Is ${date} on a ${typeOfDay}?"
           }
         },
         "en-GB": {
@@ -5109,6 +5127,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Είναι η ώρα της ${date} μεταξύ ${lowerBound} και ${upperBound};"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Is the hour of ${date} between ${lowerBound} and ${upperBound}?"
           }
         },
         "en-GB": {
@@ -10800,6 +10824,12 @@
             "value": "Αποστολή δοκιμαστικής ειδοποίησης"
           }
         },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Send test notification"
+          }
+        },
         "en-GB": {
           "stringUnit": {
             "state": "translated",
@@ -12218,6 +12248,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Εμφάνιση ειδοποίησης με ${title} και ${message}"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show notification with ${title} and ${message}"
           }
         },
         "en-GB": {
@@ -19748,6 +19784,12 @@
             "value": "Ήταν ${date} ${typeOfDay};"
           }
         },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Was ${date} ${typeOfDay}?"
+          }
+        },
         "en-GB": {
           "stringUnit": {
             "state": "translated",
@@ -21164,6 +21206,12 @@
             "value": "απόγευμα"
           }
         },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "afternoon"
+          }
+        },
         "en-GB": {
           "stringUnit": {
             "state": "translated",
@@ -21358,6 +21406,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "ειδοποίηση"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "alert"
           }
         },
         "en-GB": {
@@ -21556,6 +21610,12 @@
             "value": "βράδυ"
           }
         },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "evening"
+          }
+        },
         "en-GB": {
           "stringUnit": {
             "state": "translated",
@@ -21750,6 +21810,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "παρασκευή"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "friday"
           }
         },
         "en-GB": {
@@ -21948,6 +22014,12 @@
             "value": "δευτέρα"
           }
         },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "monday"
+          }
+        },
         "en-GB": {
           "stringUnit": {
             "state": "translated",
@@ -22142,6 +22214,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "πρωί"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "morning"
           }
         },
         "en-GB": {
@@ -22340,6 +22418,12 @@
             "value": "νύχτα"
           }
         },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "night"
+          }
+        },
         "en-GB": {
           "stringUnit": {
             "state": "translated",
@@ -22531,6 +22615,12 @@
           }
         },
         "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "push"
+          }
+        },
+        "en": {
           "stringUnit": {
             "state": "translated",
             "value": "push"
@@ -22732,6 +22822,12 @@
             "value": "σάββατο"
           }
         },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "saturday"
+          }
+        },
         "en-GB": {
           "stringUnit": {
             "state": "translated",
@@ -22926,6 +23022,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "κυριακή"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "sunday"
           }
         },
         "en-GB": {
@@ -23124,6 +23226,12 @@
             "value": "πέμπτη"
           }
         },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "thursday"
+          }
+        },
         "en-GB": {
           "stringUnit": {
             "state": "translated",
@@ -23318,6 +23426,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "σήμερα"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "today"
           }
         },
         "en-GB": {
@@ -23516,6 +23630,12 @@
             "value": "αύριο"
           }
         },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "tomorrow"
+          }
+        },
         "en-GB": {
           "stringUnit": {
             "state": "translated",
@@ -23710,6 +23830,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "τρίτη"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "tuesday"
           }
         },
         "en-GB": {
@@ -23908,6 +24034,12 @@
             "value": "τετάρτη"
           }
         },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "wednesday"
+          }
+        },
         "en-GB": {
           "stringUnit": {
             "state": "translated",
@@ -24102,6 +24234,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "καθημερινή"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "weekday"
           }
         },
         "en-GB": {
@@ -24300,6 +24438,12 @@
             "value": "σαββατοκύριακο"
           }
         },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "weekend"
+          }
+        },
         "en-GB": {
           "stringUnit": {
             "state": "translated",
@@ -24494,6 +24638,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "χθες"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "yesterday"
           }
         },
         "en-GB": {
