@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		D3B6688A2F2E38A9001E99E3 /* PrettyLog in Frameworks */ = {isa = PBXBuildFile; productRef = D3B668892F2E38A9001E99E3 /* PrettyLog */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		D30D9E4C2F2E2B5500E83A87 /* Työkalu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Työkalu.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -23,6 +27,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D3B6688A2F2E38A9001E99E3 /* PrettyLog in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -52,6 +57,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = D30D9E572F2E2B5600E83A87 /* Build configuration list for PBXNativeTarget "Työkalu" */;
 			buildPhases = (
+				D3B668522F2E33E6001E99E3 /* Swift Format */,
 				D30D9E482F2E2B5500E83A87 /* Sources */,
 				D30D9E492F2E2B5500E83A87 /* Frameworks */,
 				D30D9E4A2F2E2B5500E83A87 /* Resources */,
@@ -65,6 +71,7 @@
 			);
 			name = "Työkalu";
 			packageProductDependencies = (
+				D3B668892F2E38A9001E99E3 /* PrettyLog */,
 			);
 			productName = "Työkalu";
 			productReference = D30D9E4C2F2E2B5500E83A87 /* Työkalu.app */;
@@ -94,6 +101,9 @@
 			);
 			mainGroup = D30D9E432F2E2B5500E83A87;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				D3B668882F2E38A9001E99E3 /* XCRemoteSwiftPackageReference "PrettyLog" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = D30D9E4D2F2E2B5500E83A87 /* Products */;
 			projectDirPath = "";
@@ -113,6 +123,28 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		D3B668522F2E33E6001E99E3 /* Swift Format */ = {
+			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			name = "Swift Format";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "cd \"Utils/Code Style/SwiftFormat Build Phase\"\nSDKROOT=(xcrun --sdk macosx --show-sdk-path)\nswift package update\nswift run -c release swiftformat --config \"$SRCROOT/Utils/Code Style/SwiftFormat Rules\" \"$SRCROOT\"\necho \"SwiftFormat applied\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		D30D9E482F2E2B5500E83A87 /* Sources */ = {
@@ -244,14 +276,16 @@
 		D30D9E582F2E2B5600E83A87 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon";
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = EM47M4JQ9E;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "Työkalu";
@@ -292,14 +326,16 @@
 		D30D9E592F2E2B5600E83A87 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon";
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = EM47M4JQ9E;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "Työkalu";
@@ -359,6 +395,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		D3B668882F2E38A9001E99E3 /* XCRemoteSwiftPackageReference "PrettyLog" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/bennokress/PrettyLog";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.0.4;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		D3B668892F2E38A9001E99E3 /* PrettyLog */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D3B668882F2E38A9001E99E3 /* XCRemoteSwiftPackageReference "PrettyLog" */;
+			productName = PrettyLog;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = D30D9E442F2E2B5500E83A87 /* Project object */;
 }
