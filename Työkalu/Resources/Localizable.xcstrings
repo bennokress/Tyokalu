@@ -160,6 +160,12 @@
             "state": "translated",
             "value": "\"Työkalu\" - це фінське слово, що означає \"інструмент\"."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"Työkalu\"是芬兰语\"工具\"的意思。"
+          }
         }
       }
     },
@@ -321,6 +327,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Дата не може бути між двома однаковими годинами, будь ласка, введіть різні числа для початкової та кінцевої години"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "日期不可能在两个相同的小时之间，请输入不同的数字作为较早和较晚的小时"
           }
         }
       }
@@ -484,6 +496,12 @@
             "state": "translated",
             "value": "День має 24 години, тому перевірка годин більше 24 неможлива"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "一天有24小时，因此无法检查大于24的小时"
+          }
         }
       }
     },
@@ -646,6 +664,12 @@
             "state": "translated",
             "value": "День не має від'ємних годин, тому перевірка годин менше 0 неможлива"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "一天没有负数小时，因此无法检查小于0的小时"
+          }
         }
       }
     },
@@ -806,6 +830,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Про цей додаток"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "关于此App"
           }
         }
       }
@@ -969,6 +999,12 @@
             "state": "translated",
             "value": "Вкладення, яке буде показано в сповіщенні (необов'язково, див. UNNotificationAttachment для додаткової інформації)"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "将在通知中显示的附件（可选，详情请参阅 UNNotificationAttachment）"
+          }
         }
       }
     },
@@ -1130,6 +1166,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Вкладення"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "附件"
           }
         }
       }
@@ -1293,6 +1335,12 @@
             "state": "translated",
             "value": "Дата"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "日期"
+          }
         }
       }
     },
@@ -1454,6 +1502,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Дата і час"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "日期与时间"
           }
         }
       }
@@ -1617,6 +1671,12 @@
             "state": "translated",
             "value": "Функції пристрою"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "设备功能"
+          }
         }
       }
     },
@@ -1777,6 +1837,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Чи знаєте ви?"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "你知道吗？"
           }
         }
       }
@@ -1940,6 +2006,12 @@
             "state": "translated",
             "value": "Нічого не робити"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无操作"
+          }
         }
       }
     },
@@ -2102,6 +2174,12 @@
             "state": "translated",
             "value": "Початкова година"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "较早的小时"
+          }
         }
       }
     },
@@ -2263,6 +2341,12 @@
             "state": "translated",
             "value": "П'ятниця"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "星期五"
+          }
         }
       }
     },
@@ -2423,6 +2507,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Надати дозвіл"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "授予权限"
           }
         }
       }
@@ -2586,6 +2676,12 @@
             "state": "translated",
             "value": "Надати дозвіл на сповіщення"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "授予通知权限"
+          }
         }
       }
     },
@@ -2747,6 +2843,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Спочатку надайте дозвіл на сповіщення"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请先授予通知权限"
           }
         }
       }
@@ -2910,6 +3012,12 @@
             "state": "translated",
             "value": "Перевірка години"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "小时检查"
+          }
         }
       }
     },
@@ -3057,6 +3165,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Чи ${date} ${typeOfDay}?"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date}是${typeOfDay}吗？"
           }
         }
       }
@@ -3206,6 +3320,12 @@
             "state": "translated",
             "value": "Чи ${date} є ${typeOfDay}?"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date}是${typeOfDay}吗？"
+          }
         }
       }
     },
@@ -3353,6 +3473,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Чи ${date} випадає на ${typeOfDay}?"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date}是${typeOfDay}吗？"
           }
         }
       }
@@ -3516,6 +3642,12 @@
             "state": "translated",
             "value": "Чи %1$@ %2$@?"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@是%2$@吗？"
+          }
         }
       }
     },
@@ -3677,6 +3809,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Чи %1$@ є %2$@?"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@是%2$@吗？"
           }
         }
       }
@@ -3840,6 +3978,12 @@
             "state": "translated",
             "value": "Чи %1$@ випадає на %2$@?"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@是%2$@吗？"
+          }
         }
       }
     },
@@ -4002,6 +4146,12 @@
             "state": "translated",
             "value": "Є типом дня"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "是日期类型"
+          }
         }
       }
     },
@@ -4149,6 +4299,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Чи година ${date} між ${lowerBound} і ${upperBound}?"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date}的小时是否在${lowerBound}和${upperBound}之间？"
           }
         }
       }
@@ -4312,6 +4468,12 @@
             "state": "translated",
             "value": "Чи година %1$@ між %2$lld і %3$lld?"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@的小时是否在%2$lld和%3$lld之间？"
+          }
         }
       }
     },
@@ -4473,6 +4635,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Кінцева година"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "较晚的小时"
           }
         }
       }
@@ -4636,6 +4804,12 @@
             "state": "translated",
             "value": "Повідомлення"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "消息"
+          }
         }
       }
     },
@@ -4796,6 +4970,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Понеділок"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "星期一"
           }
         }
       }
@@ -4959,6 +5139,12 @@
             "state": "translated",
             "value": "ID сповіщення"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通知ID"
+          }
         }
       }
     },
@@ -5119,6 +5305,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Дозвіл на сповіщення"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通知权限"
           }
         }
       }
@@ -5282,6 +5474,12 @@
             "state": "translated",
             "value": "Дозвіл на сповіщення було відхилено. Будь ласка, увімкніть його в Параметрах, щоб використовувати дії сповіщень."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通知权限被拒绝。请在\"设置\"中启用以使用通知操作。"
+          }
         }
       }
     },
@@ -5441,6 +5639,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Дозвіл на сповіщення було відхилено. Щоб використовувати дії сповіщень у Швидких командах, потрібно увімкнути сповіщення в програмі Параметри."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通知权限被拒绝。要在\"快捷指令\"中使用通知操作，您需要在\"设置\"App中启用通知。"
           }
         }
       }
@@ -5604,6 +5808,12 @@
             "state": "translated",
             "value": "Сповіщення увімкнено."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通知已启用。"
+          }
         }
       }
     },
@@ -5765,6 +5975,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Сповіщення дозволені тимчасово. Надайте повний дозвіл для найкращого досвіду."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通知已临时允许。授予完全权限以获得最佳体验。"
           }
         }
       }
@@ -5928,6 +6144,12 @@
             "state": "translated",
             "value": "Сповіщення тимчасово дозволені."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通知已临时允许。"
+          }
         }
       }
     },
@@ -6089,6 +6311,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Сповіщення працюють правильно!"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通知功能正常！"
           }
         }
       }
@@ -6252,6 +6480,12 @@
             "state": "translated",
             "value": "Сповіщення на iOS не підтримують вкладення такого розміру, як надане вами."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iOS上的通知不支持您提供的这么大的附件。"
+          }
         }
       }
     },
@@ -6413,6 +6647,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Сповіщення на iOS не підтримують вкладення цього типу."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iOS上的通知不支持此类型的附件。"
           }
         }
       }
@@ -6576,6 +6816,12 @@
             "state": "translated",
             "value": "Сповіщення на iOS не підтримують вкладення типу «%@»."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iOS上的通知不支持\"%@\"类型的附件。"
+          }
         }
       }
     },
@@ -6737,6 +6983,12 @@
             "state": "translated",
             "value": "Після надання дозволу на сповіщення тут немає додаткових функцій, окрім використання кнопки тестування нижче для перевірки правильності роботи сповіщень."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "授予通知权限后，此处除了使用下方的测试按钮验证通知是否正常工作外，没有其他功能。"
+          }
         }
       }
     },
@@ -6896,6 +7148,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Відкрити Параметри"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "打开设置"
           }
         }
       }
@@ -7059,6 +7317,12 @@
             "state": "translated",
             "value": "Відкрити URL"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "打开URL"
+          }
         }
       }
     },
@@ -7218,6 +7482,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Відкрити параметри додатка"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "打开App设置"
           }
         }
       }
@@ -7381,6 +7651,12 @@
             "state": "translated",
             "value": "Відкриває системне діалогове вікно для дозволу сповіщень від цього додатка"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "打开系统对话框以允许来自此App的通知"
+          }
         }
       }
     },
@@ -7540,6 +7816,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Відкриває програму Параметри для увімкнення сповіщень"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "打开\"设置\"App以启用通知"
           }
         }
       }
@@ -7701,6 +7983,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Потрібен дозвіл"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "需要权限"
           }
         }
       }
@@ -7864,6 +8152,12 @@
             "state": "translated",
             "value": "Будь ласка, надайте дозвіл на сповіщення, щоб використовувати всі функції."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请授予通知权限以使用所有功能。"
+          }
         }
       }
     },
@@ -8024,6 +8318,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Готово до надсилання сповіщень"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已准备好发送通知"
           }
         }
       }
@@ -8187,6 +8487,12 @@
             "state": "translated",
             "value": "Запустити швидку команду"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "运行快捷指令"
+          }
         }
       }
     },
@@ -8347,6 +8653,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Субота"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "星期六"
           }
         }
       }
@@ -8509,6 +8821,12 @@
             "state": "translated",
             "value": "Надіслати тестове сповіщення"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "发送测试通知"
+          }
         }
       }
     },
@@ -8656,6 +8974,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Надіслати тестове сповіщення"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "发送测试通知"
           }
         }
       }
@@ -8819,6 +9143,12 @@
             "state": "translated",
             "value": "Надсилає тестове сповіщення для перевірки налаштування"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "发送测试通知以验证设置"
+          }
         }
       }
     },
@@ -8980,6 +9310,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Встановлення ID сповіщення замінить будь-яке старіше сповіщення з тим самим ID сповіщення"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "设置通知ID会替换具有相同通知ID的任何旧通知"
           }
         }
       }
@@ -9143,6 +9479,12 @@
             "state": "translated",
             "value": "Встановлення ID потоку згрупує сповіщення з іншими сповіщеннями, які мають той самий ID потоку"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "设置线程ID会将该通知与具有相同线程ID的其他通知分组"
+          }
         }
       }
     },
@@ -9304,6 +9646,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Вхідний параметр швидкої команди"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "快捷指令输入参数"
           }
         }
       }
@@ -9467,6 +9815,12 @@
             "state": "translated",
             "value": "Назва швидкої команди"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "快捷指令名称"
+          }
         }
       }
     },
@@ -9629,6 +9983,12 @@
             "state": "translated",
             "value": "Показати сповіщення"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "显示通知"
+          }
         }
       }
     },
@@ -9776,6 +10136,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Показати сповіщення з ${title} і ${message}"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "显示标题为${title}、消息为${message}的通知"
           }
         }
       }
@@ -9939,6 +10305,12 @@
             "state": "translated",
             "value": "Показати сповіщення з %1$@ і %2$@"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "显示标题为%1$@、消息为%2$@的通知"
+          }
         }
       }
     },
@@ -10101,6 +10473,12 @@
             "state": "translated",
             "value": "Підзаголовок"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "副标题"
+          }
         }
       }
     },
@@ -10261,6 +10639,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Неділя"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "星期日"
           }
         }
       }
@@ -10424,6 +10808,12 @@
             "state": "translated",
             "value": "Дія при натисканні"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "点击操作"
+          }
         }
       }
     },
@@ -10583,6 +10973,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Натисніть кнопку нижче, щоб відкрити Параметри, а потім увімкніть «Дозволити сповіщення» для цього додатка."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "点击下方按钮打开\"设置\"，然后为此App启用\"允许通知\"。"
           }
         }
       }
@@ -10746,6 +11142,12 @@
             "state": "translated",
             "value": "Тестове сповіщення"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "测试通知"
+          }
         }
       }
     },
@@ -10905,6 +11307,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Тест можливості сповіщень"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "测试通知功能"
           }
         }
       }
@@ -11066,6 +11474,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Тест сповіщень"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "测试通知"
           }
         }
       }
@@ -11229,6 +11643,12 @@
             "state": "translated",
             "value": "(Незакодований) вхід швидкої команди для запуску при натисканні сповіщення (необов'язково)"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "点击通知时运行的快捷指令的（未编码）输入（可选）"
+          }
         }
       }
     },
@@ -11390,6 +11810,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "URL для відкриття при натисканні сповіщення (обов'язково, якщо «Дія при натисканні» - «Відкрити URL»)"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "点击通知时打开的URL（如果\"点击操作\"为\"打开URL\"则为必填）"
           }
         }
       }
@@ -11553,6 +11979,12 @@
             "state": "translated",
             "value": "Початок часового проміжку для перевірки (15 означає о 15:00 або пізніше)"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "要检查的时间范围的开始（15表示15:00或之后）"
+          }
         }
       }
     },
@@ -11714,6 +12146,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Кінець часового проміжку для перевірки (17 означає до 17:00)"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "要检查的时间范围的结束（17表示17:00之前）"
           }
         }
       }
@@ -11877,6 +12315,12 @@
             "state": "translated",
             "value": "Назва швидкої команди для запуску при натисканні сповіщення (обов'язково, якщо «Дія при натисканні» - «Запустити швидку команду»)"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "点击通知时运行的快捷指令名称（如果\"点击操作\"为\"运行快捷指令\"则为必填）"
+          }
         }
       }
     },
@@ -12038,6 +12482,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Повідомлення сповіщення не може бути порожнім"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通知消息不能为空"
           }
         }
       }
@@ -12201,6 +12651,12 @@
             "state": "translated",
             "value": "Заголовок сповіщення не може бути порожнім"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通知标题不能为空"
+          }
         }
       }
     },
@@ -12362,6 +12818,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Підзаголовок сповіщення (необов'язково)"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通知的副标题（可选）"
           }
         }
       }
@@ -12525,6 +12987,12 @@
             "state": "translated",
             "value": "Дія при натисканні «Відкрити URL» потребує дійсного URL"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "点击操作\"打开URL\"需要有效的URL"
+          }
         }
       }
     },
@@ -12686,6 +13154,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Дія при натисканні «Запустити швидку команду» потребує дійсної назви швидкої команди"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "点击操作\"运行快捷指令\"需要有效的快捷指令名称"
           }
         }
       }
@@ -12849,6 +13323,12 @@
             "state": "translated",
             "value": "Тип дня, який ви хочете перевірити"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "您要检查的日期类型"
+          }
         }
       }
     },
@@ -13010,6 +13490,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ця дія покаже сповіщення на цьому пристрої."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此操作将在此设备上显示通知。"
           }
         }
       }
@@ -13173,6 +13659,12 @@
             "state": "translated",
             "value": "Ця дія поверне логічне значення, яке вказує, чи задана дата має заданий тип дня."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此操作将返回一个布尔值，表示给定日期是否具有给定的日期类型。"
+          }
         }
       }
     },
@@ -13335,6 +13827,12 @@
             "state": "translated",
             "value": "Ця дія поверне логічне значення, яке вказує, чи година заданої дати знаходиться в межах заданого часового проміжку."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此操作将返回一个布尔值，表示给定日期的小时是否在给定的时间范围内。"
+          }
         }
       }
     },
@@ -13495,6 +13993,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Цей додаток - ваш набір інструментів для Швидких команд, що надає багаторазові дії, які Apple не включає за замовчуванням."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此App是您的\"快捷指令\"工具箱，提供Apple未内置的可重复使用的操作。"
           }
         }
       }
@@ -13658,6 +14162,12 @@
             "state": "translated",
             "value": "Цей додаток потребує дозволу на надсилання сповіщень для дій Швидких команд."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此App需要权限才能为\"快捷指令\"操作发送通知。"
+          }
         }
       }
     },
@@ -13818,6 +14328,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Цей додаток надає дії для програми Швидкі команди."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此App为\"快捷指令\"App提供操作。"
           }
         }
       }
@@ -13981,6 +14497,12 @@
             "state": "translated",
             "value": "ID потоку"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "线程ID"
+          }
         }
       }
     },
@@ -14141,6 +14663,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Четвер"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "星期四"
           }
         }
       }
@@ -14304,6 +14832,12 @@
             "state": "translated",
             "value": "Термінове?"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "时效性？"
+          }
         }
       }
     },
@@ -14466,6 +15000,12 @@
             "state": "translated",
             "value": "Заголовок"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "标题"
+          }
         }
       }
     },
@@ -14626,6 +15166,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Сьогодні"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "今天"
           }
         }
       }
@@ -14788,6 +15334,12 @@
             "state": "translated",
             "value": "Завтра"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "明天"
+          }
         }
       }
     },
@@ -14948,6 +15500,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Вівторок"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "星期二"
           }
         }
       }
@@ -15111,6 +15669,12 @@
             "state": "translated",
             "value": "Увімкнення цього дозволить сповіщенню проривати режими фокусування"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "开启此选项将允许通知突破专注模式"
+          }
         }
       }
     },
@@ -15272,6 +15836,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Тип дня"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "日期类型"
           }
         }
       }
@@ -15435,6 +16005,12 @@
             "state": "translated",
             "value": "Työkalu потребує дозволу на надсилання сповіщень. Будь ласка, перевірте ваші налаштування."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Työkalu需要权限才能发送通知。请检查您的设置。"
+          }
         }
       }
     },
@@ -15597,6 +16173,12 @@
             "state": "translated",
             "value": "URL"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL"
+          }
         }
       }
     },
@@ -15744,6 +16326,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Чи ${date} був ${typeOfDay}?"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date}是${typeOfDay}吗？"
           }
         }
       }
@@ -15907,6 +16495,12 @@
             "state": "translated",
             "value": "Чи %1$@ був %2$@?"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@是%2$@吗？"
+          }
         }
       }
     },
@@ -16067,6 +16661,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Середа"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "星期三"
           }
         }
       }
@@ -16229,6 +16829,12 @@
             "state": "translated",
             "value": "Будній день"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "工作日"
+          }
         }
       }
     },
@@ -16389,6 +16995,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Вихідні"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "周末"
           }
         }
       }
@@ -16552,6 +17164,12 @@
             "state": "translated",
             "value": "Що відбувається, коли ви натискаєте на сповіщення"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "点击通知时会发生什么"
+          }
         }
       }
     },
@@ -16713,6 +17331,12 @@
             "state": "translated",
             "value": "Вчора"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "昨天"
+          }
         }
       }
     },
@@ -16860,6 +17484,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "день"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下午"
           }
         }
       }
@@ -17009,6 +17639,12 @@
             "state": "translated",
             "value": "попередження"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "提醒"
+          }
         }
       }
     },
@@ -17156,6 +17792,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "вечір"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "傍晚"
           }
         }
       }
@@ -17305,6 +17947,12 @@
             "state": "translated",
             "value": "п'ятниця"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "星期五"
+          }
         }
       }
     },
@@ -17452,6 +18100,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "понеділок"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "星期一"
           }
         }
       }
@@ -17601,6 +18255,12 @@
             "state": "translated",
             "value": "ранок"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "上午"
+          }
         }
       }
     },
@@ -17748,6 +18408,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "ніч"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "夜晚"
           }
         }
       }
@@ -17897,6 +18563,12 @@
             "state": "translated",
             "value": "push"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "推送"
+          }
         }
       }
     },
@@ -18044,6 +18716,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "субота"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "星期六"
           }
         }
       }
@@ -18193,6 +18871,12 @@
             "state": "translated",
             "value": "неділя"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "星期日"
+          }
         }
       }
     },
@@ -18340,6 +19024,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "четвер"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "星期四"
           }
         }
       }
@@ -18489,6 +19179,12 @@
             "state": "translated",
             "value": "сьогодні"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "今天"
+          }
         }
       }
     },
@@ -18636,6 +19332,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "завтра"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "明天"
           }
         }
       }
@@ -18785,6 +19487,12 @@
             "state": "translated",
             "value": "вівторок"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "星期二"
+          }
         }
       }
     },
@@ -18932,6 +19640,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "середа"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "星期三"
           }
         }
       }
@@ -19081,6 +19795,12 @@
             "state": "translated",
             "value": "будній день"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "工作日"
+          }
         }
       }
     },
@@ -19229,6 +19949,12 @@
             "state": "translated",
             "value": "вихідні"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "周末"
+          }
         }
       }
     },
@@ -19376,6 +20102,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "вчора"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "昨天"
           }
         }
       }
