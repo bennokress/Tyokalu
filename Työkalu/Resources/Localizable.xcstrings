@@ -1,3431 +1,4163 @@
 {
-  "sourceLanguage" : "en",
-  "strings" : {
-    "\"Työkalu\" is the Finnish word for \"tool\"." : {
-      "comment" : "Different sentence only in Finnish!",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "\"Työkalu\" ist das finnische Wort für \"Werkzeug\"."
+  "sourceLanguage": "en",
+  "strings": {
+    "\"Työkalu\" is the Finnish word for \"tool\".": {
+      "comment": "Different sentence only in Finnish!",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"Työkalu\" ist das finnische Wort für \"Werkzeug\"."
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "\"Työkalu\" is the Finnish word for \"tool\"."
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"Työkalu\" is the Finnish word for \"tool\"."
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Muissa lokalisoinneissa selitetään tämän sovelluksen nimen merkitys. Tätä selitystä et tietenkään tarvitse!"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Muissa lokalisoinneissa selitetään tämän sovelluksen nimen merkitys. Tätä selitystä et tietenkään tarvitse!"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "\"Työkalu\" er det finske ordet for \"verktøy\"."
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"Työkalu\" est le mot finnois pour \"outil\"."
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"Työkalu\" er det finske ordet for \"verktøy\"."
+          }
         }
       }
     },
-    "A Date can never be between two equal hours, please enter different numbers as earlier and later hours" : {
-      "comment" : "Error message",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ein Datum kann nie zwischen zwei gleichen Stunden liegen. Bitte gib unterschiedliche Zahlen für die frühere und spätere Stunde ein"
+    "A Date can never be between two equal hours, please enter different numbers as earlier and later hours": {
+      "comment": "Error message",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ein Datum kann nie zwischen zwei gleichen Stunden liegen. Bitte gib unterschiedliche Zahlen für die frühere und spätere Stunde ein"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A Date can never be between two equal hours, please enter different numbers as earlier and later hours"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "A Date can never be between two equal hours, please enter different numbers as earlier and later hours"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Päivämäärä ei voi koskaan olla kahden saman tunnin välissä, anna eri numerot aikaisemmaksi ja myöhemmäksi tunniksi"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Päivämäärä ei voi koskaan olla kahden saman tunnin välissä, anna eri numerot aikaisemmaksi ja myöhemmäksi tunniksi"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Une date ne peut jamais se situer entre deux heures identiques. Veuillez entrer des nombres différents pour les heures de début et de fin"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "En dato kan aldri være mellom to like timer, vennligst oppgi forskjellige tall for tidligere og senere time"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En dato kan aldri være mellom to like timer, vennligst oppgi forskjellige tall for tidligere og senere time"
           }
         }
       }
     },
-    "A day has 24 hours, so checking against hours higher than 24 is impossible" : {
-      "comment" : "Error message",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ein Tag hat 24 Stunden, daher ist eine Prüfung gegen Stunden über 24 nicht möglich"
+    "A day has 24 hours, so checking against hours higher than 24 is impossible": {
+      "comment": "Error message",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ein Tag hat 24 Stunden, daher ist eine Prüfung gegen Stunden über 24 nicht möglich"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A day has 24 hours, so checking against hours higher than 24 is impossible"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "A day has 24 hours, so checking against hours higher than 24 is impossible"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Päivässä on 24 tuntia, joten yli 24 tunnin tarkistaminen on mahdotonta"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Päivässä on 24 tuntia, joten yli 24 tunnin tarkistaminen on mahdotonta"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Une journée a 24 heures, il est donc impossible de vérifier des heures supérieures à 24"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "En dag har 24 timer, så det er umulig å sjekke mot timer høyere enn 24"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En dag har 24 timer, så det er umulig å sjekke mot timer høyere enn 24"
           }
         }
       }
     },
-    "A day has no negative hours, so checking against hours lower than 0 is impossible" : {
-      "comment" : "Error message",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ein Tag hat keine negativen Stunden, daher ist eine Prüfung gegen Stunden unter 0 nicht möglich"
+    "A day has no negative hours, so checking against hours lower than 0 is impossible": {
+      "comment": "Error message",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ein Tag hat keine negativen Stunden, daher ist eine Prüfung gegen Stunden unter 0 nicht möglich"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A day has no negative hours, so checking against hours lower than 0 is impossible"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "A day has no negative hours, so checking against hours lower than 0 is impossible"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Päivässä ei ole negatiivisia tunteja, joten alle 0 tunnin tarkistaminen on mahdotonta"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Päivässä ei ole negatiivisia tunteja, joten alle 0 tunnin tarkistaminen on mahdotonta"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Une journée n'a pas d'heures négatives, il est donc impossible de vérifier des heures inférieures à 0"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "En dag har ingen negative timer, så det er umulig å sjekke mot timer lavere enn 0"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En dag har ingen negative timer, så det er umulig å sjekke mot timer lavere enn 0"
           }
         }
       }
     },
-    "About This App" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Über diese App"
+    "About This App": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Über diese App"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "About This App"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "About This App"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tietoja tästä sovelluksesta"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tietoja tästä sovelluksesta"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "À propos de cette app"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Om denne appen"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Om denne appen"
           }
         }
       }
     },
-    "afternoon" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "nachmittag"
+    "An attachment that will be displayed in the notification (optional, see UNNotificationAttachment for more information)": {
+      "comment": "Parameter description",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ein Anhang, der in der Mitteilung angezeigt wird (optional, siehe UNNotificationAttachment für weitere Informationen)"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "An attachment that will be displayed in the notification (optional, see UNNotificationAttachment for more information)"
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Liite, joka näytetään ilmoituksessa (valinnainen, katso lisätietoja UNNotificationAttachment-dokumentaatiosta)"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "iltapäivä"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Une pièce jointe qui sera affichée dans la notification (facultatif, voir UNNotificationAttachment pour plus d'informations)"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ettermiddag"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Et vedlegg som vises i varselet (valgfritt, se UNNotificationAttachment for mer informasjon)"
           }
         }
       }
     },
-    "alert" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "hinweis"
+    "Attachment": {
+      "comment": "Parameter title",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anhang"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Attachment"
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Liite"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ilmoitus"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pièce jointe"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "varsel"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vedlegg"
           }
         }
       }
     },
-    "An attachment that will be displayed in the notification (optional, see UNNotificationAttachment for more information)" : {
-      "comment" : "Parameter description",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ein Anhang, der in der Mitteilung angezeigt wird (optional, siehe UNNotificationAttachment für weitere Informationen)"
+    "Date": {
+      "comment": "Parameter title",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Datum"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "An attachment that will be displayed in the notification (optional, see UNNotificationAttachment for more information)"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Date"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Liite, joka näytetään ilmoituksessa (valinnainen, katso lisätietoja UNNotificationAttachment-dokumentaatiosta)"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Päivämäärä"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Et vedlegg som vises i varselet (valgfritt, se UNNotificationAttachment for mer informasjon)"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Date"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dato"
+          }
         }
       }
     },
-    "Attachment" : {
-      "comment" : "Parameter title",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Anhang"
+    "Date & Time": {
+      "comment": "Intent category name",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Datum & Uhrzeit"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Date & Time"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Attachment"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Päivämäärä ja aika"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Liite"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Date et heure"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vedlegg"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dato og tid"
           }
         }
       }
     },
-    "Date" : {
-      "comment" : "Parameter title",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Datum"
+    "Device Functionality": {
+      "comment": "Intent category name",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gerätefunktionen"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Date"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Device Functionality"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Päivämäärä"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Laitteen toiminnot"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dato"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fonctionnalités de l'appareil"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enhetsfunksjonalitet"
+          }
         }
       }
     },
-    "Date & Time" : {
-      "comment" : "Intent category name",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Datum & Uhrzeit"
+    "Did You Know?": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wusstest du?"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Did You Know?"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Date & Time"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tiesitkö?"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Päivämäärä ja aika"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le saviez-vous ?"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dato og tid"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Visste du?"
           }
         }
       }
     },
-    "Device Functionality" : {
-      "comment" : "Intent category name",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gerätefunktionen"
+    "Do nothing": {
+      "comment": "Tap action option",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nichts tun"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Device Functionality"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Do nothing"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Laitteen toiminnot"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Älä tee mitään"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Enhetsfunksjonalitet"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ne rien faire"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gjør ingenting"
+          }
         }
       }
     },
-    "Did You Know?" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wusstest du?"
+    "Earlier Hour": {
+      "comment": "Parameter title",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Frühere Stunde"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Earlier Hour"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Did You Know?"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aikaisempi tunti"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tiesitkö?"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Heure de début"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Visste du?"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tidligere time"
           }
         }
       }
     },
-    "Do nothing" : {
-      "comment" : "Tap action option",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nichts tun"
+    "Friday": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Freitag"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Do nothing"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Friday"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Älä tee mitään"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Perjantai"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gjør ingenting"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vendredi"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fredag"
+          }
         }
       }
     },
-    "Earlier Hour" : {
-      "comment" : "Parameter title",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Frühere Stunde"
+    "Grant Permission": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Berechtigung erteilen"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grant Permission"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Earlier Hour"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Myönnä lupa"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aikaisempi tunti"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Accorder l'autorisation"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tidligere time"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gi tillatelse"
           }
         }
       }
     },
-    "evening" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "abend"
+    "Grant notification permission": {
+      "comment": "Accessibility label for permission button",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mitteilungsberechtigung erteilen"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grant notification permission"
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Myönnä ilmoituslupa"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ilta"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Accorder l'autorisation de notification"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "kveld"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gi varslingstillatelse"
           }
         }
       }
     },
-    "friday" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "freitag"
+    "Grant notification permission first": {
+      "comment": "Accessibility hint when not authorized",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erteile zuerst die Mitteilungsberechtigung"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grant notification permission first"
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Myönnä ensin ilmoituslupa"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "perjantai"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Accordez d'abord l'autorisation de notification"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "fredag"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gi varslingstillatelse først"
           }
         }
       }
     },
-    "Friday" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Freitag"
+    "Hour Check": {
+      "comment": "Intent title",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stundenprüfung"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hour Check"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Friday"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tunnin tarkistus"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Perjantai"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vérification de l'heure"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fredag"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Timesjekk"
           }
         }
       }
     },
-    "Grant notification permission" : {
-      "comment" : "Accessibility label for permission button",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mitteilungsberechtigung erteilen"
+    "Is ${date} ${typeOfDay}?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ist ${date} ${typeOfDay}?"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Grant notification permission"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Onko ${date} ${typeOfDay}?"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Myönnä ilmoituslupa"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Est-ce que ${date} est ${typeOfDay} ?"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gi varslingstillatelse"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Er ${date} ${typeOfDay}?"
           }
         }
       }
     },
-    "Grant notification permission first" : {
-      "comment" : "Accessibility hint when not authorized",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Erteile zuerst die Mitteilungsberechtigung"
+    "Is ${date} a ${typeOfDay}?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ist ${date} ein ${typeOfDay}?"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Grant notification permission first"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Onko ${date} ${typeOfDay}?"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Myönnä ensin ilmoituslupa"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Est-ce que ${date} est un ${typeOfDay} ?"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gi varslingstillatelse først"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Er ${date} en ${typeOfDay}?"
           }
         }
       }
     },
-    "Grant Permission" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Berechtigung erteilen"
+    "Is ${date} on a ${typeOfDay}?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ist ${date} an einem ${typeOfDay}?"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Grant Permission"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Onko ${date} ${typeOfDay}?"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Myönnä lupa"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Est-ce que ${date} est un ${typeOfDay} ?"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gi tillatelse"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Er ${date} i en ${typeOfDay}?"
           }
         }
       }
     },
-    "Hour Check" : {
-      "comment" : "Intent title",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Stundenprüfung"
+    "Is %@ %@?": {
+      "comment": "Parameter summary for today/tomorrow case",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ist %1$@ %2$@?"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Is %@ %@?"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hour Check"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Onko %1$@ %2$@?"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tunnin tarkistus"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Est-ce que %1$@ est %2$@ ?"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Timesjekk"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Er %1$@ %2$@?"
           }
         }
       }
     },
-    "Is %@ %@?" : {
-      "comment" : "Parameter summary for today/tomorrow case",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ist %1$@ %2$@?"
+    "Is %@ a %@?": {
+      "comment": "Parameter summary default case",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ist %1$@ ein %2$@?"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Is %@ a %@?"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Is %@ %@?"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Onko %1$@ %2$@?"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Onko %1$@ %2$@?"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Est-ce que %1$@ est un %2$@ ?"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Er %1$@ %2$@?"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Er %1$@ en %2$@?"
           }
         }
       }
     },
-    "Is %@ a %@?" : {
-      "comment" : "Parameter summary default case",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ist %1$@ ein %2$@?"
+    "Is %@ on a %@?": {
+      "comment": "Parameter summary for weekend case",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ist %1$@ an einem %2$@?"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Is %@ on a %@?"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Is %@ a %@?"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Onko %1$@ %2$@?"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Onko %1$@ %2$@?"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Est-ce que %1$@ est un %2$@ ?"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Er %1$@ en %2$@?"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Er %1$@ i en %2$@?"
           }
         }
       }
     },
-    "Is %@ on a %@?" : {
-      "comment" : "Parameter summary for weekend case",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ist %1$@ an einem %2$@?"
+    "Is Type of Day": {
+      "comment": "Intent title",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ist Tagestyp"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Is Type of Day"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Is %@ on a %@?"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "On päivätyyppi"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Onko %1$@ %2$@?"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Est un type de jour"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Er %1$@ i en %2$@?"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Er type dag"
           }
         }
       }
     },
-    "Is ${date} ${typeOfDay}?" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ist ${date} ${typeOfDay}?"
+    "Is the hour of ${date} between ${lowerBound} and ${upperBound}?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ist die Stunde von ${date} zwischen ${lowerBound} und ${upperBound}?"
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Onko ${date} tunti välillä ${lowerBound} ja ${upperBound}?"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Onko ${date} ${typeOfDay}?"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L'heure de ${date} est-elle comprise entre ${lowerBound} et ${upperBound} ?"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Er ${date} ${typeOfDay}?"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Er timen til ${date} mellom ${lowerBound} og ${upperBound}?"
           }
         }
       }
     },
-    "Is ${date} a ${typeOfDay}?" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ist ${date} ein ${typeOfDay}?"
+    "Is the hour of %@ between %lld and %lld?": {
+      "comment": "Parameter summary for Hour Check intent",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ist die Stunde von %1$@ zwischen %2$lld und %3$lld?"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Is the hour of %@ between %lld and %lld?"
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Onko %1$@ tunti välillä %2$lld ja %3$lld?"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Onko ${date} ${typeOfDay}?"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L'heure de %1$@ est-elle comprise entre %2$lld et %3$lld ?"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Er ${date} en ${typeOfDay}?"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Er timen til %1$@ mellom %2$lld og %3$lld?"
           }
         }
       }
     },
-    "Is ${date} on a ${typeOfDay}?" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ist ${date} an einem ${typeOfDay}?"
+    "Later Hour": {
+      "comment": "Parameter title",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Spätere Stunde"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Later Hour"
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Myöhempi tunti"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Onko ${date} ${typeOfDay}?"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Heure de fin"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Er ${date} i en ${typeOfDay}?"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Senere time"
           }
         }
       }
     },
-    "Is the hour of %@ between %lld and %lld?" : {
-      "comment" : "Parameter summary for Hour Check intent",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ist die Stunde von %1$@ zwischen %2$lld und %3$lld?"
+    "Message": {
+      "comment": "Parameter title",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nachricht"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Message"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Is the hour of %@ between %lld and %lld?"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Viesti"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Onko %1$@ tunti välillä %2$lld ja %3$lld?"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Message"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Er timen til %1$@ mellom %2$lld og %3$lld?"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Melding"
           }
         }
       }
     },
-    "Is the hour of ${date} between ${lowerBound} and ${upperBound}?" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ist die Stunde von ${date} zwischen ${lowerBound} und ${upperBound}?"
+    "Monday": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Montag"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Monday"
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Maanantai"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Onko ${date} tunti välillä ${lowerBound} ja ${upperBound}?"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lundi"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Er timen til ${date} mellom ${lowerBound} og ${upperBound}?"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mandag"
           }
         }
       }
     },
-    "Is Type of Day" : {
-      "comment" : "Intent title",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ist Tagestyp"
+    "Notification ID": {
+      "comment": "Parameter title",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mitteilungs-ID"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Is Type of Day"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notification ID"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "On päivätyyppi"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ilmoituksen tunniste"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Er type dag"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ID de notification"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Varslings-ID"
+          }
         }
       }
     },
-    "Later Hour" : {
-      "comment" : "Parameter title",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Spätere Stunde"
+    "Notification Permission": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mitteilungsberechtigung"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notification Permission"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Later Hour"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ilmoituslupa"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Myöhempi tunti"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Autorisation de notification"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Senere time"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Varslingstillatelse"
           }
         }
       }
     },
-    "Message" : {
-      "comment" : "Parameter title",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nachricht"
+    "Notification permission was denied. Please enable it in Settings to use notification actions.": {
+      "comment": "Permission status: denied",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Mitteilungsberechtigung wurde abgelehnt. Bitte aktiviere sie in den Einstellungen, um Mitteilungsaktionen zu nutzen."
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Message"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notification permission was denied. Please enable it in Settings to use notification actions."
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Viesti"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ilmoituslupa evättiin. Ota se käyttöön Asetuksissa käyttääksesi ilmoitustoimintoja."
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Melding"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L'autorisation de notification a été refusée. Veuillez l'activer dans Réglages pour utiliser les actions de notification."
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Varslingstillatelse ble avslått. Vennligst aktiver det i Innstillinger for å bruke varslingshandlinger."
+          }
         }
       }
     },
-    "monday" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "montag"
+    "Notification permission was denied. To use notification actions in Shortcuts, you need to enable notifications in the Settings app.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Mitteilungsberechtigung wurde abgelehnt. Um Mitteilungsaktionen in Kurzbefehlen zu verwenden, musst du Mitteilungen in der Einstellungen-App aktivieren."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notification permission was denied. To use notification actions in Shortcuts, you need to enable notifications in the Settings app."
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "maanantai"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ilmoituslupa evättiin. Käyttääksesi ilmoitustoimintoja Pikakomennoissa sinun täytyy ottaa ilmoitukset käyttöön Asetukset-sovelluksessa."
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "mandag"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L'autorisation de notification a été refusée. Pour utiliser les actions de notification dans Raccourcis, vous devez activer les notifications dans l'app Réglages."
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Varslingstillatelse ble avslått. For å bruke varslingshandlinger i Snarveier må du aktivere varsler i Innstillinger-appen."
+          }
         }
       }
     },
-    "Monday" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Montag"
+    "Notifications are enabled.": {
+      "comment": "Permission status: authorized",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mitteilungen sind aktiviert."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifications are enabled."
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Monday"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ilmoitukset ovat käytössä."
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Maanantai"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les notifications sont activées."
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mandag"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Varsler er aktivert."
           }
         }
       }
     },
-    "morning" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "morgen"
+    "Notifications are provisionally allowed. Grant full permission for the best experience.": {
+      "comment": "Permission status: provisional",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mitteilungen sind vorläufig erlaubt. Erteile die vollständige Berechtigung für das beste Erlebnis."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifications are provisionally allowed. Grant full permission for the best experience."
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ilmoitukset ovat väliaikaisesti sallittuja. Myönnä täysi lupa parhaaseen kokemukseen."
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "aamu"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les notifications sont autorisées provisoirement. Accordez l'autorisation complète pour une meilleure expérience."
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "morgen"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Varsler er foreløpig tillatt. Gi full tillatelse for best opplevelse."
           }
         }
       }
     },
-    "night" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "nacht"
+    "Notifications are temporarily allowed.": {
+      "comment": "Permission status: ephemeral",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mitteilungen sind vorübergehend erlaubt."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifications are temporarily allowed."
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ilmoitukset ovat tilapäisesti sallittuja."
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "yö"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les notifications sont temporairement autorisées."
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "natt"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Varsler er midlertidig tillatt."
           }
         }
       }
     },
-    "Notification ID" : {
-      "comment" : "Parameter title",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mitteilungs-ID"
+    "Notifications are working correctly!": {
+      "comment": "Message for test notification",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mitteilungen funktionieren einwandfrei!"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifications are working correctly!"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Notification ID"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ilmoitukset toimivat oikein!"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ilmoituksen tunniste"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les notifications fonctionnent correctement !"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Varslings-ID"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Varsler fungerer som de skal!"
           }
         }
       }
     },
-    "Notification Permission" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mitteilungsberechtigung"
+    "Notifications on iOS do not support attachments as large as the one you provided.": {
+      "comment": "Error message for attachment too large",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mitteilungen auf iOS unterstützen keine so großen Anhänge wie den von dir bereitgestellten."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifications on iOS do not support attachments as large as the one you provided."
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Notification Permission"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iOS:n ilmoitukset eivät tue niin suuria liitteitä kuin antamasi."
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ilmoituslupa"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les notifications sur iOS ne prennent pas en charge les pièces jointes aussi volumineuses que celle fournie."
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Varslingstillatelse"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Varsler på iOS støtter ikke vedlegg så store som det du oppga."
           }
         }
       }
     },
-    "Notification permission was denied. Please enable it in Settings to use notification actions." : {
-      "comment" : "Permission status: denied",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Die Mitteilungsberechtigung wurde abgelehnt. Bitte aktiviere sie in den Einstellungen, um Mitteilungsaktionen zu nutzen."
+    "Notifications on iOS do not support attachments of this type.": {
+      "comment": "Error message for unsupported attachment type (unknown type)",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mitteilungen auf iOS unterstützen keine Anhänge dieses Typs."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifications on iOS do not support attachments of this type."
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Notification permission was denied. Please enable it in Settings to use notification actions."
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iOS:n ilmoitukset eivät tue tämäntyyppisiä liitteitä."
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ilmoituslupa evättiin. Ota se käyttöön Asetuksissa käyttääksesi ilmoitustoimintoja."
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les notifications sur iOS ne prennent pas en charge les pièces jointes de ce type."
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Varslingstillatelse ble avslått. Vennligst aktiver det i Innstillinger for å bruke varslingshandlinger."
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Varsler på iOS støtter ikke vedlegg av denne typen."
           }
         }
       }
     },
-    "Notification permission was denied. To use notification actions in Shortcuts, you need to enable notifications in the Settings app." : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Die Mitteilungsberechtigung wurde abgelehnt. Um Mitteilungsaktionen in Kurzbefehlen zu verwenden, musst du Mitteilungen in der Einstellungen-App aktivieren."
+    "Notifications on iOS do not support attachments of type '%@'.": {
+      "comment": "Error message for unsupported attachment type",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mitteilungen auf iOS unterstützen keine Anhänge vom Typ \"%@\"."
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Notification permission was denied. To use notification actions in Shortcuts, you need to enable notifications in the Settings app."
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifications on iOS do not support attachments of type '%@'."
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ilmoituslupa evättiin. Käyttääksesi ilmoitustoimintoja Pikakomennoissa sinun täytyy ottaa ilmoitukset käyttöön Asetukset-sovelluksessa."
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iOS:n ilmoitukset eivät tue \"%@\"-tyyppisiä liitteitä."
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Varslingstillatelse ble avslått. For å bruke varslingshandlinger i Snarveier må du aktivere varsler i Innstillinger-appen."
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les notifications sur iOS ne prennent pas en charge les pièces jointes de type « %@ »."
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Varsler på iOS støtter ikke vedlegg av typen «%@»."
+          }
         }
       }
     },
-    "Notifications are enabled." : {
-      "comment" : "Permission status: authorized",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mitteilungen sind aktiviert."
+    "Once notification permission is granted, there's no additional functionality here other than using the test button below to verify notifications work correctly.": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sobald die Mitteilungsberechtigung erteilt wurde, gibt es hier keine weitere Funktionalität außer der Verwendung der Testtaste unten, um zu überprüfen, ob Mitteilungen korrekt funktionieren."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Once notification permission is granted, there's no additional functionality here other than using the test button below to verify notifications work correctly."
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Notifications are enabled."
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kun ilmoituslupa on myönnetty, tässä ei ole muuta toiminnallisuutta kuin alla olevan testipainikkeen käyttäminen ilmoitusten toiminnan varmistamiseksi."
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ilmoitukset ovat käytössä."
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Une fois l'autorisation de notification accordée, il n'y a pas d'autres fonctionnalités ici, à part utiliser le bouton de test ci-dessous pour vérifier que les notifications fonctionnent correctement."
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Varsler er aktivert."
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Når varslingstillatelse er gitt, er det ingen annen funksjonalitet her enn å bruke testknappen nedenfor for å bekrefte at varsler fungerer riktig."
           }
         }
       }
     },
-    "Notifications are provisionally allowed. Grant full permission for the best experience." : {
-      "comment" : "Permission status: provisional",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mitteilungen sind vorläufig erlaubt. Erteile die vollständige Berechtigung für das beste Erlebnis."
+    "Open Settings": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Einstellungen öffnen"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Notifications are provisionally allowed. Grant full permission for the best experience."
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open Settings"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ilmoitukset ovat väliaikaisesti sallittuja. Myönnä täysi lupa parhaaseen kokemukseen."
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Avaa Asetukset"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Varsler er foreløpig tillatt. Gi full tillatelse for best opplevelse."
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvrir Réglages"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Åpne Innstillinger"
+          }
         }
       }
     },
-    "Notifications are temporarily allowed." : {
-      "comment" : "Permission status: ephemeral",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mitteilungen sind vorübergehend erlaubt."
+    "Open URL": {
+      "comment": "Tap action option and notification button",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL öffnen"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open URL"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Notifications are temporarily allowed."
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Avaa URL"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ilmoitukset ovat tilapäisesti sallittuja."
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvrir l'URL"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Varsler er midlertidig tillatt."
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Åpne URL"
           }
         }
       }
     },
-    "Notifications are working correctly!" : {
-      "comment" : "Message for test notification",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mitteilungen funktionieren einwandfrei!"
+    "Open app settings": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App-Einstellungen öffnen"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Notifications are working correctly!"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open app settings"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ilmoitukset toimivat oikein!"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Avaa sovelluksen asetukset"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Varsler fungerer som de skal!"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvrir les réglages de l'app"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Åpne appinnstillinger"
+          }
         }
       }
     },
-    "Notifications on iOS do not support attachments as large as the one you provided." : {
-      "comment" : "Error message for attachment too large",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mitteilungen auf iOS unterstützen keine so großen Anhänge wie den von dir bereitgestellten."
+    "Opens a system dialog to allow notifications from this app": {
+      "comment": "Accessibility hint for permission button",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Öffnet einen Systemdialog, um Mitteilungen von dieser App zu erlauben"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Opens a system dialog to allow notifications from this app"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Notifications on iOS do not support attachments as large as the one you provided."
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Avaa järjestelmävalintaikkunan ilmoitusten sallimiseksi tästä sovelluksesta"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "iOS:n ilmoitukset eivät tue niin suuria liitteitä kuin antamasi."
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvre une boîte de dialogue système pour autoriser les notifications de cette app"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Varsler på iOS støtter ikke vedlegg så store som det du oppga."
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Åpner en systemdialog for å tillate varsler fra denne appen"
           }
         }
       }
     },
-    "Notifications on iOS do not support attachments of this type." : {
-      "comment" : "Error message for unsupported attachment type (unknown type)",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mitteilungen auf iOS unterstützen keine Anhänge dieses Typs."
+    "Opens the Settings app to enable notifications": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Öffnet die Einstellungen-App, um Mitteilungen zu aktivieren"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Notifications on iOS do not support attachments of this type."
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Opens the Settings app to enable notifications"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "iOS:n ilmoitukset eivät tue tämäntyyppisiä liitteitä."
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Avaa Asetukset-sovelluksen ilmoitusten käyttöönottamiseksi"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Varsler på iOS støtter ikke vedlegg av denne typen."
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvre l'app Réglages pour activer les notifications"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Åpner Innstillinger-appen for å aktivere varsler"
+          }
         }
       }
     },
-    "Notifications on iOS do not support attachments of type '%@'." : {
-      "comment" : "Error message for unsupported attachment type",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mitteilungen auf iOS unterstützen keine Anhänge vom Typ \"%@\"."
+    "Permission required": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Berechtigung erforderlich"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Permission required"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Notifications on iOS do not support attachments of type '%@'."
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lupa vaaditaan"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "iOS:n ilmoitukset eivät tue \"%@\"-tyyppisiä liitteitä."
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Autorisation requise"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Varsler på iOS støtter ikke vedlegg av typen «%@»."
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tillatelse kreves"
           }
         }
       }
     },
-    "Once notification permission is granted, there's no additional functionality here other than using the test button below to verify notifications work correctly." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sobald die Mitteilungsberechtigung erteilt wurde, gibt es hier keine weitere Funktionalität außer der Verwendung der Testtaste unten, um zu überprüfen, ob Mitteilungen korrekt funktionieren."
+    "Please grant notification permission to use all features.": {
+      "comment": "Permission status: unknown default",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bitte erteile die Mitteilungsberechtigung, um alle Funktionen zu nutzen."
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Once notification permission is granted, there's no additional functionality here other than using the test button below to verify notifications work correctly."
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Please grant notification permission to use all features."
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kun ilmoituslupa on myönnetty, tässä ei ole muuta toiminnallisuutta kuin alla olevan testipainikkeen käyttäminen ilmoitusten toiminnan varmistamiseksi."
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Myönnä ilmoituslupa käyttääksesi kaikkia ominaisuuksia."
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Når varslingstillatelse er gitt, er det ingen annen funksjonalitet her enn å bruke testknappen nedenfor for å bekrefte at varsler fungerer riktig."
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Veuillez accorder l'autorisation de notification pour utiliser toutes les fonctionnalités."
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vennligst gi varslingstillatelse for å bruke alle funksjoner."
+          }
         }
       }
     },
-    "Open app settings" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "App-Einstellungen öffnen"
+    "Ready to send notifications": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bereit zum Senden von Mitteilungen"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ready to send notifications"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Open app settings"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Valmis lähettämään ilmoituksia"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Avaa sovelluksen asetukset"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prêt à envoyer des notifications"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Åpne appinnstillinger"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Klar til å sende varsler"
           }
         }
       }
     },
-    "Open Settings" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Einstellungen öffnen"
+    "Run Shortcut": {
+      "comment": "Tap action option and notification button",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kurzbefehl ausführen"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Open Settings"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Run Shortcut"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Avaa Asetukset"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Suorita pikakomento"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Åpne Innstillinger"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exécuter un raccourci"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kjør snarvei"
+          }
         }
       }
     },
-    "Open URL" : {
-      "comment" : "Tap action option and notification button",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "URL öffnen"
+    "Saturday": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Samstag"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Saturday"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Open URL"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lauantai"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Avaa URL"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Samedi"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Åpne URL"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lørdag"
           }
         }
       }
     },
-    "Opens a system dialog to allow notifications from this app" : {
-      "comment" : "Accessibility hint for permission button",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Öffnet einen Systemdialog, um Mitteilungen von dieser App zu erlauben"
+    "Send Test Notification": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testmitteilung senden"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Opens a system dialog to allow notifications from this app"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Send Test Notification"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Avaa järjestelmävalintaikkunan ilmoitusten sallimiseksi tästä sovelluksesta"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lähetä testi-ilmoitus"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Åpner en systemdialog for å tillate varsler fra denne appen"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Envoyer une notification de test"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Send testvarsel"
+          }
         }
       }
     },
-    "Opens the Settings app to enable notifications" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Öffnet die Einstellungen-App, um Mitteilungen zu aktivieren"
+    "Send test notification": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testmitteilung senden"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Opens the Settings app to enable notifications"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lähetä testi-ilmoitus"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Avaa Asetukset-sovelluksen ilmoitusten käyttöönottamiseksi"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Envoyer une notification de test"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Åpner Innstillinger-appen for å aktivere varsler"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Send testvarsel"
           }
         }
       }
     },
-    "Permission required" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Berechtigung erforderlich"
+    "Sends a test notification to verify the setup": {
+      "comment": "Accessibility hint when authorized",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sendet eine Testmitteilung, um die Einrichtung zu überprüfen"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sends a test notification to verify the setup"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Permission required"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lähettää testi-ilmoituksen asetusten vahvistamiseksi"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lupa vaaditaan"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Envoie une notification de test pour vérifier la configuration"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tillatelse kreves"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sender et testvarsel for å bekrefte oppsettet"
           }
         }
       }
     },
-    "Please grant notification permission to use all features." : {
-      "comment" : "Permission status: unknown default",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bitte erteile die Mitteilungsberechtigung, um alle Funktionen zu nutzen."
+    "Setting a Notification ID will replace any older notification with the same Notification ID": {
+      "comment": "Parameter description",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Das Setzen einer Mitteilungs-ID ersetzt alle älteren Mitteilungen mit derselben Mitteilungs-ID"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Please grant notification permission to use all features."
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Setting a Notification ID will replace any older notification with the same Notification ID"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Myönnä ilmoituslupa käyttääksesi kaikkia ominaisuuksia."
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ilmoituksen tunnisteen asettaminen korvaa kaikki vanhemmat ilmoitukset samalla tunnisteella"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vennligst gi varslingstillatelse for å bruke alle funksjoner."
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Définir un ID de notification remplacera toute notification plus ancienne avec le même ID de notification"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Å sette en varslings-ID vil erstatte eldre varsler med samme varslings-ID"
+          }
         }
       }
     },
-    "push" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "push"
+    "Setting a Thread ID will group the notification with other notifications that have the same Thread ID": {
+      "comment": "Parameter description",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Das Setzen einer Thread-ID gruppiert die Mitteilung mit anderen Mitteilungen, die dieselbe Thread-ID haben"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Setting a Thread ID will group the notification with other notifications that have the same Thread ID"
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Säikeen tunnisteen asettaminen ryhmittelee ilmoituksen muiden samalla säikeen tunnisteella olevien ilmoitusten kanssa"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "push"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Définir un ID de fil regroupera la notification avec d'autres notifications ayant le même ID de fil"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "push"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Å sette en tråd-ID vil gruppere varselet med andre varsler som har samme tråd-ID"
           }
         }
       }
     },
-    "Ready to send notifications" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bereit zum Senden von Mitteilungen"
+    "Shortcut Input Parameter": {
+      "comment": "Parameter title",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kurzbefehl-Eingabeparameter"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shortcut Input Parameter"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ready to send notifications"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pikakomennon syöteparametri"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Valmis lähettämään ilmoituksia"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paramètre d'entrée du raccourci"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Klar til å sende varsler"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snarvei-inngangsparameter"
           }
         }
       }
     },
-    "Run Shortcut" : {
-      "comment" : "Tap action option and notification button",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kurzbefehl ausführen"
+    "Shortcut Name": {
+      "comment": "Parameter title",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kurzbefehlname"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shortcut Name"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Run Shortcut"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pikakomennon nimi"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Suorita pikakomento"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nom du raccourci"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kjør snarvei"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snarveinavn"
           }
         }
       }
     },
-    "saturday" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "samstag"
+    "Show Notification": {
+      "comment": "Intent title",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mitteilung anzeigen"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show Notification"
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Näytä ilmoitus"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "lauantai"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afficher une notification"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "lørdag"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vis varsel"
           }
         }
       }
     },
-    "Saturday" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Samstag"
+    "Show notification with ${title} and ${message}": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zeige Mitteilung mit ${title} und ${message}"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Saturday"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Näytä ilmoitus otsikolla ${title} ja viestillä ${message}"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lauantai"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afficher une notification avec ${title} et ${message}"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lørdag"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vis varsel med ${title} og ${message}"
           }
         }
       }
     },
-    "Send test notification" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Testmitteilung senden"
+    "Show notification with %@ and %@": {
+      "comment": "Parameter summary for Show Notification intent",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zeige Mitteilung mit %1$@ und %2$@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show notification with %@ and %@"
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Näytä ilmoitus otsikolla %1$@ ja viestillä %2$@"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lähetä testi-ilmoitus"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afficher une notification avec %1$@ et %2$@"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Send testvarsel"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vis varsel med %1$@ og %2$@"
           }
         }
       }
     },
-    "Send Test Notification" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Testmitteilung senden"
+    "Subtitle": {
+      "comment": "Parameter title",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Untertitel"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Send Test Notification"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Subtitle"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lähetä testi-ilmoitus"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alaotsikko"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Send testvarsel"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sous-titre"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Undertittel"
+          }
         }
       }
     },
-    "Sends a test notification to verify the setup" : {
-      "comment" : "Accessibility hint when authorized",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sendet eine Testmitteilung, um die Einrichtung zu überprüfen"
+    "Sunday": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sonntag"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sunday"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sends a test notification to verify the setup"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sunnuntai"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lähettää testi-ilmoituksen asetusten vahvistamiseksi"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dimanche"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sender et testvarsel for å bekrefte oppsettet"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Søndag"
           }
         }
       }
     },
-    "Setting a Notification ID will replace any older notification with the same Notification ID" : {
-      "comment" : "Parameter description",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Das Setzen einer Mitteilungs-ID ersetzt alle älteren Mitteilungen mit derselben Mitteilungs-ID"
+    "Tap Action": {
+      "comment": "Parameter title and type display name",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tippaktion"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Setting a Notification ID will replace any older notification with the same Notification ID"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tap Action"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ilmoituksen tunnisteen asettaminen korvaa kaikki vanhemmat ilmoitukset samalla tunnisteella"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Napauta-toiminto"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Å sette en varslings-ID vil erstatte eldre varsler med samme varslings-ID"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Action au toucher"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trykk-handling"
+          }
         }
       }
     },
-    "Setting a Thread ID will group the notification with other notifications that have the same Thread ID" : {
-      "comment" : "Parameter description",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Das Setzen einer Thread-ID gruppiert die Mitteilung mit anderen Mitteilungen, die dieselbe Thread-ID haben"
+    "Tap the button below to open Settings, then enable \"Allow Notifications\" for this app.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tippe auf die Taste unten, um die Einstellungen zu öffnen, und aktiviere dann \"Mitteilungen erlauben\" für diese App."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tap the button below to open Settings, then enable \"Allow Notifications\" for this app."
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Setting a Thread ID will group the notification with other notifications that have the same Thread ID"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Napauta alla olevaa painiketta avataksesi Asetukset ja ota sitten käyttöön \"Salli ilmoitukset\" tälle sovellukselle."
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Säikeen tunnisteen asettaminen ryhmittelee ilmoituksen muiden samalla säikeen tunnisteella olevien ilmoitusten kanssa"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Appuyez sur le bouton ci-dessous pour ouvrir Réglages, puis activez « Autoriser les notifications » pour cette app."
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Å sette en tråd-ID vil gruppere varselet med andre varsler som har samme tråd-ID"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trykk på knappen nedenfor for å åpne Innstillinger, og aktiver deretter «Tillat varsler» for denne appen."
           }
         }
       }
     },
-    "Shortcut Input Parameter" : {
-      "comment" : "Parameter title",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kurzbefehl-Eingabeparameter"
+    "Test Notification": {
+      "comment": "Title for test notification",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testmitteilung"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Shortcut Input Parameter"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Test Notification"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pikakomennon syöteparametri"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testi-ilmoitus"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Snarvei-inngangsparameter"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notification de test"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testvarsel"
+          }
         }
       }
     },
-    "Shortcut Name" : {
-      "comment" : "Parameter title",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kurzbefehlname"
+    "Test Notification Capability": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mitteilungsfunktion testen"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Test Notification Capability"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Shortcut Name"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testaa ilmoitustoiminto"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pikakomennon nimi"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tester la fonctionnalité de notification"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Snarveinavn"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Test varslingsfunksjon"
           }
         }
       }
     },
-    "Show Notification" : {
-      "comment" : "Intent title",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mitteilung anzeigen"
+    "Test Notifications": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mitteilungen testen"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Show Notification"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Test Notifications"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Näytä ilmoitus"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testaa ilmoituksia"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vis varsel"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tester les notifications"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Test varsler"
+          }
         }
       }
     },
-    "Show notification with %@ and %@" : {
-      "comment" : "Parameter summary for Show Notification intent",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zeige Mitteilung mit %1$@ und %2$@"
+    "The (unencoded) input of the Shortcut to run when the notification is tapped (optional)": {
+      "comment": "Parameter description",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die (nicht kodierte) Eingabe des Kurzbefehls, der beim Tippen auf die Mitteilung ausgeführt wird (optional)"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The (unencoded) input of the Shortcut to run when the notification is tapped (optional)"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Show notification with %@ and %@"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pikakomennon (koodaamaton) syöte, joka suoritetaan ilmoitusta napautettaessa (valinnainen)"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Näytä ilmoitus otsikolla %1$@ ja viestillä %2$@"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L'entrée (non encodée) du raccourci à exécuter lorsque la notification est touchée (facultatif)"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vis varsel med %1$@ og %2$@"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Den (ukodede) inngangen til snarveien som skal kjøres når varselet trykkes (valgfritt)"
           }
         }
       }
     },
-    "Show notification with ${title} and ${message}" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zeige Mitteilung mit ${title} und ${message}"
+    "The URL to open when the notification is tapped (required if 'Tap Action' is \"Open URL\")": {
+      "comment": "Parameter description",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die URL, die beim Tippen auf die Mitteilung geöffnet wird (erforderlich, wenn \"Tippaktion\" \"URL öffnen\" ist)"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The URL to open when the notification is tapped (required if 'Tap Action' is \"Open URL\")"
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL-osoite, joka avataan ilmoitusta napautettaessa (pakollinen jos \"Napauta-toiminto\" on \"Avaa URL\")"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Näytä ilmoitus otsikolla ${title} ja viestillä ${message}"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L'URL à ouvrir lorsque la notification est touchée (requis si « Action au toucher » est « Ouvrir l'URL »)"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vis varsel med ${title} og ${message}"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL-en som skal åpnes når varselet trykkes (påkrevd hvis «Trykk-handling» er «Åpne URL»)"
           }
         }
       }
     },
-    "Subtitle" : {
-      "comment" : "Parameter title",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Untertitel"
+    "The beginning of the time frame to check against (15 means at or after 15:00/3pm)": {
+      "comment": "Parameter description",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Der Beginn des Zeitraums, gegen den geprüft wird (15 bedeutet ab 15:00 Uhr)"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The beginning of the time frame to check against (15 means at or after 15:00/3pm)"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Subtitle"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tarkistettavan ajanjakson alku (15 tarkoittaa klo 15:00 tai sen jälkeen)"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Alaotsikko"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le début de la plage horaire à vérifier (15 signifie à partir de 15h00)"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Undertittel"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Begynnelsen av tidsrammen å sjekke mot (15 betyr klokken 15:00 eller senere)"
           }
         }
       }
     },
-    "sunday" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "sonntag"
+    "The end of the time frame to check against (17 means before 17:00/5pm)": {
+      "comment": "Parameter description",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Das Ende des Zeitraums, gegen den geprüft wird (17 bedeutet vor 17:00 Uhr)"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The end of the time frame to check against (17 means before 17:00/5pm)"
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tarkistettavan ajanjakson loppu (17 tarkoittaa ennen klo 17:00)"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "sunnuntai"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La fin de la plage horaire à vérifier (17 signifie avant 17h00)"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "søndag"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Slutten av tidsrammen å sjekke mot (17 betyr før klokken 17:00)"
           }
         }
       }
     },
-    "Sunday" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sonntag"
+    "The name of the Shortcut to run when the notification is tapped (required if 'Tap Action' is \"Run Shortcut\")": {
+      "comment": "Parameter description",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Der Name des Kurzbefehls, der beim Tippen auf die Mitteilung ausgeführt wird (erforderlich, wenn \"Tippaktion\" \"Kurzbefehl ausführen\" ist)"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The name of the Shortcut to run when the notification is tapped (required if 'Tap Action' is \"Run Shortcut\")"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sunday"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pikakomennon nimi, joka suoritetaan ilmoitusta napautettaessa (pakollinen jos \"Napauta-toiminto\" on \"Suorita pikakomento\")"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sunnuntai"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le nom du raccourci à exécuter lorsque la notification est touchée (requis si « Action au toucher » est « Exécuter un raccourci »)"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Søndag"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Navnet på snarveien som skal kjøres når varselet trykkes (påkrevd hvis «Trykk-handling» er «Kjør snarvei»)"
           }
         }
       }
     },
-    "Tap Action" : {
-      "comment" : "Parameter title and type display name",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tippaktion"
+    "The notification message can not be empty": {
+      "comment": "Error message",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Mitteilungsnachricht darf nicht leer sein"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The notification message can not be empty"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tap Action"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ilmoitusviesti ei voi olla tyhjä"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Napauta-toiminto"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le message de la notification ne peut pas être vide"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Trykk-handling"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Varslingsmeldingen kan ikke være tom"
           }
         }
       }
     },
-    "Tap the button below to open Settings, then enable \"Allow Notifications\" for this app." : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tippe auf die Taste unten, um die Einstellungen zu öffnen, und aktiviere dann \"Mitteilungen erlauben\" für diese App."
+    "The notification title can not be empty": {
+      "comment": "Error message",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Der Mitteilungstitel darf nicht leer sein"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The notification title can not be empty"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tap the button below to open Settings, then enable \"Allow Notifications\" for this app."
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ilmoituksen otsikko ei voi olla tyhjä"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Napauta alla olevaa painiketta avataksesi Asetukset ja ota sitten käyttöön \"Salli ilmoitukset\" tälle sovellukselle."
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le titre de la notification ne peut pas être vide"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Trykk på knappen nedenfor for å åpne Innstillinger, og aktiver deretter «Tillat varsler» for denne appen."
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Varslingstittelen kan ikke være tom"
           }
         }
       }
     },
-    "Test Notification" : {
-      "comment" : "Title for test notification",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Testmitteilung"
+    "The subtitle of the notification (optional)": {
+      "comment": "Parameter description",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Der Untertitel der Mitteilung (optional)"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The subtitle of the notification (optional)"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Test Notification"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ilmoituksen alaotsikko (valinnainen)"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Testi-ilmoitus"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le sous-titre de la notification (facultatif)"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Testvarsel"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Undertittelen til varselet (valgfritt)"
           }
         }
       }
     },
-    "Test Notification Capability" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mitteilungsfunktion testen"
+    "The tap action \"Open URL\" requires a valid URL": {
+      "comment": "Error message",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Tippaktion \"URL öffnen\" erfordert eine gültige URL"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The tap action \"Open URL\" requires a valid URL"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Test Notification Capability"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Napauta-toiminto \"Avaa URL\" vaatii kelvollisen URL-osoitteen"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Testaa ilmoitustoiminto"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L'action au toucher « Ouvrir l'URL » nécessite une URL valide"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Test varslingsfunksjon"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trykk-handlingen «Åpne URL» krever en gyldig URL"
           }
         }
       }
     },
-    "Test Notifications" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mitteilungen testen"
+    "The tap action \"Run Shortcut\" requires a valid Shortcut Name": {
+      "comment": "Error message",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Tippaktion \"Kurzbefehl ausführen\" erfordert einen gültigen Kurzbefehlnamen"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The tap action \"Run Shortcut\" requires a valid Shortcut Name"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Test Notifications"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Napauta-toiminto \"Suorita pikakomento\" vaatii kelvollisen pikakomennon nimen"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Testaa ilmoituksia"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L'action au toucher « Exécuter un raccourci » nécessite un nom de raccourci valide"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Test varsler"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trykk-handlingen «Kjør snarvei» krever et gyldig snarveinavn"
           }
         }
       }
     },
-    "The (unencoded) input of the Shortcut to run when the notification is tapped (optional)" : {
-      "comment" : "Parameter description",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Die (nicht kodierte) Eingabe des Kurzbefehls, der beim Tippen auf die Mitteilung ausgeführt wird (optional)"
+    "The type of day you want to check for": {
+      "comment": "Parameter description",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Der Tagestyp, auf den du prüfen möchtest"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The type of day you want to check for"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "The (unencoded) input of the Shortcut to run when the notification is tapped (optional)"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Päivätyyppi, jonka haluat tarkistaa"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pikakomennon (koodaamaton) syöte, joka suoritetaan ilmoitusta napautettaessa (valinnainen)"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le type de jour que vous souhaitez vérifier"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Den (ukodede) inngangen til snarveien som skal kjøres når varselet trykkes (valgfritt)"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Typen dag du vil sjekke for"
           }
         }
       }
     },
-    "The beginning of the time frame to check against (15 means at or after 15:00/3pm)" : {
-      "comment" : "Parameter description",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Der Beginn des Zeitraums, gegen den geprüft wird (15 bedeutet ab 15:00 Uhr)"
+    "This action will display a notification on this device.": {
+      "comment": "Intent description",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diese Aktion zeigt eine Mitteilung auf diesem Gerät an."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This action will display a notification on this device."
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "The beginning of the time frame to check against (15 means at or after 15:00/3pm)"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tämä toiminto näyttää ilmoituksen tällä laitteella."
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tarkistettavan ajanjakson alku (15 tarkoittaa klo 15:00 tai sen jälkeen)"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cette action affichera une notification sur cet appareil."
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Begynnelsen av tidsrammen å sjekke mot (15 betyr klokken 15:00 eller senere)"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Denne handlingen vil vise et varsel på denne enheten."
           }
         }
       }
     },
-    "The end of the time frame to check against (17 means before 17:00/5pm)" : {
-      "comment" : "Parameter description",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Das Ende des Zeitraums, gegen den geprüft wird (17 bedeutet vor 17:00 Uhr)"
+    "This action will return a Boolean value representing if the given date has the given type of day.": {
+      "comment": "Intent description",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diese Aktion gibt einen booleschen Wert zurück, der angibt, ob das gegebene Datum den gegebenen Tagestyp hat."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This action will return a Boolean value representing if the given date has the given type of day."
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "The end of the time frame to check against (17 means before 17:00/5pm)"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tämä toiminto palauttaa totuusarvon, joka kertoo onko annetulla päivämäärällä annettu päivätyyppi."
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tarkistettavan ajanjakson loppu (17 tarkoittaa ennen klo 17:00)"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cette action renverra une valeur booléenne indiquant si la date donnée correspond au type de jour donné."
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Slutten av tidsrammen å sjekke mot (17 betyr før klokken 17:00)"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Denne handlingen vil returnere en boolsk verdi som representerer om den gitte datoen har den gitte typen dag."
           }
         }
       }
     },
-    "The name of the Shortcut to run when the notification is tapped (required if 'Tap Action' is \"Run Shortcut\")" : {
-      "comment" : "Parameter description",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Der Name des Kurzbefehls, der beim Tippen auf die Mitteilung ausgeführt wird (erforderlich, wenn \"Tippaktion\" \"Kurzbefehl ausführen\" ist)"
+    "This action will return a Boolean value representing if the hour of the given date is inside the given time frame.": {
+      "comment": "Intent description",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diese Aktion gibt einen booleschen Wert zurück, der angibt, ob die Stunde des gegebenen Datums innerhalb des gegebenen Zeitraums liegt."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This action will return a Boolean value representing if the hour of the given date is inside the given time frame."
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "The name of the Shortcut to run when the notification is tapped (required if 'Tap Action' is \"Run Shortcut\")"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tämä toiminto palauttaa totuusarvon, joka kertoo onko annetun päivämäärän tunti annetun ajanjakson sisällä."
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pikakomennon nimi, joka suoritetaan ilmoitusta napautettaessa (pakollinen jos \"Napauta-toiminto\" on \"Suorita pikakomento\")"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cette action renverra une valeur booléenne indiquant si l'heure de la date donnée se situe dans la plage horaire donnée."
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Navnet på snarveien som skal kjøres når varselet trykkes (påkrevd hvis «Trykk-handling» er «Kjør snarvei»)"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Denne handlingen vil returnere en boolsk verdi som representerer om timen til den gitte datoen er innenfor den gitte tidsrammen."
           }
         }
       }
     },
-    "The notification message can not be empty" : {
-      "comment" : "Error message",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Die Mitteilungsnachricht darf nicht leer sein"
+    "This app is your toolbox for Shortcuts, providing reusable actions that Apple doesn't include out of the box.": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diese App ist dein Werkzeugkasten für Kurzbefehle und bietet wiederverwendbare Aktionen, die Apple nicht standardmäßig mitliefert."
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "The notification message can not be empty"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This app is your toolbox for Shortcuts, providing reusable actions that Apple doesn't include out of the box."
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ilmoitusviesti ei voi olla tyhjä"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tämä sovellus on työkalupakkisi Pikakomennoille, tarjoten uudelleenkäytettäviä toimintoja joita Apple ei sisällytä valmiiksi."
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Varslingsmeldingen kan ikke være tom"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cette app est votre boîte à outils pour Raccourcis, fournissant des actions réutilisables qu'Apple n'inclut pas par défaut."
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Denne appen er din verktøykasse for Snarveier, og gir gjenbrukbare handlinger som Apple ikke inkluderer som standard."
+          }
         }
       }
     },
-    "The notification title can not be empty" : {
-      "comment" : "Error message",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Der Mitteilungstitel darf nicht leer sein"
+    "This app needs permission to send notifications for Shortcuts actions.": {
+      "comment": "Permission status: not determined",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diese App benötigt die Berechtigung zum Senden von Mitteilungen für Kurzbefehl-Aktionen."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This app needs permission to send notifications for Shortcuts actions."
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "The notification title can not be empty"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tämä sovellus tarvitsee luvan lähettää ilmoituksia Pikakomento-toimintoja varten."
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ilmoituksen otsikko ei voi olla tyhjä"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cette app a besoin de l'autorisation d'envoyer des notifications pour les actions de Raccourcis."
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Varslingstittelen kan ikke være tom"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Denne appen trenger tillatelse til å sende varsler for Snarveier-handlinger."
           }
         }
       }
     },
-    "The subtitle of the notification (optional)" : {
-      "comment" : "Parameter description",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Der Untertitel der Mitteilung (optional)"
+    "This app provides actions for the Shortcuts app.": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diese App bietet Aktionen für die Kurzbefehle-App."
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "The subtitle of the notification (optional)"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This app provides actions for the Shortcuts app."
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ilmoituksen alaotsikko (valinnainen)"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tämä sovellus tarjoaa toimintoja Pikakomennot-sovellukselle."
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Undertittelen til varselet (valgfritt)"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cette app fournit des actions pour l'app Raccourcis."
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Denne appen gir handlinger for Snarveier-appen."
+          }
         }
       }
     },
-    "The tap action \"Open URL\" requires a valid URL" : {
-      "comment" : "Error message",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Die Tippaktion \"URL öffnen\" erfordert eine gültige URL"
+    "Thread ID": {
+      "comment": "Parameter title",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Thread-ID"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Thread ID"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "The tap action \"Open URL\" requires a valid URL"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Säikeen tunniste"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Napauta-toiminto \"Avaa URL\" vaatii kelvollisen URL-osoitteen"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ID de fil"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Trykk-handlingen «Åpne URL» krever en gyldig URL"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tråd-ID"
           }
         }
       }
     },
-    "The tap action \"Run Shortcut\" requires a valid Shortcut Name" : {
-      "comment" : "Error message",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Die Tippaktion \"Kurzbefehl ausführen\" erfordert einen gültigen Kurzbefehlnamen"
+    "Thursday": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Donnerstag"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "The tap action \"Run Shortcut\" requires a valid Shortcut Name"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Thursday"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Napauta-toiminto \"Suorita pikakomento\" vaatii kelvollisen pikakomennon nimen"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Torstai"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Trykk-handlingen «Kjør snarvei» krever et gyldig snarveinavn"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jeudi"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Torsdag"
+          }
         }
       }
     },
-    "The type of day you want to check for" : {
-      "comment" : "Parameter description",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Der Tagestyp, auf den du prüfen möchtest"
+    "Time Sensitive?": {
+      "comment": "Parameter title",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zeitkritisch?"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Time Sensitive?"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "The type of day you want to check for"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aikaherkkä?"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Päivätyyppi, jonka haluat tarkistaa"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Urgent ?"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Typen dag du vil sjekke for"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tidssensitiv?"
           }
         }
       }
     },
-    "The URL to open when the notification is tapped (required if 'Tap Action' is \"Open URL\")" : {
-      "comment" : "Parameter description",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Die URL, die beim Tippen auf die Mitteilung geöffnet wird (erforderlich, wenn \"Tippaktion\" \"URL öffnen\" ist)"
+    "Title": {
+      "comment": "Parameter title",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Titel"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "The URL to open when the notification is tapped (required if 'Tap Action' is \"Open URL\")"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Title"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "URL-osoite, joka avataan ilmoitusta napautettaessa (pakollinen jos \"Napauta-toiminto\" on \"Avaa URL\")"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otsikko"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "URL-en som skal åpnes når varselet trykkes (påkrevd hvis «Trykk-handling» er «Åpne URL»)"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Titre"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tittel"
+          }
         }
       }
     },
-    "This action will display a notification on this device." : {
-      "comment" : "Intent description",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Diese Aktion zeigt eine Mitteilung auf diesem Gerät an."
+    "Today": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Heute"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Today"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "This action will display a notification on this device."
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tänään"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tämä toiminto näyttää ilmoituksen tällä laitteella."
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aujourd'hui"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Denne handlingen vil vise et varsel på denne enheten."
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "I dag"
           }
         }
       }
     },
-    "This action will return a Boolean value representing if the given date has the given type of day." : {
-      "comment" : "Intent description",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Diese Aktion gibt einen booleschen Wert zurück, der angibt, ob das gegebene Datum den gegebenen Tagestyp hat."
+    "Tomorrow": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Morgen"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tomorrow"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "This action will return a Boolean value representing if the given date has the given type of day."
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Huomenna"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tämä toiminto palauttaa totuusarvon, joka kertoo onko annetulla päivämäärällä annettu päivätyyppi."
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Demain"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Denne handlingen vil returnere en boolsk verdi som representerer om den gitte datoen har den gitte typen dag."
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "I morgen"
           }
         }
       }
     },
-    "This action will return a Boolean value representing if the hour of the given date is inside the given time frame." : {
-      "comment" : "Intent description",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Diese Aktion gibt einen booleschen Wert zurück, der angibt, ob die Stunde des gegebenen Datums innerhalb des gegebenen Zeitraums liegt."
+    "Tuesday": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dienstag"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tuesday"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "This action will return a Boolean value representing if the hour of the given date is inside the given time frame."
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tiistai"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tämä toiminto palauttaa totuusarvon, joka kertoo onko annetun päivämäärän tunti annetun ajanjakson sisällä."
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mardi"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Denne handlingen vil returnere en boolsk verdi som representerer om timen til den gitte datoen er innenfor den gitte tidsrammen."
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tirsdag"
           }
         }
       }
     },
-    "This app is your toolbox for Shortcuts, providing reusable actions that Apple doesn't include out of the box." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Diese App ist dein Werkzeugkasten für Kurzbefehle und bietet wiederverwendbare Aktionen, die Apple nicht standardmäßig mitliefert."
+    "Turning this on will allow the notification to break through Focus Modes": {
+      "comment": "Parameter description",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wenn aktiviert, kann die Mitteilung Fokusmodi durchbrechen"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Turning this on will allow the notification to break through Focus Modes"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "This app is your toolbox for Shortcuts, providing reusable actions that Apple doesn't include out of the box."
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tämän käyttöönotto sallii ilmoituksen ohittaa keskittymistilat"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tämä sovellus on työkalupakkisi Pikakomennoille, tarjoten uudelleenkäytettäviä toimintoja joita Apple ei sisällytä valmiiksi."
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Activer cette option permettra à la notification de passer outre les modes de concentration"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Denne appen er din verktøykasse for Snarveier, og gir gjenbrukbare handlinger som Apple ikke inkluderer som standard."
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Å slå dette på vil tillate varselet å bryte gjennom fokusmoduser"
           }
         }
       }
     },
-    "This app needs permission to send notifications for Shortcuts actions." : {
-      "comment" : "Permission status: not determined",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Diese App benötigt die Berechtigung zum Senden von Mitteilungen für Kurzbefehl-Aktionen."
+    "Type of Day": {
+      "comment": "Parameter title and type display name",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tagestyp"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Type of Day"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "This app needs permission to send notifications for Shortcuts actions."
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Päivätyyppi"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tämä sovellus tarvitsee luvan lähettää ilmoituksia Pikakomento-toimintoja varten."
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Type de jour"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Denne appen trenger tillatelse til å sende varsler for Snarveier-handlinger."
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Type dag"
           }
         }
       }
     },
-    "This app provides actions for the Shortcuts app." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Diese App bietet Aktionen für die Kurzbefehle-App."
+    "Työkalu needs permission to send notifications. Please review your settings.": {
+      "comment": "Error message for missing notification permission",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Työkalu benötigt die Berechtigung zum Senden von Mitteilungen. Bitte überprüfe deine Einstellungen."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Työkalu needs permission to send notifications. Please review your settings."
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "This app provides actions for the Shortcuts app."
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Työkalu tarvitsee luvan lähettää ilmoituksia. Tarkista asetuksesi."
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tämä sovellus tarjoaa toimintoja Pikakomennot-sovellukselle."
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Työkalu a besoin de l'autorisation d'envoyer des notifications. Veuillez vérifier vos réglages."
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Denne appen gir handlinger for Snarveier-appen."
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Työkalu trenger tillatelse til å sende varsler. Vennligst sjekk innstillingene dine."
           }
         }
       }
     },
-    "Thread ID" : {
-      "comment" : "Parameter title",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Thread-ID"
+    "URL": {
+      "comment": "Parameter title",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Thread ID"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Säikeen tunniste"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tråd-ID"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL"
           }
         }
       }
     },
-    "thursday" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "donnerstag"
+    "Was ${date} ${typeOfDay}?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "War ${date} ${typeOfDay}?"
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oliko ${date} ${typeOfDay}?"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "torstai"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Est-ce que ${date} était ${typeOfDay} ?"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "torsdag"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Var ${date} ${typeOfDay}?"
           }
         }
       }
     },
-    "Thursday" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Donnerstag"
+    "Was %@ %@?": {
+      "comment": "Parameter summary for yesterday case",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "War %1$@ %2$@?"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Thursday"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Was %@ %@?"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Torstai"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oliko %1$@ %2$@?"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Torsdag"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Est-ce que %1$@ était %2$@ ?"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Var %1$@ %2$@?"
+          }
         }
       }
     },
-    "Time Sensitive?" : {
-      "comment" : "Parameter title",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zeitkritisch?"
+    "Wednesday": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mittwoch"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wednesday"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Time Sensitive?"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keskiviikko"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aikaherkkä?"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mercredi"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tidssensitiv?"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Onsdag"
           }
         }
       }
     },
-    "Title" : {
-      "comment" : "Parameter title",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Titel"
+    "Weekday": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wochentag"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Title"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weekday"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Otsikko"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Arkipäivä"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tittel"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jour de semaine"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ukedag"
+          }
         }
       }
     },
-    "today" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "heute"
+    "Weekend": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wochenende"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weekend"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "tänään"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Viikonloppu"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "i dag"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Week-end"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Helg"
+          }
         }
       }
     },
-    "Today" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Heute"
+    "What happens when you tap on the notification": {
+      "comment": "Parameter description",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Was passiert, wenn du auf die Mitteilung tippst"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "What happens when you tap on the notification"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Today"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mitä tapahtuu kun napautat ilmoitusta"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tänään"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ce qui se passe lorsque vous touchez la notification"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "I dag"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hva som skjer når du trykker på varselet"
           }
         }
       }
     },
-    "tomorrow" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "morgen"
+    "Yesterday": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gestern"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "huomenna"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yesterday"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "i morgen"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eilen"
           }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hier"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "I går"
+          }
         }
       }
     },
-    "Tomorrow" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Morgen"
+    "afternoon": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "nachmittag"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tomorrow"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iltapäivä"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Huomenna"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "après-midi"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "I morgen"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ettermiddag"
           }
         }
       }
     },
-    "tuesday" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "dienstag"
+    "alert": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hinweis"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "tiistai"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ilmoitus"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "tirsdag"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "alerte"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "varsel"
+          }
         }
       }
     },
-    "Tuesday" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dienstag"
+    "evening": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "abend"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tuesday"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ilta"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tiistai"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "soir"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tirsdag"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "kveld"
           }
         }
       }
     },
-    "Turning this on will allow the notification to break through Focus Modes" : {
-      "comment" : "Parameter description",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wenn aktiviert, kann die Mitteilung Fokusmodi durchbrechen"
+    "friday": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "freitag"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Turning this on will allow the notification to break through Focus Modes"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "perjantai"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tämän käyttöönotto sallii ilmoituksen ohittaa keskittymistilat"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "vendredi"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Å slå dette på vil tillate varselet å bryte gjennom fokusmoduser"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "fredag"
           }
         }
       }
     },
-    "Työkalu needs permission to send notifications. Please review your settings." : {
-      "comment" : "Error message for missing notification permission",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Työkalu benötigt die Berechtigung zum Senden von Mitteilungen. Bitte überprüfe deine Einstellungen."
+    "monday": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "montag"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Työkalu needs permission to send notifications. Please review your settings."
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "maanantai"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Työkalu tarvitsee luvan lähettää ilmoituksia. Tarkista asetuksesi."
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "lundi"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Työkalu trenger tillatelse til å sende varsler. Vennligst sjekk innstillingene dine."
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "mandag"
           }
         }
       }
     },
-    "Type of Day" : {
-      "comment" : "Parameter title and type display name",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tagestyp"
+    "morning": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "morgen"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Type of Day"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "aamu"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Päivätyyppi"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "matin"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Type dag"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "morgen"
           }
         }
       }
     },
-    "URL" : {
-      "comment" : "Parameter title",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "URL"
+    "night": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "nacht"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "URL"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "yö"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "URL"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "nuit"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "URL"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "natt"
           }
         }
       }
     },
-    "Was %@ %@?" : {
-      "comment" : "Parameter summary for yesterday case",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "War %1$@ %2$@?"
+    "push": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "push"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Was %@ %@?"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "push"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Oliko %1$@ %2$@?"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "push"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Var %1$@ %2$@?"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "push"
           }
         }
       }
     },
-    "Was ${date} ${typeOfDay}?" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "War ${date} ${typeOfDay}?"
+    "saturday": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "samstag"
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "lauantai"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Oliko ${date} ${typeOfDay}?"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "samedi"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Var ${date} ${typeOfDay}?"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "lørdag"
           }
         }
       }
     },
-    "wednesday" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "mittwoch"
+    "sunday": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "sonntag"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "keskiviikko"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "sunnuntai"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "onsdag"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "dimanche"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "søndag"
+          }
         }
       }
     },
-    "Wednesday" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mittwoch"
+    "thursday": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "donnerstag"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wednesday"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "torstai"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Keskiviikko"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "jeudi"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Onsdag"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "torsdag"
           }
         }
       }
     },
-    "weekday" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "wochentag"
+    "today": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "heute"
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "tänään"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "arkipäivä"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "aujourd'hui"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ukedag"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "i dag"
           }
         }
       }
     },
-    "Weekday" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wochentag"
+    "tomorrow": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "morgen"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Weekday"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "huomenna"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Arkipäivä"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "demain"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ukedag"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "i morgen"
           }
         }
       }
     },
-    "weekend" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "wochenende"
+    "tuesday": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "dienstag"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "viikonloppu"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "tiistai"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "helg"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "mardi"
           }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "tirsdag"
+          }
         }
       }
     },
-    "Weekend" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wochenende"
+    "wednesday": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "mittwoch"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Weekend"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "keskiviikko"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Viikonloppu"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "mercredi"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Helg"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "onsdag"
           }
         }
       }
     },
-    "What happens when you tap on the notification" : {
-      "comment" : "Parameter description",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Was passiert, wenn du auf die Mitteilung tippst"
+    "weekday": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "wochentag"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "What happens when you tap on the notification"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "arkipäivä"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mitä tapahtuu kun napautat ilmoitusta"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "jour de semaine"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hva som skjer når du trykker på varselet"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ukedag"
           }
         }
       }
     },
-    "yesterday" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "gestern"
+    "weekend": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "wochenende"
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "viikonloppu"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "eilen"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "week-end"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "i går"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "helg"
           }
         }
       }
     },
-    "Yesterday" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gestern"
+    "yesterday": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "gestern"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Yesterday"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "eilen"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Eilen"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hier"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "I går"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "i går"
           }
         }
       }
     }
   },
-  "version" : "1.0"
+  "version": "1.0"
 }

@@ -99,6 +99,7 @@
 				en,
 				de,
 				fi,
+				fr,
 				nb,
 				Base,
 			);
