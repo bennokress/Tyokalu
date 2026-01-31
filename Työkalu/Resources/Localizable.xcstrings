@@ -107,6 +107,12 @@
             "value": "\"Työkalu\"はフィンランド語で「ツール」という意味です。"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"Työkalu\"는 \"도구\"를 뜻하는 핀란드어입니다."
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -303,6 +309,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "日付が同じ時刻の間にあることはありません。異なる数字を早い時刻と遅い時刻として入力してください"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "동일한 시간 사이에 날짜가 있을 수 없습니다. 이른 시간과 늦은 시간에 다른 숫자를 입력하세요"
           }
         },
         "lt": {
@@ -503,6 +515,12 @@
             "value": "1日は24時間なので、24時間を超える時刻との比較はできません"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "하루는 24시간이므로 24보다 높은 시간을 확인하는 것은 불가능합니다"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -701,6 +719,12 @@
             "value": "1日に負の時刻はないので、0時未満との比較はできません"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "하루에 음수 시간은 없으므로 0보다 낮은 시간을 확인하는 것은 불가능합니다"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -896,6 +920,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "このアプリについて"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 앱 정보"
           }
         },
         "lt": {
@@ -1096,6 +1126,12 @@
             "value": "通知に表示される添付ファイル（オプション、詳細はUNNotificationAttachmentを参照）"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "알림에 표시될 첨부 파일 (선택 사항, 자세한 내용은 UNNotificationAttachment 참조)"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -1292,6 +1328,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "添付ファイル"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "첨부 파일"
           }
         },
         "lt": {
@@ -1492,6 +1534,12 @@
             "value": "日付"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "날짜"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -1688,6 +1736,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "日付と時刻"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "날짜 및 시간"
           }
         },
         "lt": {
@@ -1888,6 +1942,12 @@
             "value": "デバイス機能"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "기기 기능"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -2083,6 +2143,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "ご存知ですか？"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "알고 계셨나요?"
           }
         },
         "lt": {
@@ -2283,6 +2349,12 @@
             "value": "何もしない"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "아무것도 하지 않음"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -2479,6 +2551,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "開始時刻"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이른 시간"
           }
         },
         "lt": {
@@ -2678,6 +2756,12 @@
             "value": "金曜日"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "금요일"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -2873,6 +2957,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "許可を与える"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "권한 부여"
           }
         },
         "lt": {
@@ -3073,6 +3163,12 @@
             "value": "通知の許可を与える"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "알림 권한 부여"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -3269,6 +3365,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "最初に通知の許可を与えてください"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "먼저 알림 권한을 부여하세요"
           }
         },
         "lt": {
@@ -3469,6 +3571,12 @@
             "value": "時刻チェック"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "시간 확인"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -3659,6 +3767,12 @@
             "value": "${date}は${typeOfDay}ですか？"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date}이(가) ${typeOfDay}입니까?"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -3843,6 +3957,12 @@
             "value": "${date}は${typeOfDay}ですか？"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date}이(가) ${typeOfDay}입니까?"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -4025,6 +4145,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "${date}は${typeOfDay}ですか？"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date}이(가) ${typeOfDay}입니까?"
           }
         },
         "lt": {
@@ -4217,6 +4343,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "%1$@は%2$@ですか？"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@이(가) %2$@입니까?"
           }
         },
         "lt": {
@@ -4417,6 +4549,12 @@
             "value": "%1$@は%2$@ですか？"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@이(가) %2$@입니까?"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -4613,6 +4751,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "%1$@は%2$@ですか？"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@이(가) %2$@입니까?"
           }
         },
         "lt": {
@@ -4813,6 +4957,12 @@
             "value": "曜日の種類を確認"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "요일 유형 확인"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -5001,6 +5151,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "${date}の時刻は${lowerBound}から${upperBound}の間ですか？"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date}의 시간이 ${lowerBound}과(와) ${upperBound} 사이입니까?"
           }
         },
         "lt": {
@@ -5193,6 +5349,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "%1$@の時刻は%2$lldから%3$lldの間ですか？"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@의 시간이 %2$lld과(와) %3$lld 사이입니까?"
           }
         },
         "lt": {
@@ -5393,6 +5555,12 @@
             "value": "終了時刻"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "늦은 시간"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -5591,6 +5759,12 @@
             "value": "メッセージ"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "메시지"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -5786,6 +5960,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "月曜日"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "월요일"
           }
         },
         "lt": {
@@ -5986,6 +6166,12 @@
             "value": "通知ID"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "알림 ID"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -6181,6 +6367,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "通知の許可"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "알림 권한"
           }
         },
         "lt": {
@@ -6381,6 +6573,12 @@
             "value": "通知の許可が拒否されました。通知アクションを使用するには設定で有効にしてください。"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "알림 권한이 거부되었습니다. 알림 동작을 사용하려면 설정에서 활성화하세요."
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -6575,6 +6773,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "通知の許可が拒否されました。ショートカットで通知アクションを使用するには、設定アプリで通知を有効にする必要があります。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "알림 권한이 거부되었습니다. 단축어에서 알림 동작을 사용하려면 설정 앱에서 알림을 활성화해야 합니다."
           }
         },
         "lt": {
@@ -6775,6 +6979,12 @@
             "value": "通知が有効です。"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "알림이 활성화되어 있습니다."
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -6971,6 +7181,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "通知は仮許可されています。最高のエクスペリエンスを得るには完全な許可を与えてください。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "알림이 임시로 허용되었습니다. 최상의 경험을 위해 전체 권한을 부여하세요."
           }
         },
         "lt": {
@@ -7171,6 +7387,12 @@
             "value": "通知は一時的に許可されています。"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "알림이 임시로 허용되었습니다."
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -7367,6 +7589,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "通知は正常に動作しています！"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "알림이 정상적으로 작동합니다!"
           }
         },
         "lt": {
@@ -7567,6 +7795,12 @@
             "value": "iOSの通知は、指定されたサイズほど大きな添付ファイルをサポートしていません。"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iOS의 알림은 제공한 것과 같이 큰 첨부 파일을 지원하지 않습니다."
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -7763,6 +7997,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "iOSの通知は、この種類の添付ファイルをサポートしていません。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iOS의 알림은 이 유형의 첨부 파일을 지원하지 않습니다."
           }
         },
         "lt": {
@@ -7963,6 +8203,12 @@
             "value": "iOSの通知は、「%@」タイプの添付ファイルをサポートしていません。"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iOS의 알림은 '%@' 유형의 첨부 파일을 지원하지 않습니다."
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -8160,6 +8406,12 @@
             "value": "通知の許可が与えられると、下のテストボタンを使用して通知が正しく機能することを確認する以外に追加の機能はありません。"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "알림 권한이 부여되면 아래 테스트 버튼을 사용하여 알림이 올바르게 작동하는지 확인하는 것 외에 추가 기능은 없습니다."
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -8354,6 +8606,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "設定を開く"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "설정 열기"
           }
         },
         "lt": {
@@ -8554,6 +8812,12 @@
             "value": "URLを開く"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL 열기"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -8748,6 +9012,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "アプリ設定を開く"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "앱 설정 열기"
           }
         },
         "lt": {
@@ -8948,6 +9218,12 @@
             "value": "このアプリからの通知を許可するシステムダイアログを開きます"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 앱에서 알림을 허용하는 시스템 대화상자를 엽니다"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -9142,6 +9418,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "設定アプリを開いて通知を有効にします"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "알림을 활성화하기 위해 설정 앱을 엽니다"
           }
         },
         "lt": {
@@ -9339,6 +9621,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "許可が必要です"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "권한 필요"
           }
         },
         "lt": {
@@ -9539,6 +9827,12 @@
             "value": "すべての機能を使用するには通知の許可を与えてください。"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모든 기능을 사용하려면 알림 권한을 부여해 주세요."
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -9734,6 +10028,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "通知を送信する準備ができました"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "알림을 보낼 준비가 되었습니다"
           }
         },
         "lt": {
@@ -9934,6 +10234,12 @@
             "value": "ショートカットを実行"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "단축어 실행"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -10129,6 +10435,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "土曜日"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "토요일"
           }
         },
         "lt": {
@@ -10328,6 +10640,12 @@
             "value": "テスト通知を送信"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "테스트 알림 보내기"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -10516,6 +10834,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "テスト通知を送信"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "테스트 알림 보내기"
           }
         },
         "lt": {
@@ -10708,6 +11032,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "セットアップを確認するためのテスト通知を送信します"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "설정을 확인하기 위해 테스트 알림을 보냅니다"
           }
         },
         "lt": {
@@ -10908,6 +11238,12 @@
             "value": "通知IDを設定すると、同じ通知IDを持つ古い通知が置き換えられます"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "알림 ID를 설정하면 동일한 알림 ID를 가진 이전 알림이 대체됩니다"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -11104,6 +11440,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "スレッドIDを設定すると、同じスレッドIDを持つ他の通知とグループ化されます"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "스레드 ID를 설정하면 동일한 스레드 ID를 가진 다른 알림과 함께 그룹화됩니다"
           }
         },
         "lt": {
@@ -11304,6 +11646,12 @@
             "value": "ショートカット入力パラメータ"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "단축어 입력 매개변수"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -11500,6 +11848,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "ショートカット名"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "단축어 이름"
           }
         },
         "lt": {
@@ -11700,6 +12054,12 @@
             "value": "通知を表示"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "알림 표시"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -11888,6 +12248,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "${title}と${message}で通知を表示"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${title} 및 ${message}(으)로 알림 표시"
           }
         },
         "lt": {
@@ -12080,6 +12446,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "%1$@と%2$@で通知を表示"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1 및 %2(으)로 알림 표시"
           }
         },
         "lt": {
@@ -12280,6 +12652,12 @@
             "value": "サブタイトル"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "부제목"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -12475,6 +12853,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "日曜日"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "일요일"
           }
         },
         "lt": {
@@ -12675,6 +13059,12 @@
             "value": "タップアクション"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "탭 동작"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -12869,6 +13259,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "下のボタンをタップして設定を開き、このアプリの「通知を許可」を有効にしてください。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "아래 버튼을 탭하여 설정을 열고 이 앱의 \"알림 허용\"을 활성화하세요."
           }
         },
         "lt": {
@@ -13069,6 +13465,12 @@
             "value": "テスト通知"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "테스트 알림"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -13263,6 +13665,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "通知機能をテスト"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "알림 기능 테스트"
           }
         },
         "lt": {
@@ -13460,6 +13868,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "通知をテスト"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "알림 테스트"
           }
         },
         "lt": {
@@ -13660,6 +14074,12 @@
             "value": "通知がタップされたときに実行するショートカットの（エンコードされていない）入力（オプション）"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "알림을 탭할 때 실행할 단축어의 (인코딩되지 않은) 입력 (선택 사항)"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -13856,6 +14276,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "通知がタップされたときに開くURL（「タップアクション」が「URLを開く」の場合は必須）"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "알림을 탭할 때 열 URL ('탭 동작'이 \"URL 열기\"인 경우 필수)"
           }
         },
         "lt": {
@@ -14056,6 +14482,12 @@
             "value": "チェックする時間枠の開始（15は15:00以降を意味します）"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "확인할 시간 범위의 시작 (15는 15:00/오후 3시 이후를 의미)"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -14252,6 +14684,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "チェックする時間枠の終了（17は17:00より前を意味します）"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "확인할 시간 범위의 끝 (17은 17:00/오후 5시 전을 의미)"
           }
         },
         "lt": {
@@ -14452,6 +14890,12 @@
             "value": "通知がタップされたときに実行するショートカットの名前（「タップアクション」が「ショートカットを実行」の場合は必須）"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "알림을 탭할 때 실행할 단축어 이름 ('탭 동작'이 \"단축어 실행\"인 경우 필수)"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -14648,6 +15092,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "通知メッセージは空にできません"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "알림 메시지는 비워둘 수 없습니다"
           }
         },
         "lt": {
@@ -14848,6 +15298,12 @@
             "value": "通知タイトルは空にできません"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "알림 제목은 비워둘 수 없습니다"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -15044,6 +15500,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "通知のサブタイトル（オプション）"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "알림의 부제목 (선택 사항)"
           }
         },
         "lt": {
@@ -15244,6 +15706,12 @@
             "value": "タップアクション「URLを開く」には有効なURLが必要です"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "탭 동작 \"URL 열기\"에는 유효한 URL이 필요합니다"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -15440,6 +15908,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "タップアクション「ショートカットを実行」には有効なショートカット名が必要です"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "탭 동작 \"단축어 실행\"에는 유효한 단축어 이름이 필요합니다"
           }
         },
         "lt": {
@@ -15640,6 +16114,12 @@
             "value": "チェックしたい曜日の種類"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "확인하려는 요일 유형"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -15836,6 +16316,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "このアクションはこのデバイスに通知を表示します。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 동작은 이 기기에 알림을 표시합니다."
           }
         },
         "lt": {
@@ -16036,6 +16522,12 @@
             "value": "このアクションは、指定された日付が指定された曜日の種類かどうかを表すブール値を返します。"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 동작은 주어진 날짜가 주어진 요일 유형인지를 나타내는 부울 값을 반환합니다."
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -16234,6 +16726,12 @@
             "value": "このアクションは、指定された日付の時刻が指定された時間枠内にあるかどうかを表すブール値を返します。"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 동작은 주어진 날짜의 시간이 주어진 시간 범위 내에 있는지를 나타내는 부울 값을 반환합니다."
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -16429,6 +16927,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "このアプリはショートカットのためのツールボックスで、Appleが標準で含めていない再利用可能なアクションを提供します。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 앱은 Apple이 기본 제공하지 않는 재사용 가능한 동작을 제공하는 단축어 도구 상자입니다."
           }
         },
         "lt": {
@@ -16629,6 +17133,12 @@
             "value": "このアプリはショートカットのアクションのために通知を送信する許可が必要です。"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 앱은 단축어 동작을 위해 알림을 보낼 권한이 필요합니다."
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -16824,6 +17334,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "このアプリはショートカットアプリのためのアクションを提供します。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 앱은 단축어 앱을 위한 동작을 제공합니다."
           }
         },
         "lt": {
@@ -17024,6 +17540,12 @@
             "value": "スレッドID"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "스레드 ID"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -17219,6 +17741,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "木曜日"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "목요일"
           }
         },
         "lt": {
@@ -17419,6 +17947,12 @@
             "value": "時間的制約？"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "긴급 알림?"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -17615,6 +18149,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "タイトル"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "제목"
           }
         },
         "lt": {
@@ -17814,6 +18354,12 @@
             "value": "今日"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "오늘"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -18011,6 +18557,12 @@
             "value": "明日"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "내일"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -18206,6 +18758,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "火曜日"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "화요일"
           }
         },
         "lt": {
@@ -18406,6 +18964,12 @@
             "value": "これをオンにすると、通知が集中モードを突破できるようになります"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 옵션을 켜면 알림이 집중 모드를 무시할 수 있습니다"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -18602,6 +19166,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "曜日の種類"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "요일 유형"
           }
         },
         "lt": {
@@ -18802,6 +19372,12 @@
             "value": "Työkaluは通知を送信する許可が必要です。設定を確認してください。"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Työkalu에서 알림을 보내려면 권한이 필요합니다. 설정을 확인해 주세요."
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -19000,6 +19576,12 @@
             "value": "URL"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -19188,6 +19770,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "${date}は${typeOfDay}でしたか？"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date}이(가) ${typeOfDay}였습니까?"
           }
         },
         "lt": {
@@ -19380,6 +19968,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "%1$@は%2$@でしたか？"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1이(가) %2였습니까?"
           }
         },
         "lt": {
@@ -19579,6 +20173,12 @@
             "value": "水曜日"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "수요일"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -19776,6 +20376,12 @@
             "value": "平日"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "평일"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -19971,6 +20577,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "週末"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "주말"
           }
         },
         "lt": {
@@ -20171,6 +20783,12 @@
             "value": "通知をタップしたときに起こること"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "알림을 탭할 때 수행되는 동작"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -20368,6 +20986,12 @@
             "value": "昨日"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "어제"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -20558,6 +21182,12 @@
             "value": "午後"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "오후"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -20740,6 +21370,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "アラート"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "알림"
           }
         },
         "lt": {
@@ -20926,6 +21562,12 @@
             "value": "夕方"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "저녁"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -21108,6 +21750,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "金曜日"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "금요일"
           }
         },
         "lt": {
@@ -21294,6 +21942,12 @@
             "value": "月曜日"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "월요일"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -21476,6 +22130,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "朝"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "아침"
           }
         },
         "lt": {
@@ -21662,6 +22322,12 @@
             "value": "夜"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "밤"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -21844,6 +22510,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "プッシュ"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "푸시"
           }
         },
         "lt": {
@@ -22030,6 +22702,12 @@
             "value": "土曜日"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "토요일"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -22212,6 +22890,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "日曜日"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "일요일"
           }
         },
         "lt": {
@@ -22398,6 +23082,12 @@
             "value": "木曜日"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "목요일"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -22580,6 +23270,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "今日"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "오늘"
           }
         },
         "lt": {
@@ -22766,6 +23462,12 @@
             "value": "明日"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "내일"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -22948,6 +23650,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "火曜日"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "화요일"
           }
         },
         "lt": {
@@ -23134,6 +23842,12 @@
             "value": "水曜日"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "수요일"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -23316,6 +24030,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "平日"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "평일"
           }
         },
         "lt": {
@@ -23502,6 +24222,12 @@
             "value": "週末"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "주말"
+          }
+        },
         "lt": {
           "stringUnit": {
             "state": "translated",
@@ -23684,6 +24410,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "昨日"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "어제"
           }
         },
         "lt": {

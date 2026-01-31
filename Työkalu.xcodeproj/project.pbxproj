@@ -113,6 +113,7 @@
 				hu,
 				it,
 				ja,
+				ko,
 				lt,
 				lv,
 				nb,
