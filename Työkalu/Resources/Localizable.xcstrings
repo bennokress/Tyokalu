@@ -23,6 +23,12 @@
             "value": "\"Työkalu\" ist das finnische Wort für \"Werkzeug\"."
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"Työkalu\" είναι η φινλανδική λέξη για \"εργαλείο\"."
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -171,6 +177,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ein Datum kann nie zwischen zwei gleichen Stunden liegen. Bitte gib unterschiedliche Zahlen für die frühere und spätere Stunde ein"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Μια ημερομηνία δεν μπορεί ποτέ να είναι μεταξύ δύο ίσων ωρών, παρακαλώ εισάγετε διαφορετικούς αριθμούς για την προηγούμενη και την επόμενη ώρα"
           }
         },
         "en": {
@@ -323,6 +335,12 @@
             "value": "Ein Tag hat 24 Stunden, daher ist eine Prüfung gegen Stunden über 24 nicht möglich"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Μια ημέρα έχει 24 ώρες, επομένως ο έλεγχος για ώρες πάνω από 24 είναι αδύνατος"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -473,6 +491,12 @@
             "value": "Ein Tag hat keine negativen Stunden, daher ist eine Prüfung gegen Stunden unter 0 nicht möglich"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Μια ημέρα δεν έχει αρνητικές ώρες, επομένως ο έλεγχος για ώρες κάτω από 0 είναι αδύνατος"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -620,6 +644,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Über diese App"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Σχετικά με αυτήν την εφαρμογή"
           }
         },
         "en": {
@@ -772,6 +802,12 @@
             "value": "Ein Anhang, der in der Mitteilung angezeigt wird (optional, siehe UNNotificationAttachment für weitere Informationen)"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ένα συνημμένο που θα εμφανιστεί στην ειδοποίηση (προαιρετικό, δείτε UNNotificationAttachment για περισσότερες πληροφορίες)"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -920,6 +956,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Anhang"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Συνημμένο"
           }
         },
         "en": {
@@ -1072,6 +1114,12 @@
             "value": "Datum"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ημερομηνία"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -1220,6 +1268,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Datum & Uhrzeit"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ημερομηνία & Ώρα"
           }
         },
         "en": {
@@ -1372,6 +1426,12 @@
             "value": "Gerätefunktionen"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Λειτουργικότητα συσκευής"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -1519,6 +1579,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Wusstest du?"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Το γνωρίζατε;"
           }
         },
         "en": {
@@ -1671,6 +1737,12 @@
             "value": "Nichts tun"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Να μην γίνει τίποτα"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -1819,6 +1891,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Frühere Stunde"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Προηγούμενη ώρα"
           }
         },
         "en": {
@@ -1970,6 +2048,12 @@
             "value": "Freitag"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Παρασκευή"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -2117,6 +2201,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Berechtigung erteilen"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Παραχώρηση άδειας"
           }
         },
         "en": {
@@ -2269,6 +2359,12 @@
             "value": "Mitteilungsberechtigung erteilen"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Παραχώρηση άδειας ειδοποιήσεων"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -2417,6 +2513,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Erteile zuerst die Mitteilungsberechtigung"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Παραχωρήστε πρώτα άδεια ειδοποιήσεων"
           }
         },
         "en": {
@@ -2569,6 +2671,12 @@
             "value": "Stundenprüfung"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Έλεγχος ώρας"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -2717,6 +2825,12 @@
             "value": "Ist ${date} ${typeOfDay}?"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Είναι ${date} ${typeOfDay};"
+          }
+        },
         "en-GB": {
           "stringUnit": {
             "state": "translated",
@@ -2851,6 +2965,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ist ${date} ein ${typeOfDay}?"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Είναι ${date} ${typeOfDay};"
           }
         },
         "en-GB": {
@@ -2989,6 +3109,12 @@
             "value": "Ist ${date} an einem ${typeOfDay}?"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Είναι ${date} ${typeOfDay};"
+          }
+        },
         "en-GB": {
           "stringUnit": {
             "state": "translated",
@@ -3125,6 +3251,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ist %1$@ %2$@?"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Είναι %1\\$@ %2\\$@;"
           }
         },
         "en": {
@@ -3277,6 +3409,12 @@
             "value": "Ist %1$@ ein %2$@?"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Είναι %1\\$@ %2\\$@;"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -3425,6 +3563,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ist %1$@ an einem %2$@?"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Είναι %1\\$@ %2\\$@;"
           }
         },
         "en": {
@@ -3577,6 +3721,12 @@
             "value": "Ist Tagestyp"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Είναι τύπος ημέρας"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -3725,6 +3875,12 @@
             "value": "Ist die Stunde von ${date} zwischen ${lowerBound} und ${upperBound}?"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Είναι η ώρα της ${date} μεταξύ ${lowerBound} και ${upperBound};"
+          }
+        },
         "en-GB": {
           "stringUnit": {
             "state": "translated",
@@ -3861,6 +4017,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ist die Stunde von %1$@ zwischen %2$lld und %3$lld?"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Είναι η ώρα της %1\\$@ μεταξύ %2\\$lld και %3\\$lld;"
           }
         },
         "en": {
@@ -4013,6 +4175,12 @@
             "value": "Spätere Stunde"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Επόμενη ώρα"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -4163,6 +4331,12 @@
             "value": "Nachricht"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Μήνυμα"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -4310,6 +4484,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Montag"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Δευτέρα"
           }
         },
         "en": {
@@ -4462,6 +4642,12 @@
             "value": "Mitteilungs-ID"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Αναγνωριστικό ειδοποίησης"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -4609,6 +4795,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Mitteilungsberechtigung"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Άδεια ειδοποιήσεων"
           }
         },
         "en": {
@@ -4761,6 +4953,12 @@
             "value": "Die Mitteilungsberechtigung wurde abgelehnt. Bitte aktiviere sie in den Einstellungen, um Mitteilungsaktionen zu nutzen."
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Η άδεια ειδοποιήσεων απορρίφθηκε. Παρακαλώ ενεργοποιήστε την στις Ρυθμίσεις για να χρησιμοποιήσετε ενέργειες ειδοποιήσεων."
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -4907,6 +5105,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Die Mitteilungsberechtigung wurde abgelehnt. Um Mitteilungsaktionen in Kurzbefehlen zu verwenden, musst du Mitteilungen in der Einstellungen-App aktivieren."
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Η άδεια ειδοποιήσεων απορρίφθηκε. Για να χρησιμοποιήσετε ενέργειες ειδοποιήσεων στις Συντομεύσεις, πρέπει να ενεργοποιήσετε τις ειδοποιήσεις στην εφαρμογή Ρυθμίσεις."
           }
         },
         "en": {
@@ -5059,6 +5263,12 @@
             "value": "Mitteilungen sind aktiviert."
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Οι ειδοποιήσεις είναι ενεργοποιημένες."
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -5207,6 +5417,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Mitteilungen sind vorläufig erlaubt. Erteile die vollständige Berechtigung für das beste Erlebnis."
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Οι ειδοποιήσεις επιτρέπονται προσωρινά. Παραχωρήστε πλήρη άδεια για την καλύτερη εμπειρία."
           }
         },
         "en": {
@@ -5359,6 +5575,12 @@
             "value": "Mitteilungen sind vorübergehend erlaubt."
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Οι ειδοποιήσεις επιτρέπονται προσωρινά."
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -5507,6 +5729,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Mitteilungen funktionieren einwandfrei!"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Οι ειδοποιήσεις λειτουργούν σωστά!"
           }
         },
         "en": {
@@ -5659,6 +5887,12 @@
             "value": "Mitteilungen auf iOS unterstützen keine so großen Anhänge wie den von dir bereitgestellten."
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Οι ειδοποιήσεις στο iOS δεν υποστηρίζουν συνημμένα τόσο μεγάλα όσο αυτό που παρείχατε."
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -5807,6 +6041,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Mitteilungen auf iOS unterstützen keine Anhänge dieses Typs."
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Οι ειδοποιήσεις στο iOS δεν υποστηρίζουν συνημμένα αυτού του τύπου."
           }
         },
         "en": {
@@ -5959,6 +6199,12 @@
             "value": "Mitteilungen auf iOS unterstützen keine Anhänge vom Typ \"%@\"."
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Οι ειδοποιήσεις στο iOS δεν υποστηρίζουν συνημμένα τύπου «%@»."
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -6108,6 +6354,12 @@
             "value": "Sobald die Mitteilungsberechtigung erteilt wurde, gibt es hier keine weitere Funktionalität außer der Verwendung der Testtaste unten, um zu überprüfen, ob Mitteilungen korrekt funktionieren."
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Μόλις χορηγηθεί η άδεια ειδοποιήσεων, δεν υπάρχει επιπλέον λειτουργικότητα εδώ εκτός από τη χρήση του κουμπιού δοκιμής παρακάτω για να επαληθεύσετε ότι οι ειδοποιήσεις λειτουργούν σωστά."
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -6254,6 +6506,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Einstellungen öffnen"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Άνοιγμα Ρυθμίσεων"
           }
         },
         "en": {
@@ -6406,6 +6664,12 @@
             "value": "URL öffnen"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Άνοιγμα URL"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -6552,6 +6816,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "App-Einstellungen öffnen"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Άνοιγμα ρυθμίσεων εφαρμογής"
           }
         },
         "en": {
@@ -6704,6 +6974,12 @@
             "value": "Öffnet einen Systemdialog, um Mitteilungen von dieser App zu erlauben"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ανοίγει ένα παράθυρο διαλόγου συστήματος για να επιτρέψει ειδοποιήσεις από αυτήν την εφαρμογή"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -6850,6 +7126,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Öffnet die Einstellungen-App, um Mitteilungen zu aktivieren"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ανοίγει την εφαρμογή Ρυθμίσεις για να ενεργοποιήσει τις ειδοποιήσεις"
           }
         },
         "en": {
@@ -6999,6 +7281,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Berechtigung erforderlich"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Απαιτείται άδεια"
           }
         },
         "en": {
@@ -7151,6 +7439,12 @@
             "value": "Bitte erteile die Mitteilungsberechtigung, um alle Funktionen zu nutzen."
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Παρακαλώ παραχωρήστε άδεια ειδοποιήσεων για να χρησιμοποιήσετε όλες τις λειτουργίες."
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -7298,6 +7592,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Bereit zum Senden von Mitteilungen"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Έτοιμο να στείλει ειδοποιήσεις"
           }
         },
         "en": {
@@ -7450,6 +7750,12 @@
             "value": "Kurzbefehl ausführen"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Εκτέλεση συντόμευσης"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -7597,6 +7903,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Samstag"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Σάββατο"
           }
         },
         "en": {
@@ -7748,6 +8060,12 @@
             "value": "Testmitteilung senden"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Αποστολή δοκιμαστικής ειδοποίησης"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -7896,6 +8214,12 @@
             "value": "Testmitteilung senden"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Αποστολή δοκιμαστικής ειδοποίησης"
+          }
+        },
         "en-GB": {
           "stringUnit": {
             "state": "translated",
@@ -8032,6 +8356,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Sendet eine Testmitteilung, um die Einrichtung zu überprüfen"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Στέλνει μια δοκιμαστική ειδοποίηση για επαλήθευση της ρύθμισης"
           }
         },
         "en": {
@@ -8184,6 +8514,12 @@
             "value": "Das Setzen einer Mitteilungs-ID ersetzt alle älteren Mitteilungen mit derselben Mitteilungs-ID"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ο ορισμός αναγνωριστικού ειδοποίησης θα αντικαταστήσει οποιαδήποτε παλαιότερη ειδοποίηση με το ίδιο αναγνωριστικό ειδοποίησης"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -8332,6 +8668,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Das Setzen einer Thread-ID gruppiert die Mitteilung mit anderen Mitteilungen, die dieselbe Thread-ID haben"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ο ορισμός αναγνωριστικού νήματος θα ομαδοποιήσει την ειδοποίηση με άλλες ειδοποιήσεις που έχουν το ίδιο αναγνωριστικό νήματος"
           }
         },
         "en": {
@@ -8484,6 +8826,12 @@
             "value": "Kurzbefehl-Eingabeparameter"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Παράμετρος εισόδου συντόμευσης"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -8632,6 +8980,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Kurzbefehlname"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Όνομα συντόμευσης"
           }
         },
         "en": {
@@ -8784,6 +9138,12 @@
             "value": "Mitteilung anzeigen"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Εμφάνιση ειδοποίησης"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -8932,6 +9292,12 @@
             "value": "Zeige Mitteilung mit ${title} und ${message}"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Εμφάνιση ειδοποίησης με ${title} και ${message}"
+          }
+        },
         "en-GB": {
           "stringUnit": {
             "state": "translated",
@@ -9068,6 +9434,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Zeige Mitteilung mit %1$@ und %2$@"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Εμφάνιση ειδοποίησης με %1\\$@ και %2\\$@"
           }
         },
         "en": {
@@ -9220,6 +9592,12 @@
             "value": "Untertitel"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Υπότιτλος"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -9367,6 +9745,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Sonntag"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Κυριακή"
           }
         },
         "en": {
@@ -9519,6 +9903,12 @@
             "value": "Tippaktion"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ενέργεια πατήματος"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -9665,6 +10055,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tippe auf die Taste unten, um die Einstellungen zu öffnen, und aktiviere dann \"Mitteilungen erlauben\" für diese App."
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Πατήστε το κουμπί παρακάτω για να ανοίξετε τις Ρυθμίσεις και μετά ενεργοποιήστε την επιλογή «Να επιτρέπονται οι ειδοποιήσεις» για αυτήν την εφαρμογή."
           }
         },
         "en": {
@@ -9817,6 +10213,12 @@
             "value": "Testmitteilung"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Δοκιμαστική ειδοποίηση"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -9963,6 +10365,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Mitteilungsfunktion testen"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Δοκιμή δυνατότητας ειδοποιήσεων"
           }
         },
         "en": {
@@ -10112,6 +10520,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Mitteilungen testen"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Δοκιμή ειδοποιήσεων"
           }
         },
         "en": {
@@ -10264,6 +10678,12 @@
             "value": "Die (nicht kodierte) Eingabe des Kurzbefehls, der beim Tippen auf die Mitteilung ausgeführt wird (optional)"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Η (μη κωδικοποιημένη) είσοδος της συντόμευσης που θα εκτελεστεί όταν πατηθεί η ειδοποίηση (προαιρετικό)"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -10412,6 +10832,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Die URL, die beim Tippen auf die Mitteilung geöffnet wird (erforderlich, wenn \"Tippaktion\" \"URL öffnen\" ist)"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Το URL που θα ανοίξει όταν πατηθεί η ειδοποίηση (απαιτείται αν η «Ενέργεια πατήματος» είναι «Άνοιγμα URL»)"
           }
         },
         "en": {
@@ -10564,6 +10990,12 @@
             "value": "Der Beginn des Zeitraums, gegen den geprüft wird (15 bedeutet ab 15:00 Uhr)"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Η αρχή του χρονικού πλαισίου για έλεγχο (15 σημαίνει στις ή μετά τις 15:00)"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -10712,6 +11144,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Das Ende des Zeitraums, gegen den geprüft wird (17 bedeutet vor 17:00 Uhr)"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Το τέλος του χρονικού πλαισίου για έλεγχο (17 σημαίνει πριν τις 17:00)"
           }
         },
         "en": {
@@ -10864,6 +11302,12 @@
             "value": "Der Name des Kurzbefehls, der beim Tippen auf die Mitteilung ausgeführt wird (erforderlich, wenn \"Tippaktion\" \"Kurzbefehl ausführen\" ist)"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Το όνομα της συντόμευσης που θα εκτελεστεί όταν πατηθεί η ειδοποίηση (απαιτείται αν η «Ενέργεια πατήματος» είναι «Εκτέλεση συντόμευσης»)"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -11012,6 +11456,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Die Mitteilungsnachricht darf nicht leer sein"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Το μήνυμα ειδοποίησης δεν μπορεί να είναι κενό"
           }
         },
         "en": {
@@ -11164,6 +11614,12 @@
             "value": "Der Mitteilungstitel darf nicht leer sein"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ο τίτλος ειδοποίησης δεν μπορεί να είναι κενός"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -11312,6 +11768,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Der Untertitel der Mitteilung (optional)"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ο υπότιτλος της ειδοποίησης (προαιρετικό)"
           }
         },
         "en": {
@@ -11464,6 +11926,12 @@
             "value": "Die Tippaktion \"URL öffnen\" erfordert eine gültige URL"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Η ενέργεια πατήματος «Άνοιγμα URL» απαιτεί έγκυρο URL"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -11612,6 +12080,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Die Tippaktion \"Kurzbefehl ausführen\" erfordert einen gültigen Kurzbefehlnamen"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Η ενέργεια πατήματος «Εκτέλεση συντόμευσης» απαιτεί έγκυρο όνομα συντόμευσης"
           }
         },
         "en": {
@@ -11764,6 +12238,12 @@
             "value": "Der Tagestyp, auf den du prüfen möchtest"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ο τύπος ημέρας που θέλετε να ελέγξετε"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -11912,6 +12392,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Diese Aktion zeigt eine Mitteilung auf diesem Gerät an."
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Αυτή η ενέργεια θα εμφανίσει μια ειδοποίηση σε αυτήν τη συσκευή."
           }
         },
         "en": {
@@ -12064,6 +12550,12 @@
             "value": "Diese Aktion gibt einen booleschen Wert zurück, der angibt, ob das gegebene Datum den gegebenen Tagestyp hat."
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Αυτή η ενέργεια θα επιστρέψει μια τιμή Boolean που υποδεικνύει αν η δεδομένη ημερομηνία έχει τον δεδομένο τύπο ημέρας."
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -12214,6 +12706,12 @@
             "value": "Diese Aktion gibt einen booleschen Wert zurück, der angibt, ob die Stunde des gegebenen Datums innerhalb des gegebenen Zeitraums liegt."
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Αυτή η ενέργεια θα επιστρέψει μια τιμή Boolean που υποδεικνύει αν η ώρα της δεδομένης ημερομηνίας είναι εντός του δεδομένου χρονικού πλαισίου."
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -12361,6 +12859,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Diese App ist dein Werkzeugkasten für Kurzbefehle und bietet wiederverwendbare Aktionen, die Apple nicht standardmäßig mitliefert."
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Αυτή η εφαρμογή είναι η εργαλειοθήκη σας για τις Συντομεύσεις, παρέχοντας επαναχρησιμοποιήσιμες ενέργειες που η Apple δεν περιλαμβάνει εκ των προτέρων."
           }
         },
         "en": {
@@ -12513,6 +13017,12 @@
             "value": "Diese App benötigt die Berechtigung zum Senden von Mitteilungen für Kurzbefehl-Aktionen."
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Αυτή η εφαρμογή χρειάζεται άδεια για αποστολή ειδοποιήσεων για ενέργειες Συντομεύσεων."
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -12660,6 +13170,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Diese App bietet Aktionen für die Kurzbefehle-App."
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Αυτή η εφαρμογή παρέχει ενέργειες για την εφαρμογή Συντομεύσεις."
           }
         },
         "en": {
@@ -12812,6 +13328,12 @@
             "value": "Thread-ID"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Αναγνωριστικό νήματος"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -12959,6 +13481,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Donnerstag"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Πέμπτη"
           }
         },
         "en": {
@@ -13111,6 +13639,12 @@
             "value": "Zeitkritisch?"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Χρονικά ευαίσθητο;"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -13259,6 +13793,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Titel"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Τίτλος"
           }
         },
         "en": {
@@ -13410,6 +13950,12 @@
             "value": "Heute"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Σήμερα"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -13559,6 +14105,12 @@
             "value": "Morgen"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Αύριο"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -13706,6 +14258,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Dienstag"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Τρίτη"
           }
         },
         "en": {
@@ -13858,6 +14416,12 @@
             "value": "Wenn aktiviert, kann die Mitteilung Fokusmodi durchbrechen"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Η ενεργοποίηση αυτού θα επιτρέψει στην ειδοποίηση να παρακάμψει τις λειτουργίες συγκέντρωσης"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -14006,6 +14570,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tagestyp"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Τύπος ημέρας"
           }
         },
         "en": {
@@ -14158,6 +14728,12 @@
             "value": "Työkalu benötigt die Berechtigung zum Senden von Mitteilungen. Bitte überprüfe deine Einstellungen."
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Το Työkalu χρειάζεται άδεια για αποστολή ειδοποιήσεων. Παρακαλώ ελέγξτε τις ρυθμίσεις σας."
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -14303,6 +14879,12 @@
           }
         },
         "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL"
+          }
+        },
+        "el": {
           "stringUnit": {
             "state": "translated",
             "value": "URL"
@@ -14456,6 +15038,12 @@
             "value": "War ${date} ${typeOfDay}?"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ήταν ${date} ${typeOfDay};"
+          }
+        },
         "en-GB": {
           "stringUnit": {
             "state": "translated",
@@ -14592,6 +15180,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "War %1$@ %2$@?"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ήταν %1\\$@ %2\\$@;"
           }
         },
         "en": {
@@ -14743,6 +15337,12 @@
             "value": "Mittwoch"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Τετάρτη"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -14892,6 +15492,12 @@
             "value": "Wochentag"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Καθημερινή"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -15039,6 +15645,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Wochenende"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Σαββατοκύριακο"
           }
         },
         "en": {
@@ -15191,6 +15803,12 @@
             "value": "Was passiert, wenn du auf die Mitteilung tippst"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Τι συμβαίνει όταν πατάτε την ειδοποίηση"
+          }
+        },
         "en": {
           "stringUnit": {
             "state": "translated",
@@ -15338,6 +15956,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Gestern"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Χθες"
           }
         },
         "en": {
@@ -15488,6 +16112,12 @@
             "value": "nachmittag"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "απόγευμα"
+          }
+        },
         "en-GB": {
           "stringUnit": {
             "state": "translated",
@@ -15622,6 +16252,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "hinweis"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ειδοποίηση"
           }
         },
         "en-GB": {
@@ -15760,6 +16396,12 @@
             "value": "abend"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "βράδυ"
+          }
+        },
         "en-GB": {
           "stringUnit": {
             "state": "translated",
@@ -15894,6 +16536,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "freitag"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "παρασκευή"
           }
         },
         "en-GB": {
@@ -16032,6 +16680,12 @@
             "value": "montag"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "δευτέρα"
+          }
+        },
         "en-GB": {
           "stringUnit": {
             "state": "translated",
@@ -16166,6 +16820,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "morgen"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "πρωί"
           }
         },
         "en-GB": {
@@ -16304,6 +16964,12 @@
             "value": "nacht"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "νύχτα"
+          }
+        },
         "en-GB": {
           "stringUnit": {
             "state": "translated",
@@ -16435,6 +17101,12 @@
           }
         },
         "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "push"
+          }
+        },
+        "el": {
           "stringUnit": {
             "state": "translated",
             "value": "push"
@@ -16576,6 +17248,12 @@
             "value": "samstag"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "σάββατο"
+          }
+        },
         "en-GB": {
           "stringUnit": {
             "state": "translated",
@@ -16710,6 +17388,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "sonntag"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "κυριακή"
           }
         },
         "en-GB": {
@@ -16848,6 +17532,12 @@
             "value": "donnerstag"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "πέμπτη"
+          }
+        },
         "en-GB": {
           "stringUnit": {
             "state": "translated",
@@ -16982,6 +17672,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "heute"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "σήμερα"
           }
         },
         "en-GB": {
@@ -17120,6 +17816,12 @@
             "value": "morgen"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "αύριο"
+          }
+        },
         "en-GB": {
           "stringUnit": {
             "state": "translated",
@@ -17254,6 +17956,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "dienstag"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "τρίτη"
           }
         },
         "en-GB": {
@@ -17392,6 +18100,12 @@
             "value": "mittwoch"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "τετάρτη"
+          }
+        },
         "en-GB": {
           "stringUnit": {
             "state": "translated",
@@ -17526,6 +18240,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "wochentag"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "καθημερινή"
           }
         },
         "en-GB": {
@@ -17664,6 +18384,12 @@
             "value": "wochenende"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "σαββατοκύριακο"
+          }
+        },
         "en-GB": {
           "stringUnit": {
             "state": "translated",
@@ -17798,6 +18524,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "gestern"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "χθες"
           }
         },
         "en-GB": {
