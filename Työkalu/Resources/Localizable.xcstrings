@@ -77,6 +77,12 @@
             "value": "\"Työkalu\" to fińskie słowo oznaczające \"narzędzie\"."
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"Työkalu\" je fínske slovo pre \"nástroj\"."
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -171,6 +177,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Data nigdy nie może być między dwiema równymi godzinami, proszę podać różne liczby dla wcześniejszej i późniejszej godziny"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dátum nemôže byť nikdy medzi dvoma rovnakými hodinami, prosím zadajte rôzne čísla pre skoršiu a neskoršiu hodinu"
           }
         },
         "sl": {
@@ -269,6 +281,12 @@
             "value": "Dzień ma 24 godziny, więc sprawdzanie godzin wyższych niż 24 jest niemożliwe"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deň má 24 hodín, preto nie je možné kontrolovať hodiny vyššie ako 24"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -365,6 +383,12 @@
             "value": "Dzień nie ma ujemnych godzin, więc sprawdzanie godzin niższych niż 0 jest niemożliwe"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deň nemá záporné hodiny, preto nie je možné kontrolovať hodiny nižšie ako 0"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -458,6 +482,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "O tej aplikacji"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O tejto aplikácii"
           }
         },
         "sl": {
@@ -556,6 +586,12 @@
             "value": "Załącznik, który będzie wyświetlany w powiadomieniu (opcjonalnie, zobacz UNNotificationAttachment po więcej informacji)"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Príloha, ktorá sa zobrazí v oznámení (voliteľné, pozrite UNNotificationAttachment pre viac informácií)"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -650,6 +686,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Załącznik"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Príloha"
           }
         },
         "sl": {
@@ -748,6 +790,12 @@
             "value": "Data"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dátum"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -842,6 +890,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Data i czas"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dátum a čas"
           }
         },
         "sl": {
@@ -940,6 +994,12 @@
             "value": "Funkcjonalność urządzenia"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Funkcie zariadenia"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -1033,6 +1093,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Czy wiesz?"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vedeli ste?"
           }
         },
         "sl": {
@@ -1131,6 +1197,12 @@
             "value": "Nic nie rób"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nerobiť nič"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -1225,6 +1297,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Wcześniejsza godzina"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Skoršia hodina"
           }
         },
         "sl": {
@@ -1322,6 +1400,12 @@
             "value": "Piątek"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Piatok"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -1415,6 +1499,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Udziel uprawnienia"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Udeliť povolenie"
           }
         },
         "sl": {
@@ -1513,6 +1603,12 @@
             "value": "Udziel uprawnienia do powiadomień"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Udeliť povolenie pre oznámenia"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -1609,6 +1705,12 @@
             "value": "Najpierw udziel uprawnienia do powiadomień"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Najprv udeľte povolenie pre oznámenia"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -1703,6 +1805,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Sprawdzanie godziny"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kontrola hodiny"
           }
         },
         "sl": {
@@ -2065,6 +2173,12 @@
             "value": "Czy %1\\$@ to %2\\$@?"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Je %1$@ %2$@?"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -2159,6 +2273,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Czy %1\\$@ to %2\\$@?"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Je %1$@ %2$@?"
           }
         },
         "sl": {
@@ -2257,6 +2377,12 @@
             "value": "Czy %1\\$@ przypada na %2\\$@?"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Je %1$@ v %2$@?"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -2351,6 +2477,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Czy to typ dnia"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Je typ dňa"
           }
         },
         "sl": {
@@ -2537,6 +2669,12 @@
             "value": "Czy godzina %1\\$@ jest między %2\\$lld a %3\\$lld?"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Je hodina z %1$@ medzi %2$lld a %3$lld?"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -2631,6 +2769,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Późniejsza godzina"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Neskoršia hodina"
           }
         },
         "sl": {
@@ -2729,6 +2873,12 @@
             "value": "Wiadomość"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Správa"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -2822,6 +2972,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Poniedziałek"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pondelok"
           }
         },
         "sl": {
@@ -2920,6 +3076,12 @@
             "value": "ID powiadomienia"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ID oznámenia"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -3013,6 +3175,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Uprawnienie do powiadomień"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Povolenie pre oznámenia"
           }
         },
         "sl": {
@@ -3111,6 +3279,12 @@
             "value": "Uprawnienie do powiadomień zostało odrzucone. Włącz je w Ustawieniach, aby używać akcji powiadomień."
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Povolenie pre oznámenia bolo zamietnuté. Prosím povoľte ho v Nastaveniach, aby ste mohli používať akcie oznámení."
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -3203,6 +3377,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Uprawnienie do powiadomień zostało odrzucone. Aby używać akcji powiadomień w Skrótach, musisz włączyć powiadomienia w aplikacji Ustawienia."
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Povolenie pre oznámenia bolo zamietnuté. Ak chcete používať akcie oznámení v Skratkách, musíte povoliť oznámenia v aplikácii Nastavenia."
           }
         },
         "sl": {
@@ -3301,6 +3481,12 @@
             "value": "Powiadomienia są włączone."
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oznámenia sú povolené."
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -3395,6 +3581,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Powiadomienia są tymczasowo dozwolone. Udziel pełnego uprawnienia dla najlepszego doświadczenia."
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oznámenia sú dočasne povolené. Udeľte úplné povolenie pre najlepší zážitok."
           }
         },
         "sl": {
@@ -3493,6 +3685,12 @@
             "value": "Powiadomienia są tymczasowo dozwolone."
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oznámenia sú dočasne povolené."
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -3587,6 +3785,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Powiadomienia działają poprawnie!"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oznámenia fungujú správne!"
           }
         },
         "sl": {
@@ -3685,6 +3889,12 @@
             "value": "Powiadomienia na iOS nie obsługują załączników tak dużych jak ten, który podałeś."
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oznámenia na iOS nepodporujú tak veľké prílohy, aká bola poskytnutá."
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -3779,6 +3989,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Powiadomienia na iOS nie obsługują załączników tego typu."
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oznámenia na iOS nepodporujú prílohy tohto typu."
           }
         },
         "sl": {
@@ -3877,6 +4093,12 @@
             "value": "Powiadomienia na iOS nie obsługują załączników typu «%@»."
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oznámenia na iOS nepodporujú prílohy typu \"%@\"."
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -3972,6 +4194,12 @@
             "value": "Po udzieleniu uprawnienia do powiadomień, nie ma tu żadnej dodatkowej funkcjonalności poza użyciem przycisku testowego poniżej, aby zweryfikować, że powiadomienia działają poprawnie."
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Po udelení povolenia pre oznámenia tu nie je žiadna ďalšia funkcionalita okrem použitia testovacieho tlačidla nižšie na overenie správneho fungovania oznámení."
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -4064,6 +4292,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Otwórz Ustawienia"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otvoriť Nastavenia"
           }
         },
         "sl": {
@@ -4162,6 +4396,12 @@
             "value": "Otwórz URL"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otvoriť URL"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -4254,6 +4494,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Otwórz ustawienia aplikacji"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otvoriť nastavenia aplikácie"
           }
         },
         "sl": {
@@ -4352,6 +4598,12 @@
             "value": "Otwiera okno dialogowe systemu, aby zezwolić na powiadomienia z tej aplikacji"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otvorí systémový dialóg na povolenie oznámení z tejto aplikácie"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -4444,6 +4696,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Otwiera aplikację Ustawienia, aby włączyć powiadomienia"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otvorí aplikáciu Nastavenia na povolenie oznámení"
           }
         },
         "sl": {
@@ -4539,6 +4797,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Wymagane uprawnienie"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vyžaduje sa povolenie"
           }
         },
         "sl": {
@@ -4637,6 +4901,12 @@
             "value": "Proszę udzielić uprawnienia do powiadomień, aby używać wszystkich funkcji."
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prosím udeľte povolenie pre oznámenia, aby ste mohli používať všetky funkcie."
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -4730,6 +5000,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Gotowe do wysyłania powiadomień"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pripravené na odosielanie oznámení"
           }
         },
         "sl": {
@@ -4828,6 +5104,12 @@
             "value": "Uruchom skrót"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Spustiť skratku"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -4918,6 +5200,12 @@
           }
         },
         "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sobota"
+          }
+        },
+        "sk": {
           "stringUnit": {
             "state": "translated",
             "value": "Sobota"
@@ -5016,6 +5304,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Wyślij testowe powiadomienie"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Odoslať testovacie oznámenie"
           }
         },
         "sl": {
@@ -5202,6 +5496,12 @@
             "value": "Wysyła testowe powiadomienie, aby zweryfikować konfigurację"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Odošle testovacie oznámenie na overenie nastavenia"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -5296,6 +5596,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ustawienie ID powiadomienia zastąpi wszystkie starsze powiadomienia z tym samym ID powiadomienia"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nastavenie ID oznámenia nahradí všetky staršie oznámenia s rovnakým ID oznámenia"
           }
         },
         "sl": {
@@ -5394,6 +5700,12 @@
             "value": "Ustawienie ID wątku zgrupuje powiadomienie z innymi powiadomieniami, które mają to samo ID wątku"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nastavenie ID vlákna zoskupí oznámenie s ostatnými oznámeniami, ktoré majú rovnaké ID vlákna"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -5488,6 +5800,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Parametr wejściowy skrótu"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vstupný parameter skratky"
           }
         },
         "sl": {
@@ -5586,6 +5904,12 @@
             "value": "Nazwa skrótu"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Názov skratky"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -5680,6 +6004,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Pokaż powiadomienie"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zobraziť oznámenie"
           }
         },
         "sl": {
@@ -5866,6 +6196,12 @@
             "value": "Pokaż powiadomienie z %1\\$@ i %2\\$@"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zobraziť oznámenie s %1$@ a %2$@"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -5962,6 +6298,12 @@
             "value": "Podtytuł"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Podnadpis"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -6055,6 +6397,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Niedziela"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nedeľa"
           }
         },
         "sl": {
@@ -6153,6 +6501,12 @@
             "value": "Akcja dotknięcia"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Akcia pri ťuknutí"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -6245,6 +6599,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Dotknij poniższego przycisku, aby otworzyć Ustawienia, a następnie włącz „Zezwalaj na powiadomienia\" dla tej aplikacji."
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ťuknite na tlačidlo nižšie pre otvorenie Nastavení a potom povoľte \"Povoliť oznámenia\" pre túto aplikáciu."
           }
         },
         "sl": {
@@ -6343,6 +6703,12 @@
             "value": "Testowe powiadomienie"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testovacie oznámenie"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -6435,6 +6801,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Testuj funkcję powiadomień"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testovať funkciu oznámení"
           }
         },
         "sl": {
@@ -6530,6 +6902,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Testuj powiadomienia"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testovať oznámenia"
           }
         },
         "sl": {
@@ -6628,6 +7006,12 @@
             "value": "(Niekodowane) wejście skrótu do uruchomienia po dotknięciu powiadomienia (opcjonalnie)"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "(Nekódovaný) vstup skratky, ktorá sa spustí po ťuknutí na oznámenie (voliteľné)"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -6722,6 +7106,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "URL do otwarcia po dotknięciu powiadomienia (wymagane, jeśli „Akcja dotknięcia\" to „Otwórz URL\")"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL adresa, ktorá sa otvorí po ťuknutí na oznámenie (vyžaduje sa, ak je \"Akcia pri ťuknutí\" nastavená na \"Otvoriť URL\")"
           }
         },
         "sl": {
@@ -6820,6 +7210,12 @@
             "value": "Początek przedziału czasowego do sprawdzenia (15 oznacza o lub po 15:00)"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Začiatok časového rámca na kontrolu (15 znamená od 15:00)"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -6914,6 +7310,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Koniec przedziału czasowego do sprawdzenia (17 oznacza przed 17:00)"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Koniec časového rámca na kontrolu (17 znamená pred 17:00)"
           }
         },
         "sl": {
@@ -7012,6 +7414,12 @@
             "value": "Nazwa skrótu do uruchomienia po dotknięciu powiadomienia (wymagane, jeśli „Akcja dotknięcia\" to „Uruchom skrót\")"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Názov skratky, ktorá sa spustí po ťuknutí na oznámenie (vyžaduje sa, ak je \"Akcia pri ťuknutí\" nastavená na \"Spustiť skratku\")"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -7106,6 +7514,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Treść powiadomienia nie może być pusta"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Správa oznámenia nemôže byť prázdna"
           }
         },
         "sl": {
@@ -7204,6 +7618,12 @@
             "value": "Tytuł powiadomienia nie może być pusty"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Názov oznámenia nemôže byť prázdny"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -7298,6 +7718,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Podtytuł powiadomienia (opcjonalnie)"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Podnadpis oznámenia (voliteľné)"
           }
         },
         "sl": {
@@ -7396,6 +7822,12 @@
             "value": "Akcja dotknięcia „Otwórz URL\" wymaga prawidłowego URL"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Akcia pri ťuknutí \"Otvoriť URL\" vyžaduje platnú URL adresu"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -7490,6 +7922,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Akcja dotknięcia „Uruchom skrót\" wymaga prawidłowej nazwy skrótu"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Akcia pri ťuknutí \"Spustiť skratku\" vyžaduje platný názov skratky"
           }
         },
         "sl": {
@@ -7588,6 +8026,12 @@
             "value": "Typ dnia, który chcesz sprawdzić"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Typ dňa, ktorý chcete skontrolovať"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -7682,6 +8126,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ta czynność wyświetli powiadomienie na tym urządzeniu."
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Táto akcia zobrazí oznámenie na tomto zariadení."
           }
         },
         "sl": {
@@ -7780,6 +8230,12 @@
             "value": "Ta czynność zwróci wartość logiczną reprezentującą, czy podana data ma podany typ dnia."
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Táto akcia vráti boolovskú hodnotu reprezentujúcu, či daný dátum má daný typ dňa."
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -7876,6 +8332,12 @@
             "value": "Ta czynność zwróci wartość logiczną reprezentującą, czy godzina podanej daty mieści się w podanym przedziale czasowym."
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Táto akcia vráti boolovskú hodnotu reprezentujúcu, či hodina daného dátumu je v danom časovom rámci."
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -7969,6 +8431,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ta aplikacja to Twój zestaw narzędzi dla Skrótów, oferujący czynności wielokrotnego użytku, które Apple nie dołącza standardowo."
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Táto aplikácia je váš panel nástrojov pre Skratky, ktorý poskytuje opakovane použiteľné akcie, ktoré Apple štandardne neponúka."
           }
         },
         "sl": {
@@ -8067,6 +8535,12 @@
             "value": "Ta aplikacja potrzebuje uprawnienia do wysyłania powiadomień dla czynności Skrótów."
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Táto aplikácia potrebuje povolenie na odosielanie oznámení pre akcie Skratiek."
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -8160,6 +8634,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ta aplikacja oferuje czynności dla aplikacji Skróty."
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Táto aplikácia poskytuje akcie pre aplikáciu Skratky."
           }
         },
         "sl": {
@@ -8258,6 +8738,12 @@
             "value": "ID wątku"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ID vlákna"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -8351,6 +8837,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Czwartek"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Štvrtok"
           }
         },
         "sl": {
@@ -8449,6 +8941,12 @@
             "value": "Pilne?"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Časovo citlivé?"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -8543,6 +9041,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tytuł"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Názov"
           }
         },
         "sl": {
@@ -8640,6 +9144,12 @@
             "value": "Dzisiaj"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dnes"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -8735,6 +9245,12 @@
             "value": "Jutro"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zajtra"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -8828,6 +9344,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Wtorek"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Utorok"
           }
         },
         "sl": {
@@ -8926,6 +9448,12 @@
             "value": "Włączenie tej opcji pozwoli powiadomieniu przebić się przez tryby skupienia"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zapnutím tejto možnosti povolíte oznámeniu prerušiť režimy sústredenia"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -9020,6 +9548,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Typ dnia"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Typ dňa"
           }
         },
         "sl": {
@@ -9118,6 +9652,12 @@
             "value": "Työkalu potrzebuje uprawnienia do wysyłania powiadomień. Proszę sprawdzić swoje ustawienia."
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Työkalu potrebuje povolenie na odosielanie oznámení. Prosím skontrolujte vaše nastavenia."
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -9209,6 +9749,12 @@
           }
         },
         "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL"
+          }
+        },
+        "sk": {
           "stringUnit": {
             "state": "translated",
             "value": "URL"
@@ -9398,6 +9944,12 @@
             "value": "Czy %1\\$@ było %2\\$@?"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bol %1$@ %2$@?"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -9491,6 +10043,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Środa"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Streda"
           }
         },
         "sl": {
@@ -9588,6 +10146,12 @@
             "value": "Dzień roboczy"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pracovný deň"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -9681,6 +10245,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Weekend"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Víkend"
           }
         },
         "sl": {
@@ -9779,6 +10349,12 @@
             "value": "Co się dzieje po dotknięciu powiadomienia"
           }
         },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Čo sa stane, keď ťuknete na oznámenie"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -9872,6 +10448,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Wczoraj"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Včera"
           }
         },
         "sl": {

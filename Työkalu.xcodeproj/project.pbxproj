@@ -108,6 +108,7 @@
 				nl,
 				nn,
 				pl,
+				sk,
 				sl,
 				sv,
 				uk,
