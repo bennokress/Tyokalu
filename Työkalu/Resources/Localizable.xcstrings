@@ -65,6 +65,12 @@
             "value": "\"Työkalu\" est le mot finnois pour \"outil\"."
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"Työkalu\" फ़िनिश भाषा में \"टूल\" के लिए शब्द है।"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -237,6 +243,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Une date ne peut jamais se situer entre deux heures identiques. Veuillez entrer des nombres différents pour les heures de début et de fin"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "एक तारीख़ कभी भी दो समान घंटों के बीच नहीं हो सकती, कृपया पहले और बाद के घंटों के लिए अलग-अलग संख्याएँ दर्ज करें"
           }
         },
         "hr": {
@@ -413,6 +425,12 @@
             "value": "Une journée a 24 heures, il est donc impossible de vérifier des heures supérieures à 24"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "एक दिन में 24 घंटे होते हैं, इसलिए 24 से अधिक घंटों की जाँच करना संभव नहीं है"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -587,6 +605,12 @@
             "value": "Une journée n'a pas d'heures négatives, il est donc impossible de vérifier des heures inférieures à 0"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "एक दिन में नकारात्मक घंटे नहीं होते, इसलिए 0 से कम घंटों की जाँच करना संभव नहीं है"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -758,6 +782,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "À propos de cette app"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "इस ऐप के बारे में"
           }
         },
         "hr": {
@@ -934,6 +964,12 @@
             "value": "Une pièce jointe qui sera affichée dans la notification (facultatif, voir UNNotificationAttachment pour plus d'informations)"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "एक अटैचमेंट जो सूचना में प्रदर्शित किया जाएगा (वैकल्पिक, अधिक जानकारी के लिए UNNotificationAttachment देखें)"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -1106,6 +1142,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Pièce jointe"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "अटैचमेंट"
           }
         },
         "hr": {
@@ -1282,6 +1324,12 @@
             "value": "Date"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "तारीख़"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -1454,6 +1502,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Date et heure"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "तारीख़ और समय"
           }
         },
         "hr": {
@@ -1630,6 +1684,12 @@
             "value": "Fonctionnalités de l'appareil"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "डिवाइस कार्यक्षमता"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -1801,6 +1861,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Le saviez-vous ?"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "क्या आप जानते हैं?"
           }
         },
         "hr": {
@@ -1977,6 +2043,12 @@
             "value": "Ne rien faire"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "कुछ न करें"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -2149,6 +2221,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Heure de début"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "पहले का घंटा"
           }
         },
         "hr": {
@@ -2324,6 +2402,12 @@
             "value": "Vendredi"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "शुक्रवार"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -2495,6 +2579,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Accorder l'autorisation"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "अनुमति दें"
           }
         },
         "hr": {
@@ -2671,6 +2761,12 @@
             "value": "Accorder l'autorisation de notification"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सूचना अनुमति दें"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -2843,6 +2939,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Accordez d'abord l'autorisation de notification"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "पहले सूचना अनुमति दें"
           }
         },
         "hr": {
@@ -3019,6 +3121,12 @@
             "value": "Vérification de l'heure"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "घंटा जाँच"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -3185,6 +3293,12 @@
             "value": "Est-ce que ${date} est ${typeOfDay} ?"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "क्या ${date} ${typeOfDay} है?"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -3345,6 +3459,12 @@
             "value": "Est-ce que ${date} est un ${typeOfDay} ?"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "क्या ${date} एक ${typeOfDay} है?"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -3503,6 +3623,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Est-ce que ${date} est un ${typeOfDay} ?"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "क्या ${date} एक ${typeOfDay} पर है?"
           }
         },
         "hr": {
@@ -3671,6 +3797,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Est-ce que %1$@ est %2$@ ?"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "क्या %1$@ %2$@ है?"
           }
         },
         "hr": {
@@ -3847,6 +3979,12 @@
             "value": "Est-ce que %1$@ est un %2$@ ?"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "क्या %1$@ एक %2$@ है?"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -4019,6 +4157,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Est-ce que %1$@ est un %2$@ ?"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "क्या %1$@ एक %2$@ पर है?"
           }
         },
         "hr": {
@@ -4195,6 +4339,12 @@
             "value": "Est un type de jour"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "दिन का प्रकार है"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -4359,6 +4509,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "L'heure de ${date} est-elle comprise entre ${lowerBound} et ${upperBound} ?"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "क्या ${date} का घंटा ${lowerBound} और ${upperBound} के बीच है?"
           }
         },
         "hr": {
@@ -4527,6 +4683,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "L'heure de %1$@ est-elle comprise entre %2$lld et %3$lld ?"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "क्या %1$@ का घंटा %2$lld और %3$lld के बीच है?"
           }
         },
         "hr": {
@@ -4703,6 +4865,12 @@
             "value": "Heure de fin"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "बाद का घंटा"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -4877,6 +5045,12 @@
             "value": "Message"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "संदेश"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -5048,6 +5222,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Lundi"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सोमवार"
           }
         },
         "hr": {
@@ -5224,6 +5404,12 @@
             "value": "ID de notification"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सूचना ID"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -5395,6 +5581,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Autorisation de notification"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सूचना अनुमति"
           }
         },
         "hr": {
@@ -5571,6 +5763,12 @@
             "value": "L'autorisation de notification a été refusée. Veuillez l'activer dans Réglages pour utiliser les actions de notification."
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सूचना अनुमति अस्वीकृत की गई। सूचना क्रियाओं का उपयोग करने के लिए कृपया इसे सेटिंग्स में सक्षम करें।"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -5741,6 +5939,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "L'autorisation de notification a été refusée. Pour utiliser les actions de notification dans Raccourcis, vous devez activer les notifications dans l'app Réglages."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सूचना अनुमति अस्वीकृत की गई। शॉर्टकट में सूचना क्रियाओं का उपयोग करने के लिए, आपको सेटिंग्स ऐप में सूचनाएँ सक्षम करनी होंगी।"
           }
         },
         "hr": {
@@ -5917,6 +6121,12 @@
             "value": "Les notifications sont activées."
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सूचनाएँ सक्षम हैं।"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -6089,6 +6299,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Les notifications sont autorisées provisoirement. Accordez l'autorisation complète pour une meilleure expérience."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सूचनाएँ अस्थायी रूप से अनुमत हैं। सर्वोत्तम अनुभव के लिए पूर्ण अनुमति दें।"
           }
         },
         "hr": {
@@ -6265,6 +6481,12 @@
             "value": "Les notifications sont temporairement autorisées."
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सूचनाएँ अस्थायी रूप से अनुमत हैं।"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -6437,6 +6659,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Les notifications fonctionnent correctement !"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सूचनाएँ सही तरीके से काम कर रही हैं!"
           }
         },
         "hr": {
@@ -6613,6 +6841,12 @@
             "value": "Les notifications sur iOS ne prennent pas en charge les pièces jointes aussi volumineuses que celle fournie."
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iOS पर सूचनाएँ आपके द्वारा प्रदान किए गए जितने बड़े अटैचमेंट का समर्थन नहीं करती हैं।"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -6785,6 +7019,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Les notifications sur iOS ne prennent pas en charge les pièces jointes de ce type."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iOS पर सूचनाएँ इस प्रकार के अटैचमेंट का समर्थन नहीं करती हैं।"
           }
         },
         "hr": {
@@ -6961,6 +7201,12 @@
             "value": "Les notifications sur iOS ne prennent pas en charge les pièces jointes de type « %@ »."
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iOS पर सूचनाएँ \"%@\" प्रकार के अटैचमेंट का समर्थन नहीं करती हैं।"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -7134,6 +7380,12 @@
             "value": "Une fois l'autorisation de notification accordée, il n'y a pas d'autres fonctionnalités ici, à part utiliser le bouton de test ci-dessous pour vérifier que les notifications fonctionnent correctement."
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "एक बार सूचना अनुमति दिए जाने के बाद, यहाँ कोई अतिरिक्त कार्यक्षमता नहीं है सिवाय नीचे दिए गए टेस्ट बटन का उपयोग करके यह सत्यापित करने के कि सूचनाएँ सही तरीके से काम कर रही हैं।"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -7304,6 +7556,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ouvrir Réglages"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सेटिंग्स खोलें"
           }
         },
         "hr": {
@@ -7480,6 +7738,12 @@
             "value": "Ouvrir l'URL"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL खोलें"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -7650,6 +7914,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ouvrir les réglages de l'app"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ऐप सेटिंग्स खोलें"
           }
         },
         "hr": {
@@ -7826,6 +8096,12 @@
             "value": "Ouvre une boîte de dialogue système pour autoriser les notifications de cette app"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "इस ऐप से सूचनाओं को अनुमति देने के लिए एक सिस्टम डायलॉग खोलता है"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -7996,6 +8272,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ouvre l'app Réglages pour activer les notifications"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सूचनाएँ सक्षम करने के लिए सेटिंग्स ऐप खोलता है"
           }
         },
         "hr": {
@@ -8169,6 +8451,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Autorisation requise"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "अनुमति आवश्यक"
           }
         },
         "hr": {
@@ -8345,6 +8633,12 @@
             "value": "Veuillez accorder l'autorisation de notification pour utiliser toutes les fonctionnalités."
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सभी सुविधाओं का उपयोग करने के लिए कृपया सूचना अनुमति दें।"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -8516,6 +8810,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Prêt à envoyer des notifications"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सूचनाएँ भेजने के लिए तैयार"
           }
         },
         "hr": {
@@ -8692,6 +8992,12 @@
             "value": "Exécuter un raccourci"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "शॉर्टकट चलाएँ"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -8863,6 +9169,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Samedi"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "शनिवार"
           }
         },
         "hr": {
@@ -9038,6 +9350,12 @@
             "value": "Envoyer une notification de test"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "टेस्ट सूचना भेजें"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -9202,6 +9520,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Envoyer une notification de test"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "टेस्ट सूचना भेजें"
           }
         },
         "hr": {
@@ -9370,6 +9694,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Envoie une notification de test pour vérifier la configuration"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सेटअप को सत्यापित करने के लिए एक टेस्ट सूचना भेजता है"
           }
         },
         "hr": {
@@ -9546,6 +9876,12 @@
             "value": "Définir un ID de notification remplacera toute notification plus ancienne avec le même ID de notification"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सूचना ID सेट करने से उसी सूचना ID वाली कोई भी पुरानी सूचना बदल जाएगी"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -9718,6 +10054,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Définir un ID de fil regroupera la notification avec d'autres notifications ayant le même ID de fil"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "थ्रेड ID सेट करने से सूचना उन अन्य सूचनाओं के साथ समूहित हो जाएगी जिनकी थ्रेड ID समान है"
           }
         },
         "hr": {
@@ -9894,6 +10236,12 @@
             "value": "Paramètre d'entrée du raccourci"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "शॉर्टकट इनपुट पैरामीटर"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -10066,6 +10414,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Nom du raccourci"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "शॉर्टकट का नाम"
           }
         },
         "hr": {
@@ -10242,6 +10596,12 @@
             "value": "Afficher une notification"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सूचना दिखाएँ"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -10406,6 +10766,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Afficher une notification avec ${title} et ${message}"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${title} और ${message} के साथ सूचना दिखाएँ"
           }
         },
         "hr": {
@@ -10574,6 +10940,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Afficher une notification avec %1$@ et %2$@"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ और %2$@ के साथ सूचना दिखाएँ"
           }
         },
         "hr": {
@@ -10750,6 +11122,12 @@
             "value": "Sous-titre"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "उपशीर्षक"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -10921,6 +11299,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Dimanche"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "रविवार"
           }
         },
         "hr": {
@@ -11097,6 +11481,12 @@
             "value": "Action au toucher"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "टैप क्रिया"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -11267,6 +11657,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Appuyez sur le bouton ci-dessous pour ouvrir Réglages, puis activez « Autoriser les notifications » pour cette app."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सेटिंग्स खोलने के लिए नीचे दिए गए बटन पर टैप करें, फिर इस ऐप के लिए \"सूचनाएँ अनुमति दें\" सक्षम करें।"
           }
         },
         "hr": {
@@ -11443,6 +11839,12 @@
             "value": "Notification de test"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "टेस्ट सूचना"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -11613,6 +12015,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tester la fonctionnalité de notification"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सूचना क्षमता परीक्षण करें"
           }
         },
         "hr": {
@@ -11786,6 +12194,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tester les notifications"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सूचनाएँ परीक्षण करें"
           }
         },
         "hr": {
@@ -11962,6 +12376,12 @@
             "value": "L'entrée (non encodée) du raccourci à exécuter lorsque la notification est touchée (facultatif)"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सूचना पर टैप करने पर चलाए जाने वाले शॉर्टकट का (अनएन्कोडेड) इनपुट (वैकल्पिक)"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -12134,6 +12554,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "L'URL à ouvrir lorsque la notification est touchée (requis si « Action au toucher » est « Ouvrir l'URL »)"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सूचना पर टैप करने पर खोलने के लिए URL (\"टैप क्रिया\" \"URL खोलें\" होने पर आवश्यक)"
           }
         },
         "hr": {
@@ -12310,6 +12736,12 @@
             "value": "Le début de la plage horaire à vérifier (15 signifie à partir de 15h00)"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "जाँच करने के लिए समय सीमा की शुरुआत (15 का मतलब है 15:00/3pm या उसके बाद)"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -12482,6 +12914,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "La fin de la plage horaire à vérifier (17 signifie avant 17h00)"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "जाँच करने के लिए समय सीमा का अंत (17 का मतलब है 17:00/5pm से पहले)"
           }
         },
         "hr": {
@@ -12658,6 +13096,12 @@
             "value": "Le nom du raccourci à exécuter lorsque la notification est touchée (requis si « Action au toucher » est « Exécuter un raccourci »)"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सूचना पर टैप करने पर चलाए जाने वाले शॉर्टकट का नाम (\"टैप क्रिया\" \"शॉर्टकट चलाएँ\" होने पर आवश्यक)"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -12830,6 +13274,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Le message de la notification ne peut pas être vide"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सूचना संदेश खाली नहीं हो सकता"
           }
         },
         "hr": {
@@ -13006,6 +13456,12 @@
             "value": "Le titre de la notification ne peut pas être vide"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सूचना शीर्षक खाली नहीं हो सकता"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -13178,6 +13634,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Le sous-titre de la notification (facultatif)"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सूचना का उपशीर्षक (वैकल्पिक)"
           }
         },
         "hr": {
@@ -13354,6 +13816,12 @@
             "value": "L'action au toucher « Ouvrir l'URL » nécessite une URL valide"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "टैप क्रिया \"URL खोलें\" के लिए एक वैध URL आवश्यक है"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -13526,6 +13994,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "L'action au toucher « Exécuter un raccourci » nécessite un nom de raccourci valide"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "टैप क्रिया \"शॉर्टकट चलाएँ\" के लिए एक वैध शॉर्टकट नाम आवश्यक है"
           }
         },
         "hr": {
@@ -13702,6 +14176,12 @@
             "value": "Le type de jour que vous souhaitez vérifier"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "दिन का प्रकार जिसके लिए आप जाँच करना चाहते हैं"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -13874,6 +14354,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Cette action affichera une notification sur cet appareil."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "यह क्रिया इस डिवाइस पर एक सूचना प्रदर्शित करेगी।"
           }
         },
         "hr": {
@@ -14050,6 +14536,12 @@
             "value": "Cette action renverra une valeur booléenne indiquant si la date donnée correspond au type de jour donné."
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "यह क्रिया एक बूलियन मान लौटाएगी जो दर्शाता है कि दी गई तारीख़ में दिए गए प्रकार का दिन है या नहीं।"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -14224,6 +14716,12 @@
             "value": "Cette action renverra une valeur booléenne indiquant si l'heure de la date donnée se situe dans la plage horaire donnée."
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "यह क्रिया एक बूलियन मान लौटाएगी जो दर्शाता है कि दी गई तारीख़ का घंटा दिए गए समय सीमा के अंदर है या नहीं।"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -14395,6 +14893,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Cette app est votre boîte à outils pour Raccourcis, fournissant des actions réutilisables qu'Apple n'inclut pas par défaut."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "यह ऐप शॉर्टकट के लिए आपका टूलबॉक्स है, जो पुन: प्रयोज्य क्रियाएँ प्रदान करता है जो Apple डिफ़ॉल्ट रूप से शामिल नहीं करता।"
           }
         },
         "hr": {
@@ -14571,6 +15075,12 @@
             "value": "Cette app a besoin de l'autorisation d'envoyer des notifications pour les actions de Raccourcis."
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "इस ऐप को शॉर्टकट क्रियाओं के लिए सूचनाएँ भेजने की अनुमति चाहिए।"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -14742,6 +15252,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Cette app fournit des actions pour l'app Raccourcis."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "यह ऐप शॉर्टकट ऐप के लिए क्रियाएँ प्रदान करता है।"
           }
         },
         "hr": {
@@ -14918,6 +15434,12 @@
             "value": "ID de fil"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "थ्रेड ID"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -15089,6 +15611,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Jeudi"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "गुरुवार"
           }
         },
         "hr": {
@@ -15265,6 +15793,12 @@
             "value": "Urgent ?"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "समय-संवेदनशील?"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -15437,6 +15971,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Titre"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "शीर्षक"
           }
         },
         "hr": {
@@ -15612,6 +16152,12 @@
             "value": "Aujourd'hui"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "आज"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -15785,6 +16331,12 @@
             "value": "Demain"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "कल"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -15956,6 +16508,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Mardi"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "मंगलवार"
           }
         },
         "hr": {
@@ -16132,6 +16690,12 @@
             "value": "Activer cette option permettra à la notification de passer outre les modes de concentration"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "इसे चालू करने से सूचना को फ़ोकस मोड को भेदने की अनुमति मिलेगी"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -16304,6 +16868,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Type de jour"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "दिन का प्रकार"
           }
         },
         "hr": {
@@ -16480,6 +17050,12 @@
             "value": "Työkalu a besoin de l'autorisation d'envoyer des notifications. Veuillez vérifier vos réglages."
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Työkalu को सूचनाएँ भेजने की अनुमति चाहिए। कृपया अपनी सेटिंग्स की समीक्षा करें।"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -16654,6 +17230,12 @@
             "value": "URL"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -16818,6 +17400,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Est-ce que ${date} était ${typeOfDay} ?"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "क्या ${date} ${typeOfDay} था?"
           }
         },
         "hr": {
@@ -16986,6 +17574,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Est-ce que %1$@ était %2$@ ?"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "क्या %1$@ %2$@ था?"
           }
         },
         "hr": {
@@ -17161,6 +17755,12 @@
             "value": "Mercredi"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "बुधवार"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -17334,6 +17934,12 @@
             "value": "Jour de semaine"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "कार्यदिवस"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -17505,6 +18111,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Week-end"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सप्ताहांत"
           }
         },
         "hr": {
@@ -17681,6 +18293,12 @@
             "value": "Ce qui se passe lorsque vous touchez la notification"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "जब आप सूचना पर टैप करते हैं तो क्या होता है"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -17854,6 +18472,12 @@
             "value": "Hier"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "कल"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -18020,6 +18644,12 @@
             "value": "après-midi"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "दोपहर"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -18178,6 +18808,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "alerte"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "अलर्ट"
           }
         },
         "hr": {
@@ -18340,6 +18976,12 @@
             "value": "soir"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "शाम"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -18498,6 +19140,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "vendredi"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "शुक्रवार"
           }
         },
         "hr": {
@@ -18660,6 +19308,12 @@
             "value": "lundi"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सोमवार"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -18818,6 +19472,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "matin"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सुबह"
           }
         },
         "hr": {
@@ -18980,6 +19640,12 @@
             "value": "nuit"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "रात"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -19135,6 +19801,12 @@
           }
         },
         "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "push"
+          }
+        },
+        "hi": {
           "stringUnit": {
             "state": "translated",
             "value": "push"
@@ -19300,6 +19972,12 @@
             "value": "samedi"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "शनिवार"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -19458,6 +20136,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "dimanche"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "रविवार"
           }
         },
         "hr": {
@@ -19620,6 +20304,12 @@
             "value": "jeudi"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "गुरुवार"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -19778,6 +20468,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "aujourd'hui"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "आज"
           }
         },
         "hr": {
@@ -19940,6 +20636,12 @@
             "value": "demain"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "कल"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -20098,6 +20800,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "mardi"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "मंगलवार"
           }
         },
         "hr": {
@@ -20260,6 +20968,12 @@
             "value": "mercredi"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "बुधवार"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -20418,6 +21132,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "jour de semaine"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "कार्यदिवस"
           }
         },
         "hr": {
@@ -20580,6 +21300,12 @@
             "value": "week-end"
           }
         },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सप्ताहांत"
+          }
+        },
         "hr": {
           "stringUnit": {
             "state": "translated",
@@ -20738,6 +21464,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "hier"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "कल"
           }
         },
         "hr": {
