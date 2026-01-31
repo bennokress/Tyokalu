@@ -18,7 +18,7 @@ extension String {
     }
 
     /// Returns `nil` if the String is empty
-    var replacedWithNilIfEmpty: String? {
+    nonisolated var replacedWithNilIfEmpty: String? {
         isEmpty ? nil : self
     }
 
