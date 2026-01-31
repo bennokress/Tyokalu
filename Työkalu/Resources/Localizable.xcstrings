@@ -53,6 +53,12 @@
             "value": "\"Työkalu\" est le mot finnois pour \"outil\"."
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"Työkalu\" a finn szó az \"eszköz\"-re."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -171,6 +177,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Une date ne peut jamais se situer entre deux heures identiques. Veuillez entrer des nombres différents pour les heures de début et de fin"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Egy dátum soha nem lehet két egyenlő óra között, kérjük, adj meg különböző számokat korábbi és későbbi óraként"
           }
         },
         "it": {
@@ -293,6 +305,12 @@
             "value": "Une journée a 24 heures, il est donc impossible de vérifier des heures supérieures à 24"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Egy nap 24 órából áll, ezért 24-nél magasabb óra ellenőrzése lehetetlen"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -413,6 +431,12 @@
             "value": "Une journée n'a pas d'heures négatives, il est donc impossible de vérifier des heures inférieures à 0"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Egy napnak nincsenek negatív órái, ezért 0-nál alacsonyabb óra ellenőrzése lehetetlen"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -530,6 +554,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "À propos de cette app"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Az alkalmazásról"
           }
         },
         "it": {
@@ -652,6 +682,12 @@
             "value": "Une pièce jointe qui sera affichée dans la notification (facultatif, voir UNNotificationAttachment pour plus d'informations)"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Az értesítésben megjelenő melléklet (opcionális, további információkért lásd az UNNotificationAttachment dokumentációt)"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -770,6 +806,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Pièce jointe"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Melléklet"
           }
         },
         "it": {
@@ -892,6 +934,12 @@
             "value": "Date"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dátum"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -1010,6 +1058,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Date et heure"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dátum és idő"
           }
         },
         "it": {
@@ -1132,6 +1186,12 @@
             "value": "Fonctionnalités de l'appareil"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eszközfunkciók"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -1249,6 +1309,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Le saviez-vous ?"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tudtad?"
           }
         },
         "it": {
@@ -1371,6 +1437,12 @@
             "value": "Ne rien faire"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ne csinálj semmit"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -1489,6 +1561,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Heure de début"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Korábbi óra"
           }
         },
         "it": {
@@ -1610,6 +1688,12 @@
             "value": "Vendredi"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Péntek"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -1727,6 +1811,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Accorder l'autorisation"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Engedély megadása"
           }
         },
         "it": {
@@ -1849,6 +1939,12 @@
             "value": "Accorder l'autorisation de notification"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Értesítési engedély megadása"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -1967,6 +2063,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Accordez d'abord l'autorisation de notification"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Először add meg az értesítési engedélyt"
           }
         },
         "it": {
@@ -2089,6 +2191,12 @@
             "value": "Vérification de l'heure"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Óra ellenőrzése"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -2201,6 +2309,12 @@
             "value": "Est-ce que ${date} est ${typeOfDay} ?"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date} ${typeOfDay}?"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -2307,6 +2421,12 @@
             "value": "Est-ce que ${date} est un ${typeOfDay} ?"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date} egy ${typeOfDay}?"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -2411,6 +2531,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Est-ce que ${date} est un ${typeOfDay} ?"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date} egy ${typeOfDay}?"
           }
         },
         "it": {
@@ -2525,6 +2651,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Est-ce que %1$@ est %2$@ ?"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ %2$@?"
           }
         },
         "it": {
@@ -2647,6 +2779,12 @@
             "value": "Est-ce que %1$@ est un %2$@ ?"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ egy %2$@?"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -2765,6 +2903,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Est-ce que %1$@ est un %2$@ ?"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ egy %2$@?"
           }
         },
         "it": {
@@ -2887,6 +3031,12 @@
             "value": "Est un type de jour"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Napszak típusa"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -2997,6 +3147,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "L'heure de ${date} est-elle comprise entre ${lowerBound} et ${upperBound} ?"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A ${date} órája ${lowerBound} és ${upperBound} között van?"
           }
         },
         "it": {
@@ -3111,6 +3267,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "L'heure de %1$@ est-elle comprise entre %2$lld et %3$lld ?"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A %1$@ órája %2$lld és %3$lld között van?"
           }
         },
         "it": {
@@ -3233,6 +3395,12 @@
             "value": "Heure de fin"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Későbbi óra"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -3353,6 +3521,12 @@
             "value": "Message"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Üzenet"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -3470,6 +3644,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Lundi"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hétfő"
           }
         },
         "it": {
@@ -3592,6 +3772,12 @@
             "value": "ID de notification"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Értesítés-azonosító"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -3709,6 +3895,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Autorisation de notification"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Értesítési engedély"
           }
         },
         "it": {
@@ -3831,6 +4023,12 @@
             "value": "L'autorisation de notification a été refusée. Veuillez l'activer dans Réglages pour utiliser les actions de notification."
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Az értesítési engedélyt megtagadták. Kérjük, engedélyezd a Beállításokban az értesítési műveletek használatához."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -3947,6 +4145,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "L'autorisation de notification a été refusée. Pour utiliser les actions de notification dans Raccourcis, vous devez activer les notifications dans l'app Réglages."
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Az értesítési engedélyt megtagadták. Az értesítési műveletek használatához a Parancsokban engedélyezned kell az értesítéseket a Beállítások alkalmazásban."
           }
         },
         "it": {
@@ -4069,6 +4273,12 @@
             "value": "Les notifications sont activées."
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Az értesítések engedélyezve vannak."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -4187,6 +4397,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Les notifications sont autorisées provisoirement. Accordez l'autorisation complète pour une meilleure expérience."
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Az értesítések ideiglenesen engedélyezettek. A legjobb élmény érdekében adj meg teljes engedélyt."
           }
         },
         "it": {
@@ -4309,6 +4525,12 @@
             "value": "Les notifications sont temporairement autorisées."
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Az értesítések ideiglenesen engedélyezettek."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -4427,6 +4649,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Les notifications fonctionnent correctement !"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Az értesítések megfelelően működnek!"
           }
         },
         "it": {
@@ -4549,6 +4777,12 @@
             "value": "Les notifications sur iOS ne prennent pas en charge les pièces jointes aussi volumineuses que celle fournie."
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Az iOS értesítései nem támogatnak olyan nagy mellékleteket, mint amilyet megadtál."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -4667,6 +4901,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Les notifications sur iOS ne prennent pas en charge les pièces jointes de ce type."
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Az iOS értesítései nem támogatják az ilyen típusú mellékleteket."
           }
         },
         "it": {
@@ -4789,6 +5029,12 @@
             "value": "Les notifications sur iOS ne prennent pas en charge les pièces jointes de type « %@ »."
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Az iOS értesítései nem támogatják a(z) „%@\" típusú mellékleteket."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -4908,6 +5154,12 @@
             "value": "Une fois l'autorisation de notification accordée, il n'y a pas d'autres fonctionnalités ici, à part utiliser le bouton de test ci-dessous pour vérifier que les notifications fonctionnent correctement."
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Az értesítési engedély megadása után itt nincs más funkció, csak az alábbi tesztgomb használata az értesítések helyes működésének ellenőrzésére."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -5024,6 +5276,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ouvrir Réglages"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Beállítások megnyitása"
           }
         },
         "it": {
@@ -5146,6 +5404,12 @@
             "value": "Ouvrir l'URL"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL megnyitása"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -5262,6 +5526,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ouvrir les réglages de l'app"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alkalmazás beállításainak megnyitása"
           }
         },
         "it": {
@@ -5384,6 +5654,12 @@
             "value": "Ouvre une boîte de dialogue système pour autoriser les notifications de cette app"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Megnyit egy rendszerpárbeszédpanelt, hogy engedélyezze az értesítéseket ebből az alkalmazásból"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -5500,6 +5776,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ouvre l'app Réglages pour activer les notifications"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Megnyitja a Beállítások alkalmazást az értesítések engedélyezéséhez"
           }
         },
         "it": {
@@ -5619,6 +5901,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Autorisation requise"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Engedély szükséges"
           }
         },
         "it": {
@@ -5741,6 +6029,12 @@
             "value": "Veuillez accorder l'autorisation de notification pour utiliser toutes les fonctionnalités."
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kérjük, add meg az értesítési engedélyt az összes funkció használatához."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -5858,6 +6152,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Prêt à envoyer des notifications"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Készen áll az értesítések küldésére"
           }
         },
         "it": {
@@ -5980,6 +6280,12 @@
             "value": "Exécuter un raccourci"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Parancs futtatása"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -6097,6 +6403,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Samedi"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Szombat"
           }
         },
         "it": {
@@ -6218,6 +6530,12 @@
             "value": "Envoyer une notification de test"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tesztértesítés küldése"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -6328,6 +6646,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Envoyer une notification de test"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tesztértesítés küldése"
           }
         },
         "it": {
@@ -6442,6 +6766,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Envoie une notification de test pour vérifier la configuration"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tesztértesítést küld a beállítás ellenőrzéséhez"
           }
         },
         "it": {
@@ -6564,6 +6894,12 @@
             "value": "Définir un ID de notification remplacera toute notification plus ancienne avec le même ID de notification"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Értesítés-azonosító beállítása lecseréli az összes korábbi értesítést ugyanazzal az értesítés-azonosítóval"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -6682,6 +7018,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Définir un ID de fil regroupera la notification avec d'autres notifications ayant le même ID de fil"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Szálazonosító beállítása csoportosítja az értesítést más, azonos szálazonosítójú értesítésekkel"
           }
         },
         "it": {
@@ -6804,6 +7146,12 @@
             "value": "Paramètre d'entrée du raccourci"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Parancs bemeneti paramétere"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -6922,6 +7270,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Nom du raccourci"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Parancs neve"
           }
         },
         "it": {
@@ -7044,6 +7398,12 @@
             "value": "Afficher une notification"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Értesítés megjelenítése"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -7154,6 +7514,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Afficher une notification avec ${title} et ${message}"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Értesítés megjelenítése ${title} és ${message} tartalommal"
           }
         },
         "it": {
@@ -7268,6 +7634,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Afficher une notification avec %1$@ et %2$@"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Értesítés megjelenítése %1$@ és %2$@ tartalommal"
           }
         },
         "it": {
@@ -7390,6 +7762,12 @@
             "value": "Sous-titre"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alcím"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -7507,6 +7885,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Dimanche"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vasárnap"
           }
         },
         "it": {
@@ -7629,6 +8013,12 @@
             "value": "Action au toucher"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Koppintási művelet"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -7745,6 +8135,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Appuyez sur le bouton ci-dessous pour ouvrir Réglages, puis activez « Autoriser les notifications » pour cette app."
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Koppints az alábbi gombra a Beállítások megnyitásához, majd engedélyezd az „Értesítések engedélyezése\" opciót ennél az alkalmazásnál."
           }
         },
         "it": {
@@ -7867,6 +8263,12 @@
             "value": "Notification de test"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tesztértesítés"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -7983,6 +8385,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tester la fonctionnalité de notification"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Értesítési funkció tesztelése"
           }
         },
         "it": {
@@ -8102,6 +8510,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tester les notifications"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Értesítések tesztelése"
           }
         },
         "it": {
@@ -8224,6 +8638,12 @@
             "value": "L'entrée (non encodée) du raccourci à exécuter lorsque la notification est touchée (facultatif)"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A parancs (nem kódolt) bemenete, amely az értesítés megérintésekor fut (opcionális)"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -8342,6 +8762,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "L'URL à ouvrir lorsque la notification est touchée (requis si « Action au toucher » est « Ouvrir l'URL »)"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A megnyitandó URL, amikor az értesítésre koppintasz (kötelező, ha a „Koppintási művelet\" „URL megnyitása\")"
           }
         },
         "it": {
@@ -8464,6 +8890,12 @@
             "value": "Le début de la plage horaire à vérifier (15 signifie à partir de 15h00)"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Az ellenőrzendő időkeret kezdete (15 azt jelenti, hogy 15:00-tól vagy azután)"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -8582,6 +9014,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "La fin de la plage horaire à vérifier (17 signifie avant 17h00)"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Az ellenőrzendő időkeret vége (17 azt jelenti, hogy 17:00 előtt)"
           }
         },
         "it": {
@@ -8704,6 +9142,12 @@
             "value": "Le nom du raccourci à exécuter lorsque la notification est touchée (requis si « Action au toucher » est « Exécuter un raccourci »)"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A parancs neve, amely az értesítés megérintésekor fut (kötelező, ha a „Koppintási művelet\" „Parancs futtatása\")"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -8822,6 +9266,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Le message de la notification ne peut pas être vide"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Az értesítés üzenete nem lehet üres"
           }
         },
         "it": {
@@ -8944,6 +9394,12 @@
             "value": "Le titre de la notification ne peut pas être vide"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Az értesítés címe nem lehet üres"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -9062,6 +9518,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Le sous-titre de la notification (facultatif)"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Az értesítés alcíme (opcionális)"
           }
         },
         "it": {
@@ -9184,6 +9646,12 @@
             "value": "L'action au toucher « Ouvrir l'URL » nécessite une URL valide"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A „URL megnyitása\" koppintási művelet érvényes URL-t igényel"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -9302,6 +9770,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "L'action au toucher « Exécuter un raccourci » nécessite un nom de raccourci valide"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A „Parancs futtatása\" koppintási művelet érvényes parancsnevet igényel"
           }
         },
         "it": {
@@ -9424,6 +9898,12 @@
             "value": "Le type de jour que vous souhaitez vérifier"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A nap típusa, amelyre ellenőrizni szeretnél"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -9542,6 +10022,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Cette action affichera une notification sur cet appareil."
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ez a művelet értesítést jelenít meg ezen az eszközön."
           }
         },
         "it": {
@@ -9664,6 +10150,12 @@
             "value": "Cette action renverra une valeur booléenne indiquant si la date donnée correspond au type de jour donné."
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ez a művelet egy logikai értéket ad vissza, amely jelzi, hogy az adott dátum az adott naptípussal rendelkezik-e."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -9784,6 +10276,12 @@
             "value": "Cette action renverra une valeur booléenne indiquant si l'heure de la date donnée se situe dans la plage horaire donnée."
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ez a művelet egy logikai értéket ad vissza, amely jelzi, hogy az adott dátum órája a megadott időkereten belül van-e."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -9901,6 +10399,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Cette app est votre boîte à outils pour Raccourcis, fournissant des actions réutilisables qu'Apple n'inclut pas par défaut."
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ez az alkalmazás a Parancsok eszköztárad, amely újrafelhasználható műveleteket biztosít, amelyeket az Apple nem tartalmaz alapból."
           }
         },
         "it": {
@@ -10023,6 +10527,12 @@
             "value": "Cette app a besoin de l'autorisation d'envoyer des notifications pour les actions de Raccourcis."
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ennek az alkalmazásnak engedélyre van szüksége az értesítések küldéséhez a Parancsok műveleteihez."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -10140,6 +10650,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Cette app fournit des actions pour l'app Raccourcis."
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ez az alkalmazás műveleteket biztosít a Parancsok alkalmazáshoz."
           }
         },
         "it": {
@@ -10262,6 +10778,12 @@
             "value": "ID de fil"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Szálazonosító"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -10379,6 +10901,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Jeudi"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Csütörtök"
           }
         },
         "it": {
@@ -10501,6 +11029,12 @@
             "value": "Urgent ?"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Időérzékeny?"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -10619,6 +11153,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Titre"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cím"
           }
         },
         "it": {
@@ -10740,6 +11280,12 @@
             "value": "Aujourd'hui"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ma"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -10859,6 +11405,12 @@
             "value": "Demain"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Holnap"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -10976,6 +11528,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Mardi"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kedd"
           }
         },
         "it": {
@@ -11098,6 +11656,12 @@
             "value": "Activer cette option permettra à la notification de passer outre les modes de concentration"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ennek bekapcsolása lehetővé teszi az értesítésnek, hogy áttörjön a Fókusz módokon"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -11216,6 +11780,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Type de jour"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nap típusa"
           }
         },
         "it": {
@@ -11338,6 +11908,12 @@
             "value": "Työkalu a besoin de l'autorisation d'envoyer des notifications. Veuillez vérifier vos réglages."
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A Työkalu alkalmazásnak engedélyre van szüksége az értesítések küldéséhez. Kérjük, ellenőrizd a beállításaidat."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -11458,6 +12034,12 @@
             "value": "URL"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -11568,6 +12150,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Est-ce que ${date} était ${typeOfDay} ?"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date} ${typeOfDay} volt?"
           }
         },
         "it": {
@@ -11682,6 +12270,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Est-ce que %1$@ était %2$@ ?"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ %2$@ volt?"
           }
         },
         "it": {
@@ -11803,6 +12397,12 @@
             "value": "Mercredi"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Szerda"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -11922,6 +12522,12 @@
             "value": "Jour de semaine"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hétköznap"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -12039,6 +12645,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Week-end"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hétvége"
           }
         },
         "it": {
@@ -12161,6 +12773,12 @@
             "value": "Ce qui se passe lorsque vous touchez la notification"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mi történik, amikor az értesítésre koppintasz"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -12280,6 +12898,12 @@
             "value": "Hier"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tegnap"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -12392,6 +13016,12 @@
             "value": "après-midi"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "délután"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -12496,6 +13126,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "alerte"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "figyelmeztetés"
           }
         },
         "it": {
@@ -12604,6 +13240,12 @@
             "value": "soir"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "este"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -12708,6 +13350,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "vendredi"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "péntek"
           }
         },
         "it": {
@@ -12816,6 +13464,12 @@
             "value": "lundi"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hétfő"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -12920,6 +13574,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "matin"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "reggel"
           }
         },
         "it": {
@@ -13028,6 +13688,12 @@
             "value": "nuit"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "éjszaka"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -13129,6 +13795,12 @@
           }
         },
         "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "push"
+          }
+        },
+        "hu": {
           "stringUnit": {
             "state": "translated",
             "value": "push"
@@ -13240,6 +13912,12 @@
             "value": "samedi"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "szombat"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -13344,6 +14022,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "dimanche"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "vasárnap"
           }
         },
         "it": {
@@ -13452,6 +14136,12 @@
             "value": "jeudi"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "csütörtök"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -13556,6 +14246,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "aujourd'hui"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ma"
           }
         },
         "it": {
@@ -13664,6 +14360,12 @@
             "value": "demain"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "holnap"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -13768,6 +14470,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "mardi"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "kedd"
           }
         },
         "it": {
@@ -13876,6 +14584,12 @@
             "value": "mercredi"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "szerda"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -13980,6 +14694,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "jour de semaine"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hétköznap"
           }
         },
         "it": {
@@ -14088,6 +14808,12 @@
             "value": "week-end"
           }
         },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hétvége"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
@@ -14192,6 +14918,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "hier"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "tegnap"
           }
         },
         "it": {
