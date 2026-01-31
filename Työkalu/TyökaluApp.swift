@@ -1,8 +1,6 @@
 //
-//  TyökaluApp.swift
-//  Työkalu
-//
-//  Created by Benno on 2026-01-31.
+// 📄 TyökaluApp.swift
+// 👨🏼‍💻 Author: Benno Kress
 //
 
 import SwiftUI

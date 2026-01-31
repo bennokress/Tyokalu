@@ -1,8 +1,6 @@
 //
-//  ContentView.swift
-//  Työkalu
-//
-//  Created by Benno on 2026-01-31.
+// 📄 ContentView.swift
+// 👨🏼‍💻 Author: Benno Kress
 //
 
 import SwiftUI
