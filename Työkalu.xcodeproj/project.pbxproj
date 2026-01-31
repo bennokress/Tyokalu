@@ -105,6 +105,7 @@
 				et,
 				fi,
 				fr,
+				hr,
 				hu,
 				it,
 				lt,
