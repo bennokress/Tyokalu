@@ -104,6 +104,7 @@
 				fi,
 				fr,
 				it,
+				lv,
 				nb,
 				nl,
 				nn,

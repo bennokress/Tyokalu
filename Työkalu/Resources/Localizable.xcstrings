@@ -53,6 +53,12 @@
             "value": "\"Työkalu\" è la parola finlandese per \"strumento\"."
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"Työkalu\" ir somu valodas vārds \"rīks\"."
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -153,6 +159,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Una data non può mai essere compresa tra due ore uguali, inserisci numeri diversi per l'ora precedente e quella successiva"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Datums nekad nevar būt starp divām vienādām stundām, lūdzu, ievadiet dažādus skaitļus agrākai un vēlākai stundai"
           }
         },
         "nb": {
@@ -257,6 +269,12 @@
             "value": "Un giorno ha 24 ore, quindi non è possibile verificare ore superiori a 24"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dienā ir 24 stundas, tāpēc pārbaude pret stundām, kas lielākas par 24, nav iespējama"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -359,6 +377,12 @@
             "value": "Un giorno non ha ore negative, quindi non è possibile verificare ore inferiori a 0"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dienā nav negatīvu stundu, tāpēc pārbaude pret stundām, kas mazākas par 0, nav iespējama"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -458,6 +482,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Informazioni su questa app"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Par šo lietotni"
           }
         },
         "nb": {
@@ -562,6 +592,12 @@
             "value": "Un allegato che verrà visualizzato nella notifica (opzionale, consulta UNNotificationAttachment per maggiori informazioni)"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pielikums, kas tiks parādīts paziņojumā (neobligāts, skatiet UNNotificationAttachment plašākai informācijai)"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -662,6 +698,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Allegato"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pielikums"
           }
         },
         "nb": {
@@ -766,6 +808,12 @@
             "value": "Data"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Datums"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -866,6 +914,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Data e ora"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Datums un laiks"
           }
         },
         "nb": {
@@ -970,6 +1024,12 @@
             "value": "Funzionalità del dispositivo"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ierīces funkcionalitāte"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -1069,6 +1129,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Lo sapevi?"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vai zinājāt?"
           }
         },
         "nb": {
@@ -1173,6 +1239,12 @@
             "value": "Non fare nulla"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nedarīt neko"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -1273,6 +1345,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ora precedente"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Agrākā stunda"
           }
         },
         "nb": {
@@ -1376,6 +1454,12 @@
             "value": "Venerdì"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Piektdiena"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -1475,6 +1559,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Concedi autorizzazione"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Piešķirt atļauju"
           }
         },
         "nb": {
@@ -1579,6 +1669,12 @@
             "value": "Concedi autorizzazione alle notifiche"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Piešķirt paziņojumu atļauju"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -1679,6 +1775,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Concedi prima l'autorizzazione alle notifiche"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vispirms piešķiriet paziņojumu atļauju"
           }
         },
         "nb": {
@@ -1783,6 +1885,12 @@
             "value": "Verifica ora"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stundu pārbaude"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -1877,6 +1985,12 @@
             "value": "È ${date} ${typeOfDay}?"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vai ${date} ir ${typeOfDay}?"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -1965,6 +2079,12 @@
             "value": "È ${date} un ${typeOfDay}?"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vai ${date} ir ${typeOfDay}?"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -2051,6 +2171,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "È ${date} di ${typeOfDay}?"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vai ${date} ir ${typeOfDay}?"
           }
         },
         "nb": {
@@ -2147,6 +2273,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "È %1$@ %2$@?"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vai %1\\$@ ir %2\\$@?"
           }
         },
         "nb": {
@@ -2251,6 +2383,12 @@
             "value": "È %1$@ un %2$@?"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vai %1\\$@ ir %2\\$@?"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -2351,6 +2489,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "È %1$@ di %2$@?"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vai %1\\$@ ir %2\\$@?"
           }
         },
         "nb": {
@@ -2455,6 +2599,12 @@
             "value": "È tipo di giorno"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ir dienas tips"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -2547,6 +2697,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "L'ora di ${date} è compresa tra ${lowerBound} e ${upperBound}?"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vai ${date} stunda ir starp ${lowerBound} un ${upperBound}?"
           }
         },
         "nb": {
@@ -2643,6 +2799,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "L'ora di %1$@ è compresa tra %2$lld e %3$lld?"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vai %1\\$@ stunda ir starp %2\\$lld un %3\\$lld?"
           }
         },
         "nb": {
@@ -2747,6 +2909,12 @@
             "value": "Ora successiva"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vēlākā stunda"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -2849,6 +3017,12 @@
             "value": "Messaggio"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ziņojums"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -2948,6 +3122,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Lunedì"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pirmdiena"
           }
         },
         "nb": {
@@ -3052,6 +3232,12 @@
             "value": "ID notifica"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paziņojuma ID"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -3151,6 +3337,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Autorizzazione notifiche"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paziņojumu atļauja"
           }
         },
         "nb": {
@@ -3255,6 +3447,12 @@
             "value": "L'autorizzazione alle notifiche è stata negata. Abilitala nelle Impostazioni per utilizzare le azioni di notifica."
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paziņojumu atļauja tika noraidīta. Lūdzu, iespējojiet to Iestatījumos, lai izmantotu paziņojumu darbības."
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -3353,6 +3551,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "L'autorizzazione alle notifiche è stata negata. Per utilizzare le azioni di notifica in Comandi Rapidi, devi abilitare le notifiche nell'app Impostazioni."
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paziņojumu atļauja tika noraidīta. Lai izmantotu paziņojumu darbības lietotnē Saīsnes, jums jāiespējo paziņojumi lietotnē Iestatījumi."
           }
         },
         "nb": {
@@ -3457,6 +3661,12 @@
             "value": "Le notifiche sono abilitate."
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paziņojumi ir iespējoti."
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -3557,6 +3767,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Le notifiche sono temporaneamente consentite. Concedi l'autorizzazione completa per la migliore esperienza."
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paziņojumi ir pagaidām atļauti. Piešķiriet pilnu atļauju labākai pieredzei."
           }
         },
         "nb": {
@@ -3661,6 +3877,12 @@
             "value": "Le notifiche sono temporaneamente consentite."
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paziņojumi ir īslaicīgi atļauti."
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -3761,6 +3983,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Le notifiche funzionano correttamente!"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paziņojumi darbojas pareizi!"
           }
         },
         "nb": {
@@ -3865,6 +4093,12 @@
             "value": "Le notifiche su iOS non supportano allegati grandi come quello che hai fornito."
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paziņojumi iOS neatbalsta tik lielus pielikumus kā jūsu nodrošinātais."
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -3965,6 +4199,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Le notifiche su iOS non supportano allegati di questo tipo."
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paziņojumi iOS neatbalsta šāda veida pielikumus."
           }
         },
         "nb": {
@@ -4069,6 +4309,12 @@
             "value": "Le notifiche su iOS non supportano allegati di tipo \"%@\"."
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paziņojumi iOS neatbalsta pielikumus ar tipu «%@»."
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -4170,6 +4416,12 @@
             "value": "Una volta concessa l'autorizzazione alle notifiche, non ci sono altre funzionalità qui oltre all'utilizzo del pulsante di test qui sotto per verificare che le notifiche funzionino correttamente."
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kad paziņojumu atļauja ir piešķirta, šeit nav citas funkcionalitātes, izņemot testa pogas izmantošanu zemāk, lai pārbaudītu, vai paziņojumi darbojas pareizi."
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -4268,6 +4520,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Apri Impostazioni"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Atvērt Iestatījumus"
           }
         },
         "nb": {
@@ -4372,6 +4630,12 @@
             "value": "Apri URL"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Atvērt URL"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -4470,6 +4734,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Apri impostazioni app"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Atvērt lietotnes iestatījumus"
           }
         },
         "nb": {
@@ -4574,6 +4844,12 @@
             "value": "Apre una finestra di sistema per consentire le notifiche da questa app"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Atver sistēmas dialogu, lai atļautu paziņojumus no šīs lietotnes"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -4672,6 +4948,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Apre l'app Impostazioni per abilitare le notifiche"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Atver lietotni Iestatījumi, lai iespējotu paziņojumus"
           }
         },
         "nb": {
@@ -4773,6 +5055,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Autorizzazione richiesta"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nepieciešama atļauja"
           }
         },
         "nb": {
@@ -4877,6 +5165,12 @@
             "value": "Concedi l'autorizzazione alle notifiche per utilizzare tutte le funzionalità."
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lūdzu, piešķiriet paziņojumu atļauju, lai izmantotu visas funkcijas."
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -4976,6 +5270,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Pronto per inviare notifiche"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gatavs sūtīt paziņojumus"
           }
         },
         "nb": {
@@ -5080,6 +5380,12 @@
             "value": "Esegui comando rapido"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Palaist saīsni"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -5179,6 +5485,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Sabato"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sestdiena"
           }
         },
         "nb": {
@@ -5282,6 +5594,12 @@
             "value": "Invia notifica di test"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sūtīt testa paziņojumu"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -5374,6 +5692,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Invia notifica di test"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sūtīt testa paziņojumu"
           }
         },
         "nb": {
@@ -5470,6 +5794,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Invia una notifica di test per verificare la configurazione"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sūta testa paziņojumu, lai pārbaudītu iestatījumus"
           }
         },
         "nb": {
@@ -5574,6 +5904,12 @@
             "value": "L'impostazione di un ID notifica sostituirà qualsiasi notifica precedente con lo stesso ID notifica"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paziņojuma ID iestatīšana aizstās visus vecākos paziņojumus ar tādu pašu paziņojuma ID"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -5674,6 +6010,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "L'impostazione di un ID thread raggrupperà la notifica con altre notifiche che hanno lo stesso ID thread"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pavediena ID iestatīšana grupēs paziņojumu ar citiem paziņojumiem, kuriem ir tāds pats pavediena ID"
           }
         },
         "nb": {
@@ -5778,6 +6120,12 @@
             "value": "Parametro di input del comando rapido"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Saīsnes ievades parametrs"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -5878,6 +6226,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Nome comando rapido"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Saīsnes nosaukums"
           }
         },
         "nb": {
@@ -5982,6 +6336,12 @@
             "value": "Mostra notifica"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rādīt paziņojumu"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -6074,6 +6434,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Mostra notifica con ${title} e ${message}"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rādīt paziņojumu ar ${title} un ${message}"
           }
         },
         "nb": {
@@ -6170,6 +6536,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Mostra notifica con %1$@ e %2$@"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rādīt paziņojumu ar %1\\$@ un %2\\$@"
           }
         },
         "nb": {
@@ -6274,6 +6646,12 @@
             "value": "Sottotitolo"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apakšvirsraksts"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -6373,6 +6751,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Domenica"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Svētdiena"
           }
         },
         "nb": {
@@ -6477,6 +6861,12 @@
             "value": "Azione al tocco"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pieskāriena darbība"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -6575,6 +6965,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tocca il pulsante qui sotto per aprire Impostazioni, quindi abilita \"Consenti notifiche\" per questa app."
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pieskarieties pogai zemāk, lai atvērtu Iestatījumus, tad iespējojiet \"Atļaut paziņojumus\" šai lietotnei."
           }
         },
         "nb": {
@@ -6679,6 +7075,12 @@
             "value": "Notifica di test"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testa paziņojums"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -6777,6 +7179,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Testa funzionalità notifiche"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testēt paziņojumu iespējas"
           }
         },
         "nb": {
@@ -6878,6 +7286,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Testa notifiche"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testēt paziņojumus"
           }
         },
         "nb": {
@@ -6982,6 +7396,12 @@
             "value": "L'input (non codificato) del comando rapido da eseguire quando la notifica viene toccata (opzionale)"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Saīsnes (nekodētā) ievade, kas jāpalaiž, kad paziņojums tiek pieskarts (neobligāts)"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -7082,6 +7502,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "L'URL da aprire quando la notifica viene toccata (obbligatorio se \"Azione al tocco\" è \"Apri URL\")"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL, kas jāatver, kad paziņojums tiek pieskarts (obligāts, ja «Pieskāriena darbība» ir «Atvērt URL»)"
           }
         },
         "nb": {
@@ -7186,6 +7612,12 @@
             "value": "L'inizio dell'intervallo di tempo da verificare (15 significa dalle 15:00 in poi)"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Laika perioda sākums, pret kuru pārbaudīt (15 nozīmē plkst. 15:00 vai vēlāk)"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -7286,6 +7718,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "La fine dell'intervallo di tempo da verificare (17 significa prima delle 17:00)"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Laika perioda beigas, pret kuru pārbaudīt (17 nozīmē pirms plkst. 17:00)"
           }
         },
         "nb": {
@@ -7390,6 +7828,12 @@
             "value": "Il nome del comando rapido da eseguire quando la notifica viene toccata (obbligatorio se \"Azione al tocco\" è \"Esegui comando rapido\")"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Saīsnes nosaukums, kas jāpalaiž, kad paziņojums tiek pieskarts (obligāts, ja «Pieskāriena darbība» ir «Palaist saīsni»)"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -7490,6 +7934,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Il messaggio della notifica non può essere vuoto"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paziņojuma ziņojums nedrīkst būt tukšs"
           }
         },
         "nb": {
@@ -7594,6 +8044,12 @@
             "value": "Il titolo della notifica non può essere vuoto"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paziņojuma virsraksts nedrīkst būt tukšs"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -7694,6 +8150,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Il sottotitolo della notifica (opzionale)"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paziņojuma apakšvirsraksts (neobligāts)"
           }
         },
         "nb": {
@@ -7798,6 +8260,12 @@
             "value": "L'azione al tocco \"Apri URL\" richiede un URL valido"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pieskāriena darbība \"Atvērt URL\" prasa derīgu URL"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -7898,6 +8366,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "L'azione al tocco \"Esegui comando rapido\" richiede un nome comando rapido valido"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pieskāriena darbība \"Palaist saīsni\" prasa derīgu saīsnes nosaukumu"
           }
         },
         "nb": {
@@ -8002,6 +8476,12 @@
             "value": "Il tipo di giorno che vuoi verificare"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dienas tips, kuru vēlaties pārbaudīt"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -8102,6 +8582,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Questa azione mostrerà una notifica su questo dispositivo."
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Šī darbība parādīs paziņojumu šajā ierīcē."
           }
         },
         "nb": {
@@ -8206,6 +8692,12 @@
             "value": "Questa azione restituirà un valore booleano che indica se la data fornita ha il tipo di giorno specificato."
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Šī darbība atgriezīs Būla vērtību, kas norāda, vai dotajam datumam ir dotais dienas tips."
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -8308,6 +8800,12 @@
             "value": "Questa azione restituirà un valore booleano che indica se l'ora della data fornita è compresa nell'intervallo di tempo specificato."
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Šī darbība atgriezīs Būla vērtību, kas norāda, vai dotā datuma stunda ir dotajā laika periodā."
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -8407,6 +8905,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Questa app è la tua cassetta degli attrezzi per Comandi Rapidi, fornendo azioni riutilizzabili che Apple non include di default."
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Šī lietotne ir jūsu rīku kaste lietotnei Saīsnes, nodrošinot atkārtoti izmantojamas darbības, kuras Apple neiekļauj pēc noklusējuma."
           }
         },
         "nb": {
@@ -8511,6 +9015,12 @@
             "value": "Questa app ha bisogno dell'autorizzazione per inviare notifiche per le azioni di Comandi Rapidi."
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Šai lietotnei ir nepieciešama atļauja sūtīt paziņojumus Saīsnes darbībām."
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -8610,6 +9120,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Questa app fornisce azioni per l'app Comandi Rapidi."
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Šī lietotne nodrošina darbības lietotnei Saīsnes."
           }
         },
         "nb": {
@@ -8714,6 +9230,12 @@
             "value": "ID thread"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pavediena ID"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -8813,6 +9335,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Giovedì"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ceturtdiena"
           }
         },
         "nb": {
@@ -8917,6 +9445,12 @@
             "value": "Urgente?"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Laika ziņā steidzams?"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -9017,6 +9551,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Titolo"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Virsraksts"
           }
         },
         "nb": {
@@ -9120,6 +9660,12 @@
             "value": "Oggi"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Šodien"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -9221,6 +9767,12 @@
             "value": "Domani"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rīt"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -9320,6 +9872,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Martedì"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otrdiena"
           }
         },
         "nb": {
@@ -9424,6 +9982,12 @@
             "value": "Attivando questa opzione la notifica potrà ignorare le modalità Full Immersion"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ieslēdzot šo, paziņojums varēs pārraut fokusa režīmus"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -9524,6 +10088,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tipo di giorno"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dienas tips"
           }
         },
         "nb": {
@@ -9628,6 +10198,12 @@
             "value": "Työkalu ha bisogno dell'autorizzazione per inviare notifiche. Controlla le tue impostazioni."
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Työkalu ir nepieciešama atļauja sūtīt paziņojumus. Lūdzu, pārskatiet savus iestatījumus."
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -9730,6 +10306,12 @@
             "value": "URL"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -9822,6 +10404,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Era ${date} ${typeOfDay}?"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vai ${date} bija ${typeOfDay}?"
           }
         },
         "nb": {
@@ -9918,6 +10506,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Era %1$@ %2$@?"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vai %1\\$@ bija %2\\$@?"
           }
         },
         "nb": {
@@ -10021,6 +10615,12 @@
             "value": "Mercoledì"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trešdiena"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -10122,6 +10722,12 @@
             "value": "Giorno feriale"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Darba diena"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -10221,6 +10827,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Fine settimana"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nedēļas nogale"
           }
         },
         "nb": {
@@ -10325,6 +10937,12 @@
             "value": "Cosa succede quando tocchi la notifica"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kas notiek, kad pieskaraties paziņojumam"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -10426,6 +11044,12 @@
             "value": "Ieri"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vakar"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -10520,6 +11144,12 @@
             "value": "pomeriggio"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "pēcpusdiena"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -10606,6 +11236,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "avviso"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "brīdinājums"
           }
         },
         "nb": {
@@ -10696,6 +11332,12 @@
             "value": "sera"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "vakars"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -10782,6 +11424,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "venerdì"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "piektdiena"
           }
         },
         "nb": {
@@ -10872,6 +11520,12 @@
             "value": "lunedì"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "pirmdiena"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -10958,6 +11612,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "mattina"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "rīts"
           }
         },
         "nb": {
@@ -11048,6 +11708,12 @@
             "value": "notte"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "nakts"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -11131,6 +11797,12 @@
           }
         },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "push"
+          }
+        },
+        "lv": {
           "stringUnit": {
             "state": "translated",
             "value": "push"
@@ -11224,6 +11896,12 @@
             "value": "sabato"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "sestdiena"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -11310,6 +11988,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "domenica"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "svētdiena"
           }
         },
         "nb": {
@@ -11400,6 +12084,12 @@
             "value": "giovedì"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ceturtdiena"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -11486,6 +12176,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "oggi"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "šodien"
           }
         },
         "nb": {
@@ -11576,6 +12272,12 @@
             "value": "domani"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "rīt"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -11662,6 +12364,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "martedì"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "otrdiena"
           }
         },
         "nb": {
@@ -11752,6 +12460,12 @@
             "value": "mercoledì"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "trešdiena"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -11838,6 +12552,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "giorno feriale"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "darba diena"
           }
         },
         "nb": {
@@ -11928,6 +12648,12 @@
             "value": "fine settimana"
           }
         },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "nedēļas nogale"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -12014,6 +12740,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "ieri"
+          }
+        },
+        "lv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "vakar"
           }
         },
         "nb": {
