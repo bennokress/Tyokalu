@@ -59,6 +59,12 @@
             "value": "\"Työkalu\" è la parola finlandese per \"strumento\"."
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"Työkalu\" yra suomiškas žodis, reiškiantis \"įrankis\"."
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -171,6 +177,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Una data non può mai essere compresa tra due ore uguali, inserisci numeri diversi per l'ora precedente e quella successiva"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Data niekada negali būti tarp dviejų vienodų valandų, prašome įvesti skirtingus skaičius kaip ankstesnę ir vėlesnę valandas"
           }
         },
         "lv": {
@@ -287,6 +299,12 @@
             "value": "Un giorno ha 24 ore, quindi non è possibile verificare ore superiori a 24"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paroje yra 24 valandos, todėl tikrinti valandas, didesnes nei 24, neįmanoma"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -401,6 +419,12 @@
             "value": "Un giorno non ha ore negative, quindi non è possibile verificare ore inferiori a 0"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paroje nėra neigiamų valandų, todėl tikrinti valandas, mažesnes nei 0, neįmanoma"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -512,6 +536,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Informazioni su questa app"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apie šią programėlę"
           }
         },
         "lv": {
@@ -628,6 +658,12 @@
             "value": "Un allegato che verrà visualizzato nella notifica (opzionale, consulta UNNotificationAttachment per maggiori informazioni)"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Priedas, kuris bus rodomas pranešime (neprivaloma, daugiau informacijos žr. UNNotificationAttachment)"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -742,6 +778,12 @@
             "value": "Allegato"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Priedas"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -851,6 +893,12 @@
           }
         },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Data"
+          }
+        },
+        "lt": {
           "stringUnit": {
             "state": "translated",
             "value": "Data"
@@ -970,6 +1018,12 @@
             "value": "Data e ora"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Data ir laikas"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -1084,6 +1138,12 @@
             "value": "Funzionalità del dispositivo"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Įrenginio funkcionalumas"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -1195,6 +1255,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Lo sapevi?"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ar žinojai?"
           }
         },
         "lv": {
@@ -1311,6 +1377,12 @@
             "value": "Non fare nulla"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nieko nedaryti"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -1423,6 +1495,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ora precedente"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ankstesnė valanda"
           }
         },
         "lv": {
@@ -1538,6 +1616,12 @@
             "value": "Venerdì"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Penktadienis"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -1649,6 +1733,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Concedi autorizzazione"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Suteikti leidimą"
           }
         },
         "lv": {
@@ -1765,6 +1855,12 @@
             "value": "Concedi autorizzazione alle notifiche"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Suteikti pranešimų leidimą"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -1877,6 +1973,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Concedi prima l'autorizzazione alle notifiche"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pirmiausia suteikite pranešimų leidimą"
           }
         },
         "lv": {
@@ -1993,6 +2095,12 @@
             "value": "Verifica ora"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Valandos tikrinimas"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -2099,6 +2207,12 @@
             "value": "È ${date} ${typeOfDay}?"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ar ${date} yra ${typeOfDay}?"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -2199,6 +2313,12 @@
             "value": "È ${date} un ${typeOfDay}?"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ar ${date} yra ${typeOfDay}?"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -2297,6 +2417,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "È ${date} di ${typeOfDay}?"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ar ${date} yra ${typeOfDay}?"
           }
         },
         "lv": {
@@ -2405,6 +2531,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "È %1$@ %2$@?"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ar %1$@ yra %2$@?"
           }
         },
         "lv": {
@@ -2521,6 +2653,12 @@
             "value": "È %1$@ un %2$@?"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ar %1$@ yra %2$@?"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -2633,6 +2771,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "È %1$@ di %2$@?"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ar %1$@ yra %2$@?"
           }
         },
         "lv": {
@@ -2749,6 +2893,12 @@
             "value": "È tipo di giorno"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yra dienos tipas"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -2853,6 +3003,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "L'ora di ${date} è compresa tra ${lowerBound} e ${upperBound}?"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ar ${date} valanda yra tarp ${lowerBound} ir ${upperBound}?"
           }
         },
         "lv": {
@@ -2961,6 +3117,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "L'ora di %1$@ è compresa tra %2$lld e %3$lld?"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ar %1$@ valanda yra tarp %2$lld ir %3$lld?"
           }
         },
         "lv": {
@@ -3077,6 +3239,12 @@
             "value": "Ora successiva"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vėlesnė valanda"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -3191,6 +3359,12 @@
             "value": "Messaggio"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Žinutė"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -3302,6 +3476,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Lunedì"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pirmadienis"
           }
         },
         "lv": {
@@ -3418,6 +3598,12 @@
             "value": "ID notifica"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pranešimo ID"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -3529,6 +3715,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Autorizzazione notifiche"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pranešimų leidimas"
           }
         },
         "lv": {
@@ -3645,6 +3837,12 @@
             "value": "L'autorizzazione alle notifiche è stata negata. Abilitala nelle Impostazioni per utilizzare le azioni di notifica."
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pranešimų leidimas buvo atmestas. Prašome įjungti jį Nustatymuose, kad galėtumėte naudoti pranešimų veiksmus."
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -3755,6 +3953,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "L'autorizzazione alle notifiche è stata negata. Per utilizzare le azioni di notifica in Comandi Rapidi, devi abilitare le notifiche nell'app Impostazioni."
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pranešimų leidimas buvo atmestas. Norėdami naudoti pranešimų veiksmus programėlėje Sparčiosios komandos, turite įjungti pranešimus Nustatymų programėlėje."
           }
         },
         "lv": {
@@ -3871,6 +4075,12 @@
             "value": "Le notifiche sono abilitate."
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pranešimai įjungti."
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -3983,6 +4193,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Le notifiche sono temporaneamente consentite. Concedi l'autorizzazione completa per la migliore esperienza."
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pranešimai laikinai leidžiami. Suteikite visą leidimą geriausiai patirčiai."
           }
         },
         "lv": {
@@ -4099,6 +4315,12 @@
             "value": "Le notifiche sono temporaneamente consentite."
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pranešimai laikinai leidžiami."
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -4211,6 +4433,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Le notifiche funzionano correttamente!"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pranešimai veikia tinkamai!"
           }
         },
         "lv": {
@@ -4327,6 +4555,12 @@
             "value": "Le notifiche su iOS non supportano allegati grandi come quello che hai fornito."
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iOS pranešimai nepalaiko tokio dydžio priedų, kokį pateikėte."
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -4439,6 +4673,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Le notifiche su iOS non supportano allegati di questo tipo."
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iOS pranešimai nepalaiko šio tipo priedų."
           }
         },
         "lv": {
@@ -4555,6 +4795,12 @@
             "value": "Le notifiche su iOS non supportano allegati di tipo \"%@\"."
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iOS pranešimai nepalaiko „%@\" tipo priedų."
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -4668,6 +4914,12 @@
             "value": "Una volta concessa l'autorizzazione alle notifiche, non ci sono altre funzionalità qui oltre all'utilizzo del pulsante di test qui sotto per verificare che le notifiche funzionino correttamente."
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kai suteikiamas pranešimų leidimas, čia nėra jokių papildomų funkcijų, išskyrus žemiau esančio bandomojo mygtuko naudojimą patikrinti, ar pranešimai veikia tinkamai."
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -4778,6 +5030,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Apri Impostazioni"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Atidaryti nustatymus"
           }
         },
         "lv": {
@@ -4894,6 +5152,12 @@
             "value": "Apri URL"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Atidaryti URL"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -5004,6 +5268,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Apri impostazioni app"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Atidaryti programėlės nustatymus"
           }
         },
         "lv": {
@@ -5120,6 +5390,12 @@
             "value": "Apre una finestra di sistema per consentire le notifiche da questa app"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Atidaro sistemos dialogo langą, kad leistų pranešimus iš šios programėlės"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -5230,6 +5506,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Apre l'app Impostazioni per abilitare le notifiche"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Atidaro Nustatymų programėlę, kad įjungtų pranešimus"
           }
         },
         "lv": {
@@ -5343,6 +5625,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Autorizzazione richiesta"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reikalingas leidimas"
           }
         },
         "lv": {
@@ -5459,6 +5747,12 @@
             "value": "Concedi l'autorizzazione alle notifiche per utilizzare tutte le funzionalità."
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prašome suteikti pranešimų leidimą, kad galėtumėte naudoti visas funkcijas."
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -5570,6 +5864,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Pronto per inviare notifiche"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paruošta siųsti pranešimus"
           }
         },
         "lv": {
@@ -5686,6 +5986,12 @@
             "value": "Esegui comando rapido"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paleisti sparčiąją komandą"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -5797,6 +6103,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Sabato"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Šeštadienis"
           }
         },
         "lv": {
@@ -5912,6 +6224,12 @@
             "value": "Invia notifica di test"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Siųsti bandomąjį pranešimą"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -6016,6 +6334,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Invia notifica di test"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Siųsti bandomąjį pranešimą"
           }
         },
         "lv": {
@@ -6124,6 +6448,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Invia una notifica di test per verificare la configurazione"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Siunčia bandomąjį pranešimą, kad patikrintų sąranką"
           }
         },
         "lv": {
@@ -6240,6 +6570,12 @@
             "value": "L'impostazione di un ID notifica sostituirà qualsiasi notifica precedente con lo stesso ID notifica"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nustačius pranešimo ID, bus pakeisti visi senesni pranešimai su tuo pačiu pranešimo ID"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -6352,6 +6688,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "L'impostazione di un ID thread raggrupperà la notifica con altre notifiche che hanno lo stesso ID thread"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nustačius gijos ID, pranešimas bus sugrupuotas su kitais pranešimais, turinčiais tą patį gijos ID"
           }
         },
         "lv": {
@@ -6468,6 +6810,12 @@
             "value": "Parametro di input del comando rapido"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sparčiosios komandos įvesties parametras"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -6580,6 +6928,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Nome comando rapido"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sparčiosios komandos pavadinimas"
           }
         },
         "lv": {
@@ -6696,6 +7050,12 @@
             "value": "Mostra notifica"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rodyti pranešimą"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -6800,6 +7160,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Mostra notifica con ${title} e ${message}"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rodyti pranešimą su ${title} ir ${message}"
           }
         },
         "lv": {
@@ -6908,6 +7274,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Mostra notifica con %1$@ e %2$@"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rodyti pranešimą su %1$@ ir %2$@"
           }
         },
         "lv": {
@@ -7024,6 +7396,12 @@
             "value": "Sottotitolo"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paantraštė"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -7135,6 +7513,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Domenica"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sekmadienis"
           }
         },
         "lv": {
@@ -7251,6 +7635,12 @@
             "value": "Azione al tocco"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Palietimo veiksmas"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -7361,6 +7751,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tocca il pulsante qui sotto per aprire Impostazioni, quindi abilita \"Consenti notifiche\" per questa app."
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paspauskite žemiau esantį mygtuką, kad atidarytumėte Nustatymus, tada įjunkite „Leisti pranešimus\" šiai programėlei."
           }
         },
         "lv": {
@@ -7477,6 +7873,12 @@
             "value": "Notifica di test"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bandomasis pranešimas"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -7587,6 +7989,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Testa funzionalità notifiche"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tikrinti pranešimų galimybę"
           }
         },
         "lv": {
@@ -7700,6 +8108,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Testa notifiche"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tikrinti pranešimus"
           }
         },
         "lv": {
@@ -7816,6 +8230,12 @@
             "value": "L'input (non codificato) del comando rapido da eseguire quando la notifica viene toccata (opzionale)"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "(Neužkoduota) sparčiosios komandos įvestis, kuri bus paleista palietus pranešimą (neprivaloma)"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -7928,6 +8348,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "L'URL da aprire quando la notifica viene toccata (obbligatorio se \"Azione al tocco\" è \"Apri URL\")"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL, kurį atidaryti palietus pranešimą (privaloma, jei „Palietimo veiksmas\" yra „Atidaryti URL\")"
           }
         },
         "lv": {
@@ -8044,6 +8470,12 @@
             "value": "L'inizio dell'intervallo di tempo da verificare (15 significa dalle 15:00 in poi)"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Laiko intervalo pradžia tikrinimui (15 reiškia 15:00 arba vėliau)"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -8156,6 +8588,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "La fine dell'intervallo di tempo da verificare (17 significa prima delle 17:00)"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Laiko intervalo pabaiga tikrinimui (17 reiškia iki 17:00)"
           }
         },
         "lv": {
@@ -8272,6 +8710,12 @@
             "value": "Il nome del comando rapido da eseguire quando la notifica viene toccata (obbligatorio se \"Azione al tocco\" è \"Esegui comando rapido\")"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sparčiosios komandos pavadinimas, kurią paleisti palietus pranešimą (privaloma, jei „Palietimo veiksmas\" yra „Paleisti sparčiąją komandą\")"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -8384,6 +8828,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Il messaggio della notifica non può essere vuoto"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pranešimo žinutė negali būti tuščia"
           }
         },
         "lv": {
@@ -8500,6 +8950,12 @@
             "value": "Il titolo della notifica non può essere vuoto"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pranešimo pavadinimas negali būti tuščias"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -8612,6 +9068,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Il sottotitolo della notifica (opzionale)"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pranešimo paantraštė (neprivaloma)"
           }
         },
         "lv": {
@@ -8728,6 +9190,12 @@
             "value": "L'azione al tocco \"Apri URL\" richiede un URL valido"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Palietimo veiksmas „Atidaryti URL\" reikalauja galiojančio URL"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -8840,6 +9308,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "L'azione al tocco \"Esegui comando rapido\" richiede un nome comando rapido valido"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Palietimo veiksmas „Paleisti sparčiąją komandą\" reikalauja galiojančio sparčiosios komandos pavadinimo"
           }
         },
         "lv": {
@@ -8956,6 +9430,12 @@
             "value": "Il tipo di giorno che vuoi verificare"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dienos tipas, kurį norite tikrinti"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -9068,6 +9548,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Questa azione mostrerà una notifica su questo dispositivo."
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Šis veiksmas parodys pranešimą šiame įrenginyje."
           }
         },
         "lv": {
@@ -9184,6 +9670,12 @@
             "value": "Questa azione restituirà un valore booleano che indica se la data fornita ha il tipo di giorno specificato."
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Šis veiksmas grąžins loginę reikšmę, nurodančią, ar nurodyta data turi nurodytą dienos tipą."
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -9298,6 +9790,12 @@
             "value": "Questa azione restituirà un valore booleano che indica se l'ora della data fornita è compresa nell'intervallo di tempo specificato."
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Šis veiksmas grąžins loginę reikšmę, nurodančią, ar nurodytos datos valanda yra nurodytame laiko intervale."
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -9409,6 +9907,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Questa app è la tua cassetta degli attrezzi per Comandi Rapidi, fornendo azioni riutilizzabili che Apple non include di default."
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ši programėlė yra jūsų įrankių rinkinys programėlei Sparčiosios komandos, teikiantis pakartotinai naudojamus veiksmus, kurių Apple neįtraukia į standartinę versiją."
           }
         },
         "lv": {
@@ -9525,6 +10029,12 @@
             "value": "Questa app ha bisogno dell'autorizzazione per inviare notifiche per le azioni di Comandi Rapidi."
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Šiai programėlei reikia leidimo siųsti pranešimus Sparčiųjų komandų veiksmams."
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -9636,6 +10146,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Questa app fornisce azioni per l'app Comandi Rapidi."
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ši programėlė teikia veiksmus programėlei Sparčiosios komandos."
           }
         },
         "lv": {
@@ -9752,6 +10268,12 @@
             "value": "ID thread"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gijos ID"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -9863,6 +10385,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Giovedì"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ketvirtadienis"
           }
         },
         "lv": {
@@ -9979,6 +10507,12 @@
             "value": "Urgente?"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Laiko atžvilgiu svarbu?"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -10091,6 +10625,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Titolo"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pavadinimas"
           }
         },
         "lv": {
@@ -10206,6 +10746,12 @@
             "value": "Oggi"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Šiandien"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -10319,6 +10865,12 @@
             "value": "Domani"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rytoj"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -10430,6 +10982,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Martedì"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Antradienis"
           }
         },
         "lv": {
@@ -10546,6 +11104,12 @@
             "value": "Attivando questa opzione la notifica potrà ignorare le modalità Full Immersion"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Įjungus tai, pranešimas galės prasiveržti pro susitelkimo režimus"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -10658,6 +11222,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tipo di giorno"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dienos tipas"
           }
         },
         "lv": {
@@ -10774,6 +11344,12 @@
             "value": "Työkalu ha bisogno dell'autorizzazione per inviare notifiche. Controlla le tue impostazioni."
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Työkalu reikia leidimo siųsti pranešimus. Prašome peržiūrėti savo nustatymus."
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -10888,6 +11464,12 @@
             "value": "URL"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -10992,6 +11574,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Era ${date} ${typeOfDay}?"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ar ${date} buvo ${typeOfDay}?"
           }
         },
         "lv": {
@@ -11100,6 +11688,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Era %1$@ %2$@?"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ar %1$@ buvo %2$@?"
           }
         },
         "lv": {
@@ -11215,6 +11809,12 @@
             "value": "Mercoledì"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trečiadienis"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -11328,6 +11928,12 @@
             "value": "Giorno feriale"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Darbo diena"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -11439,6 +12045,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Fine settimana"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Savaitgalis"
           }
         },
         "lv": {
@@ -11555,6 +12167,12 @@
             "value": "Cosa succede quando tocchi la notifica"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kas nutinka, kai paliečiate pranešimą"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -11668,6 +12286,12 @@
             "value": "Ieri"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vakar"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -11774,6 +12398,12 @@
             "value": "pomeriggio"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "popietė"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -11872,6 +12502,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "avviso"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "įspėjimas"
           }
         },
         "lv": {
@@ -11974,6 +12610,12 @@
             "value": "sera"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "vakaras"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -12072,6 +12714,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "venerdì"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "penktadienis"
           }
         },
         "lv": {
@@ -12174,6 +12822,12 @@
             "value": "lunedì"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "pirmadienis"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -12272,6 +12926,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "mattina"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "rytas"
           }
         },
         "lv": {
@@ -12374,6 +13034,12 @@
             "value": "notte"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "naktis"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -12469,6 +13135,12 @@
           }
         },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "push"
+          }
+        },
+        "lt": {
           "stringUnit": {
             "state": "translated",
             "value": "push"
@@ -12574,6 +13246,12 @@
             "value": "sabato"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "šeštadienis"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -12672,6 +13350,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "domenica"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "sekmadienis"
           }
         },
         "lv": {
@@ -12774,6 +13458,12 @@
             "value": "giovedì"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ketvirtadienis"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -12872,6 +13562,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "oggi"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "šiandien"
           }
         },
         "lv": {
@@ -12974,6 +13670,12 @@
             "value": "domani"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "rytoj"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -13072,6 +13774,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "martedì"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "antradienis"
           }
         },
         "lv": {
@@ -13174,6 +13882,12 @@
             "value": "mercoledì"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "trečiadienis"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -13272,6 +13986,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "giorno feriale"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "darbo diena"
           }
         },
         "lv": {
@@ -13374,6 +14094,12 @@
             "value": "fine settimana"
           }
         },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "savaitgalis"
+          }
+        },
         "lv": {
           "stringUnit": {
             "state": "translated",
@@ -13472,6 +14198,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "ieri"
+          }
+        },
+        "lt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "vakar"
           }
         },
         "lv": {
