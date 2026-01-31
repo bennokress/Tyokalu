@@ -1,0 +1,63 @@
+{
+  "fill" : {
+    "linear-gradient" : [
+      "srgb:0.03922,0.16863,0.42745,1.00000",
+      "srgb:0.12157,0.12157,0.14118,1.00000"
+    ],
+    "orientation" : {
+      "start" : {
+        "x" : 0.5,
+        "y" : 0
+      },
+      "stop" : {
+        "x" : 0.5,
+        "y" : 0.7
+      }
+    }
+  },
+  "groups" : [
+    {
+      "blend-mode" : "plus-lighter",
+      "blur-material" : 0.1,
+      "layers" : [
+        {
+          "fill" : {
+            "linear-gradient" : [
+              "display-p3:0.98824,0.37255,0.63922,1.00000",
+              "srgb:0.36471,0.84706,1.00000,1.00000"
+            ],
+            "orientation" : {
+              "start" : {
+                "x" : -0.23359826682643667,
+                "y" : 0.244415608187215
+              },
+              "stop" : {
+                "x" : 1.228804782998303,
+                "y" : 0.7553961948359054
+              }
+            }
+          },
+          "glass" : true,
+          "image-name" : "Symbol.svg",
+          "name" : "Symbol"
+        }
+      ],
+      "lighting" : "individual",
+      "shadow" : {
+        "kind" : "layer-color",
+        "opacity" : 0.5
+      },
+      "specular" : true,
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.3
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}
