@@ -109,6 +109,7 @@
 				hr,
 				hu,
 				it,
+				ja,
 				lt,
 				lv,
 				nb,
