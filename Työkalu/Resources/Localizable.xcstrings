@@ -107,6 +107,12 @@
             "value": "\"Työkalu\" to fińskie słowo oznaczające \"narzędzie\"."
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"Työkalu\" este cuvântul finlandez pentru „unealtă\"."
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -237,6 +243,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Data nigdy nie może być między dwiema równymi godzinami, proszę podać różne liczby dla wcześniejszej i późniejszej godziny"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O dată nu poate fi niciodată între două ore egale, vă rugăm să introduceți numere diferite pentru ora anterioară și cea ulterioară"
           }
         },
         "sk": {
@@ -371,6 +383,12 @@
             "value": "Dzień ma 24 godziny, więc sprawdzanie godzin wyższych niż 24 jest niemożliwe"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O zi are 24 de ore, deci verificarea pentru ore mai mari de 24 este imposibilă"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -503,6 +521,12 @@
             "value": "Dzień nie ma ujemnych godzin, więc sprawdzanie godzin niższych niż 0 jest niemożliwe"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O zi nu are ore negative, deci verificarea pentru ore mai mici de 0 este imposibilă"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -632,6 +656,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "O tej aplikacji"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Despre această aplicație"
           }
         },
         "sk": {
@@ -766,6 +796,12 @@
             "value": "Załącznik, który będzie wyświetlany w powiadomieniu (opcjonalnie, zobacz UNNotificationAttachment po więcej informacji)"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Un atașament care va fi afișat în notificare (opțional, vedeți UNNotificationAttachment pentru mai multe informații)"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -896,6 +932,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Załącznik"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Atașament"
           }
         },
         "sk": {
@@ -1030,6 +1072,12 @@
             "value": "Data"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dată"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -1160,6 +1208,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Data i czas"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dată și oră"
           }
         },
         "sk": {
@@ -1294,6 +1348,12 @@
             "value": "Funkcjonalność urządzenia"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Funcționalitate dispozitiv"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -1423,6 +1483,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Czy wiesz?"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Știați că?"
           }
         },
         "sk": {
@@ -1557,6 +1623,12 @@
             "value": "Nic nie rób"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nu faceți nimic"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -1687,6 +1759,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Wcześniejsza godzina"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ora anterioară"
           }
         },
         "sk": {
@@ -1820,6 +1898,12 @@
             "value": "Piątek"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vineri"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -1949,6 +2033,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Udziel uprawnienia"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Acordați permisiunea"
           }
         },
         "sk": {
@@ -2083,6 +2173,12 @@
             "value": "Udziel uprawnienia do powiadomień"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Acordați permisiunea pentru notificări"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -2213,6 +2309,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Najpierw udziel uprawnienia do powiadomień"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Acordați mai întâi permisiunea pentru notificări"
           }
         },
         "sk": {
@@ -2347,6 +2449,12 @@
             "value": "Sprawdzanie godziny"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verificare oră"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -2471,6 +2579,12 @@
             "value": "Czy ${date} to ${typeOfDay}?"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Este ${date} ${typeOfDay}?"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -2589,6 +2703,12 @@
             "value": "Czy ${date} to ${typeOfDay}?"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Este ${date} o ${typeOfDay}?"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -2705,6 +2825,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Czy ${date} przypada na ${typeOfDay}?"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Este ${date} într-o ${typeOfDay}?"
           }
         },
         "sl": {
@@ -2831,6 +2957,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Czy %1\\$@ to %2\\$@?"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Este %1$@ %2$@?"
           }
         },
         "sk": {
@@ -2965,6 +3097,12 @@
             "value": "Czy %1\\$@ to %2\\$@?"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Este %1$@ o %2$@?"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -3095,6 +3233,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Czy %1\\$@ przypada na %2\\$@?"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Este %1$@ într-o %2$@?"
           }
         },
         "sk": {
@@ -3229,6 +3373,12 @@
             "value": "Czy to typ dnia"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Este tip de zi"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -3351,6 +3501,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Czy godzina ${date} jest między ${lowerBound} a ${upperBound}?"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Este ora din ${date} între ${lowerBound} și ${upperBound}?"
           }
         },
         "sl": {
@@ -3477,6 +3633,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Czy godzina %1\\$@ jest między %2\\$lld a %3\\$lld?"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Este ora din %1$@ între %2$lld și %3$lld?"
           }
         },
         "sk": {
@@ -3611,6 +3773,12 @@
             "value": "Późniejsza godzina"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ora ulterioară"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -3743,6 +3911,12 @@
             "value": "Wiadomość"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mesaj"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -3872,6 +4046,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Poniedziałek"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Luni"
           }
         },
         "sk": {
@@ -4006,6 +4186,12 @@
             "value": "ID powiadomienia"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ID notificare"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -4135,6 +4321,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Uprawnienie do powiadomień"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Permisiune notificări"
           }
         },
         "sk": {
@@ -4269,6 +4461,12 @@
             "value": "Uprawnienie do powiadomień zostało odrzucone. Włącz je w Ustawieniach, aby używać akcji powiadomień."
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Permisiunea pentru notificări a fost refuzată. Vă rugăm să o activați din Setări pentru a utiliza acțiunile de notificare."
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -4397,6 +4595,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Uprawnienie do powiadomień zostało odrzucone. Aby używać akcji powiadomień w Skrótach, musisz włączyć powiadomienia w aplikacji Ustawienia."
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Permisiunea pentru notificări a fost refuzată. Pentru a utiliza acțiunile de notificare în Scurtături, trebuie să activați notificările din aplicația Setări."
           }
         },
         "sk": {
@@ -4531,6 +4735,12 @@
             "value": "Powiadomienia są włączone."
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notificările sunt activate."
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -4661,6 +4871,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Powiadomienia są tymczasowo dozwolone. Udziel pełnego uprawnienia dla najlepszego doświadczenia."
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notificările sunt permise provizoriu. Acordați permisiunea completă pentru cea mai bună experiență."
           }
         },
         "sk": {
@@ -4795,6 +5011,12 @@
             "value": "Powiadomienia są tymczasowo dozwolone."
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notificările sunt permise temporar."
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -4925,6 +5147,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Powiadomienia działają poprawnie!"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notificările funcționează corect!"
           }
         },
         "sk": {
@@ -5059,6 +5287,12 @@
             "value": "Powiadomienia na iOS nie obsługują załączników tak dużych jak ten, który podałeś."
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notificările pe iOS nu acceptă atașamente la fel de mari ca cel pe care l-ați furnizat."
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -5189,6 +5423,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Powiadomienia na iOS nie obsługują załączników tego typu."
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notificările pe iOS nu acceptă atașamente de acest tip."
           }
         },
         "sk": {
@@ -5323,6 +5563,12 @@
             "value": "Powiadomienia na iOS nie obsługują załączników typu «%@»."
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notificările pe iOS nu acceptă atașamente de tipul „%@\"."
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -5454,6 +5700,12 @@
             "value": "Po udzieleniu uprawnienia do powiadomień, nie ma tu żadnej dodatkowej funkcjonalności poza użyciem przycisku testowego poniżej, aby zweryfikować, że powiadomienia działają poprawnie."
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Odată ce permisiunea pentru notificări este acordată, nu există altă funcționalitate aici în afară de utilizarea butonului de test de mai jos pentru a verifica dacă notificările funcționează corect."
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -5582,6 +5834,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Otwórz Ustawienia"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deschideți Setări"
           }
         },
         "sk": {
@@ -5716,6 +5974,12 @@
             "value": "Otwórz URL"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deschideți URL"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -5844,6 +6108,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Otwórz ustawienia aplikacji"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deschideți setările aplicației"
           }
         },
         "sk": {
@@ -5978,6 +6248,12 @@
             "value": "Otwiera okno dialogowe systemu, aby zezwolić na powiadomienia z tej aplikacji"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deschide o fereastră de dialog de sistem pentru a permite notificări de la această aplicație"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -6106,6 +6382,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Otwiera aplikację Ustawienia, aby włączyć powiadomienia"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deschide aplicația Setări pentru a activa notificările"
           }
         },
         "sk": {
@@ -6237,6 +6519,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Wymagane uprawnienie"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Permisiune necesară"
           }
         },
         "sk": {
@@ -6371,6 +6659,12 @@
             "value": "Proszę udzielić uprawnienia do powiadomień, aby używać wszystkich funkcji."
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vă rugăm să acordați permisiunea pentru notificări pentru a utiliza toate funcțiile."
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -6500,6 +6794,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Gotowe do wysyłania powiadomień"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pregătit pentru trimiterea notificărilor"
           }
         },
         "sk": {
@@ -6634,6 +6934,12 @@
             "value": "Uruchom skrót"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rulați scurtătura"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -6763,6 +7069,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Sobota"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sâmbătă"
           }
         },
         "sk": {
@@ -6896,6 +7208,12 @@
             "value": "Wyślij testowe powiadomienie"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trimiteți notificare de test"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -7018,6 +7336,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Wyślij testowe powiadomienie"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trimiteți notificare de test"
           }
         },
         "sl": {
@@ -7144,6 +7468,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Wysyła testowe powiadomienie, aby zweryfikować konfigurację"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trimite o notificare de test pentru a verifica configurația"
           }
         },
         "sk": {
@@ -7278,6 +7608,12 @@
             "value": "Ustawienie ID powiadomienia zastąpi wszystkie starsze powiadomienia z tym samym ID powiadomienia"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Setarea unui ID de notificare va înlocui orice notificare mai veche cu același ID de notificare"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -7408,6 +7744,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ustawienie ID wątku zgrupuje powiadomienie z innymi powiadomieniami, które mają to samo ID wątku"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Setarea unui ID de fir va grupa notificarea cu alte notificări care au același ID de fir"
           }
         },
         "sk": {
@@ -7542,6 +7884,12 @@
             "value": "Parametr wejściowy skrótu"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Parametru de intrare scurtătură"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -7672,6 +8020,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Nazwa skrótu"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nume scurtătură"
           }
         },
         "sk": {
@@ -7806,6 +8160,12 @@
             "value": "Pokaż powiadomienie"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afișați notificarea"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -7928,6 +8288,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Pokaż powiadomienie z ${title} i ${message}"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afișați notificarea cu ${title} și ${message}"
           }
         },
         "sl": {
@@ -8054,6 +8420,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Pokaż powiadomienie z %1\\$@ i %2\\$@"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afișați notificarea cu %1$@ și %2$@"
           }
         },
         "sk": {
@@ -8188,6 +8560,12 @@
             "value": "Podtytuł"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Subtitlu"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -8317,6 +8695,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Niedziela"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Duminică"
           }
         },
         "sk": {
@@ -8451,6 +8835,12 @@
             "value": "Akcja dotknięcia"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Acțiune la atingere"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -8579,6 +8969,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Dotknij poniższego przycisku, aby otworzyć Ustawienia, a następnie włącz „Zezwalaj na powiadomienia\" dla tej aplikacji."
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Atingeți butonul de mai jos pentru a deschide Setări, apoi activați „Permite notificări\" pentru această aplicație."
           }
         },
         "sk": {
@@ -8713,6 +9109,12 @@
             "value": "Testowe powiadomienie"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notificare de test"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -8841,6 +9243,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Testuj funkcję powiadomień"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testați capacitatea de notificare"
           }
         },
         "sk": {
@@ -8972,6 +9380,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Testuj powiadomienia"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testați notificările"
           }
         },
         "sk": {
@@ -9106,6 +9520,12 @@
             "value": "(Niekodowane) wejście skrótu do uruchomienia po dotknięciu powiadomienia (opcjonalnie)"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Intrarea (necodificată) a scurtăturii de rulat când notificarea este atinsă (opțional)"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -9236,6 +9656,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "URL do otwarcia po dotknięciu powiadomienia (wymagane, jeśli „Akcja dotknięcia\" to „Otwórz URL\")"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL-ul de deschis când notificarea este atinsă (necesar dacă „Acțiune la atingere\" este „Deschideți URL\")"
           }
         },
         "sk": {
@@ -9370,6 +9796,12 @@
             "value": "Początek przedziału czasowego do sprawdzenia (15 oznacza o lub po 15:00)"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Începutul intervalului de timp pentru verificare (15 înseamnă la sau după 15:00)"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -9500,6 +9932,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Koniec przedziału czasowego do sprawdzenia (17 oznacza przed 17:00)"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sfârșitul intervalului de timp pentru verificare (17 înseamnă înainte de 17:00)"
           }
         },
         "sk": {
@@ -9634,6 +10072,12 @@
             "value": "Nazwa skrótu do uruchomienia po dotknięciu powiadomienia (wymagane, jeśli „Akcja dotknięcia\" to „Uruchom skrót\")"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Numele scurtăturii de rulat când notificarea este atinsă (necesar dacă „Acțiune la atingere\" este „Rulați scurtătura\")"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -9764,6 +10208,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Treść powiadomienia nie może być pusta"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mesajul notificării nu poate fi gol"
           }
         },
         "sk": {
@@ -9898,6 +10348,12 @@
             "value": "Tytuł powiadomienia nie może być pusty"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Titlul notificării nu poate fi gol"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -10028,6 +10484,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Podtytuł powiadomienia (opcjonalnie)"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Subtitlul notificării (opțional)"
           }
         },
         "sk": {
@@ -10162,6 +10624,12 @@
             "value": "Akcja dotknięcia „Otwórz URL\" wymaga prawidłowego URL"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Acțiunea la atingere „Deschideți URL\" necesită un URL valid"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -10292,6 +10760,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Akcja dotknięcia „Uruchom skrót\" wymaga prawidłowej nazwy skrótu"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Acțiunea la atingere „Rulați scurtătura\" necesită un nume de scurtătură valid"
           }
         },
         "sk": {
@@ -10426,6 +10900,12 @@
             "value": "Typ dnia, który chcesz sprawdzić"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tipul de zi pentru care doriți să verificați"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -10556,6 +11036,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ta czynność wyświetli powiadomienie na tym urządzeniu."
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Această acțiune va afișa o notificare pe acest dispozitiv."
           }
         },
         "sk": {
@@ -10690,6 +11176,12 @@
             "value": "Ta czynność zwróci wartość logiczną reprezentującą, czy podana data ma podany typ dnia."
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Această acțiune va returna o valoare booleană care reprezintă dacă data dată are tipul de zi dat."
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -10822,6 +11314,12 @@
             "value": "Ta czynność zwróci wartość logiczną reprezentującą, czy godzina podanej daty mieści się w podanym przedziale czasowym."
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Această acțiune va returna o valoare booleană care reprezintă dacă ora datei date se află în intervalul de timp dat."
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -10951,6 +11449,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ta aplikacja to Twój zestaw narzędzi dla Skrótów, oferujący czynności wielokrotnego użytku, które Apple nie dołącza standardowo."
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Această aplicație este cutia dvs. de unelte pentru Scurtături, oferind acțiuni reutilizabile pe care Apple nu le include implicit."
           }
         },
         "sk": {
@@ -11085,6 +11589,12 @@
             "value": "Ta aplikacja potrzebuje uprawnienia do wysyłania powiadomień dla czynności Skrótów."
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Această aplicație are nevoie de permisiune pentru a trimite notificări pentru acțiunile din Scurtături."
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -11214,6 +11724,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ta aplikacja oferuje czynności dla aplikacji Skróty."
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Această aplicație oferă acțiuni pentru aplicația Scurtături."
           }
         },
         "sk": {
@@ -11348,6 +11864,12 @@
             "value": "ID wątku"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ID fir"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -11477,6 +11999,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Czwartek"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Joi"
           }
         },
         "sk": {
@@ -11611,6 +12139,12 @@
             "value": "Pilne?"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sensibil la timp?"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -11741,6 +12275,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tytuł"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Titlu"
           }
         },
         "sk": {
@@ -11874,6 +12414,12 @@
             "value": "Dzisiaj"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Astăzi"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -12005,6 +12551,12 @@
             "value": "Jutro"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mâine"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -12134,6 +12686,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Wtorek"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Marți"
           }
         },
         "sk": {
@@ -12268,6 +12826,12 @@
             "value": "Włączenie tej opcji pozwoli powiadomieniu przebić się przez tryby skupienia"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Activarea acestei opțiuni va permite notificării să treacă prin modurile Focus"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -12398,6 +12962,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Typ dnia"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tip de zi"
           }
         },
         "sk": {
@@ -12532,6 +13102,12 @@
             "value": "Työkalu potrzebuje uprawnienia do wysyłania powiadomień. Proszę sprawdzić swoje ustawienia."
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Työkalu are nevoie de permisiune pentru a trimite notificări. Vă rugăm să verificați setările."
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -12664,6 +13240,12 @@
             "value": "URL"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -12786,6 +13368,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Czy ${date} było ${typeOfDay}?"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A fost ${date} ${typeOfDay}?"
           }
         },
         "sl": {
@@ -12912,6 +13500,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Czy %1\\$@ było %2\\$@?"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A fost %1$@ %2$@?"
           }
         },
         "sk": {
@@ -13045,6 +13639,12 @@
             "value": "Środa"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Miercuri"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -13176,6 +13776,12 @@
             "value": "Dzień roboczy"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zi lucrătoare"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -13302,6 +13908,12 @@
           }
         },
         "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weekend"
+          }
+        },
+        "ro": {
           "stringUnit": {
             "state": "translated",
             "value": "Weekend"
@@ -13439,6 +14051,12 @@
             "value": "Co się dzieje po dotknięciu powiadomienia"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ce se întâmplă când atingeți notificarea"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -13570,6 +14188,12 @@
             "value": "Wczoraj"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ieri"
+          }
+        },
         "sk": {
           "stringUnit": {
             "state": "translated",
@@ -13694,6 +14318,12 @@
             "value": "popołudnie"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "după-amiază"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -13810,6 +14440,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "alert"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "alertă"
           }
         },
         "sl": {
@@ -13930,6 +14566,12 @@
             "value": "wieczór"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "seară"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -14046,6 +14688,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "piątek"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "vineri"
           }
         },
         "sl": {
@@ -14166,6 +14814,12 @@
             "value": "poniedziałek"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "luni"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -14282,6 +14936,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "rano"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "dimineață"
           }
         },
         "sl": {
@@ -14402,6 +15062,12 @@
             "value": "noc"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "noapte"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -14515,6 +15181,12 @@
           }
         },
         "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "push"
+          }
+        },
+        "ro": {
           "stringUnit": {
             "state": "translated",
             "value": "push"
@@ -14638,6 +15310,12 @@
             "value": "sobota"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "sâmbătă"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -14754,6 +15432,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "niedziela"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "duminică"
           }
         },
         "sl": {
@@ -14874,6 +15558,12 @@
             "value": "czwartek"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "joi"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -14990,6 +15680,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "dzisiaj"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "astăzi"
           }
         },
         "sl": {
@@ -15110,6 +15806,12 @@
             "value": "jutro"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "mâine"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -15226,6 +15928,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "wtorek"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "marți"
           }
         },
         "sl": {
@@ -15346,6 +16054,12 @@
             "value": "środa"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "miercuri"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -15464,6 +16178,12 @@
             "value": "dzień roboczy"
           }
         },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "zi lucrătoare"
+          }
+        },
         "sl": {
           "stringUnit": {
             "state": "translated",
@@ -15577,6 +16297,12 @@
           }
         },
         "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "weekend"
+          }
+        },
+        "ro": {
           "stringUnit": {
             "state": "translated",
             "value": "weekend"
@@ -15698,6 +16424,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "wczoraj"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ieri"
           }
         },
         "sl": {
