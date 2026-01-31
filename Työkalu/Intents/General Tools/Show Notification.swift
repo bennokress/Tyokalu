@@ -140,9 +140,9 @@ enum ShowNotificationIntentError: Error, CustomLocalizedStringResourceConvertibl
         case .emptyRequiredShortcutName: "The tap action \"Run Shortcut\" requires a valid Shortcut Name"
         case .emptyRequiredURL: "The tap action \"Open URL\" requires a valid URL"
         case .emptyTitle: "The notification title can not be empty"
-        case .notificatiionPermissionsMissing: "Verktøy needs permission to send notification. Please review your settings."
-        case let .notificationAttachmentTypeNotSupported(type): "Notifications on iOS do not support attachments of \(type != nil ? "type '\(type!.description)'" : "this type")."
-        case .notificationAttachmentTooLarge: "Notifications on iOS do not support attachments as large as the one you provieded."
+        case .notificatiionPermissionsMissing: "Työkalu needs permission to send notifications. Please review your settings."
+        case let .notificationAttachmentTypeNotSupported(type): type != nil ? "Notifications on iOS do not support attachments of type '\(type!.description)'." : "Notifications on iOS do not support attachments of this type."
+        case .notificationAttachmentTooLarge: "Notifications on iOS do not support attachments as large as the one you provided."
         }
     }
 

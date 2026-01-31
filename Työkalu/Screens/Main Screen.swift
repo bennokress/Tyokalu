@@ -65,7 +65,7 @@ struct MainScreen: View {
                 .font(.headline)
             Text("This app provides actions for the Shortcuts app.")
                 .foregroundStyle(.secondary)
-            Text("Once notification permission is granted, there's no additional functionality here other than using the test button below to verify notifications work correctly..")
+            Text("Once notification permission is granted, there's no additional functionality here other than using the test button below to verify notifications work correctly.")
                 .foregroundStyle(.secondary)
         }
     }
@@ -98,17 +98,17 @@ struct MainScreen: View {
     private var permissionStatusText: String {
         switch notificationStatus {
         case .notDetermined:
-            return "This app needs permission to send notifications for Shortcuts actions."
+            return String(localized: "This app needs permission to send notifications for Shortcuts actions.")
         case .denied:
-            return "Notification permission was denied. Please enable it in Settings to use notification actions."
+            return String(localized: "Notification permission was denied. Please enable it in Settings to use notification actions.")
         case .provisional:
-            return "Notifications are provisionally allowed. Grant full permission for the best experience."
+            return String(localized: "Notifications are provisionally allowed. Grant full permission for the best experience.")
         case .authorized:
-            return "Notifications are enabled."
+            return String(localized: "Notifications are enabled.")
         case .ephemeral:
-            return "Notifications are temporarily allowed."
+            return String(localized: "Notifications are temporarily allowed.")
         @unknown default:
-            return "Please grant notification permission to use all features."
+            return String(localized: "Please grant notification permission to use all features.")
         }
     }
 
@@ -156,7 +156,7 @@ struct MainScreen: View {
     private var testNotificationButton: some View {
         Button {
             Task {
-                let notification = LocalNotification(title: "Test Notification", message: "Notifications are working correctly!", isTimeSensitive: true, threadID: "Main Screen")
+                let notification = LocalNotification(title: String(localized: "Test Notification"), message: String(localized: "Notifications are working correctly!"), isTimeSensitive: true, threadID: "Main Screen")
                 try? await notification.send()
             }
         } label: {
