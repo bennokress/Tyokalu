@@ -1,15 +1,17 @@
 //
-// 📄 TyökaluApp.swift
+// 📄 Työkalu.swift
 // 👨🏼‍💻 Author: Benno Kress
 //
 
 import SwiftUI
 
 @main
-struct TyökaluApp: App {
+struct Työkalu: SwiftUI.App {
+
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainScreen()
         }
     }
+
 }

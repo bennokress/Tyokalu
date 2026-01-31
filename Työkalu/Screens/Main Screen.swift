@@ -1,11 +1,12 @@
 //
-// 📄 ContentView.swift
+// 📄 Main Screen.swift
 // 👨🏼‍💻 Author: Benno Kress
 //
 
 import SwiftUI
 
-struct ContentView: View {
+struct MainScreen: View {
+
     var body: some View {
         VStack {
             Image(systemName: "globe")
@@ -15,8 +16,9 @@ struct ContentView: View {
         }
         .padding()
     }
+
 }
 
 #Preview {
-    ContentView()
+    MainScreen()
 }
