@@ -1,0 +1,1167 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "\"Työkalu\" is the Finnish word for \"tool\"." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\"Työkalu\" is the Finnish word for \"tool\"."
+          }
+        }
+      }
+    },
+    "A Date can never be between two equal hours, please enter different numbers as earlier and later hours" : {
+      "comment" : "Error message",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A Date can never be between two equal hours, please enter different numbers as earlier and later hours"
+          }
+        }
+      }
+    },
+    "A day has 24 hours, so checking against hours higher than 24 is impossible" : {
+      "comment" : "Error message",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A day has 24 hours, so checking against hours higher than 24 is impossible"
+          }
+        }
+      }
+    },
+    "A day has no negative hours, so checking against hours lower than 0 is impossible" : {
+      "comment" : "Error message",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A day has no negative hours, so checking against hours lower than 0 is impossible"
+          }
+        }
+      }
+    },
+    "About This App" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About This App"
+          }
+        }
+      }
+    },
+    "afternoon" : {
+
+    },
+    "alert" : {
+
+    },
+    "An attachment that will be displayed in the notification (optional, see UNNotificationAttachment for more information)" : {
+      "comment" : "Parameter description",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "An attachment that will be displayed in the notification (optional, see UNNotificationAttachment for more information)"
+          }
+        }
+      }
+    },
+    "Attachment" : {
+      "comment" : "Parameter title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Attachment"
+          }
+        }
+      }
+    },
+    "Date" : {
+      "comment" : "Parameter title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Date"
+          }
+        }
+      }
+    },
+    "Date & Time" : {
+      "comment" : "Intent category name",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Date & Time"
+          }
+        }
+      }
+    },
+    "Device Functionality" : {
+      "comment" : "Intent category name",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Device Functionality"
+          }
+        }
+      }
+    },
+    "Did You Know?" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Did You Know?"
+          }
+        }
+      }
+    },
+    "Do nothing" : {
+      "comment" : "Tap action option",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Do nothing"
+          }
+        }
+      }
+    },
+    "Earlier Hour" : {
+      "comment" : "Parameter title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Earlier Hour"
+          }
+        }
+      }
+    },
+    "evening" : {
+
+    },
+    "friday" : {
+
+    },
+    "Friday" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Friday"
+          }
+        }
+      }
+    },
+    "Grant notification permission" : {
+      "comment" : "Accessibility label for permission button",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grant notification permission"
+          }
+        }
+      }
+    },
+    "Grant notification permission first" : {
+      "comment" : "Accessibility hint when not authorized",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grant notification permission first"
+          }
+        }
+      }
+    },
+    "Grant Permission" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grant Permission"
+          }
+        }
+      }
+    },
+    "Hour Check" : {
+      "comment" : "Intent title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hour Check"
+          }
+        }
+      }
+    },
+    "Is %@ %@?" : {
+      "comment" : "Parameter summary for today/tomorrow case",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Is %@ %@?"
+          }
+        }
+      }
+    },
+    "Is %@ a %@?" : {
+      "comment" : "Parameter summary default case",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Is %@ a %@?"
+          }
+        }
+      }
+    },
+    "Is %@ on a %@?" : {
+      "comment" : "Parameter summary for weekend case",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Is %@ on a %@?"
+          }
+        }
+      }
+    },
+    "Is ${date} ${typeOfDay}?" : {
+
+    },
+    "Is ${date} a ${typeOfDay}?" : {
+
+    },
+    "Is ${date} on a ${typeOfDay}?" : {
+
+    },
+    "Is the hour of %@ between %lld and %lld?" : {
+      "comment" : "Parameter summary for Hour Check intent",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Is the hour of %@ between %lld and %lld?"
+          }
+        }
+      }
+    },
+    "Is the hour of ${date} between ${lowerBound} and ${upperBound}?" : {
+
+    },
+    "Is Type of Day" : {
+      "comment" : "Intent title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Is Type of Day"
+          }
+        }
+      }
+    },
+    "Later Hour" : {
+      "comment" : "Parameter title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Later Hour"
+          }
+        }
+      }
+    },
+    "Message" : {
+      "comment" : "Parameter title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Message"
+          }
+        }
+      }
+    },
+    "monday" : {
+
+    },
+    "Monday" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Monday"
+          }
+        }
+      }
+    },
+    "morning" : {
+
+    },
+    "night" : {
+
+    },
+    "Notification ID" : {
+      "comment" : "Parameter title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notification ID"
+          }
+        }
+      }
+    },
+    "Notification Permission" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notification Permission"
+          }
+        }
+      }
+    },
+    "Notification permission was denied. Please enable it in Settings to use notification actions." : {
+      "comment" : "Permission status: denied",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notification permission was denied. Please enable it in Settings to use notification actions."
+          }
+        }
+      }
+    },
+    "Notification permission was denied. To use notification actions in Shortcuts, you need to enable notifications in the Settings app." : {
+
+    },
+    "Notifications are enabled." : {
+      "comment" : "Permission status: authorized",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notifications are enabled."
+          }
+        }
+      }
+    },
+    "Notifications are provisionally allowed. Grant full permission for the best experience." : {
+      "comment" : "Permission status: provisional",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notifications are provisionally allowed. Grant full permission for the best experience."
+          }
+        }
+      }
+    },
+    "Notifications are temporarily allowed." : {
+      "comment" : "Permission status: ephemeral",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notifications are temporarily allowed."
+          }
+        }
+      }
+    },
+    "Notifications are working correctly!" : {
+      "comment" : "Message for test notification",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notifications are working correctly!"
+          }
+        }
+      }
+    },
+    "Notifications on iOS do not support attachments as large as the one you provided." : {
+      "comment" : "Error message for attachment too large",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notifications on iOS do not support attachments as large as the one you provided."
+          }
+        }
+      }
+    },
+    "Notifications on iOS do not support attachments of this type." : {
+      "comment" : "Error message for unsupported attachment type (unknown type)",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notifications on iOS do not support attachments of this type."
+          }
+        }
+      }
+    },
+    "Notifications on iOS do not support attachments of type '%@'." : {
+      "comment" : "Error message for unsupported attachment type",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notifications on iOS do not support attachments of type '%@'."
+          }
+        }
+      }
+    },
+    "Once notification permission is granted, there's no additional functionality here other than using the test button below to verify notifications work correctly." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Once notification permission is granted, there's no additional functionality here other than using the test button below to verify notifications work correctly."
+          }
+        }
+      }
+    },
+    "Open app settings" : {
+
+    },
+    "Open Settings" : {
+
+    },
+    "Open URL" : {
+      "comment" : "Tap action option and notification button",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open URL"
+          }
+        }
+      }
+    },
+    "Opens a system dialog to allow notifications from this app" : {
+      "comment" : "Accessibility hint for permission button",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opens a system dialog to allow notifications from this app"
+          }
+        }
+      }
+    },
+    "Opens the Settings app to enable notifications" : {
+
+    },
+    "Permission required" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Permission required"
+          }
+        }
+      }
+    },
+    "Please grant notification permission to use all features." : {
+      "comment" : "Permission status: unknown default",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please grant notification permission to use all features."
+          }
+        }
+      }
+    },
+    "push" : {
+
+    },
+    "Ready to send notifications" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ready to send notifications"
+          }
+        }
+      }
+    },
+    "Run Shortcut" : {
+      "comment" : "Tap action option and notification button",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Run Shortcut"
+          }
+        }
+      }
+    },
+    "saturday" : {
+
+    },
+    "Saturday" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saturday"
+          }
+        }
+      }
+    },
+    "Send test notification" : {
+
+    },
+    "Send Test Notification" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Send Test Notification"
+          }
+        }
+      }
+    },
+    "Sends a test notification to verify the setup" : {
+      "comment" : "Accessibility hint when authorized",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sends a test notification to verify the setup"
+          }
+        }
+      }
+    },
+    "Setting a Notification ID will replace any older notification with the same Notification ID" : {
+      "comment" : "Parameter description",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Setting a Notification ID will replace any older notification with the same Notification ID"
+          }
+        }
+      }
+    },
+    "Setting a Thread ID will group the notification with other notifications that have the same Thread ID" : {
+      "comment" : "Parameter description",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Setting a Thread ID will group the notification with other notifications that have the same Thread ID"
+          }
+        }
+      }
+    },
+    "Shortcut Input Parameter" : {
+      "comment" : "Parameter title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shortcut Input Parameter"
+          }
+        }
+      }
+    },
+    "Shortcut Name" : {
+      "comment" : "Parameter title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shortcut Name"
+          }
+        }
+      }
+    },
+    "Show Notification" : {
+      "comment" : "Intent title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show Notification"
+          }
+        }
+      }
+    },
+    "Show notification with %@ and %@" : {
+      "comment" : "Parameter summary for Show Notification intent",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show notification with %@ and %@"
+          }
+        }
+      }
+    },
+    "Show notification with ${title} and ${message}" : {
+
+    },
+    "Subtitle" : {
+      "comment" : "Parameter title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Subtitle"
+          }
+        }
+      }
+    },
+    "sunday" : {
+
+    },
+    "Sunday" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sunday"
+          }
+        }
+      }
+    },
+    "Tap Action" : {
+      "comment" : "Parameter title and type display name",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap Action"
+          }
+        }
+      }
+    },
+    "Tap the button below to open Settings, then enable \"Allow Notifications\" for this app." : {
+
+    },
+    "Test Notification" : {
+      "comment" : "Title for test notification",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Test Notification"
+          }
+        }
+      }
+    },
+    "Test Notification Capability" : {
+
+    },
+    "Test Notifications" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Test Notifications"
+          }
+        }
+      }
+    },
+    "The (unencoded) input of the Shortcut to run when the notification is tapped (optional)" : {
+      "comment" : "Parameter description",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The (unencoded) input of the Shortcut to run when the notification is tapped (optional)"
+          }
+        }
+      }
+    },
+    "The beginning of the time frame to check against (15 means at or after 15:00/3pm)" : {
+      "comment" : "Parameter description",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The beginning of the time frame to check against (15 means at or after 15:00/3pm)"
+          }
+        }
+      }
+    },
+    "The end of the time frame to check against (17 means before 17:00/5pm)" : {
+      "comment" : "Parameter description",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The end of the time frame to check against (17 means before 17:00/5pm)"
+          }
+        }
+      }
+    },
+    "The name of the Shortcut to run when the notification is tapped (required if 'Tap Action' is \"Run Shortcut\")" : {
+      "comment" : "Parameter description",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The name of the Shortcut to run when the notification is tapped (required if 'Tap Action' is \"Run Shortcut\")"
+          }
+        }
+      }
+    },
+    "The notification message can not be empty" : {
+      "comment" : "Error message",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The notification message can not be empty"
+          }
+        }
+      }
+    },
+    "The notification title can not be empty" : {
+      "comment" : "Error message",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The notification title can not be empty"
+          }
+        }
+      }
+    },
+    "The subtitle of the notification (optional)" : {
+      "comment" : "Parameter description",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The subtitle of the notification (optional)"
+          }
+        }
+      }
+    },
+    "The tap action \"Open URL\" requires a valid URL" : {
+      "comment" : "Error message",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The tap action \"Open URL\" requires a valid URL"
+          }
+        }
+      }
+    },
+    "The tap action \"Run Shortcut\" requires a valid Shortcut Name" : {
+      "comment" : "Error message",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The tap action \"Run Shortcut\" requires a valid Shortcut Name"
+          }
+        }
+      }
+    },
+    "The type of day you want to check for" : {
+      "comment" : "Parameter description",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The type of day you want to check for"
+          }
+        }
+      }
+    },
+    "The URL to open when the notification is tapped (required if 'Tap Action' is \"Open URL\")" : {
+      "comment" : "Parameter description",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The URL to open when the notification is tapped (required if 'Tap Action' is \"Open URL\")"
+          }
+        }
+      }
+    },
+    "This action will display a notification on this device." : {
+      "comment" : "Intent description",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This action will display a notification on this device."
+          }
+        }
+      }
+    },
+    "This action will return a Boolean value representing if the given date has the given type of day." : {
+      "comment" : "Intent description",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This action will return a Boolean value representing if the given date has the given type of day."
+          }
+        }
+      }
+    },
+    "This action will return a Boolean value representing if the hour of the given date is inside the given time frame." : {
+      "comment" : "Intent description",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This action will return a Boolean value representing if the hour of the given date is inside the given time frame."
+          }
+        }
+      }
+    },
+    "This app is your toolbox for Shortcuts, providing reusable actions that Apple doesn't include out of the box." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This app is your toolbox for Shortcuts, providing reusable actions that Apple doesn't include out of the box."
+          }
+        }
+      }
+    },
+    "This app needs permission to send notifications for Shortcuts actions." : {
+      "comment" : "Permission status: not determined",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This app needs permission to send notifications for Shortcuts actions."
+          }
+        }
+      }
+    },
+    "This app provides actions for the Shortcuts app." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This app provides actions for the Shortcuts app."
+          }
+        }
+      }
+    },
+    "Thread ID" : {
+      "comment" : "Parameter title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thread ID"
+          }
+        }
+      }
+    },
+    "thursday" : {
+
+    },
+    "Thursday" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thursday"
+          }
+        }
+      }
+    },
+    "Time Sensitive?" : {
+      "comment" : "Parameter title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Time Sensitive?"
+          }
+        }
+      }
+    },
+    "Title" : {
+      "comment" : "Parameter title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Title"
+          }
+        }
+      }
+    },
+    "today" : {
+
+    },
+    "Today" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today"
+          }
+        }
+      }
+    },
+    "tomorrow" : {
+
+    },
+    "Tomorrow" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tomorrow"
+          }
+        }
+      }
+    },
+    "tuesday" : {
+
+    },
+    "Tuesday" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tuesday"
+          }
+        }
+      }
+    },
+    "Turning this on will allow the notification to break through Focus Modes" : {
+      "comment" : "Parameter description",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turning this on will allow the notification to break through Focus Modes"
+          }
+        }
+      }
+    },
+    "Työkalu needs permission to send notifications. Please review your settings." : {
+      "comment" : "Error message for missing notification permission",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Työkalu needs permission to send notifications. Please review your settings."
+          }
+        }
+      }
+    },
+    "Type of Day" : {
+      "comment" : "Parameter title and type display name",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Type of Day"
+          }
+        }
+      }
+    },
+    "URL" : {
+      "comment" : "Parameter title",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL"
+          }
+        }
+      }
+    },
+    "Was %@ %@?" : {
+      "comment" : "Parameter summary for yesterday case",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Was %@ %@?"
+          }
+        }
+      }
+    },
+    "Was ${date} ${typeOfDay}?" : {
+
+    },
+    "wednesday" : {
+
+    },
+    "Wednesday" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wednesday"
+          }
+        }
+      }
+    },
+    "weekday" : {
+
+    },
+    "Weekday" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weekday"
+          }
+        }
+      }
+    },
+    "weekend" : {
+
+    },
+    "Weekend" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weekend"
+          }
+        }
+      }
+    },
+    "What happens when you tap on the notification" : {
+      "comment" : "Parameter description",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What happens when you tap on the notification"
+          }
+        }
+      }
+    },
+    "yesterday" : {
+
+    },
+    "Yesterday" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yesterday"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
