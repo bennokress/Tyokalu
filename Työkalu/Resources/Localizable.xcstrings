@@ -82,6 +82,12 @@
             "state": "translated",
             "value": "\"Työkalu\" är det finska ordet för \"verktyg\"."
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"Työkalu\" - це фінське слово, що означає \"інструмент\"."
+          }
         }
       }
     },
@@ -165,6 +171,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ett datum kan aldrig vara mellan två lika timmar, vänligen ange olika tal för tidigare och senare timme"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Дата не може бути між двома однаковими годинами, будь ласка, введіть різні числа для початкової та кінцевої години"
           }
         }
       }
@@ -250,6 +262,12 @@
             "state": "translated",
             "value": "En dag har 24 timmar, så det är omöjligt att kontrollera mot timmar högre än 24"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "День має 24 години, тому перевірка годин більше 24 неможлива"
+          }
         }
       }
     },
@@ -334,6 +352,12 @@
             "state": "translated",
             "value": "En dag har inga negativa timmar, så det är omöjligt att kontrollera mot timmar lägre än 0"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "День не має від'ємних годин, тому перевірка годин менше 0 неможлива"
+          }
         }
       }
     },
@@ -416,6 +440,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Om denna app"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Про цей додаток"
           }
         }
       }
@@ -501,6 +531,12 @@
             "state": "translated",
             "value": "En bilaga som visas i aviseringen (valfritt, se UNNotificationAttachment för mer information)"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Вкладення, яке буде показано в сповіщенні (необов'язково, див. UNNotificationAttachment для додаткової інформації)"
+          }
         }
       }
     },
@@ -584,6 +620,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Bilaga"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Вкладення"
           }
         }
       }
@@ -669,6 +711,12 @@
             "state": "translated",
             "value": "Datum"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Дата"
+          }
         }
       }
     },
@@ -752,6 +800,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Datum och tid"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Дата і час"
           }
         }
       }
@@ -837,6 +891,12 @@
             "state": "translated",
             "value": "Enhetsfunktionalitet"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Функції пристрою"
+          }
         }
       }
     },
@@ -919,6 +979,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Visste du?"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Чи знаєте ви?"
           }
         }
       }
@@ -1004,6 +1070,12 @@
             "state": "translated",
             "value": "Gör ingenting"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Нічого не робити"
+          }
         }
       }
     },
@@ -1088,6 +1160,12 @@
             "state": "translated",
             "value": "Tidigare timme"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Початкова година"
+          }
         }
       }
     },
@@ -1171,6 +1249,12 @@
             "state": "translated",
             "value": "Fredag"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "П'ятниця"
+          }
         }
       }
     },
@@ -1253,6 +1337,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ge behörighet"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Надати дозвіл"
           }
         }
       }
@@ -1338,6 +1428,12 @@
             "state": "translated",
             "value": "Ge aviseringsbehörighet"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Надати дозвіл на сповіщення"
+          }
         }
       }
     },
@@ -1421,6 +1517,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ge aviseringsbehörighet först"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Спочатку надайте дозвіл на сповіщення"
           }
         }
       }
@@ -1506,6 +1608,12 @@
             "state": "translated",
             "value": "Timmkontroll"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Перевірка години"
+          }
         }
       }
     },
@@ -1581,6 +1689,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Är ${date} ${typeOfDay}?"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Чи ${date} ${typeOfDay}?"
           }
         }
       }
@@ -1658,6 +1772,12 @@
             "state": "translated",
             "value": "Är ${date} en ${typeOfDay}?"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Чи ${date} є ${typeOfDay}?"
+          }
         }
       }
     },
@@ -1733,6 +1853,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Är ${date} på en ${typeOfDay}?"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Чи ${date} випадає на ${typeOfDay}?"
           }
         }
       }
@@ -1818,6 +1944,12 @@
             "state": "translated",
             "value": "Är %1$@ %2$@?"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Чи %1$@ %2$@?"
+          }
         }
       }
     },
@@ -1901,6 +2033,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Är %1$@ en %2$@?"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Чи %1$@ є %2$@?"
           }
         }
       }
@@ -1986,6 +2124,12 @@
             "state": "translated",
             "value": "Är %1$@ på en %2$@?"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Чи %1$@ випадає на %2$@?"
+          }
         }
       }
     },
@@ -2070,6 +2214,12 @@
             "state": "translated",
             "value": "Är typ av dag"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Є типом дня"
+          }
         }
       }
     },
@@ -2145,6 +2295,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Är timmen för ${date} mellan ${lowerBound} och ${upperBound}?"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Чи година ${date} між ${lowerBound} і ${upperBound}?"
           }
         }
       }
@@ -2230,6 +2386,12 @@
             "state": "translated",
             "value": "Är timmen för %1$@ mellan %2$lld och %3$lld?"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Чи година %1$@ між %2$lld і %3$lld?"
+          }
         }
       }
     },
@@ -2313,6 +2475,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Senare timme"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Кінцева година"
           }
         }
       }
@@ -2398,6 +2566,12 @@
             "state": "translated",
             "value": "Meddelande"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Повідомлення"
+          }
         }
       }
     },
@@ -2480,6 +2654,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Måndag"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Понеділок"
           }
         }
       }
@@ -2565,6 +2745,12 @@
             "state": "translated",
             "value": "Aviserings-ID"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ID сповіщення"
+          }
         }
       }
     },
@@ -2647,6 +2833,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Aviseringsbehörighet"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Дозвіл на сповіщення"
           }
         }
       }
@@ -2732,6 +2924,12 @@
             "state": "translated",
             "value": "Aviseringsbehörighet nekades. Vänligen aktivera den i Inställningar för att använda aviseringsåtgärder."
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Дозвіл на сповіщення було відхилено. Будь ласка, увімкніть його в Параметрах, щоб використовувати дії сповіщень."
+          }
         }
       }
     },
@@ -2813,6 +3011,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Aviseringsbehörighet nekades. För att använda aviseringsåtgärder i Genvägar måste du aktivera aviseringar i appen Inställningar."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Дозвіл на сповіщення було відхилено. Щоб використовувати дії сповіщень у Швидких командах, потрібно увімкнути сповіщення в програмі Параметри."
           }
         }
       }
@@ -2898,6 +3102,12 @@
             "state": "translated",
             "value": "Aviseringar är aktiverade."
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сповіщення увімкнено."
+          }
         }
       }
     },
@@ -2981,6 +3191,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Aviseringar är preliminärt tillåtna. Ge fullständig behörighet för bästa upplevelse."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сповіщення дозволені тимчасово. Надайте повний дозвіл для найкращого досвіду."
           }
         }
       }
@@ -3066,6 +3282,12 @@
             "state": "translated",
             "value": "Aviseringar är tillfälligt tillåtna."
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сповіщення тимчасово дозволені."
+          }
         }
       }
     },
@@ -3149,6 +3371,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Aviseringar fungerar korrekt!"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сповіщення працюють правильно!"
           }
         }
       }
@@ -3234,6 +3462,12 @@
             "state": "translated",
             "value": "Aviseringar på iOS stöder inte bilagor så stora som den du angav."
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сповіщення на iOS не підтримують вкладення такого розміру, як надане вами."
+          }
         }
       }
     },
@@ -3317,6 +3551,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Aviseringar på iOS stöder inte bilagor av denna typ."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сповіщення на iOS не підтримують вкладення цього типу."
           }
         }
       }
@@ -3402,6 +3642,12 @@
             "state": "translated",
             "value": "Aviseringar på iOS stöder inte bilagor av typen \"%@\"."
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сповіщення на iOS не підтримують вкладення типу «%@»."
+          }
         }
       }
     },
@@ -3485,6 +3731,12 @@
             "state": "translated",
             "value": "När aviseringsbehörighet har beviljats finns det ingen ytterligare funktionalitet här förutom att använda testknappen nedan för att verifiera att aviseringar fungerar korrekt."
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Після надання дозволу на сповіщення тут немає додаткових функцій, окрім використання кнопки тестування нижче для перевірки правильності роботи сповіщень."
+          }
         }
       }
     },
@@ -3566,6 +3818,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Öppna Inställningar"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Відкрити Параметри"
           }
         }
       }
@@ -3651,6 +3909,12 @@
             "state": "translated",
             "value": "Öppna URL"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Відкрити URL"
+          }
         }
       }
     },
@@ -3732,6 +3996,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Öppna appinställningar"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Відкрити параметри додатка"
           }
         }
       }
@@ -3817,6 +4087,12 @@
             "state": "translated",
             "value": "Öppnar en systemdialog för att tillåta aviseringar från denna app"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Відкриває системне діалогове вікно для дозволу сповіщень від цього додатка"
+          }
         }
       }
     },
@@ -3898,6 +4174,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Öppnar appen Inställningar för att aktivera aviseringar"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Відкриває програму Параметри для увімкнення сповіщень"
           }
         }
       }
@@ -3981,6 +4263,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Behörighet krävs"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Потрібен дозвіл"
           }
         }
       }
@@ -4066,6 +4354,12 @@
             "state": "translated",
             "value": "Vänligen ge aviseringsbehörighet för att använda alla funktioner."
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Будь ласка, надайте дозвіл на сповіщення, щоб використовувати всі функції."
+          }
         }
       }
     },
@@ -4148,6 +4442,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Redo att skicka aviseringar"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Готово до надсилання сповіщень"
           }
         }
       }
@@ -4233,6 +4533,12 @@
             "state": "translated",
             "value": "Kör genväg"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Запустити швидку команду"
+          }
         }
       }
     },
@@ -4315,6 +4621,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Lördag"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Субота"
           }
         }
       }
@@ -4399,6 +4711,12 @@
             "state": "translated",
             "value": "Skicka testavisering"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Надіслати тестове сповіщення"
+          }
         }
       }
     },
@@ -4474,6 +4792,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Skicka testavisering"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Надіслати тестове сповіщення"
           }
         }
       }
@@ -4559,6 +4883,12 @@
             "state": "translated",
             "value": "Skickar en testavisering för att verifiera inställningarna"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Надсилає тестове сповіщення для перевірки налаштування"
+          }
         }
       }
     },
@@ -4642,6 +4972,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Att ange ett aviserings-ID ersätter alla äldre aviseringar med samma aviserings-ID"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Встановлення ID сповіщення замінить будь-яке старіше сповіщення з тим самим ID сповіщення"
           }
         }
       }
@@ -4727,6 +5063,12 @@
             "state": "translated",
             "value": "Att ange ett tråd-ID grupperar aviseringen med andra aviseringar som har samma tråd-ID"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Встановлення ID потоку згрупує сповіщення з іншими сповіщеннями, які мають той самий ID потоку"
+          }
         }
       }
     },
@@ -4810,6 +5152,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Genväg-inmatningsparameter"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Вхідний параметр швидкої команди"
           }
         }
       }
@@ -4895,6 +5243,12 @@
             "state": "translated",
             "value": "Genvägsnamn"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Назва швидкої команди"
+          }
         }
       }
     },
@@ -4979,6 +5333,12 @@
             "state": "translated",
             "value": "Visa avisering"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Показати сповіщення"
+          }
         }
       }
     },
@@ -5054,6 +5414,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Visa avisering med ${title} och ${message}"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Показати сповіщення з ${title} і ${message}"
           }
         }
       }
@@ -5139,6 +5505,12 @@
             "state": "translated",
             "value": "Visa avisering med %1$@ och %2$@"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Показати сповіщення з %1$@ і %2$@"
+          }
         }
       }
     },
@@ -5223,6 +5595,12 @@
             "state": "translated",
             "value": "Underrubrik"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Підзаголовок"
+          }
         }
       }
     },
@@ -5305,6 +5683,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Söndag"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Неділя"
           }
         }
       }
@@ -5390,6 +5774,12 @@
             "state": "translated",
             "value": "Tryck-åtgärd"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Дія при натисканні"
+          }
         }
       }
     },
@@ -5471,6 +5861,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tryck på knappen nedan för att öppna Inställningar och aktivera sedan \"Tillåt aviseringar\" för denna app."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Натисніть кнопку нижче, щоб відкрити Параметри, а потім увімкніть «Дозволити сповіщення» для цього додатка."
           }
         }
       }
@@ -5556,6 +5952,12 @@
             "state": "translated",
             "value": "Testavisering"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Тестове сповіщення"
+          }
         }
       }
     },
@@ -5637,6 +6039,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Testa aviseringsfunktion"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Тест можливості сповіщень"
           }
         }
       }
@@ -5720,6 +6128,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Testa aviseringar"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Тест сповіщень"
           }
         }
       }
@@ -5805,6 +6219,12 @@
             "state": "translated",
             "value": "Den (okodade) inmatningen till genvägen som ska köras när aviseringen trycks (valfritt)"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "(Незакодований) вхід швидкої команди для запуску при натисканні сповіщення (необов'язково)"
+          }
         }
       }
     },
@@ -5888,6 +6308,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "URL:en som ska öppnas när aviseringen trycks (krävs om \"Tryck-åtgärd\" är \"Öppna URL\")"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL для відкриття при натисканні сповіщення (обов'язково, якщо «Дія при натисканні» - «Відкрити URL»)"
           }
         }
       }
@@ -5973,6 +6399,12 @@
             "state": "translated",
             "value": "Början på tidsramen att kontrollera mot (15 betyder klockan 15:00 eller senare)"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Початок часового проміжку для перевірки (15 означає о 15:00 або пізніше)"
+          }
         }
       }
     },
@@ -6056,6 +6488,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Slutet på tidsramen att kontrollera mot (17 betyder före klockan 17:00)"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Кінець часового проміжку для перевірки (17 означає до 17:00)"
           }
         }
       }
@@ -6141,6 +6579,12 @@
             "state": "translated",
             "value": "Namnet på genvägen som ska köras när aviseringen trycks (krävs om \"Tryck-åtgärd\" är \"Kör genväg\")"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Назва швидкої команди для запуску при натисканні сповіщення (обов'язково, якщо «Дія при натисканні» - «Запустити швидку команду»)"
+          }
         }
       }
     },
@@ -6224,6 +6668,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Aviseringsmeddelandet kan inte vara tomt"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Повідомлення сповіщення не може бути порожнім"
           }
         }
       }
@@ -6309,6 +6759,12 @@
             "state": "translated",
             "value": "Aviseringstiteln kan inte vara tom"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Заголовок сповіщення не може бути порожнім"
+          }
         }
       }
     },
@@ -6392,6 +6848,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Underrubriken till aviseringen (valfritt)"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Підзаголовок сповіщення (необов'язково)"
           }
         }
       }
@@ -6477,6 +6939,12 @@
             "state": "translated",
             "value": "Tryck-åtgärden \"Öppna URL\" kräver en giltig URL"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Дія при натисканні «Відкрити URL» потребує дійсного URL"
+          }
         }
       }
     },
@@ -6560,6 +7028,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tryck-åtgärden \"Kör genväg\" kräver ett giltigt genvägsnamn"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Дія при натисканні «Запустити швидку команду» потребує дійсної назви швидкої команди"
           }
         }
       }
@@ -6645,6 +7119,12 @@
             "state": "translated",
             "value": "Typen av dag du vill kontrollera för"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Тип дня, який ви хочете перевірити"
+          }
         }
       }
     },
@@ -6728,6 +7208,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Denna åtgärd visar en avisering på denna enhet."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ця дія покаже сповіщення на цьому пристрої."
           }
         }
       }
@@ -6813,6 +7299,12 @@
             "state": "translated",
             "value": "Denna åtgärd returnerar ett booleskt värde som representerar om det angivna datumet har den angivna typen av dag."
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ця дія поверне логічне значення, яке вказує, чи задана дата має заданий тип дня."
+          }
         }
       }
     },
@@ -6897,6 +7389,12 @@
             "state": "translated",
             "value": "Denna åtgärd returnerar ett booleskt värde som representerar om timmen för det angivna datumet ligger inom den angivna tidsramen."
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ця дія поверне логічне значення, яке вказує, чи година заданої дати знаходиться в межах заданого часового проміжку."
+          }
         }
       }
     },
@@ -6979,6 +7477,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Denna app är din verktygslåda för Genvägar och tillhandahåller återanvändbara åtgärder som Apple inte inkluderar som standard."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Цей додаток - ваш набір інструментів для Швидких команд, що надає багаторазові дії, які Apple не включає за замовчуванням."
           }
         }
       }
@@ -7064,6 +7568,12 @@
             "state": "translated",
             "value": "Denna app behöver behörighet att skicka aviseringar för Genvägar-åtgärder."
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Цей додаток потребує дозволу на надсилання сповіщень для дій Швидких команд."
+          }
         }
       }
     },
@@ -7146,6 +7656,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Denna app tillhandahåller åtgärder för Genvägar-appen."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Цей додаток надає дії для програми Швидкі команди."
           }
         }
       }
@@ -7231,6 +7747,12 @@
             "state": "translated",
             "value": "Tråd-ID"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ID потоку"
+          }
         }
       }
     },
@@ -7313,6 +7835,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Torsdag"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Четвер"
           }
         }
       }
@@ -7398,6 +7926,12 @@
             "state": "translated",
             "value": "Tidskänslig?"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Термінове?"
+          }
         }
       }
     },
@@ -7482,6 +8016,12 @@
             "state": "translated",
             "value": "Titel"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Заголовок"
+          }
         }
       }
     },
@@ -7564,6 +8104,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Idag"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сьогодні"
           }
         }
       }
@@ -7648,6 +8194,12 @@
             "state": "translated",
             "value": "Imorgon"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Завтра"
+          }
         }
       }
     },
@@ -7730,6 +8282,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tisdag"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Вівторок"
           }
         }
       }
@@ -7815,6 +8373,12 @@
             "state": "translated",
             "value": "Att slå på detta tillåter aviseringen att bryta igenom fokuslägen"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Увімкнення цього дозволить сповіщенню проривати режими фокусування"
+          }
         }
       }
     },
@@ -7898,6 +8462,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Typ av dag"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Тип дня"
           }
         }
       }
@@ -7983,6 +8553,12 @@
             "state": "translated",
             "value": "Työkalu behöver behörighet att skicka aviseringar. Vänligen kontrollera dina inställningar."
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Työkalu потребує дозволу на надсилання сповіщень. Будь ласка, перевірте ваші налаштування."
+          }
         }
       }
     },
@@ -8067,6 +8643,12 @@
             "state": "translated",
             "value": "URL"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL"
+          }
         }
       }
     },
@@ -8142,6 +8724,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Var ${date} ${typeOfDay}?"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Чи ${date} був ${typeOfDay}?"
           }
         }
       }
@@ -8227,6 +8815,12 @@
             "state": "translated",
             "value": "Var %1$@ %2$@?"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Чи %1$@ був %2$@?"
+          }
         }
       }
     },
@@ -8309,6 +8903,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Onsdag"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Середа"
           }
         }
       }
@@ -8393,6 +8993,12 @@
             "state": "translated",
             "value": "Vardag"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Будній день"
+          }
         }
       }
     },
@@ -8475,6 +9081,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Helg"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Вихідні"
           }
         }
       }
@@ -8560,6 +9172,12 @@
             "state": "translated",
             "value": "Vad som händer när du trycker på aviseringen"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Що відбувається, коли ви натискаєте на сповіщення"
+          }
         }
       }
     },
@@ -8643,6 +9261,12 @@
             "state": "translated",
             "value": "Igår"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Вчора"
+          }
         }
       }
     },
@@ -8718,6 +9342,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "eftermiddag"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "день"
           }
         }
       }
@@ -8795,6 +9425,12 @@
             "state": "translated",
             "value": "varning"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "попередження"
+          }
         }
       }
     },
@@ -8870,6 +9506,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "kväll"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "вечір"
           }
         }
       }
@@ -8947,6 +9589,12 @@
             "state": "translated",
             "value": "fredag"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "п'ятниця"
+          }
         }
       }
     },
@@ -9022,6 +9670,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "måndag"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "понеділок"
           }
         }
       }
@@ -9099,6 +9753,12 @@
             "state": "translated",
             "value": "morgon"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ранок"
+          }
         }
       }
     },
@@ -9175,6 +9835,12 @@
             "state": "translated",
             "value": "natt"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ніч"
+          }
         }
       }
     },
@@ -9247,6 +9913,12 @@
           }
         },
         "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "push"
+          }
+        },
+        "uk": {
           "stringUnit": {
             "state": "translated",
             "value": "push"
@@ -9327,6 +9999,12 @@
             "state": "translated",
             "value": "lördag"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "субота"
+          }
         }
       }
     },
@@ -9402,6 +10080,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "söndag"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "неділя"
           }
         }
       }
@@ -9479,6 +10163,12 @@
             "state": "translated",
             "value": "torsdag"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "четвер"
+          }
         }
       }
     },
@@ -9554,6 +10244,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "idag"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "сьогодні"
           }
         }
       }
@@ -9631,6 +10327,12 @@
             "state": "translated",
             "value": "imorgon"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "завтра"
+          }
         }
       }
     },
@@ -9706,6 +10408,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "tisdag"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "вівторок"
           }
         }
       }
@@ -9783,6 +10491,12 @@
             "state": "translated",
             "value": "onsdag"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "середа"
+          }
         }
       }
     },
@@ -9858,6 +10572,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "vardag"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "будній день"
           }
         }
       }
@@ -9935,6 +10655,12 @@
             "state": "translated",
             "value": "helg"
           }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "вихідні"
+          }
         }
       }
     },
@@ -10010,6 +10736,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "igår"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "вчора"
           }
         }
       }
