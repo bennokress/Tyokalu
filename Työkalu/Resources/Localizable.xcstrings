@@ -166,6 +166,12 @@
             "state": "translated",
             "value": "\"Työkalu\"是芬兰语\"工具\"的意思。"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"Työkalu\"是芬蘭語「工具」的意思。"
+          }
         }
       }
     },
@@ -333,6 +339,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "日期不可能在两个相同的小时之间，请输入不同的数字作为较早和较晚的小时"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "日期永遠不能在兩個相同的小時之間，請輸入不同的數字作為較早和較晚的時間"
           }
         }
       }
@@ -502,6 +514,12 @@
             "state": "translated",
             "value": "一天有24小时，因此无法检查大于24的小时"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "一天有24小時，因此無法檢查超過24的小時數"
+          }
         }
       }
     },
@@ -670,6 +688,12 @@
             "state": "translated",
             "value": "一天没有负数小时，因此无法检查小于0的小时"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "一天沒有負的小時數，因此無法檢查低於0的小時數"
+          }
         }
       }
     },
@@ -836,6 +860,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "关于此App"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "關於此App"
           }
         }
       }
@@ -1005,6 +1035,12 @@
             "state": "translated",
             "value": "将在通知中显示的附件（可选，详情请参阅 UNNotificationAttachment）"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "將在通知中顯示的附件（可選，請參閱 UNNotificationAttachment 了解更多資訊）"
+          }
         }
       }
     },
@@ -1169,6 +1205,12 @@
           }
         },
         "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "附件"
+          }
+        },
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
             "value": "附件"
@@ -1341,6 +1383,12 @@
             "state": "translated",
             "value": "日期"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "日期"
+          }
         }
       }
     },
@@ -1508,6 +1556,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "日期与时间"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "日期與時間"
           }
         }
       }
@@ -1677,6 +1731,12 @@
             "state": "translated",
             "value": "设备功能"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "裝置功能"
+          }
         }
       }
     },
@@ -1843,6 +1903,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "你知道吗？"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "你知道嗎？"
           }
         }
       }
@@ -2012,6 +2078,12 @@
             "state": "translated",
             "value": "无操作"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "不執行任何動作"
+          }
         }
       }
     },
@@ -2180,6 +2252,12 @@
             "state": "translated",
             "value": "较早的小时"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "較早時間"
+          }
         }
       }
     },
@@ -2343,6 +2421,12 @@
           }
         },
         "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "星期五"
+          }
+        },
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
             "value": "星期五"
@@ -2514,6 +2598,12 @@
             "state": "translated",
             "value": "授予权限"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "授予權限"
+          }
         }
       }
     },
@@ -2681,6 +2771,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "授予通知权限"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "授予通知權限"
           }
         }
       }
@@ -2850,6 +2946,12 @@
             "state": "translated",
             "value": "请先授予通知权限"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "請先授予通知權限"
+          }
         }
       }
     },
@@ -3018,6 +3120,12 @@
             "state": "translated",
             "value": "小时检查"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "小時檢查"
+          }
         }
       }
     },
@@ -3171,6 +3279,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "${date}是${typeOfDay}吗？"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date}是${typeOfDay}嗎？"
           }
         }
       }
@@ -3326,6 +3440,12 @@
             "state": "translated",
             "value": "${date}是${typeOfDay}吗？"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date}是${typeOfDay}嗎？"
+          }
         }
       }
     },
@@ -3479,6 +3599,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "${date}是${typeOfDay}吗？"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date}是在${typeOfDay}嗎？"
           }
         }
       }
@@ -3648,6 +3774,12 @@
             "state": "translated",
             "value": "%1$@是%2$@吗？"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@是%2$@嗎？"
+          }
         }
       }
     },
@@ -3815,6 +3947,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "%1$@是%2$@吗？"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@是%2$@嗎？"
           }
         }
       }
@@ -3984,6 +4122,12 @@
             "state": "translated",
             "value": "%1$@是%2$@吗？"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@是在%2$@嗎？"
+          }
         }
       }
     },
@@ -4152,6 +4296,12 @@
             "state": "translated",
             "value": "是日期类型"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "是否為日期類型"
+          }
         }
       }
     },
@@ -4305,6 +4455,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "${date}的小时是否在${lowerBound}和${upperBound}之间？"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date}的小時是否在${lowerBound}和${upperBound}之間？"
           }
         }
       }
@@ -4474,6 +4630,12 @@
             "state": "translated",
             "value": "%1$@的小时是否在%2$lld和%3$lld之间？"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@的小時是否在%2$lld和%3$lld之間？"
+          }
         }
       }
     },
@@ -4641,6 +4803,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "较晚的小时"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "較晚時間"
           }
         }
       }
@@ -4810,6 +4978,12 @@
             "state": "translated",
             "value": "消息"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "訊息"
+          }
         }
       }
     },
@@ -4973,6 +5147,12 @@
           }
         },
         "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "星期一"
+          }
+        },
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
             "value": "星期一"
@@ -5145,6 +5325,12 @@
             "state": "translated",
             "value": "通知ID"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通知 ID"
+          }
         }
       }
     },
@@ -5311,6 +5497,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "通知权限"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通知權限"
           }
         }
       }
@@ -5480,6 +5672,12 @@
             "state": "translated",
             "value": "通知权限被拒绝。请在\"设置\"中启用以使用通知操作。"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通知權限被拒絕。請在設定中啟用以使用通知動作。"
+          }
         }
       }
     },
@@ -5645,6 +5843,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "通知权限被拒绝。要在\"快捷指令\"中使用通知操作，您需要在\"设置\"App中启用通知。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通知權限被拒絕。若要在捷徑中使用通知動作，您需要在設定 App 中啟用通知。"
           }
         }
       }
@@ -5814,6 +6018,12 @@
             "state": "translated",
             "value": "通知已启用。"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通知已啟用。"
+          }
         }
       }
     },
@@ -5981,6 +6191,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "通知已临时允许。授予完全权限以获得最佳体验。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通知暫時獲得允許。授予完整權限以獲得最佳體驗。"
           }
         }
       }
@@ -6150,6 +6366,12 @@
             "state": "translated",
             "value": "通知已临时允许。"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通知暫時獲得允許。"
+          }
         }
       }
     },
@@ -6317,6 +6539,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "通知功能正常！"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通知功能運作正常！"
           }
         }
       }
@@ -6486,6 +6714,12 @@
             "state": "translated",
             "value": "iOS上的通知不支持您提供的这么大的附件。"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iOS 上的通知不支援您提供的這麼大的附件。"
+          }
         }
       }
     },
@@ -6653,6 +6887,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "iOS上的通知不支持此类型的附件。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iOS 上的通知不支援此類型的附件。"
           }
         }
       }
@@ -6822,6 +7062,12 @@
             "state": "translated",
             "value": "iOS上的通知不支持\"%@\"类型的附件。"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iOS 上的通知不支援「%@」類型的附件。"
+          }
         }
       }
     },
@@ -6989,6 +7235,12 @@
             "state": "translated",
             "value": "授予通知权限后，此处除了使用下方的测试按钮验证通知是否正常工作外，没有其他功能。"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "一旦授予通知權限，此處除了使用下方的測試按鈕來驗證通知是否正常運作外，沒有其他額外功能。"
+          }
         }
       }
     },
@@ -7154,6 +7406,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "打开设置"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "打開設定"
           }
         }
       }
@@ -7323,6 +7581,12 @@
             "state": "translated",
             "value": "打开URL"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "打開 URL"
+          }
         }
       }
     },
@@ -7488,6 +7752,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "打开App设置"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "打開 App 設定"
           }
         }
       }
@@ -7657,6 +7927,12 @@
             "state": "translated",
             "value": "打开系统对话框以允许来自此App的通知"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "打開系統對話框以允許此 App 發送通知"
+          }
         }
       }
     },
@@ -7822,6 +8098,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "打开\"设置\"App以启用通知"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "打開設定 App 以啟用通知"
           }
         }
       }
@@ -7989,6 +8271,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "需要权限"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "需要權限"
           }
         }
       }
@@ -8158,6 +8446,12 @@
             "state": "translated",
             "value": "请授予通知权限以使用所有功能。"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "請授予通知權限以使用所有功能。"
+          }
         }
       }
     },
@@ -8324,6 +8618,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "已准备好发送通知"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已準備好發送通知"
           }
         }
       }
@@ -8493,6 +8793,12 @@
             "state": "translated",
             "value": "运行快捷指令"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "執行捷徑"
+          }
         }
       }
     },
@@ -8656,6 +8962,12 @@
           }
         },
         "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "星期六"
+          }
+        },
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
             "value": "星期六"
@@ -8827,6 +9139,12 @@
             "state": "translated",
             "value": "发送测试通知"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "發送測試通知"
+          }
         }
       }
     },
@@ -8980,6 +9298,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "发送测试通知"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "發送測試通知"
           }
         }
       }
@@ -9149,6 +9473,12 @@
             "state": "translated",
             "value": "发送测试通知以验证设置"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "發送測試通知以驗證設定"
+          }
         }
       }
     },
@@ -9316,6 +9646,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "设置通知ID会替换具有相同通知ID的任何旧通知"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "設定通知 ID 會取代任何具有相同通知 ID 的舊通知"
           }
         }
       }
@@ -9485,6 +9821,12 @@
             "state": "translated",
             "value": "设置线程ID会将该通知与具有相同线程ID的其他通知分组"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "設定討論串 ID 會將通知與具有相同討論串 ID 的其他通知分組"
+          }
         }
       }
     },
@@ -9652,6 +9994,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "快捷指令输入参数"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "捷徑輸入參數"
           }
         }
       }
@@ -9821,6 +10169,12 @@
             "state": "translated",
             "value": "快捷指令名称"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "捷徑名稱"
+          }
         }
       }
     },
@@ -9989,6 +10343,12 @@
             "state": "translated",
             "value": "显示通知"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "顯示通知"
+          }
         }
       }
     },
@@ -10142,6 +10502,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "显示标题为${title}、消息为${message}的通知"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "顯示標題為${title}、訊息為${message}的通知"
           }
         }
       }
@@ -10311,6 +10677,12 @@
             "state": "translated",
             "value": "显示标题为%1$@、消息为%2$@的通知"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "顯示標題為%1$@、訊息為%2$@的通知"
+          }
         }
       }
     },
@@ -10479,6 +10851,12 @@
             "state": "translated",
             "value": "副标题"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "副標題"
+          }
         }
       }
     },
@@ -10642,6 +11020,12 @@
           }
         },
         "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "星期日"
+          }
+        },
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
             "value": "星期日"
@@ -10814,6 +11198,12 @@
             "state": "translated",
             "value": "点击操作"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "點按動作"
+          }
         }
       }
     },
@@ -10979,6 +11369,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "点击下方按钮打开\"设置\"，然后为此App启用\"允许通知\"。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "點按下方的按鈕打開設定，然後為此 App 啟用「允許通知」。"
           }
         }
       }
@@ -11148,6 +11544,12 @@
             "state": "translated",
             "value": "测试通知"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "測試通知"
+          }
         }
       }
     },
@@ -11313,6 +11715,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "测试通知功能"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "測試通知功能"
           }
         }
       }
@@ -11480,6 +11888,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "测试通知"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "測試通知"
           }
         }
       }
@@ -11649,6 +12063,12 @@
             "state": "translated",
             "value": "点击通知时运行的快捷指令的（未编码）输入（可选）"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "點按通知時執行的捷徑的（未編碼）輸入（可選）"
+          }
         }
       }
     },
@@ -11816,6 +12236,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "点击通知时打开的URL（如果\"点击操作\"为\"打开URL\"则为必填）"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "點按通知時打開的 URL（如果「點按動作」為「打開 URL」，則為必填）"
           }
         }
       }
@@ -11985,6 +12411,12 @@
             "state": "translated",
             "value": "要检查的时间范围的开始（15表示15:00或之后）"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "要檢查的時間範圍的開始（15 表示 15:00/下午3點或之後）"
+          }
         }
       }
     },
@@ -12152,6 +12584,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "要检查的时间范围的结束（17表示17:00之前）"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "要檢查的時間範圍的結束（17 表示 17:00/下午5點之前）"
           }
         }
       }
@@ -12321,6 +12759,12 @@
             "state": "translated",
             "value": "点击通知时运行的快捷指令名称（如果\"点击操作\"为\"运行快捷指令\"则为必填）"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "點按通知時執行的捷徑名稱（如果「點按動作」為「執行捷徑」，則為必填）"
+          }
         }
       }
     },
@@ -12488,6 +12932,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "通知消息不能为空"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通知訊息不能為空"
           }
         }
       }
@@ -12657,6 +13107,12 @@
             "state": "translated",
             "value": "通知标题不能为空"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通知標題不能為空"
+          }
         }
       }
     },
@@ -12824,6 +13280,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "通知的副标题（可选）"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通知的副標題（可選）"
           }
         }
       }
@@ -12993,6 +13455,12 @@
             "state": "translated",
             "value": "点击操作\"打开URL\"需要有效的URL"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "點按動作「打開 URL」需要有效的 URL"
+          }
         }
       }
     },
@@ -13160,6 +13628,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "点击操作\"运行快捷指令\"需要有效的快捷指令名称"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "點按動作「執行捷徑」需要有效的捷徑名稱"
           }
         }
       }
@@ -13329,6 +13803,12 @@
             "state": "translated",
             "value": "您要检查的日期类型"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "您要檢查的日期類型"
+          }
         }
       }
     },
@@ -13496,6 +13976,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "此操作将在此设备上显示通知。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此動作將在此裝置上顯示通知。"
           }
         }
       }
@@ -13665,6 +14151,12 @@
             "state": "translated",
             "value": "此操作将返回一个布尔值，表示给定日期是否具有给定的日期类型。"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此動作將傳回一個布林值，表示給定的日期是否為給定的日期類型。"
+          }
         }
       }
     },
@@ -13833,6 +14325,12 @@
             "state": "translated",
             "value": "此操作将返回一个布尔值，表示给定日期的小时是否在给定的时间范围内。"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此動作將傳回一個布林值，表示給定日期的小時是否在給定的時間範圍內。"
+          }
         }
       }
     },
@@ -13999,6 +14497,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "此App是您的\"快捷指令\"工具箱，提供Apple未内置的可重复使用的操作。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此 App 是您的捷徑工具箱，提供 Apple 未內建的可重複使用動作。"
           }
         }
       }
@@ -14168,6 +14672,12 @@
             "state": "translated",
             "value": "此App需要权限才能为\"快捷指令\"操作发送通知。"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此 App 需要權限才能為捷徑動作發送通知。"
+          }
         }
       }
     },
@@ -14334,6 +14844,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "此App为\"快捷指令\"App提供操作。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此 App 提供捷徑 App 的動作。"
           }
         }
       }
@@ -14503,6 +15019,12 @@
             "state": "translated",
             "value": "线程ID"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "討論串 ID"
+          }
         }
       }
     },
@@ -14666,6 +15188,12 @@
           }
         },
         "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "星期四"
+          }
+        },
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
             "value": "星期四"
@@ -14838,6 +15366,12 @@
             "state": "translated",
             "value": "时效性？"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "時效性？"
+          }
         }
       }
     },
@@ -15006,6 +15540,12 @@
             "state": "translated",
             "value": "标题"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "標題"
+          }
         }
       }
     },
@@ -15169,6 +15709,12 @@
           }
         },
         "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "今天"
+          }
+        },
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
             "value": "今天"
@@ -15340,6 +15886,12 @@
             "state": "translated",
             "value": "明天"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "明天"
+          }
         }
       }
     },
@@ -15503,6 +16055,12 @@
           }
         },
         "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "星期二"
+          }
+        },
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
             "value": "星期二"
@@ -15675,6 +16233,12 @@
             "state": "translated",
             "value": "开启此选项将允许通知突破专注模式"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "開啟此選項將允許通知突破專注模式"
+          }
         }
       }
     },
@@ -15842,6 +16406,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "日期类型"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "日期類型"
           }
         }
       }
@@ -16011,6 +16581,12 @@
             "state": "translated",
             "value": "Työkalu需要权限才能发送通知。请检查您的设置。"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Työkalu 需要權限才能發送通知。請檢查您的設定。"
+          }
         }
       }
     },
@@ -16179,6 +16755,12 @@
             "state": "translated",
             "value": "URL"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL"
+          }
         }
       }
     },
@@ -16332,6 +16914,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "${date}是${typeOfDay}吗？"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date}是${typeOfDay}嗎？"
           }
         }
       }
@@ -16501,6 +17089,12 @@
             "state": "translated",
             "value": "%1$@是%2$@吗？"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@是%2$@嗎？"
+          }
         }
       }
     },
@@ -16664,6 +17258,12 @@
           }
         },
         "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "星期三"
+          }
+        },
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
             "value": "星期三"
@@ -16835,6 +17435,12 @@
             "state": "translated",
             "value": "工作日"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "平日"
+          }
         }
       }
     },
@@ -17001,6 +17607,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "周末"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "週末"
           }
         }
       }
@@ -17170,6 +17782,12 @@
             "state": "translated",
             "value": "点击通知时会发生什么"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "點按通知時會發生什麼"
+          }
         }
       }
     },
@@ -17337,6 +17955,12 @@
             "state": "translated",
             "value": "昨天"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "昨天"
+          }
         }
       }
     },
@@ -17487,6 +18111,12 @@
           }
         },
         "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下午"
+          }
+        },
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
             "value": "下午"
@@ -17645,6 +18275,12 @@
             "state": "translated",
             "value": "提醒"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "提示"
+          }
         }
       }
     },
@@ -17795,6 +18431,12 @@
           }
         },
         "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "傍晚"
+          }
+        },
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
             "value": "傍晚"
@@ -17953,6 +18595,12 @@
             "state": "translated",
             "value": "星期五"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "星期五"
+          }
         }
       }
     },
@@ -18103,6 +18751,12 @@
           }
         },
         "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "星期一"
+          }
+        },
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
             "value": "星期一"
@@ -18261,6 +18915,12 @@
             "state": "translated",
             "value": "上午"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "早上"
+          }
         }
       }
     },
@@ -18411,6 +19071,12 @@
           }
         },
         "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "夜晚"
+          }
+        },
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
             "value": "夜晚"
@@ -18569,6 +19235,12 @@
             "state": "translated",
             "value": "推送"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "推播"
+          }
         }
       }
     },
@@ -18719,6 +19391,12 @@
           }
         },
         "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "星期六"
+          }
+        },
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
             "value": "星期六"
@@ -18877,6 +19555,12 @@
             "state": "translated",
             "value": "星期日"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "星期日"
+          }
         }
       }
     },
@@ -19027,6 +19711,12 @@
           }
         },
         "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "星期四"
+          }
+        },
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
             "value": "星期四"
@@ -19185,6 +19875,12 @@
             "state": "translated",
             "value": "今天"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "今天"
+          }
         }
       }
     },
@@ -19335,6 +20031,12 @@
           }
         },
         "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "明天"
+          }
+        },
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
             "value": "明天"
@@ -19493,6 +20195,12 @@
             "state": "translated",
             "value": "星期二"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "星期二"
+          }
         }
       }
     },
@@ -19643,6 +20351,12 @@
           }
         },
         "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "星期三"
+          }
+        },
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
             "value": "星期三"
@@ -19801,6 +20515,12 @@
             "state": "translated",
             "value": "工作日"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "平日"
+          }
         }
       }
     },
@@ -19955,6 +20675,12 @@
             "state": "translated",
             "value": "周末"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "週末"
+          }
         }
       }
     },
@@ -20105,6 +20831,12 @@
           }
         },
         "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "昨天"
+          }
+        },
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
             "value": "昨天"
