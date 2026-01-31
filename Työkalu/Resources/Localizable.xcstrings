@@ -5,6 +5,12 @@
       "comment": "Different sentence only in Finnish!",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"Työkalu\" je finské slovo pro \"nástroj\"."
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -83,6 +89,12 @@
       "comment": "Error message",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Datum nemůže být mezi dvěma stejnými hodinami, zadejte prosím různá čísla pro dřívější a pozdější hodinu"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -161,6 +173,12 @@
       "comment": "Error message",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Den má 24 hodin, takže kontrola hodin vyšších než 24 není možná"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -239,6 +257,12 @@
       "comment": "Error message",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Den nemá záporné hodiny, takže kontrola hodin nižších než 0 není možná"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -316,6 +340,12 @@
     "About This App": {
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O této aplikaci"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -394,6 +424,12 @@
       "comment": "Parameter description",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Příloha, která se zobrazí v oznámení (volitelné, viz UNNotificationAttachment pro více informací)"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -472,6 +508,12 @@
       "comment": "Parameter title",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Příloha"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -550,6 +592,12 @@
       "comment": "Parameter title",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Datum"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -628,6 +676,12 @@
       "comment": "Intent category name",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Datum a čas"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -706,6 +760,12 @@
       "comment": "Intent category name",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Funkce zařízení"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -783,6 +843,12 @@
     "Did You Know?": {
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Věděli jste?"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -861,6 +927,12 @@
       "comment": "Tap action option",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nedělat nic"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -939,6 +1011,12 @@
       "comment": "Parameter title",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dřívější hodina"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -1016,6 +1094,12 @@
     "Friday": {
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pátek"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -1093,6 +1177,12 @@
     "Grant Permission": {
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Udělit oprávnění"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -1171,6 +1261,12 @@
       "comment": "Accessibility label for permission button",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Udělit oprávnění k oznámením"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -1249,6 +1345,12 @@
       "comment": "Accessibility hint when not authorized",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nejprve udělte oprávnění k oznámením"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -1327,6 +1429,12 @@
       "comment": "Intent title",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kontrola hodiny"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -1403,6 +1511,12 @@
     },
     "Is ${date} ${typeOfDay}?": {
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Je ${date} ${typeOfDay}?"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -1473,6 +1587,12 @@
     },
     "Is ${date} a ${typeOfDay}?": {
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Je ${date} ${typeOfDay}?"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -1543,6 +1663,12 @@
     },
     "Is ${date} on a ${typeOfDay}?": {
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Je ${date} v ${typeOfDay}?"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -1615,6 +1741,12 @@
       "comment": "Parameter summary for today/tomorrow case",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Je %1$@ %2$@?"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -1693,6 +1825,12 @@
       "comment": "Parameter summary default case",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Je %1$@ %2$@?"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -1771,6 +1909,12 @@
       "comment": "Parameter summary for weekend case",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Je %1$@ v %2$@?"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -1849,6 +1993,12 @@
       "comment": "Intent title",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Je typ dne"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -1925,6 +2075,12 @@
     },
     "Is the hour of ${date} between ${lowerBound} and ${upperBound}?": {
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Je hodina ${date} mezi ${lowerBound} a ${upperBound}?"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -1997,6 +2153,12 @@
       "comment": "Parameter summary for Hour Check intent",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Je hodina %1$@ mezi %2$lld a %3$lld?"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -2075,6 +2237,12 @@
       "comment": "Parameter title",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pozdější hodina"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -2153,6 +2321,12 @@
       "comment": "Parameter title",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zpráva"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -2230,6 +2404,12 @@
     "Monday": {
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pondělí"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -2308,6 +2488,12 @@
       "comment": "Parameter title",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ID oznámení"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -2385,6 +2571,12 @@
     "Notification Permission": {
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oprávnění k oznámením"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -2463,6 +2655,12 @@
       "comment": "Permission status: denied",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oprávnění k oznámením bylo zamítnuto. Pro použití akcí oznámení jej prosím povolte v Nastavení."
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -2539,6 +2737,12 @@
     },
     "Notification permission was denied. To use notification actions in Shortcuts, you need to enable notifications in the Settings app.": {
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oprávnění k oznámením bylo zamítnuto. Pro použití akcí oznámení ve Zkratkách musíte povolit oznámení v aplikaci Nastavení."
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -2617,6 +2821,12 @@
       "comment": "Permission status: authorized",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oznámení jsou povolena."
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -2695,6 +2905,12 @@
       "comment": "Permission status: provisional",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oznámení jsou prozatímně povolena. Pro nejlepší zážitek udělte plné oprávnění."
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -2773,6 +2989,12 @@
       "comment": "Permission status: ephemeral",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oznámení jsou dočasně povolena."
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -2851,6 +3073,12 @@
       "comment": "Message for test notification",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oznámení fungují správně!"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -2929,6 +3157,12 @@
       "comment": "Error message for attachment too large",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oznámení na iOS nepodporují tak velké přílohy jako ta, kterou jste poskytli."
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -3007,6 +3241,12 @@
       "comment": "Error message for unsupported attachment type (unknown type)",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oznámení na iOS nepodporují přílohy tohoto typu."
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -3085,6 +3325,12 @@
       "comment": "Error message for unsupported attachment type",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oznámení na iOS nepodporují přílohy typu „%@\"."
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -3162,6 +3408,12 @@
     "Once notification permission is granted, there's no additional functionality here other than using the test button below to verify notifications work correctly.": {
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jakmile je uděleno oprávnění k oznámením, není zde žádná další funkcionalita kromě použití testovacího tlačítka níže pro ověření, že oznámení fungují správně."
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -3238,6 +3490,12 @@
     },
     "Open Settings": {
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otevřít Nastavení"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -3316,6 +3574,12 @@
       "comment": "Tap action option and notification button",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otevřít URL"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -3392,6 +3656,12 @@
     },
     "Open app settings": {
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otevřít nastavení aplikace"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -3470,6 +3740,12 @@
       "comment": "Accessibility hint for permission button",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otevře systémový dialog pro povolení oznámení z této aplikace"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -3546,6 +3822,12 @@
     },
     "Opens the Settings app to enable notifications": {
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otevře aplikaci Nastavení pro povolení oznámení"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -3623,6 +3905,12 @@
     "Permission required": {
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vyžadováno oprávnění"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -3701,6 +3989,12 @@
       "comment": "Permission status: unknown default",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pro použití všech funkcí prosím udělte oprávnění k oznámením."
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -3778,6 +4072,12 @@
     "Ready to send notifications": {
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Připraveno k odesílání oznámení"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -3856,6 +4156,12 @@
       "comment": "Tap action option and notification button",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Spustit zkratku"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -3933,6 +4239,12 @@
     "Saturday": {
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sobota"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -4010,6 +4322,12 @@
     "Send Test Notification": {
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Odeslat testovací oznámení"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -4086,6 +4404,12 @@
     },
     "Send test notification": {
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Odeslat testovací oznámení"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -4158,6 +4482,12 @@
       "comment": "Accessibility hint when authorized",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Odešle testovací oznámení pro ověření nastavení"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -4236,6 +4566,12 @@
       "comment": "Parameter description",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nastavení ID oznámení nahradí všechna starší oznámení se stejným ID oznámení"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -4314,6 +4650,12 @@
       "comment": "Parameter description",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nastavení ID vlákna seskupí oznámení s ostatními oznámeními, která mají stejné ID vlákna"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -4392,6 +4734,12 @@
       "comment": "Parameter title",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vstupní parametr zkratky"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -4470,6 +4818,12 @@
       "comment": "Parameter title",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Název zkratky"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -4548,6 +4902,12 @@
       "comment": "Intent title",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zobrazit oznámení"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -4624,6 +4984,12 @@
     },
     "Show notification with ${title} and ${message}": {
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zobrazit oznámení s ${title} a ${message}"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -4696,6 +5062,12 @@
       "comment": "Parameter summary for Show Notification intent",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zobrazit oznámení s %1$@ a %2$@"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -4774,6 +5146,12 @@
       "comment": "Parameter title",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Podtitulek"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -4851,6 +5229,12 @@
     "Sunday": {
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Neděle"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -4929,6 +5313,12 @@
       "comment": "Parameter title and type display name",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Akce při klepnutí"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -5005,6 +5395,12 @@
     },
     "Tap the button below to open Settings, then enable \"Allow Notifications\" for this app.": {
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Klepněte na tlačítko níže pro otevření Nastavení a poté povolte „Povolit oznámení\" pro tuto aplikaci."
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -5083,6 +5479,12 @@
       "comment": "Title for test notification",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testovací oznámení"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -5159,6 +5561,12 @@
     },
     "Test Notification Capability": {
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testovat funkci oznámení"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -5236,6 +5644,12 @@
     "Test Notifications": {
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testovat oznámení"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -5314,6 +5728,12 @@
       "comment": "Parameter description",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "(Nekódovaný) vstup zkratky, která se spustí při klepnutí na oznámení (volitelné)"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -5392,6 +5812,12 @@
       "comment": "Parameter description",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL adresa, která se otevře při klepnutí na oznámení (vyžadováno, pokud je „Akce při klepnutí\" nastavena na „Otevřít URL\")"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -5470,6 +5896,12 @@
       "comment": "Parameter description",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Začátek časového rámce pro kontrolu (15 znamená od 15:00)"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -5548,6 +5980,12 @@
       "comment": "Parameter description",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Konec časového rámce pro kontrolu (17 znamená před 17:00)"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -5626,6 +6064,12 @@
       "comment": "Parameter description",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Název zkratky, která se spustí při klepnutí na oznámení (vyžadováno, pokud je „Akce při klepnutí\" nastavena na „Spustit zkratku\")"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -5704,6 +6148,12 @@
       "comment": "Error message",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zpráva oznámení nemůže být prázdná"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -5782,6 +6232,12 @@
       "comment": "Error message",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Název oznámení nemůže být prázdný"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -5860,6 +6316,12 @@
       "comment": "Parameter description",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Podtitulek oznámení (volitelné)"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -5938,6 +6400,12 @@
       "comment": "Error message",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Akce při klepnutí „Otevřít URL\" vyžaduje platnou URL adresu"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -6016,6 +6484,12 @@
       "comment": "Error message",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Akce při klepnutí „Spustit zkratku\" vyžaduje platný název zkratky"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -6094,6 +6568,12 @@
       "comment": "Parameter description",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Typ dne, který chcete zkontrolovat"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -6172,6 +6652,12 @@
       "comment": "Intent description",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tato akce zobrazí oznámení na tomto zařízení."
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -6250,6 +6736,12 @@
       "comment": "Intent description",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tato akce vrátí booleovskou hodnotu reprezentující, zda má dané datum daný typ dne."
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -6328,6 +6820,12 @@
       "comment": "Intent description",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tato akce vrátí booleovskou hodnotu reprezentující, zda je hodina daného data v daném časovém rámci."
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -6405,6 +6903,12 @@
     "This app is your toolbox for Shortcuts, providing reusable actions that Apple doesn't include out of the box.": {
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tato aplikace je vaše sada nástrojů pro Zkratky, poskytující opakovaně použitelné akce, které Apple standardně nezahrnuje."
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -6483,6 +6987,12 @@
       "comment": "Permission status: not determined",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tato aplikace potřebuje oprávnění k odesílání oznámení pro akce Zkratek."
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -6560,6 +7070,12 @@
     "This app provides actions for the Shortcuts app.": {
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tato aplikace poskytuje akce pro aplikaci Zkratky."
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -6638,6 +7154,12 @@
       "comment": "Parameter title",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ID vlákna"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -6715,6 +7237,12 @@
     "Thursday": {
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Čtvrtek"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -6793,6 +7321,12 @@
       "comment": "Parameter title",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Časově citlivé?"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -6871,6 +7405,12 @@
       "comment": "Parameter title",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Název"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -6948,6 +7488,12 @@
     "Today": {
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dnes"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -7025,6 +7571,12 @@
     "Tomorrow": {
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zítra"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -7102,6 +7654,12 @@
     "Tuesday": {
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Úterý"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -7180,6 +7738,12 @@
       "comment": "Parameter description",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zapnutím této možnosti umožníte oznámení prolomit režimy soustředění"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -7258,6 +7822,12 @@
       "comment": "Parameter title and type display name",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Typ dne"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -7336,6 +7906,12 @@
       "comment": "Error message for missing notification permission",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Työkalu potřebuje oprávnění k odesílání oznámení. Zkontrolujte prosím svá nastavení."
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -7414,6 +7990,12 @@
       "comment": "Parameter title",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -7490,6 +8072,12 @@
     },
     "Was ${date} ${typeOfDay}?": {
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Byl ${date} ${typeOfDay}?"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -7562,6 +8150,12 @@
       "comment": "Parameter summary for yesterday case",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Byl %1$@ %2$@?"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -7639,6 +8233,12 @@
     "Wednesday": {
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Středa"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -7716,6 +8316,12 @@
     "Weekday": {
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Všední den"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -7793,6 +8399,12 @@
     "Weekend": {
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Víkend"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -7871,6 +8483,12 @@
       "comment": "Parameter description",
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Co se stane, když klepnete na oznámení"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -7948,6 +8566,12 @@
     "Yesterday": {
       "extractionState": "manual",
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Včera"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -8024,6 +8648,12 @@
     },
     "afternoon": {
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "odpoledne"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -8094,6 +8724,12 @@
     },
     "alert": {
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "upozornění"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -8164,6 +8800,12 @@
     },
     "evening": {
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "večer"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -8234,6 +8876,12 @@
     },
     "friday": {
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "pátek"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -8304,6 +8952,12 @@
     },
     "monday": {
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "pondělí"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -8374,6 +9028,12 @@
     },
     "morning": {
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ráno"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -8444,6 +9104,12 @@
     },
     "night": {
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "noc"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -8514,6 +9180,12 @@
     },
     "push": {
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "push"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -8584,6 +9256,12 @@
     },
     "saturday": {
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "sobota"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -8654,6 +9332,12 @@
     },
     "sunday": {
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "neděle"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -8724,6 +9408,12 @@
     },
     "thursday": {
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "čtvrtek"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -8794,6 +9484,12 @@
     },
     "today": {
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "dnes"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -8864,6 +9560,12 @@
     },
     "tomorrow": {
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "zítra"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -8934,6 +9636,12 @@
     },
     "tuesday": {
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "úterý"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -9004,6 +9712,12 @@
     },
     "wednesday": {
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "středa"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -9074,6 +9788,12 @@
     },
     "weekday": {
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "všední den"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -9144,6 +9864,12 @@
     },
     "weekend": {
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "víkend"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
@@ -9214,6 +9940,12 @@
     },
     "yesterday": {
       "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "včera"
+          }
+        },
         "de": {
           "stringUnit": {
             "state": "translated",
