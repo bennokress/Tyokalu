@@ -216,6 +216,8 @@ struct MainScreen: View {
 
 }
 
+// MARK: - Previews
+
 #Preview("🇨🇦 English") {
     MainScreen()
         .environment(\.locale, Locale(identifier: "en"))
@@ -231,29 +233,14 @@ struct MainScreen: View {
         .environment(\.locale, Locale(identifier: "nb"))
 }
 
-#Preview("🇳🇴 Norwegian Nynorsk") {
-    MainScreen()
-        .environment(\.locale, Locale(identifier: "nn"))
-}
-
-#Preview("🇳🇱 Dutch") {
-    MainScreen()
-        .environment(\.locale, Locale(identifier: "nl"))
-}
-
-#Preview("🇫🇷 French") {
-    MainScreen()
-        .environment(\.locale, Locale(identifier: "fr"))
-}
-
-#Preview("🇬🇷 Greek") {
-    MainScreen()
-        .environment(\.locale, Locale(identifier: "el"))
-}
-
 #Preview("🇫🇮 Finnish") {
     MainScreen()
         .environment(\.locale, Locale(identifier: "fi"))
+}
+
+#Preview("🇧🇩 Bengali") {
+    MainScreen()
+        .environment(\.locale, Locale(identifier: "bn"))
 }
 
 #Preview("🇬🇧 British English") {
@@ -261,99 +248,9 @@ struct MainScreen: View {
         .environment(\.locale, Locale(identifier: "en-GB"))
 }
 
-#Preview("🇪🇸 Spanish") {
-    MainScreen()
-        .environment(\.locale, Locale(identifier: "es"))
-}
-
-#Preview("🇮🇹 Italian") {
-    MainScreen()
-        .environment(\.locale, Locale(identifier: "it"))
-}
-
-#Preview("🇸🇪 Swedish") {
-    MainScreen()
-        .environment(\.locale, Locale(identifier: "sv"))
-}
-
-#Preview("🇵🇱 Polish") {
-    MainScreen()
-        .environment(\.locale, Locale(identifier: "pl"))
-}
-
-#Preview("🇵🇹 Portuguese") {
-    MainScreen()
-        .environment(\.locale, Locale(identifier: "pt"))
-}
-
-#Preview("🇨🇿 Czech") {
-    MainScreen()
-        .environment(\.locale, Locale(identifier: "cs"))
-}
-
-#Preview("🇩🇰 Danish") {
-    MainScreen()
-        .environment(\.locale, Locale(identifier: "da"))
-}
-
-#Preview("🇺🇦 Ukrainian") {
-    MainScreen()
-        .environment(\.locale, Locale(identifier: "uk"))
-}
-
-#Preview("🇸🇮 Slovenian") {
-    MainScreen()
-        .environment(\.locale, Locale(identifier: "sl"))
-}
-
-#Preview("🇸🇰 Slovak") {
-    MainScreen()
-        .environment(\.locale, Locale(identifier: "sk"))
-}
-
-#Preview("🇱🇻 Latvian") {
-    MainScreen()
-        .environment(\.locale, Locale(identifier: "lv"))
-}
-
-#Preview("🇪🇪 Estonian") {
-    MainScreen()
-        .environment(\.locale, Locale(identifier: "et"))
-}
-
-#Preview("🇱🇹 Lithuanian") {
-    MainScreen()
-        .environment(\.locale, Locale(identifier: "lt"))
-}
-
-#Preview("🇭🇺 Hungarian") {
-    MainScreen()
-        .environment(\.locale, Locale(identifier: "hu"))
-}
-
 #Preview("🇧🇬 Bulgarian") {
     MainScreen()
         .environment(\.locale, Locale(identifier: "bg"))
-}
-
-#Preview("🇷🇴 Romanian") {
-    MainScreen()
-        .environment(\.locale, Locale(identifier: "ro"))
-}
-
-#Preview("🇹🇷 Turkish") {
-    MainScreen()
-        .environment(\.locale, Locale(identifier: "tr"))
-}
-
-#Preview("🇭🇷 Croatian") {
-    MainScreen()
-        .environment(\.locale, Locale(identifier: "hr"))
-}
-
-#Preview("🇯🇵 Japanese") {
-    MainScreen()
-        .environment(\.locale, Locale(identifier: "ja"))
 }
 
 #Preview("🇨🇳 Chinese Simplified") {
@@ -366,17 +263,122 @@ struct MainScreen: View {
         .environment(\.locale, Locale(identifier: "zh-Hant"))
 }
 
+#Preview("🇭🇷 Croatian") {
+    MainScreen()
+        .environment(\.locale, Locale(identifier: "hr"))
+}
+
+#Preview("🇨🇿 Czech") {
+    MainScreen()
+        .environment(\.locale, Locale(identifier: "cs"))
+}
+
+#Preview("🇩🇰 Danish") {
+    MainScreen()
+        .environment(\.locale, Locale(identifier: "da"))
+}
+
+#Preview("🇳🇱 Dutch") {
+    MainScreen()
+        .environment(\.locale, Locale(identifier: "nl"))
+}
+
+#Preview("🇪🇪 Estonian") {
+    MainScreen()
+        .environment(\.locale, Locale(identifier: "et"))
+}
+
+#Preview("🇫🇷 French") {
+    MainScreen()
+        .environment(\.locale, Locale(identifier: "fr"))
+}
+
+#Preview("🇬🇷 Greek") {
+    MainScreen()
+        .environment(\.locale, Locale(identifier: "el"))
+}
+
 #Preview("🇮🇳 Hindi") {
     MainScreen()
         .environment(\.locale, Locale(identifier: "hi"))
 }
 
-#Preview("🇧🇩 Bengali") {
+#Preview("🇭🇺 Hungarian") {
     MainScreen()
-        .environment(\.locale, Locale(identifier: "bn"))
+        .environment(\.locale, Locale(identifier: "hu"))
+}
+
+#Preview("🇮🇹 Italian") {
+    MainScreen()
+        .environment(\.locale, Locale(identifier: "it"))
+}
+
+#Preview("🇯🇵 Japanese") {
+    MainScreen()
+        .environment(\.locale, Locale(identifier: "ja"))
 }
 
 #Preview("🇰🇷 Korean") {
     MainScreen()
         .environment(\.locale, Locale(identifier: "ko"))
+}
+
+#Preview("🇱🇻 Latvian") {
+    MainScreen()
+        .environment(\.locale, Locale(identifier: "lv"))
+}
+
+#Preview("🇱🇹 Lithuanian") {
+    MainScreen()
+        .environment(\.locale, Locale(identifier: "lt"))
+}
+
+#Preview("🇳🇴 Norwegian Nynorsk") {
+    MainScreen()
+        .environment(\.locale, Locale(identifier: "nn"))
+}
+
+#Preview("🇵🇱 Polish") {
+    MainScreen()
+        .environment(\.locale, Locale(identifier: "pl"))
+}
+
+#Preview("🇵🇹 Portuguese") {
+    MainScreen()
+        .environment(\.locale, Locale(identifier: "pt"))
+}
+
+#Preview("🇷🇴 Romanian") {
+    MainScreen()
+        .environment(\.locale, Locale(identifier: "ro"))
+}
+
+#Preview("🇸🇰 Slovak") {
+    MainScreen()
+        .environment(\.locale, Locale(identifier: "sk"))
+}
+
+#Preview("🇸🇮 Slovenian") {
+    MainScreen()
+        .environment(\.locale, Locale(identifier: "sl"))
+}
+
+#Preview("🇪🇸 Spanish") {
+    MainScreen()
+        .environment(\.locale, Locale(identifier: "es"))
+}
+
+#Preview("🇸🇪 Swedish") {
+    MainScreen()
+        .environment(\.locale, Locale(identifier: "sv"))
+}
+
+#Preview("🇹🇷 Turkish") {
+    MainScreen()
+        .environment(\.locale, Locale(identifier: "tr"))
+}
+
+#Preview("🇺🇦 Ukrainian") {
+    MainScreen()
+        .environment(\.locale, Locale(identifier: "uk"))
 }
