@@ -65,6 +65,12 @@
             "value": "\"Työkalu\" er det finske ordet for \"verktøy\"."
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"Työkalu\" to fińskie słowo oznaczające \"narzędzie\"."
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -135,6 +141,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ein dato kan aldri vere mellom to like timar, ver venleg og oppgje ulike tal for tidlegare og seinare time"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Data nigdy nie może być między dwiema równymi godzinami, proszę podać różne liczby dla wcześniejszej i późniejszej godziny"
           }
         },
         "sv": {
@@ -209,6 +221,12 @@
             "value": "Ein dag har 24 timar, så det er umogleg å sjekke mot timar høgare enn 24"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dzień ma 24 godziny, więc sprawdzanie godzin wyższych niż 24 jest niemożliwe"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -281,6 +299,12 @@
             "value": "Ein dag har ingen negative timar, så det er umogleg å sjekke mot timar lågare enn 0"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dzień nie ma ujemnych godzin, więc sprawdzanie godzin niższych niż 0 jest niemożliwe"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -350,6 +374,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Om denne appen"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O tej aplikacji"
           }
         },
         "sv": {
@@ -424,6 +454,12 @@
             "value": "Eit vedlegg som vert vist i varselet (valfritt, sjå UNNotificationAttachment for meir informasjon)"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Załącznik, który będzie wyświetlany w powiadomieniu (opcjonalnie, zobacz UNNotificationAttachment po więcej informacji)"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -494,6 +530,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Vedlegg"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Załącznik"
           }
         },
         "sv": {
@@ -568,6 +610,12 @@
             "value": "Dato"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Data"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -638,6 +686,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Dato og tid"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Data i czas"
           }
         },
         "sv": {
@@ -712,6 +766,12 @@
             "value": "Einingsfunksjonalitet"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Funkcjonalność urządzenia"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -781,6 +841,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Visste du?"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Czy wiesz?"
           }
         },
         "sv": {
@@ -855,6 +921,12 @@
             "value": "Gjer ingenting"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nic nie rób"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -925,6 +997,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tidlegare time"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wcześniejsza godzina"
           }
         },
         "sv": {
@@ -998,6 +1076,12 @@
             "value": "Fredag"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Piątek"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -1067,6 +1151,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Gje løyve"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Udziel uprawnienia"
           }
         },
         "sv": {
@@ -1141,6 +1231,12 @@
             "value": "Gje varslingsløyve"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Udziel uprawnienia do powiadomień"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -1211,6 +1307,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Gje varslingsløyve først"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Najpierw udziel uprawnienia do powiadomień"
           }
         },
         "sv": {
@@ -1285,6 +1387,12 @@
             "value": "Timesjekk"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sprawdzanie godziny"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -1347,6 +1455,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Er ${date} ${typeOfDay}?"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Czy ${date} to ${typeOfDay}?"
           }
         },
         "sv": {
@@ -1413,6 +1527,12 @@
             "value": "Er ${date} ein ${typeOfDay}?"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Czy ${date} to ${typeOfDay}?"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -1475,6 +1595,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Er ${date} på ein ${typeOfDay}?"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Czy ${date} przypada na ${typeOfDay}?"
           }
         },
         "sv": {
@@ -1549,6 +1675,12 @@
             "value": "Er %1\\$@ %2\\$@?"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Czy %1\\$@ to %2\\$@?"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -1619,6 +1751,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Er %1\\$@ ein %2\\$@?"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Czy %1\\$@ to %2\\$@?"
           }
         },
         "sv": {
@@ -1693,6 +1831,12 @@
             "value": "Er %1\\$@ på ein %2\\$@?"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Czy %1\\$@ przypada na %2\\$@?"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -1765,6 +1909,12 @@
             "value": "Er type dag"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Czy to typ dnia"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -1827,6 +1977,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Er timen til ${date} mellom ${lowerBound} og ${upperBound}?"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Czy godzina ${date} jest między ${lowerBound} a ${upperBound}?"
           }
         },
         "sv": {
@@ -1901,6 +2057,12 @@
             "value": "Er timen til %1\\$@ mellom %2\\$lld og %3\\$lld?"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Czy godzina %1\\$@ jest między %2\\$lld a %3\\$lld?"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -1971,6 +2133,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Seinare time"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Późniejsza godzina"
           }
         },
         "sv": {
@@ -2045,6 +2213,12 @@
             "value": "Melding"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wiadomość"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -2114,6 +2288,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Måndag"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Poniedziałek"
           }
         },
         "sv": {
@@ -2188,6 +2368,12 @@
             "value": "Varslings-ID"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ID powiadomienia"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -2257,6 +2443,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Varslingsløyve"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uprawnienie do powiadomień"
           }
         },
         "sv": {
@@ -2331,6 +2523,12 @@
             "value": "Varslingsløyve vart avslått. Ver venleg og aktiver det i Innstillingar for å bruke varslingshandlingar."
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uprawnienie do powiadomień zostało odrzucone. Włącz je w Ustawieniach, aby używać akcji powiadomień."
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -2399,6 +2597,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Varslingsløyve vart avslått. For å bruke varslingshandlingar i Snarvegar må du aktivere varslar i Innstillingar-appen."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uprawnienie do powiadomień zostało odrzucone. Aby używać akcji powiadomień w Skrótach, musisz włączyć powiadomienia w aplikacji Ustawienia."
           }
         },
         "sv": {
@@ -2473,6 +2677,12 @@
             "value": "Varslar er aktiverte."
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Powiadomienia są włączone."
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -2543,6 +2753,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Varslar er førebels tillatne. Gje fullt løyve for best oppleving."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Powiadomienia są tymczasowo dozwolone. Udziel pełnego uprawnienia dla najlepszego doświadczenia."
           }
         },
         "sv": {
@@ -2617,6 +2833,12 @@
             "value": "Varslar er mellombels tillatne."
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Powiadomienia są tymczasowo dozwolone."
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -2687,6 +2909,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Varslar fungerer som dei skal!"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Powiadomienia działają poprawnie!"
           }
         },
         "sv": {
@@ -2761,6 +2989,12 @@
             "value": "Varslar på iOS støttar ikkje vedlegg så store som det du oppgav."
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Powiadomienia na iOS nie obsługują załączników tak dużych jak ten, który podałeś."
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -2831,6 +3065,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Varslar på iOS støttar ikkje vedlegg av denne typen."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Powiadomienia na iOS nie obsługują załączników tego typu."
           }
         },
         "sv": {
@@ -2905,6 +3145,12 @@
             "value": "Varslar på iOS støttar ikkje vedlegg av typen «%@»."
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Powiadomienia na iOS nie obsługują załączników typu «%@»."
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -2976,6 +3222,12 @@
             "value": "Når varslingsløyve er gjeve, finst det ingen annan funksjonalitet her enn å bruke testknappen nedanfor for å stadfeste at varslar fungerer rett."
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Po udzieleniu uprawnienia do powiadomień, nie ma tu żadnej dodatkowej funkcjonalności poza użyciem przycisku testowego poniżej, aby zweryfikować, że powiadomienia działają poprawnie."
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -3044,6 +3296,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Opne Innstillingar"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otwórz Ustawienia"
           }
         },
         "sv": {
@@ -3118,6 +3376,12 @@
             "value": "Opne URL"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otwórz URL"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -3186,6 +3450,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Opne appinnstillingar"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otwórz ustawienia aplikacji"
           }
         },
         "sv": {
@@ -3260,6 +3530,12 @@
             "value": "Opnar ein systemdialog for å tillate varslar frå denne appen"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otwiera okno dialogowe systemu, aby zezwolić na powiadomienia z tej aplikacji"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -3328,6 +3604,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Opnar Innstillingar-appen for å aktivere varslar"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otwiera aplikację Ustawienia, aby włączyć powiadomienia"
           }
         },
         "sv": {
@@ -3399,6 +3681,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Løyve krevst"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wymagane uprawnienie"
           }
         },
         "sv": {
@@ -3473,6 +3761,12 @@
             "value": "Ver venleg og gje varslingsløyve for å bruke alle funksjonar."
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Proszę udzielić uprawnienia do powiadomień, aby używać wszystkich funkcji."
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -3542,6 +3836,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Klar til å sende varslar"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gotowe do wysyłania powiadomień"
           }
         },
         "sv": {
@@ -3616,6 +3916,12 @@
             "value": "Køyr snarveg"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uruchom skrót"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -3685,6 +3991,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Laurdag"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sobota"
           }
         },
         "sv": {
@@ -3758,6 +4070,12 @@
             "value": "Send testvarsel"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wyślij testowe powiadomienie"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -3820,6 +4138,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Send testvarsel"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wyślij testowe powiadomienie"
           }
         },
         "sv": {
@@ -3894,6 +4218,12 @@
             "value": "Sender eit testvarsel for å stadfeste oppsettet"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wysyła testowe powiadomienie, aby zweryfikować konfigurację"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -3964,6 +4294,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Å setje ein varslings-ID vil erstatte eldre varslar med same varslings-ID"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ustawienie ID powiadomienia zastąpi wszystkie starsze powiadomienia z tym samym ID powiadomienia"
           }
         },
         "sv": {
@@ -4038,6 +4374,12 @@
             "value": "Å setje ein tråd-ID vil gruppere varselet med andre varslar som har same tråd-ID"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ustawienie ID wątku zgrupuje powiadomienie z innymi powiadomieniami, które mają to samo ID wątku"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -4108,6 +4450,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Snarveg-inngangsparameter"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Parametr wejściowy skrótu"
           }
         },
         "sv": {
@@ -4182,6 +4530,12 @@
             "value": "Snarvegnamn"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nazwa skrótu"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -4254,6 +4608,12 @@
             "value": "Vis varsel"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pokaż powiadomienie"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -4316,6 +4676,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Vis varsel med ${title} og ${message}"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pokaż powiadomienie z ${title} i ${message}"
           }
         },
         "sv": {
@@ -4390,6 +4756,12 @@
             "value": "Vis varsel med %1\\$@ og %2\\$@"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pokaż powiadomienie z %1\\$@ i %2\\$@"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -4462,6 +4834,12 @@
             "value": "Undertittel"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Podtytuł"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -4531,6 +4909,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Sundag"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Niedziela"
           }
         },
         "sv": {
@@ -4605,6 +4989,12 @@
             "value": "Trykkhandling"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Akcja dotknięcia"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -4673,6 +5063,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Trykk på knappen nedanfor for å opne Innstillingar, og aktiver deretter «Tillat varslar» for denne appen."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dotknij poniższego przycisku, aby otworzyć Ustawienia, a następnie włącz „Zezwalaj na powiadomienia\" dla tej aplikacji."
           }
         },
         "sv": {
@@ -4747,6 +5143,12 @@
             "value": "Testvarsel"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testowe powiadomienie"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -4815,6 +5217,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Test varslingsfunksjon"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testuj funkcję powiadomień"
           }
         },
         "sv": {
@@ -4886,6 +5294,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Test varslar"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testuj powiadomienia"
           }
         },
         "sv": {
@@ -4960,6 +5374,12 @@
             "value": "Den (ukoda) inngangen til snarvegen som skal køyrast når varselet vert trykt (valfritt)"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "(Niekodowane) wejście skrótu do uruchomienia po dotknięciu powiadomienia (opcjonalnie)"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -5030,6 +5450,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "URL-en som skal opnast når varselet vert trykt (påkravd viss «Trykkhandling» er «Opne URL»)"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL do otwarcia po dotknięciu powiadomienia (wymagane, jeśli „Akcja dotknięcia\" to „Otwórz URL\")"
           }
         },
         "sv": {
@@ -5104,6 +5530,12 @@
             "value": "Byrjinga av tidsramma å sjekke mot (15 tyder klokka 15:00 eller seinare)"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Początek przedziału czasowego do sprawdzenia (15 oznacza o lub po 15:00)"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -5174,6 +5606,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Slutten av tidsramma å sjekke mot (17 tyder før klokka 17:00)"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Koniec przedziału czasowego do sprawdzenia (17 oznacza przed 17:00)"
           }
         },
         "sv": {
@@ -5248,6 +5686,12 @@
             "value": "Namnet på snarvegen som skal køyrast når varselet vert trykt (påkravd viss «Trykkhandling» er «Køyr snarveg»)"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nazwa skrótu do uruchomienia po dotknięciu powiadomienia (wymagane, jeśli „Akcja dotknięcia\" to „Uruchom skrót\")"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -5318,6 +5762,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Varslingsmeldinga kan ikkje vere tom"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Treść powiadomienia nie może być pusta"
           }
         },
         "sv": {
@@ -5392,6 +5842,12 @@
             "value": "Varslingstittelen kan ikkje vere tom"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tytuł powiadomienia nie może być pusty"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -5462,6 +5918,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Undertittelen til varselet (valfritt)"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Podtytuł powiadomienia (opcjonalnie)"
           }
         },
         "sv": {
@@ -5536,6 +5998,12 @@
             "value": "Trykkhandlinga «Opne URL» krev ein gyldig URL"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Akcja dotknięcia „Otwórz URL\" wymaga prawidłowego URL"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -5606,6 +6074,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Trykkhandlinga «Køyr snarveg» krev eit gyldig snarvegnamn"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Akcja dotknięcia „Uruchom skrót\" wymaga prawidłowej nazwy skrótu"
           }
         },
         "sv": {
@@ -5680,6 +6154,12 @@
             "value": "Typen dag du vil sjekke for"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Typ dnia, który chcesz sprawdzić"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -5750,6 +6230,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Denne handlinga vil vise eit varsel på denne eininga."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ta czynność wyświetli powiadomienie na tym urządzeniu."
           }
         },
         "sv": {
@@ -5824,6 +6310,12 @@
             "value": "Denne handlinga vil returnere ein boolsk verdi som representerer om den gjevne datoen har den gjevne typen dag."
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ta czynność zwróci wartość logiczną reprezentującą, czy podana data ma podany typ dnia."
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -5896,6 +6388,12 @@
             "value": "Denne handlinga vil returnere ein boolsk verdi som representerer om timen til den gjevne datoen er innanfor den gjevne tidsramma."
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ta czynność zwróci wartość logiczną reprezentującą, czy godzina podanej daty mieści się w podanym przedziale czasowym."
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -5965,6 +6463,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Denne appen er verktøykassa di for Snarvegar, og gjev attbrukande handlingar som Apple ikkje inkluderer som standard."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ta aplikacja to Twój zestaw narzędzi dla Skrótów, oferujący czynności wielokrotnego użytku, które Apple nie dołącza standardowo."
           }
         },
         "sv": {
@@ -6039,6 +6543,12 @@
             "value": "Denne appen treng løyve til å sende varslar for Snarvegar-handlingar."
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ta aplikacja potrzebuje uprawnienia do wysyłania powiadomień dla czynności Skrótów."
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -6108,6 +6618,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Denne appen gjev handlingar for Snarvegar-appen."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ta aplikacja oferuje czynności dla aplikacji Skróty."
           }
         },
         "sv": {
@@ -6182,6 +6698,12 @@
             "value": "Tråd-ID"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ID wątku"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -6251,6 +6773,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Torsdag"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Czwartek"
           }
         },
         "sv": {
@@ -6325,6 +6853,12 @@
             "value": "Tidssensitiv?"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pilne?"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -6395,6 +6929,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tittel"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tytuł"
           }
         },
         "sv": {
@@ -6468,6 +7008,12 @@
             "value": "I dag"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dzisiaj"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -6539,6 +7085,12 @@
             "value": "I morgon"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jutro"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -6608,6 +7160,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tysdag"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wtorek"
           }
         },
         "sv": {
@@ -6682,6 +7240,12 @@
             "value": "Å slå dette på vil tillate varselet å bryte gjennom fokusmodusane"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Włączenie tej opcji pozwoli powiadomieniu przebić się przez tryby skupienia"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -6752,6 +7316,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Type dag"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Typ dnia"
           }
         },
         "sv": {
@@ -6826,6 +7396,12 @@
             "value": "Työkalu treng løyve til å sende varslar. Ver venleg og sjekk innstillingane dine."
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Työkalu potrzebuje uprawnienia do wysyłania powiadomień. Proszę sprawdzić swoje ustawienia."
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -6898,6 +7474,12 @@
             "value": "URL"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -6960,6 +7542,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Var ${date} ${typeOfDay}?"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Czy ${date} było ${typeOfDay}?"
           }
         },
         "sv": {
@@ -7034,6 +7622,12 @@
             "value": "Var %1\\$@ %2\\$@?"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Czy %1\\$@ było %2\\$@?"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -7103,6 +7697,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Onsdag"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Środa"
           }
         },
         "sv": {
@@ -7176,6 +7776,12 @@
             "value": "Vekedag"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dzień roboczy"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -7245,6 +7851,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Helg"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weekend"
           }
         },
         "sv": {
@@ -7319,6 +7931,12 @@
             "value": "Kva som skjer når du trykker på varselet"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Co się dzieje po dotknięciu powiadomienia"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -7390,6 +8008,12 @@
             "value": "I går"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wczoraj"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -7452,6 +8076,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "ettermiddag"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "popołudnie"
           }
         },
         "sv": {
@@ -7518,6 +8148,12 @@
             "value": "varsel"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "alert"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -7580,6 +8216,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "kveld"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "wieczór"
           }
         },
         "sv": {
@@ -7646,6 +8288,12 @@
             "value": "fredag"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "piątek"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -7708,6 +8356,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "måndag"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "poniedziałek"
           }
         },
         "sv": {
@@ -7774,6 +8428,12 @@
             "value": "morgon"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "rano"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -7838,6 +8498,12 @@
             "value": "natt"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "noc"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -7897,6 +8563,12 @@
           }
         },
         "nn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "push"
+          }
+        },
+        "pl": {
           "stringUnit": {
             "state": "translated",
             "value": "push"
@@ -7966,6 +8638,12 @@
             "value": "laurdag"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "sobota"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -8028,6 +8706,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "sundag"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "niedziela"
           }
         },
         "sv": {
@@ -8094,6 +8778,12 @@
             "value": "torsdag"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "czwartek"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -8156,6 +8846,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "i dag"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "dzisiaj"
           }
         },
         "sv": {
@@ -8222,6 +8918,12 @@
             "value": "i morgon"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "jutro"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -8284,6 +8986,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "tysdag"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "wtorek"
           }
         },
         "sv": {
@@ -8350,6 +9058,12 @@
             "value": "onsdag"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "środa"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -8412,6 +9126,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "vekedag"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "dzień roboczy"
           }
         },
         "sv": {
@@ -8478,6 +9198,12 @@
             "value": "helg"
           }
         },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "weekend"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
@@ -8540,6 +9266,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "i går"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "wczoraj"
           }
         },
         "sv": {
