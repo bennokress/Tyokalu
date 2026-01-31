@@ -35,6 +35,12 @@
             "value": "\"Työkalu\" es la palabra finlandesa para \"herramienta\"."
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"Työkalu\" on soome keeles \"tööriist\"."
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -141,6 +147,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Una fecha nunca puede estar entre dos horas iguales, por favor introduce números diferentes para la hora anterior y posterior"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kuupäev ei saa kunagi olla kahe võrdse tunni vahel, palun sisesta varasema ja hilisema tunni jaoks erinevad numbrid"
           }
         },
         "fi": {
@@ -251,6 +263,12 @@
             "value": "Un día tiene 24 horas, por lo que es imposible comprobar horas superiores a 24"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Päevas on 24 tundi, seega pole võimalik kontrollida tunde, mis on suuremad kui 24"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -359,6 +377,12 @@
             "value": "Un día no tiene horas negativas, por lo que es imposible comprobar horas inferiores a 0"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Päevas pole negatiivseid tunde, seega pole võimalik kontrollida tunde, mis on väiksemad kui 0"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -464,6 +488,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Acerca de esta app"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rakenduse teave"
           }
         },
         "fi": {
@@ -574,6 +604,12 @@
             "value": "Un adjunto que se mostrará en la notificación (opcional, consulta UNNotificationAttachment para más información)"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Manus, mida kuvatakse teavituses (valikuline, vaata UNNotificationAttachment lisateabe jaoks)"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -680,6 +716,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Adjunto"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Manus"
           }
         },
         "fi": {
@@ -790,6 +832,12 @@
             "value": "Fecha"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kuupäev"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -896,6 +944,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Fecha y hora"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kuupäev ja kellaaeg"
           }
         },
         "fi": {
@@ -1006,6 +1060,12 @@
             "value": "Funcionalidad del dispositivo"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Seadme funktsioonid"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -1111,6 +1171,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "¿Sabías que?"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kas teadsid?"
           }
         },
         "fi": {
@@ -1221,6 +1287,12 @@
             "value": "No hacer nada"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ära tee midagi"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -1327,6 +1399,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Hora anterior"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Varasem tund"
           }
         },
         "fi": {
@@ -1436,6 +1514,12 @@
             "value": "Viernes"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reede"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -1541,6 +1625,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Conceder permiso"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anna luba"
           }
         },
         "fi": {
@@ -1651,6 +1741,12 @@
             "value": "Conceder permiso de notificación"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anna teavituste luba"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -1757,6 +1853,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Primero concede permiso de notificación"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anna esmalt teavituste luba"
           }
         },
         "fi": {
@@ -1867,6 +1969,12 @@
             "value": "Comprobación de hora"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tunnikontroll"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -1967,6 +2075,12 @@
             "value": "¿Es ${date} ${typeOfDay}?"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kas ${date} on ${typeOfDay}?"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -2061,6 +2175,12 @@
             "value": "¿Es ${date} un ${typeOfDay}?"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kas ${date} on ${typeOfDay}?"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -2153,6 +2273,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "¿Es ${date} en un ${typeOfDay}?"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kas ${date} on ${typeOfDay}?"
           }
         },
         "fi": {
@@ -2255,6 +2381,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "¿Es %1$@ %2$@?"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kas %1$@ on %2$@?"
           }
         },
         "fi": {
@@ -2365,6 +2497,12 @@
             "value": "¿Es %1$@ un %2$@?"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kas %1$@ on %2$@?"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -2471,6 +2609,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "¿Es %1$@ en un %2$@?"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kas %1$@ on %2$@?"
           }
         },
         "fi": {
@@ -2581,6 +2725,12 @@
             "value": "Es tipo de día"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "On päevatüüp"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -2679,6 +2829,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "¿Está la hora de ${date} entre ${lowerBound} y ${upperBound}?"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kas ${date} tund on vahemikus ${lowerBound} kuni ${upperBound}?"
           }
         },
         "fi": {
@@ -2781,6 +2937,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "¿Está la hora de %1$@ entre %2$lld y %3$lld?"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kas %1$@ tund on vahemikus %2$lld kuni %3$lld?"
           }
         },
         "fi": {
@@ -2891,6 +3053,12 @@
             "value": "Hora posterior"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hilisem tund"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -2999,6 +3167,12 @@
             "value": "Mensaje"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sõnum"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -3104,6 +3278,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Lunes"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esmaspäev"
           }
         },
         "fi": {
@@ -3214,6 +3394,12 @@
             "value": "ID de notificación"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Teavituse ID"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -3319,6 +3505,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Permiso de notificación"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Teavituste luba"
           }
         },
         "fi": {
@@ -3429,6 +3621,12 @@
             "value": "Se denegó el permiso de notificación. Por favor, actívalo en Ajustes para usar acciones de notificación."
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Teavituste luba keelati. Palun luba see Seadetes, et kasutada teavituste toiminguid."
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -3533,6 +3731,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Se denegó el permiso de notificación. Para usar acciones de notificación en Atajos, necesitas activar las notificaciones en la app de Ajustes."
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Teavituste luba keelati. Et kasutada teavituste toiminguid Otseteedes, pead lubama teavitused Seadete rakenduses."
           }
         },
         "fi": {
@@ -3643,6 +3847,12 @@
             "value": "Las notificaciones están activadas."
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Teavitused on lubatud."
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -3749,6 +3959,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Las notificaciones están permitidas provisionalmente. Concede permiso completo para la mejor experiencia."
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Teavitused on ajutiselt lubatud. Anna täielik luba parima kogemuse jaoks."
           }
         },
         "fi": {
@@ -3859,6 +4075,12 @@
             "value": "Las notificaciones están permitidas temporalmente."
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Teavitused on ajutiselt lubatud."
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -3965,6 +4187,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "¡Las notificaciones funcionan correctamente!"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Teavitused töötavad korrektselt!"
           }
         },
         "fi": {
@@ -4075,6 +4303,12 @@
             "value": "Las notificaciones en iOS no admiten adjuntos tan grandes como el que proporcionaste."
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iOS-i teavitused ei toeta nii suuri manuseid, nagu sina esitasid."
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -4181,6 +4415,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Las notificaciones en iOS no admiten adjuntos de este tipo."
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iOS-i teavitused ei toeta seda tüüpi manuseid."
           }
         },
         "fi": {
@@ -4291,6 +4531,12 @@
             "value": "Las notificaciones en iOS no admiten adjuntos de tipo «%@»."
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iOS-i teavitused ei toeta tüüpi „%@\" manuseid."
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -4398,6 +4644,12 @@
             "value": "Una vez concedido el permiso de notificación, no hay funcionalidad adicional aquí más que usar el botón de prueba de abajo para verificar que las notificaciones funcionan correctamente."
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kui teavituste luba on antud, pole siin muud funktsionaalsust peale alloleva testnupu kasutamise, et kontrollida teavituste korrektset toimimist."
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -4502,6 +4754,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Abrir Ajustes"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ava Seaded"
           }
         },
         "fi": {
@@ -4612,6 +4870,12 @@
             "value": "Abrir URL"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ava URL"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -4716,6 +4980,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Abrir ajustes de la app"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ava rakenduse seaded"
           }
         },
         "fi": {
@@ -4826,6 +5096,12 @@
             "value": "Abre un diálogo del sistema para permitir notificaciones de esta app"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Avab süsteemi dialoogi, et lubada teavitused sellelt rakenduselt"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -4930,6 +5206,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Abre la app de Ajustes para activar las notificaciones"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Avab Seadete rakenduse teavituste lubamiseks"
           }
         },
         "fi": {
@@ -5037,6 +5319,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Permiso requerido"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Luba vajalik"
           }
         },
         "fi": {
@@ -5147,6 +5435,12 @@
             "value": "Por favor, concede permiso de notificación para usar todas las funciones."
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Palun anna teavituste luba, et kasutada kõiki funktsioone."
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -5252,6 +5546,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Listo para enviar notificaciones"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Valmis teavituste saatmiseks"
           }
         },
         "fi": {
@@ -5362,6 +5662,12 @@
             "value": "Ejecutar atajo"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Käivita otsetee"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -5467,6 +5773,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Sábado"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Laupäev"
           }
         },
         "fi": {
@@ -5576,6 +5888,12 @@
             "value": "Enviar notificación de prueba"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Saada testteavitus"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -5674,6 +5992,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Enviar notificación de prueba"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Saada testteavitus"
           }
         },
         "fi": {
@@ -5776,6 +6100,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Envía una notificación de prueba para verificar la configuración"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Saadab testteavituse seadistuse kontrollimiseks"
           }
         },
         "fi": {
@@ -5886,6 +6216,12 @@
             "value": "Establecer un ID de notificación reemplazará cualquier notificación anterior con el mismo ID de notificación"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Teavituse ID määramine asendab kõik vanemad sama teavituse ID-ga teavitused"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -5992,6 +6328,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Establecer un ID de hilo agrupará la notificación con otras notificaciones que tengan el mismo ID de hilo"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lõime ID määramine grupeerib teavituse teiste sama lõime ID-ga teavitustega"
           }
         },
         "fi": {
@@ -6102,6 +6444,12 @@
             "value": "Parámetro de entrada del atajo"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otsetee sisendparameeter"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -6208,6 +6556,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Nombre del atajo"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otsetee nimi"
           }
         },
         "fi": {
@@ -6318,6 +6672,12 @@
             "value": "Mostrar notificación"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kuva teavitus"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -6416,6 +6776,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Mostrar notificación con ${title} y ${message}"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kuva teavitus pealkirjaga ${title} ja sõnumiga ${message}"
           }
         },
         "fi": {
@@ -6518,6 +6884,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Mostrar notificación con %1$@ y %2$@"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kuva teavitus pealkirjaga %1$@ ja sõnumiga %2$@"
           }
         },
         "fi": {
@@ -6628,6 +7000,12 @@
             "value": "Subtítulo"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alapealkiri"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -6733,6 +7111,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Domingo"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pühapäev"
           }
         },
         "fi": {
@@ -6843,6 +7227,12 @@
             "value": "Acción al tocar"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Puutetoiming"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -6947,6 +7337,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Toca el botón de abajo para abrir Ajustes, luego activa «Permitir notificaciones» para esta app."
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vajuta allpool olevat nuppu Seadete avamiseks, seejärel luba „Luba teavitused\" selle rakenduse jaoks."
           }
         },
         "fi": {
@@ -7057,6 +7453,12 @@
             "value": "Notificación de prueba"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testteavitus"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -7161,6 +7563,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Probar capacidad de notificación"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testi teavituse võimekust"
           }
         },
         "fi": {
@@ -7268,6 +7676,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Probar notificaciones"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testi teavitusi"
           }
         },
         "fi": {
@@ -7378,6 +7792,12 @@
             "value": "La entrada (sin codificar) del atajo a ejecutar cuando se toca la notificación (opcional)"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otsetee (kodeerimata) sisend, mida käivitada teavitusele vajutamisel (valikuline)"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -7484,6 +7904,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "La URL a abrir cuando se toca la notificación (requerido si «Acción al tocar» es «Abrir URL»)"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL, mida avada teavitusele vajutamisel (kohustuslik, kui „Puutetoiming\" on „Ava URL\")"
           }
         },
         "fi": {
@@ -7594,6 +8020,12 @@
             "value": "El inicio del intervalo de tiempo a comprobar (15 significa a las 15:00 o después)"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ajavahemiku algus, mille vastu kontrollida (15 tähendab kell 15:00 või hiljem)"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -7700,6 +8132,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "El final del intervalo de tiempo a comprobar (17 significa antes de las 17:00)"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ajavahemiku lõpp, mille vastu kontrollida (17 tähendab enne kella 17:00)"
           }
         },
         "fi": {
@@ -7810,6 +8248,12 @@
             "value": "El nombre del atajo a ejecutar cuando se toca la notificación (requerido si «Acción al tocar» es «Ejecutar atajo»)"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otsetee nimi, mida käivitada teavitusele vajutamisel (kohustuslik, kui „Puutetoiming\" on „Käivita otsetee\")"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -7916,6 +8360,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "El mensaje de la notificación no puede estar vacío"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Teavituse sõnum ei tohi olla tühi"
           }
         },
         "fi": {
@@ -8026,6 +8476,12 @@
             "value": "El título de la notificación no puede estar vacío"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Teavituse pealkiri ei tohi olla tühi"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -8132,6 +8588,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "El subtítulo de la notificación (opcional)"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Teavituse alapealkiri (valikuline)"
           }
         },
         "fi": {
@@ -8242,6 +8704,12 @@
             "value": "La acción al tocar «Abrir URL» requiere una URL válida"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Puutetoiming „Ava URL\" nõuab kehtivat URL-i"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -8348,6 +8816,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "La acción al tocar «Ejecutar atajo» requiere un nombre de atajo válido"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Puutetoiming „Käivita otsetee\" nõuab kehtivat otsetee nime"
           }
         },
         "fi": {
@@ -8458,6 +8932,12 @@
             "value": "El tipo de día que quieres comprobar"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Päeva tüüp, mida soovid kontrollida"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -8564,6 +9044,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Esta acción mostrará una notificación en este dispositivo."
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "See toiming kuvab teavituse sellel seadmel."
           }
         },
         "fi": {
@@ -8674,6 +9160,12 @@
             "value": "Esta acción devolverá un valor booleano que representa si la fecha dada tiene el tipo de día dado."
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "See toiming tagastab tõeväärtuse, mis näitab, kas antud kuupäev on antud päevatüüp."
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -8782,6 +9274,12 @@
             "value": "Esta acción devolverá un valor booleano que representa si la hora de la fecha dada está dentro del intervalo de tiempo dado."
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "See toiming tagastab tõeväärtuse, mis näitab, kas antud kuupäeva tund on antud ajavahemikus."
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -8887,6 +9385,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Esta app es tu caja de herramientas para Atajos, proporcionando acciones reutilizables que Apple no incluye de serie."
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "See rakendus on sinu tööriistakast Otseteede jaoks, pakkudes korduvkasutatavaid toiminguid, mida Apple vaikimisi ei sisalda."
           }
         },
         "fi": {
@@ -8997,6 +9501,12 @@
             "value": "Esta app necesita permiso para enviar notificaciones para las acciones de Atajos."
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "See rakendus vajab luba teavituste saatmiseks Otseteede toimingute jaoks."
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -9102,6 +9612,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Esta app proporciona acciones para la app Atajos."
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "See rakendus pakub toiminguid Otseteede rakendusele."
           }
         },
         "fi": {
@@ -9212,6 +9728,12 @@
             "value": "ID de hilo"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lõime ID"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -9317,6 +9839,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Jueves"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Neljapäev"
           }
         },
         "fi": {
@@ -9427,6 +9955,12 @@
             "value": "¿Urgente?"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ajatundlik?"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -9533,6 +10067,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Título"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pealkiri"
           }
         },
         "fi": {
@@ -9642,6 +10182,12 @@
             "value": "Hoy"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Täna"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -9749,6 +10295,12 @@
             "value": "Mañana"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Homme"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -9854,6 +10406,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Martes"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Teisipäev"
           }
         },
         "fi": {
@@ -9964,6 +10522,12 @@
             "value": "Activar esto permitirá que la notificación atraviese los modos de concentración"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Selle sisselülitamine võimaldab teavitusel läbida fookusrežiime"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -10070,6 +10634,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tipo de día"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Päevatüüp"
           }
         },
         "fi": {
@@ -10180,6 +10750,12 @@
             "value": "Työkalu necesita permiso para enviar notificaciones. Por favor, revisa tus ajustes."
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Työkalu vajab luba teavituste saatmiseks. Palun vaata üle oma seaded."
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -10288,6 +10864,12 @@
             "value": "URL"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -10386,6 +10968,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "¿Era ${date} ${typeOfDay}?"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kas ${date} oli ${typeOfDay}?"
           }
         },
         "fi": {
@@ -10488,6 +11076,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "¿Era %1$@ %2$@?"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kas %1$@ oli %2$@?"
           }
         },
         "fi": {
@@ -10597,6 +11191,12 @@
             "value": "Miércoles"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kolmapäev"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -10704,6 +11304,12 @@
             "value": "Día laborable"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tööpäev"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -10809,6 +11415,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Fin de semana"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nädalavahetus"
           }
         },
         "fi": {
@@ -10919,6 +11531,12 @@
             "value": "Qué ocurre cuando tocas la notificación"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mis juhtub, kui vajutad teavitusele"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -11026,6 +11644,12 @@
             "value": "Ayer"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eile"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -11126,6 +11750,12 @@
             "value": "tarde"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "pärastlõuna"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -11218,6 +11848,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "alerta"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hoiatus"
           }
         },
         "fi": {
@@ -11314,6 +11950,12 @@
             "value": "noche"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "õhtu"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -11406,6 +12048,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "viernes"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "reede"
           }
         },
         "fi": {
@@ -11502,6 +12150,12 @@
             "value": "lunes"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "esmaspäev"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -11594,6 +12248,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "mañana"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hommik"
           }
         },
         "fi": {
@@ -11690,6 +12350,12 @@
             "value": "noche"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "öö"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -11779,6 +12445,12 @@
           }
         },
         "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "push"
+          }
+        },
+        "et": {
           "stringUnit": {
             "state": "translated",
             "value": "push"
@@ -11878,6 +12550,12 @@
             "value": "sábado"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "laupäev"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -11970,6 +12648,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "domingo"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "pühapäev"
           }
         },
         "fi": {
@@ -12066,6 +12750,12 @@
             "value": "jueves"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "neljapäev"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -12158,6 +12848,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "hoy"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "täna"
           }
         },
         "fi": {
@@ -12254,6 +12950,12 @@
             "value": "mañana"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "homme"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -12346,6 +13048,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "martes"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "teisipäev"
           }
         },
         "fi": {
@@ -12442,6 +13150,12 @@
             "value": "miércoles"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "kolmapäev"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -12534,6 +13248,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "día laborable"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "tööpäev"
           }
         },
         "fi": {
@@ -12630,6 +13350,12 @@
             "value": "fin de semana"
           }
         },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "nädalavahetus"
+          }
+        },
         "fi": {
           "stringUnit": {
             "state": "translated",
@@ -12722,6 +13448,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "ayer"
+          }
+        },
+        "et": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "eile"
           }
         },
         "fi": {

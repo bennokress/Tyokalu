@@ -101,6 +101,7 @@
 				de,
 				"en-GB",
 				es,
+				et,
 				fi,
 				fr,
 				it,
