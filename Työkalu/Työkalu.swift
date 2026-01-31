@@ -23,6 +23,7 @@ struct Työkalu: SwiftUI.App {
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+        logV("\(App.shared.name) \(App.shared.version) (\(App.shared.isDevelopmentBuild ? "Development Build" : App.shared.buildNumber)) started", category: .general)
         let notificationCenter = UNUserNotificationCenter.current()
         notificationCenter.delegate = self
         notificationCenter.setNotificationCategories(Set(LocalNotification.Category.allCases.map(\.registerable)))
