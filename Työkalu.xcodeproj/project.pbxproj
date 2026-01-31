@@ -99,6 +99,7 @@
 				en,
 				de,
 				"en-GB",
+				es,
 				fi,
 				fr,
 				nb,
