@@ -41,6 +41,12 @@
             "value": "\"Työkalu\" est le mot finnois pour \"outil\"."
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"Työkalu\" è la parola finlandese per \"strumento\"."
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -93,6 +99,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Une date ne peut jamais se situer entre deux heures identiques. Veuillez entrer des nombres différents pour les heures de début et de fin"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Una data non può mai essere compresa tra due ore uguali, inserisci numeri diversi per l'ora precedente e quella successiva"
           }
         },
         "nb": {
@@ -149,6 +161,12 @@
             "value": "Une journée a 24 heures, il est donc impossible de vérifier des heures supérieures à 24"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Un giorno ha 24 ore, quindi non è possibile verificare ore superiori a 24"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -203,6 +221,12 @@
             "value": "Une journée n'a pas d'heures négatives, il est donc impossible de vérifier des heures inférieures à 0"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Un giorno non ha ore negative, quindi non è possibile verificare ore inferiori a 0"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -254,6 +278,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "À propos de cette app"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Informazioni su questa app"
           }
         },
         "nb": {
@@ -310,6 +340,12 @@
             "value": "Une pièce jointe qui sera affichée dans la notification (facultatif, voir UNNotificationAttachment pour plus d'informations)"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Un allegato che verrà visualizzato nella notifica (opzionale, consulta UNNotificationAttachment per maggiori informazioni)"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -362,6 +398,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Pièce jointe"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Allegato"
           }
         },
         "nb": {
@@ -418,6 +460,12 @@
             "value": "Date"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Data"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -470,6 +518,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Date et heure"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Data e ora"
           }
         },
         "nb": {
@@ -526,6 +580,12 @@
             "value": "Fonctionnalités de l'appareil"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Funzionalità del dispositivo"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -577,6 +637,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Le saviez-vous ?"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lo sapevi?"
           }
         },
         "nb": {
@@ -633,6 +699,12 @@
             "value": "Ne rien faire"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Non fare nulla"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -685,6 +757,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Heure de début"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ora precedente"
           }
         },
         "nb": {
@@ -740,6 +818,12 @@
             "value": "Vendredi"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Venerdì"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -791,6 +875,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Accorder l'autorisation"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Concedi autorizzazione"
           }
         },
         "nb": {
@@ -847,6 +937,12 @@
             "value": "Accorder l'autorisation de notification"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Concedi autorizzazione alle notifiche"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -899,6 +995,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Accordez d'abord l'autorisation de notification"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Concedi prima l'autorizzazione alle notifiche"
           }
         },
         "nb": {
@@ -955,6 +1057,12 @@
             "value": "Vérification de l'heure"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verifica ora"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -999,6 +1107,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Est-ce que ${date} est ${typeOfDay} ?"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "È ${date} ${typeOfDay}?"
           }
         },
         "nb": {
@@ -1047,6 +1161,12 @@
             "value": "Est-ce que ${date} est un ${typeOfDay} ?"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "È ${date} un ${typeOfDay}?"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -1091,6 +1211,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Est-ce que ${date} est un ${typeOfDay} ?"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "È ${date} di ${typeOfDay}?"
           }
         },
         "nb": {
@@ -1147,6 +1273,12 @@
             "value": "Est-ce que %1$@ est %2$@ ?"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "È %1$@ %2$@?"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -1199,6 +1331,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Est-ce que %1$@ est un %2$@ ?"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "È %1$@ un %2$@?"
           }
         },
         "nb": {
@@ -1255,6 +1393,12 @@
             "value": "Est-ce que %1$@ est un %2$@ ?"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "È %1$@ di %2$@?"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -1309,6 +1453,12 @@
             "value": "Est un type de jour"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "È tipo di giorno"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -1353,6 +1503,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "L'heure de ${date} est-elle comprise entre ${lowerBound} et ${upperBound} ?"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L'ora di ${date} è compresa tra ${lowerBound} e ${upperBound}?"
           }
         },
         "nb": {
@@ -1409,6 +1565,12 @@
             "value": "L'heure de %1$@ est-elle comprise entre %2$lld et %3$lld ?"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L'ora di %1$@ è compresa tra %2$lld e %3$lld?"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -1461,6 +1623,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Heure de fin"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ora successiva"
           }
         },
         "nb": {
@@ -1517,6 +1685,12 @@
             "value": "Message"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Messaggio"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -1568,6 +1742,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Lundi"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lunedì"
           }
         },
         "nb": {
@@ -1624,6 +1804,12 @@
             "value": "ID de notification"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ID notifica"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -1675,6 +1861,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Autorisation de notification"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Autorizzazione notifiche"
           }
         },
         "nb": {
@@ -1731,6 +1923,12 @@
             "value": "L'autorisation de notification a été refusée. Veuillez l'activer dans Réglages pour utiliser les actions de notification."
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L'autorizzazione alle notifiche è stata negata. Abilitala nelle Impostazioni per utilizzare le azioni di notifica."
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -1781,6 +1979,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "L'autorisation de notification a été refusée. Pour utiliser les actions de notification dans Raccourcis, vous devez activer les notifications dans l'app Réglages."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L'autorizzazione alle notifiche è stata negata. Per utilizzare le azioni di notifica in Comandi Rapidi, devi abilitare le notifiche nell'app Impostazioni."
           }
         },
         "nb": {
@@ -1837,6 +2041,12 @@
             "value": "Les notifications sont activées."
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le notifiche sono abilitate."
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -1889,6 +2099,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Les notifications sont autorisées provisoirement. Accordez l'autorisation complète pour une meilleure expérience."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le notifiche sono temporaneamente consentite. Concedi l'autorizzazione completa per la migliore esperienza."
           }
         },
         "nb": {
@@ -1945,6 +2161,12 @@
             "value": "Les notifications sont temporairement autorisées."
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le notifiche sono temporaneamente consentite."
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -1997,6 +2219,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Les notifications fonctionnent correctement !"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le notifiche funzionano correttamente!"
           }
         },
         "nb": {
@@ -2053,6 +2281,12 @@
             "value": "Les notifications sur iOS ne prennent pas en charge les pièces jointes aussi volumineuses que celle fournie."
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le notifiche su iOS non supportano allegati grandi come quello che hai fornito."
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -2105,6 +2339,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Les notifications sur iOS ne prennent pas en charge les pièces jointes de ce type."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le notifiche su iOS non supportano allegati di questo tipo."
           }
         },
         "nb": {
@@ -2161,6 +2401,12 @@
             "value": "Les notifications sur iOS ne prennent pas en charge les pièces jointes de type « %@ »."
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le notifiche su iOS non supportano allegati di tipo \"%@\"."
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -2214,6 +2460,12 @@
             "value": "Une fois l'autorisation de notification accordée, il n'y a pas d'autres fonctionnalités ici, à part utiliser le bouton de test ci-dessous pour vérifier que les notifications fonctionnent correctement."
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Una volta concessa l'autorizzazione alle notifiche, non ci sono altre funzionalità qui oltre all'utilizzo del pulsante di test qui sotto per verificare che le notifiche funzionino correttamente."
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -2264,6 +2516,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ouvrir Réglages"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apri Impostazioni"
           }
         },
         "nb": {
@@ -2320,6 +2578,12 @@
             "value": "Ouvrir l'URL"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apri URL"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -2370,6 +2634,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ouvrir les réglages de l'app"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apri impostazioni app"
           }
         },
         "nb": {
@@ -2426,6 +2696,12 @@
             "value": "Ouvre une boîte de dialogue système pour autoriser les notifications de cette app"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apre una finestra di sistema per consentire le notifiche da questa app"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -2476,6 +2752,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ouvre l'app Réglages pour activer les notifications"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apre l'app Impostazioni per abilitare le notifiche"
           }
         },
         "nb": {
@@ -2529,6 +2811,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Autorisation requise"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Autorizzazione richiesta"
           }
         },
         "nb": {
@@ -2585,6 +2873,12 @@
             "value": "Veuillez accorder l'autorisation de notification pour utiliser toutes les fonctionnalités."
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Concedi l'autorizzazione alle notifiche per utilizzare tutte le funzionalità."
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -2636,6 +2930,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Prêt à envoyer des notifications"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pronto per inviare notifiche"
           }
         },
         "nb": {
@@ -2692,6 +2992,12 @@
             "value": "Exécuter un raccourci"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esegui comando rapido"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -2743,6 +3049,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Samedi"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sabato"
           }
         },
         "nb": {
@@ -2798,6 +3110,12 @@
             "value": "Envoyer une notification de test"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Invia notifica di test"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -2842,6 +3160,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Envoyer une notification de test"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Invia notifica di test"
           }
         },
         "nb": {
@@ -2898,6 +3222,12 @@
             "value": "Envoie une notification de test pour vérifier la configuration"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Invia una notifica di test per verificare la configurazione"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -2950,6 +3280,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Définir un ID de notification remplacera toute notification plus ancienne avec le même ID de notification"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L'impostazione di un ID notifica sostituirà qualsiasi notifica precedente con lo stesso ID notifica"
           }
         },
         "nb": {
@@ -3006,6 +3342,12 @@
             "value": "Définir un ID de fil regroupera la notification avec d'autres notifications ayant le même ID de fil"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L'impostazione di un ID thread raggrupperà la notifica con altre notifiche che hanno lo stesso ID thread"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -3058,6 +3400,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Paramètre d'entrée du raccourci"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Parametro di input del comando rapido"
           }
         },
         "nb": {
@@ -3114,6 +3462,12 @@
             "value": "Nom du raccourci"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nome comando rapido"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -3168,6 +3522,12 @@
             "value": "Afficher une notification"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mostra notifica"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -3212,6 +3572,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Afficher une notification avec ${title} et ${message}"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mostra notifica con ${title} e ${message}"
           }
         },
         "nb": {
@@ -3268,6 +3634,12 @@
             "value": "Afficher une notification avec %1$@ et %2$@"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mostra notifica con %1$@ e %2$@"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -3322,6 +3694,12 @@
             "value": "Sous-titre"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sottotitolo"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -3373,6 +3751,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Dimanche"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Domenica"
           }
         },
         "nb": {
@@ -3429,6 +3813,12 @@
             "value": "Action au toucher"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Azione al tocco"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -3479,6 +3869,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Appuyez sur le bouton ci-dessous pour ouvrir Réglages, puis activez « Autoriser les notifications » pour cette app."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tocca il pulsante qui sotto per aprire Impostazioni, quindi abilita \"Consenti notifiche\" per questa app."
           }
         },
         "nb": {
@@ -3535,6 +3931,12 @@
             "value": "Notification de test"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifica di test"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -3585,6 +3987,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tester la fonctionnalité de notification"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testa funzionalità notifiche"
           }
         },
         "nb": {
@@ -3638,6 +4046,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tester les notifications"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testa notifiche"
           }
         },
         "nb": {
@@ -3694,6 +4108,12 @@
             "value": "L'entrée (non encodée) du raccourci à exécuter lorsque la notification est touchée (facultatif)"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L'input (non codificato) del comando rapido da eseguire quando la notifica viene toccata (opzionale)"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -3746,6 +4166,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "L'URL à ouvrir lorsque la notification est touchée (requis si « Action au toucher » est « Ouvrir l'URL »)"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L'URL da aprire quando la notifica viene toccata (obbligatorio se \"Azione al tocco\" è \"Apri URL\")"
           }
         },
         "nb": {
@@ -3802,6 +4228,12 @@
             "value": "Le début de la plage horaire à vérifier (15 signifie à partir de 15h00)"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L'inizio dell'intervallo di tempo da verificare (15 significa dalle 15:00 in poi)"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -3854,6 +4286,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "La fin de la plage horaire à vérifier (17 signifie avant 17h00)"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La fine dell'intervallo di tempo da verificare (17 significa prima delle 17:00)"
           }
         },
         "nb": {
@@ -3910,6 +4348,12 @@
             "value": "Le nom du raccourci à exécuter lorsque la notification est touchée (requis si « Action au toucher » est « Exécuter un raccourci »)"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Il nome del comando rapido da eseguire quando la notifica viene toccata (obbligatorio se \"Azione al tocco\" è \"Esegui comando rapido\")"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -3962,6 +4406,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Le message de la notification ne peut pas être vide"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Il messaggio della notifica non può essere vuoto"
           }
         },
         "nb": {
@@ -4018,6 +4468,12 @@
             "value": "Le titre de la notification ne peut pas être vide"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Il titolo della notifica non può essere vuoto"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -4070,6 +4526,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Le sous-titre de la notification (facultatif)"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Il sottotitolo della notifica (opzionale)"
           }
         },
         "nb": {
@@ -4126,6 +4588,12 @@
             "value": "L'action au toucher « Ouvrir l'URL » nécessite une URL valide"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L'azione al tocco \"Apri URL\" richiede un URL valido"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -4178,6 +4646,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "L'action au toucher « Exécuter un raccourci » nécessite un nom de raccourci valide"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L'azione al tocco \"Esegui comando rapido\" richiede un nome comando rapido valido"
           }
         },
         "nb": {
@@ -4234,6 +4708,12 @@
             "value": "Le type de jour que vous souhaitez vérifier"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Il tipo di giorno che vuoi verificare"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -4286,6 +4766,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Cette action affichera une notification sur cet appareil."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Questa azione mostrerà una notifica su questo dispositivo."
           }
         },
         "nb": {
@@ -4342,6 +4828,12 @@
             "value": "Cette action renverra une valeur booléenne indiquant si la date donnée correspond au type de jour donné."
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Questa azione restituirà un valore booleano che indica se la data fornita ha il tipo di giorno specificato."
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -4396,6 +4888,12 @@
             "value": "Cette action renverra une valeur booléenne indiquant si l'heure de la date donnée se situe dans la plage horaire donnée."
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Questa azione restituirà un valore booleano che indica se l'ora della data fornita è compresa nell'intervallo di tempo specificato."
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -4447,6 +4945,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Cette app est votre boîte à outils pour Raccourcis, fournissant des actions réutilisables qu'Apple n'inclut pas par défaut."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Questa app è la tua cassetta degli attrezzi per Comandi Rapidi, fornendo azioni riutilizzabili che Apple non include di default."
           }
         },
         "nb": {
@@ -4503,6 +5007,12 @@
             "value": "Cette app a besoin de l'autorisation d'envoyer des notifications pour les actions de Raccourcis."
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Questa app ha bisogno dell'autorizzazione per inviare notifiche per le azioni di Comandi Rapidi."
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -4554,6 +5064,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Cette app fournit des actions pour l'app Raccourcis."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Questa app fornisce azioni per l'app Comandi Rapidi."
           }
         },
         "nb": {
@@ -4610,6 +5126,12 @@
             "value": "ID de fil"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ID thread"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -4661,6 +5183,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Jeudi"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Giovedì"
           }
         },
         "nb": {
@@ -4717,6 +5245,12 @@
             "value": "Urgent ?"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Urgente?"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -4769,6 +5303,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Titre"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Titolo"
           }
         },
         "nb": {
@@ -4824,6 +5364,12 @@
             "value": "Aujourd'hui"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oggi"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -4877,6 +5423,12 @@
             "value": "Demain"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Domani"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -4928,6 +5480,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Mardi"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Martedì"
           }
         },
         "nb": {
@@ -4984,6 +5542,12 @@
             "value": "Activer cette option permettra à la notification de passer outre les modes de concentration"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Attivando questa opzione la notifica potrà ignorare le modalità Full Immersion"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -5036,6 +5600,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Type de jour"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tipo di giorno"
           }
         },
         "nb": {
@@ -5092,6 +5662,12 @@
             "value": "Työkalu a besoin de l'autorisation d'envoyer des notifications. Veuillez vérifier vos réglages."
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Työkalu ha bisogno dell'autorizzazione per inviare notifiche. Controlla le tue impostazioni."
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -5146,6 +5722,12 @@
             "value": "URL"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -5190,6 +5772,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Est-ce que ${date} était ${typeOfDay} ?"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Era ${date} ${typeOfDay}?"
           }
         },
         "nb": {
@@ -5246,6 +5834,12 @@
             "value": "Est-ce que %1$@ était %2$@ ?"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Era %1$@ %2$@?"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -5297,6 +5891,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Mercredi"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mercoledì"
           }
         },
         "nb": {
@@ -5352,6 +5952,12 @@
             "value": "Jour de semaine"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Giorno feriale"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -5403,6 +6009,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Week-end"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fine settimana"
           }
         },
         "nb": {
@@ -5459,6 +6071,12 @@
             "value": "Ce qui se passe lorsque vous touchez la notification"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cosa succede quando tocchi la notifica"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -5512,6 +6130,12 @@
             "value": "Hier"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ieri"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -5556,6 +6180,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "après-midi"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "pomeriggio"
           }
         },
         "nb": {
@@ -5604,6 +6234,12 @@
             "value": "alerte"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "avviso"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -5648,6 +6284,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "soir"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "sera"
           }
         },
         "nb": {
@@ -5696,6 +6338,12 @@
             "value": "vendredi"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "venerdì"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -5740,6 +6388,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "lundi"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "lunedì"
           }
         },
         "nb": {
@@ -5788,6 +6442,12 @@
             "value": "matin"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "mattina"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -5834,6 +6494,12 @@
             "value": "nuit"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "notte"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -5875,6 +6541,12 @@
           }
         },
         "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "push"
+          }
+        },
+        "it": {
           "stringUnit": {
             "state": "translated",
             "value": "push"
@@ -5926,6 +6598,12 @@
             "value": "samedi"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "sabato"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -5970,6 +6648,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "dimanche"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "domenica"
           }
         },
         "nb": {
@@ -6018,6 +6702,12 @@
             "value": "jeudi"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "giovedì"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -6062,6 +6752,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "aujourd'hui"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "oggi"
           }
         },
         "nb": {
@@ -6110,6 +6806,12 @@
             "value": "demain"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "domani"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -6154,6 +6856,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "mardi"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "martedì"
           }
         },
         "nb": {
@@ -6202,6 +6910,12 @@
             "value": "mercredi"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "mercoledì"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -6246,6 +6960,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "jour de semaine"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "giorno feriale"
           }
         },
         "nb": {
@@ -6294,6 +7014,12 @@
             "value": "week-end"
           }
         },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "fine settimana"
+          }
+        },
         "nb": {
           "stringUnit": {
             "state": "translated",
@@ -6338,6 +7064,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "hier"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ieri"
           }
         },
         "nb": {
