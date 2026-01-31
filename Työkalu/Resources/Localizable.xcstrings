@@ -1,1167 +1,1966 @@
 {
-  "sourceLanguage" : "en",
-  "strings" : {
-    "\"Työkalu\" is the Finnish word for \"tool\"." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "\"Työkalu\" is the Finnish word for \"tool\"."
+  "sourceLanguage": "en",
+  "strings": {
+    "\"Työkalu\" is the Finnish word for \"tool\".": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"Työkalu\" ist das finnische Wort für \"Werkzeug\"."
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"Työkalu\" is the Finnish word for \"tool\"."
+          }
         }
       }
     },
-    "A Date can never be between two equal hours, please enter different numbers as earlier and later hours" : {
-      "comment" : "Error message",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "A Date can never be between two equal hours, please enter different numbers as earlier and later hours"
+    "A Date can never be between two equal hours, please enter different numbers as earlier and later hours": {
+      "comment": "Error message",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ein Datum kann nie zwischen zwei gleichen Stunden liegen. Bitte gib unterschiedliche Zahlen für die frühere und spätere Stunde ein"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A Date can never be between two equal hours, please enter different numbers as earlier and later hours"
           }
         }
       }
     },
-    "A day has 24 hours, so checking against hours higher than 24 is impossible" : {
-      "comment" : "Error message",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "A day has 24 hours, so checking against hours higher than 24 is impossible"
+    "A day has 24 hours, so checking against hours higher than 24 is impossible": {
+      "comment": "Error message",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ein Tag hat 24 Stunden, daher ist eine Prüfung gegen Stunden über 24 nicht möglich"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A day has 24 hours, so checking against hours higher than 24 is impossible"
+          }
         }
       }
     },
-    "A day has no negative hours, so checking against hours lower than 0 is impossible" : {
-      "comment" : "Error message",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "A day has no negative hours, so checking against hours lower than 0 is impossible"
+    "A day has no negative hours, so checking against hours lower than 0 is impossible": {
+      "comment": "Error message",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ein Tag hat keine negativen Stunden, daher ist eine Prüfung gegen Stunden unter 0 nicht möglich"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A day has no negative hours, so checking against hours lower than 0 is impossible"
+          }
         }
       }
     },
-    "About This App" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "About This App"
+    "About This App": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Über diese App"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "About This App"
           }
         }
       }
     },
-    "afternoon" : {
-
+    "afternoon": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "nachmittag"
+          }
+        }
+      }
     },
-    "alert" : {
-
+    "alert": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hinweis"
+          }
+        }
+      }
     },
-    "An attachment that will be displayed in the notification (optional, see UNNotificationAttachment for more information)" : {
-      "comment" : "Parameter description",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "An attachment that will be displayed in the notification (optional, see UNNotificationAttachment for more information)"
+    "An attachment that will be displayed in the notification (optional, see UNNotificationAttachment for more information)": {
+      "comment": "Parameter description",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ein Anhang, der in der Mitteilung angezeigt wird (optional, siehe UNNotificationAttachment für weitere Informationen)"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "An attachment that will be displayed in the notification (optional, see UNNotificationAttachment for more information)"
+          }
         }
       }
     },
-    "Attachment" : {
-      "comment" : "Parameter title",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Attachment"
+    "Attachment": {
+      "comment": "Parameter title",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anhang"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Attachment"
+          }
         }
       }
     },
-    "Date" : {
-      "comment" : "Parameter title",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Date"
+    "Date": {
+      "comment": "Parameter title",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Datum"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Date"
           }
         }
       }
     },
-    "Date & Time" : {
-      "comment" : "Intent category name",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Date & Time"
+    "Date & Time": {
+      "comment": "Intent category name",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Datum & Uhrzeit"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Date & Time"
+          }
         }
       }
     },
-    "Device Functionality" : {
-      "comment" : "Intent category name",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Device Functionality"
+    "Device Functionality": {
+      "comment": "Intent category name",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gerätefunktionen"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Device Functionality"
+          }
         }
       }
     },
-    "Did You Know?" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Did You Know?"
+    "Did You Know?": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wusstest du?"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Did You Know?"
           }
         }
       }
     },
-    "Do nothing" : {
-      "comment" : "Tap action option",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Do nothing"
+    "Do nothing": {
+      "comment": "Tap action option",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nichts tun"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Do nothing"
+          }
         }
       }
     },
-    "Earlier Hour" : {
-      "comment" : "Parameter title",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Earlier Hour"
+    "Earlier Hour": {
+      "comment": "Parameter title",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Frühere Stunde"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Earlier Hour"
+          }
         }
       }
     },
-    "evening" : {
-
+    "evening": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "abend"
+          }
+        }
+      }
     },
-    "friday" : {
-
+    "friday": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "freitag"
+          }
+        }
+      }
     },
-    "Friday" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Friday"
+    "Friday": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Freitag"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Friday"
           }
         }
       }
     },
-    "Grant notification permission" : {
-      "comment" : "Accessibility label for permission button",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Grant notification permission"
+    "Grant notification permission": {
+      "comment": "Accessibility label for permission button",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mitteilungsberechtigung erteilen"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grant notification permission"
+          }
         }
       }
     },
-    "Grant notification permission first" : {
-      "comment" : "Accessibility hint when not authorized",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Grant notification permission first"
+    "Grant notification permission first": {
+      "comment": "Accessibility hint when not authorized",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erteile zuerst die Mitteilungsberechtigung"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grant notification permission first"
+          }
         }
       }
     },
-    "Grant Permission" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Grant Permission"
+    "Grant Permission": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Berechtigung erteilen"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grant Permission"
           }
         }
       }
     },
-    "Hour Check" : {
-      "comment" : "Intent title",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hour Check"
+    "Hour Check": {
+      "comment": "Intent title",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stundenprüfung"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hour Check"
+          }
         }
       }
     },
-    "Is %@ %@?" : {
-      "comment" : "Parameter summary for today/tomorrow case",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Is %@ %@?"
+    "Is %@ %@?": {
+      "comment": "Parameter summary for today/tomorrow case",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ist %1$@ %2$@?"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Is %@ %@?"
+          }
         }
       }
     },
-    "Is %@ a %@?" : {
-      "comment" : "Parameter summary default case",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Is %@ a %@?"
+    "Is %@ a %@?": {
+      "comment": "Parameter summary default case",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ist %1$@ ein %2$@?"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Is %@ a %@?"
           }
         }
       }
     },
-    "Is %@ on a %@?" : {
-      "comment" : "Parameter summary for weekend case",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Is %@ on a %@?"
+    "Is %@ on a %@?": {
+      "comment": "Parameter summary for weekend case",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ist %1$@ an einem %2$@?"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Is %@ on a %@?"
+          }
         }
       }
     },
-    "Is ${date} ${typeOfDay}?" : {
-
+    "Is ${date} ${typeOfDay}?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ist ${date} ${typeOfDay}?"
+          }
+        }
+      }
     },
-    "Is ${date} a ${typeOfDay}?" : {
-
+    "Is ${date} a ${typeOfDay}?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ist ${date} ein ${typeOfDay}?"
+          }
+        }
+      }
     },
-    "Is ${date} on a ${typeOfDay}?" : {
-
+    "Is ${date} on a ${typeOfDay}?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ist ${date} an einem ${typeOfDay}?"
+          }
+        }
+      }
     },
-    "Is the hour of %@ between %lld and %lld?" : {
-      "comment" : "Parameter summary for Hour Check intent",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Is the hour of %@ between %lld and %lld?"
+    "Is the hour of %@ between %lld and %lld?": {
+      "comment": "Parameter summary for Hour Check intent",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ist die Stunde von %1$@ zwischen %2$lld und %3$lld?"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Is the hour of %@ between %lld and %lld?"
+          }
         }
       }
     },
-    "Is the hour of ${date} between ${lowerBound} and ${upperBound}?" : {
-
+    "Is the hour of ${date} between ${lowerBound} and ${upperBound}?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ist die Stunde von ${date} zwischen ${lowerBound} und ${upperBound}?"
+          }
+        }
+      }
     },
-    "Is Type of Day" : {
-      "comment" : "Intent title",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Is Type of Day"
+    "Is Type of Day": {
+      "comment": "Intent title",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ist Tagestyp"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Is Type of Day"
           }
         }
       }
     },
-    "Later Hour" : {
-      "comment" : "Parameter title",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Later Hour"
+    "Later Hour": {
+      "comment": "Parameter title",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Spätere Stunde"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Later Hour"
+          }
         }
       }
     },
-    "Message" : {
-      "comment" : "Parameter title",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Message"
+    "Message": {
+      "comment": "Parameter title",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nachricht"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Message"
+          }
         }
       }
     },
-    "monday" : {
-
+    "monday": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "montag"
+          }
+        }
+      }
     },
-    "Monday" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Monday"
+    "Monday": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Montag"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Monday"
           }
         }
       }
     },
-    "morning" : {
-
+    "morning": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "morgen"
+          }
+        }
+      }
     },
-    "night" : {
-
+    "night": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "nacht"
+          }
+        }
+      }
     },
-    "Notification ID" : {
-      "comment" : "Parameter title",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Notification ID"
+    "Notification ID": {
+      "comment": "Parameter title",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mitteilungs-ID"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notification ID"
+          }
         }
       }
     },
-    "Notification Permission" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Notification Permission"
+    "Notification Permission": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mitteilungsberechtigung"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notification Permission"
+          }
         }
       }
     },
-    "Notification permission was denied. Please enable it in Settings to use notification actions." : {
-      "comment" : "Permission status: denied",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Notification permission was denied. Please enable it in Settings to use notification actions."
+    "Notification permission was denied. Please enable it in Settings to use notification actions.": {
+      "comment": "Permission status: denied",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Mitteilungsberechtigung wurde abgelehnt. Bitte aktiviere sie in den Einstellungen, um Mitteilungsaktionen zu nutzen."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notification permission was denied. Please enable it in Settings to use notification actions."
           }
         }
       }
     },
-    "Notification permission was denied. To use notification actions in Shortcuts, you need to enable notifications in the Settings app." : {
-
+    "Notification permission was denied. To use notification actions in Shortcuts, you need to enable notifications in the Settings app.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Mitteilungsberechtigung wurde abgelehnt. Um Mitteilungsaktionen in Kurzbefehlen zu verwenden, musst du Mitteilungen in der Einstellungen-App aktivieren."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notification permission was denied. To use notification actions in Shortcuts, you need to enable notifications in the Settings app."
+          }
+        }
+      }
     },
-    "Notifications are enabled." : {
-      "comment" : "Permission status: authorized",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Notifications are enabled."
+    "Notifications are enabled.": {
+      "comment": "Permission status: authorized",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mitteilungen sind aktiviert."
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifications are enabled."
+          }
         }
       }
     },
-    "Notifications are provisionally allowed. Grant full permission for the best experience." : {
-      "comment" : "Permission status: provisional",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Notifications are provisionally allowed. Grant full permission for the best experience."
+    "Notifications are provisionally allowed. Grant full permission for the best experience.": {
+      "comment": "Permission status: provisional",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mitteilungen sind vorläufig erlaubt. Erteile die vollständige Berechtigung für das beste Erlebnis."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifications are provisionally allowed. Grant full permission for the best experience."
           }
         }
       }
     },
-    "Notifications are temporarily allowed." : {
-      "comment" : "Permission status: ephemeral",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Notifications are temporarily allowed."
+    "Notifications are temporarily allowed.": {
+      "comment": "Permission status: ephemeral",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mitteilungen sind vorübergehend erlaubt."
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifications are temporarily allowed."
+          }
         }
       }
     },
-    "Notifications are working correctly!" : {
-      "comment" : "Message for test notification",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Notifications are working correctly!"
+    "Notifications are working correctly!": {
+      "comment": "Message for test notification",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mitteilungen funktionieren einwandfrei!"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifications are working correctly!"
+          }
         }
       }
     },
-    "Notifications on iOS do not support attachments as large as the one you provided." : {
-      "comment" : "Error message for attachment too large",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Notifications on iOS do not support attachments as large as the one you provided."
+    "Notifications on iOS do not support attachments as large as the one you provided.": {
+      "comment": "Error message for attachment too large",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mitteilungen auf iOS unterstützen keine so großen Anhänge wie den von dir bereitgestellten."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifications on iOS do not support attachments as large as the one you provided."
           }
         }
       }
     },
-    "Notifications on iOS do not support attachments of this type." : {
-      "comment" : "Error message for unsupported attachment type (unknown type)",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Notifications on iOS do not support attachments of this type."
+    "Notifications on iOS do not support attachments of this type.": {
+      "comment": "Error message for unsupported attachment type (unknown type)",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mitteilungen auf iOS unterstützen keine Anhänge dieses Typs."
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifications on iOS do not support attachments of this type."
+          }
         }
       }
     },
-    "Notifications on iOS do not support attachments of type '%@'." : {
-      "comment" : "Error message for unsupported attachment type",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Notifications on iOS do not support attachments of type '%@'."
+    "Notifications on iOS do not support attachments of type '%@'.": {
+      "comment": "Error message for unsupported attachment type",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mitteilungen auf iOS unterstützen keine Anhänge vom Typ \"%@\"."
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifications on iOS do not support attachments of type '%@'."
+          }
         }
       }
     },
-    "Once notification permission is granted, there's no additional functionality here other than using the test button below to verify notifications work correctly." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Once notification permission is granted, there's no additional functionality here other than using the test button below to verify notifications work correctly."
+    "Once notification permission is granted, there's no additional functionality here other than using the test button below to verify notifications work correctly.": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sobald die Mitteilungsberechtigung erteilt wurde, gibt es hier keine weitere Funktionalität außer der Verwendung der Testtaste unten, um zu überprüfen, ob Mitteilungen korrekt funktionieren."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Once notification permission is granted, there's no additional functionality here other than using the test button below to verify notifications work correctly."
           }
         }
       }
     },
-    "Open app settings" : {
-
+    "Open app settings": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App-Einstellungen öffnen"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open app settings"
+          }
+        }
+      }
     },
-    "Open Settings" : {
-
+    "Open Settings": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Einstellungen öffnen"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open Settings"
+          }
+        }
+      }
     },
-    "Open URL" : {
-      "comment" : "Tap action option and notification button",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Open URL"
+    "Open URL": {
+      "comment": "Tap action option and notification button",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL öffnen"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open URL"
           }
         }
       }
     },
-    "Opens a system dialog to allow notifications from this app" : {
-      "comment" : "Accessibility hint for permission button",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Opens a system dialog to allow notifications from this app"
+    "Opens a system dialog to allow notifications from this app": {
+      "comment": "Accessibility hint for permission button",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Öffnet einen Systemdialog, um Mitteilungen von dieser App zu erlauben"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Opens a system dialog to allow notifications from this app"
+          }
         }
       }
     },
-    "Opens the Settings app to enable notifications" : {
-
+    "Opens the Settings app to enable notifications": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Öffnet die Einstellungen-App, um Mitteilungen zu aktivieren"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Opens the Settings app to enable notifications"
+          }
+        }
+      }
     },
-    "Permission required" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Permission required"
+    "Permission required": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Berechtigung erforderlich"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Permission required"
           }
         }
       }
     },
-    "Please grant notification permission to use all features." : {
-      "comment" : "Permission status: unknown default",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Please grant notification permission to use all features."
+    "Please grant notification permission to use all features.": {
+      "comment": "Permission status: unknown default",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bitte erteile die Mitteilungsberechtigung, um alle Funktionen zu nutzen."
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Please grant notification permission to use all features."
+          }
         }
       }
     },
-    "push" : {
-
+    "push": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "push"
+          }
+        }
+      }
     },
-    "Ready to send notifications" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ready to send notifications"
+    "Ready to send notifications": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bereit zum Senden von Mitteilungen"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ready to send notifications"
+          }
         }
       }
     },
-    "Run Shortcut" : {
-      "comment" : "Tap action option and notification button",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Run Shortcut"
+    "Run Shortcut": {
+      "comment": "Tap action option and notification button",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kurzbefehl ausführen"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Run Shortcut"
           }
         }
       }
     },
-    "saturday" : {
-
+    "saturday": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "samstag"
+          }
+        }
+      }
     },
-    "Saturday" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Saturday"
+    "Saturday": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Samstag"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Saturday"
+          }
         }
       }
     },
-    "Send test notification" : {
-
+    "Send test notification": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testmitteilung senden"
+          }
+        }
+      }
     },
-    "Send Test Notification" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Send Test Notification"
+    "Send Test Notification": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testmitteilung senden"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Send Test Notification"
           }
         }
       }
     },
-    "Sends a test notification to verify the setup" : {
-      "comment" : "Accessibility hint when authorized",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sends a test notification to verify the setup"
+    "Sends a test notification to verify the setup": {
+      "comment": "Accessibility hint when authorized",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sendet eine Testmitteilung, um die Einrichtung zu überprüfen"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sends a test notification to verify the setup"
+          }
         }
       }
     },
-    "Setting a Notification ID will replace any older notification with the same Notification ID" : {
-      "comment" : "Parameter description",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Setting a Notification ID will replace any older notification with the same Notification ID"
+    "Setting a Notification ID will replace any older notification with the same Notification ID": {
+      "comment": "Parameter description",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Das Setzen einer Mitteilungs-ID ersetzt alle älteren Mitteilungen mit derselben Mitteilungs-ID"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Setting a Notification ID will replace any older notification with the same Notification ID"
+          }
         }
       }
     },
-    "Setting a Thread ID will group the notification with other notifications that have the same Thread ID" : {
-      "comment" : "Parameter description",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Setting a Thread ID will group the notification with other notifications that have the same Thread ID"
+    "Setting a Thread ID will group the notification with other notifications that have the same Thread ID": {
+      "comment": "Parameter description",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Das Setzen einer Thread-ID gruppiert die Mitteilung mit anderen Mitteilungen, die dieselbe Thread-ID haben"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Setting a Thread ID will group the notification with other notifications that have the same Thread ID"
           }
         }
       }
     },
-    "Shortcut Input Parameter" : {
-      "comment" : "Parameter title",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Shortcut Input Parameter"
+    "Shortcut Input Parameter": {
+      "comment": "Parameter title",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kurzbefehl-Eingabeparameter"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shortcut Input Parameter"
+          }
         }
       }
     },
-    "Shortcut Name" : {
-      "comment" : "Parameter title",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Shortcut Name"
+    "Shortcut Name": {
+      "comment": "Parameter title",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kurzbefehlname"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shortcut Name"
+          }
         }
       }
     },
-    "Show Notification" : {
-      "comment" : "Intent title",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Show Notification"
+    "Show Notification": {
+      "comment": "Intent title",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mitteilung anzeigen"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show Notification"
           }
         }
       }
     },
-    "Show notification with %@ and %@" : {
-      "comment" : "Parameter summary for Show Notification intent",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Show notification with %@ and %@"
+    "Show notification with %@ and %@": {
+      "comment": "Parameter summary for Show Notification intent",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zeige Mitteilung mit %1$@ und %2$@"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show notification with %@ and %@"
+          }
         }
       }
     },
-    "Show notification with ${title} and ${message}" : {
-
+    "Show notification with ${title} and ${message}": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zeige Mitteilung mit ${title} und ${message}"
+          }
+        }
+      }
     },
-    "Subtitle" : {
-      "comment" : "Parameter title",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Subtitle"
+    "Subtitle": {
+      "comment": "Parameter title",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Untertitel"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Subtitle"
+          }
         }
       }
     },
-    "sunday" : {
-
+    "sunday": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "sonntag"
+          }
+        }
+      }
     },
-    "Sunday" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sunday"
+    "Sunday": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sonntag"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sunday"
           }
         }
       }
     },
-    "Tap Action" : {
-      "comment" : "Parameter title and type display name",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tap Action"
+    "Tap Action": {
+      "comment": "Parameter title and type display name",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tippaktion"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tap Action"
+          }
         }
       }
     },
-    "Tap the button below to open Settings, then enable \"Allow Notifications\" for this app." : {
-
+    "Tap the button below to open Settings, then enable \"Allow Notifications\" for this app.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tippe auf die Taste unten, um die Einstellungen zu öffnen, und aktiviere dann \"Mitteilungen erlauben\" für diese App."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tap the button below to open Settings, then enable \"Allow Notifications\" for this app."
+          }
+        }
+      }
     },
-    "Test Notification" : {
-      "comment" : "Title for test notification",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Test Notification"
+    "Test Notification": {
+      "comment": "Title for test notification",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testmitteilung"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Test Notification"
           }
         }
       }
     },
-    "Test Notification Capability" : {
-
+    "Test Notification Capability": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mitteilungsfunktion testen"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Test Notification Capability"
+          }
+        }
+      }
     },
-    "Test Notifications" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Test Notifications"
+    "Test Notifications": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mitteilungen testen"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Test Notifications"
+          }
         }
       }
     },
-    "The (unencoded) input of the Shortcut to run when the notification is tapped (optional)" : {
-      "comment" : "Parameter description",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "The (unencoded) input of the Shortcut to run when the notification is tapped (optional)"
+    "The (unencoded) input of the Shortcut to run when the notification is tapped (optional)": {
+      "comment": "Parameter description",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die (nicht kodierte) Eingabe des Kurzbefehls, der beim Tippen auf die Mitteilung ausgeführt wird (optional)"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The (unencoded) input of the Shortcut to run when the notification is tapped (optional)"
           }
         }
       }
     },
-    "The beginning of the time frame to check against (15 means at or after 15:00/3pm)" : {
-      "comment" : "Parameter description",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "The beginning of the time frame to check against (15 means at or after 15:00/3pm)"
+    "The beginning of the time frame to check against (15 means at or after 15:00/3pm)": {
+      "comment": "Parameter description",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Der Beginn des Zeitraums, gegen den geprüft wird (15 bedeutet ab 15:00 Uhr)"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The beginning of the time frame to check against (15 means at or after 15:00/3pm)"
+          }
         }
       }
     },
-    "The end of the time frame to check against (17 means before 17:00/5pm)" : {
-      "comment" : "Parameter description",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "The end of the time frame to check against (17 means before 17:00/5pm)"
+    "The end of the time frame to check against (17 means before 17:00/5pm)": {
+      "comment": "Parameter description",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Das Ende des Zeitraums, gegen den geprüft wird (17 bedeutet vor 17:00 Uhr)"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The end of the time frame to check against (17 means before 17:00/5pm)"
+          }
         }
       }
     },
-    "The name of the Shortcut to run when the notification is tapped (required if 'Tap Action' is \"Run Shortcut\")" : {
-      "comment" : "Parameter description",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "The name of the Shortcut to run when the notification is tapped (required if 'Tap Action' is \"Run Shortcut\")"
+    "The name of the Shortcut to run when the notification is tapped (required if 'Tap Action' is \"Run Shortcut\")": {
+      "comment": "Parameter description",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Der Name des Kurzbefehls, der beim Tippen auf die Mitteilung ausgeführt wird (erforderlich, wenn \"Tippaktion\" \"Kurzbefehl ausführen\" ist)"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The name of the Shortcut to run when the notification is tapped (required if 'Tap Action' is \"Run Shortcut\")"
           }
         }
       }
     },
-    "The notification message can not be empty" : {
-      "comment" : "Error message",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "The notification message can not be empty"
+    "The notification message can not be empty": {
+      "comment": "Error message",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Mitteilungsnachricht darf nicht leer sein"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The notification message can not be empty"
+          }
         }
       }
     },
-    "The notification title can not be empty" : {
-      "comment" : "Error message",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "The notification title can not be empty"
+    "The notification title can not be empty": {
+      "comment": "Error message",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Der Mitteilungstitel darf nicht leer sein"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The notification title can not be empty"
+          }
         }
       }
     },
-    "The subtitle of the notification (optional)" : {
-      "comment" : "Parameter description",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "The subtitle of the notification (optional)"
+    "The subtitle of the notification (optional)": {
+      "comment": "Parameter description",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Der Untertitel der Mitteilung (optional)"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The subtitle of the notification (optional)"
           }
         }
       }
     },
-    "The tap action \"Open URL\" requires a valid URL" : {
-      "comment" : "Error message",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "The tap action \"Open URL\" requires a valid URL"
+    "The tap action \"Open URL\" requires a valid URL": {
+      "comment": "Error message",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Tippaktion \"URL öffnen\" erfordert eine gültige URL"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The tap action \"Open URL\" requires a valid URL"
+          }
         }
       }
     },
-    "The tap action \"Run Shortcut\" requires a valid Shortcut Name" : {
-      "comment" : "Error message",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "The tap action \"Run Shortcut\" requires a valid Shortcut Name"
+    "The tap action \"Run Shortcut\" requires a valid Shortcut Name": {
+      "comment": "Error message",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Tippaktion \"Kurzbefehl ausführen\" erfordert einen gültigen Kurzbefehlnamen"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The tap action \"Run Shortcut\" requires a valid Shortcut Name"
+          }
         }
       }
     },
-    "The type of day you want to check for" : {
-      "comment" : "Parameter description",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "The type of day you want to check for"
+    "The type of day you want to check for": {
+      "comment": "Parameter description",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Der Tagestyp, auf den du prüfen möchtest"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The type of day you want to check for"
           }
         }
       }
     },
-    "The URL to open when the notification is tapped (required if 'Tap Action' is \"Open URL\")" : {
-      "comment" : "Parameter description",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "The URL to open when the notification is tapped (required if 'Tap Action' is \"Open URL\")"
+    "The URL to open when the notification is tapped (required if 'Tap Action' is \"Open URL\")": {
+      "comment": "Parameter description",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die URL, die beim Tippen auf die Mitteilung geöffnet wird (erforderlich, wenn \"Tippaktion\" \"URL öffnen\" ist)"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The URL to open when the notification is tapped (required if 'Tap Action' is \"Open URL\")"
+          }
         }
       }
     },
-    "This action will display a notification on this device." : {
-      "comment" : "Intent description",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "This action will display a notification on this device."
+    "This action will display a notification on this device.": {
+      "comment": "Intent description",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diese Aktion zeigt eine Mitteilung auf diesem Gerät an."
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This action will display a notification on this device."
+          }
         }
       }
     },
-    "This action will return a Boolean value representing if the given date has the given type of day." : {
-      "comment" : "Intent description",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "This action will return a Boolean value representing if the given date has the given type of day."
+    "This action will return a Boolean value representing if the given date has the given type of day.": {
+      "comment": "Intent description",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diese Aktion gibt einen booleschen Wert zurück, der angibt, ob das gegebene Datum den gegebenen Tagestyp hat."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This action will return a Boolean value representing if the given date has the given type of day."
           }
         }
       }
     },
-    "This action will return a Boolean value representing if the hour of the given date is inside the given time frame." : {
-      "comment" : "Intent description",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "This action will return a Boolean value representing if the hour of the given date is inside the given time frame."
+    "This action will return a Boolean value representing if the hour of the given date is inside the given time frame.": {
+      "comment": "Intent description",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diese Aktion gibt einen booleschen Wert zurück, der angibt, ob die Stunde des gegebenen Datums innerhalb des gegebenen Zeitraums liegt."
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This action will return a Boolean value representing if the hour of the given date is inside the given time frame."
+          }
         }
       }
     },
-    "This app is your toolbox for Shortcuts, providing reusable actions that Apple doesn't include out of the box." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "This app is your toolbox for Shortcuts, providing reusable actions that Apple doesn't include out of the box."
+    "This app is your toolbox for Shortcuts, providing reusable actions that Apple doesn't include out of the box.": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diese App ist dein Werkzeugkasten für Kurzbefehle und bietet wiederverwendbare Aktionen, die Apple nicht standardmäßig mitliefert."
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This app is your toolbox for Shortcuts, providing reusable actions that Apple doesn't include out of the box."
+          }
         }
       }
     },
-    "This app needs permission to send notifications for Shortcuts actions." : {
-      "comment" : "Permission status: not determined",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "This app needs permission to send notifications for Shortcuts actions."
+    "This app needs permission to send notifications for Shortcuts actions.": {
+      "comment": "Permission status: not determined",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diese App benötigt die Berechtigung zum Senden von Mitteilungen für Kurzbefehl-Aktionen."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This app needs permission to send notifications for Shortcuts actions."
           }
         }
       }
     },
-    "This app provides actions for the Shortcuts app." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "This app provides actions for the Shortcuts app."
+    "This app provides actions for the Shortcuts app.": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diese App bietet Aktionen für die Kurzbefehle-App."
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This app provides actions for the Shortcuts app."
+          }
         }
       }
     },
-    "Thread ID" : {
-      "comment" : "Parameter title",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Thread ID"
+    "Thread ID": {
+      "comment": "Parameter title",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Thread-ID"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Thread ID"
+          }
         }
       }
     },
-    "thursday" : {
-
+    "thursday": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "donnerstag"
+          }
+        }
+      }
     },
-    "Thursday" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Thursday"
+    "Thursday": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Donnerstag"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Thursday"
           }
         }
       }
     },
-    "Time Sensitive?" : {
-      "comment" : "Parameter title",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Time Sensitive?"
+    "Time Sensitive?": {
+      "comment": "Parameter title",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zeitkritisch?"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Time Sensitive?"
+          }
         }
       }
     },
-    "Title" : {
-      "comment" : "Parameter title",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Title"
+    "Title": {
+      "comment": "Parameter title",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Titel"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Title"
+          }
         }
       }
     },
-    "today" : {
-
+    "today": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "heute"
+          }
+        }
+      }
     },
-    "Today" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Today"
+    "Today": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Heute"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Today"
           }
         }
       }
     },
-    "tomorrow" : {
-
+    "tomorrow": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "morgen"
+          }
+        }
+      }
     },
-    "Tomorrow" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tomorrow"
+    "Tomorrow": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Morgen"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tomorrow"
+          }
         }
       }
     },
-    "tuesday" : {
-
+    "tuesday": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "dienstag"
+          }
+        }
+      }
     },
-    "Tuesday" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tuesday"
+    "Tuesday": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dienstag"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tuesday"
+          }
         }
       }
     },
-    "Turning this on will allow the notification to break through Focus Modes" : {
-      "comment" : "Parameter description",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Turning this on will allow the notification to break through Focus Modes"
+    "Turning this on will allow the notification to break through Focus Modes": {
+      "comment": "Parameter description",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wenn aktiviert, kann die Mitteilung Fokusmodi durchbrechen"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Turning this on will allow the notification to break through Focus Modes"
           }
         }
       }
     },
-    "Työkalu needs permission to send notifications. Please review your settings." : {
-      "comment" : "Error message for missing notification permission",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Työkalu needs permission to send notifications. Please review your settings."
+    "Työkalu needs permission to send notifications. Please review your settings.": {
+      "comment": "Error message for missing notification permission",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Työkalu benötigt die Berechtigung zum Senden von Mitteilungen. Bitte überprüfe deine Einstellungen."
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Työkalu needs permission to send notifications. Please review your settings."
+          }
         }
       }
     },
-    "Type of Day" : {
-      "comment" : "Parameter title and type display name",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Type of Day"
+    "Type of Day": {
+      "comment": "Parameter title and type display name",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tagestyp"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Type of Day"
+          }
         }
       }
     },
-    "URL" : {
-      "comment" : "Parameter title",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "URL"
+    "URL": {
+      "comment": "Parameter title",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL"
           }
         }
       }
     },
-    "Was %@ %@?" : {
-      "comment" : "Parameter summary for yesterday case",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Was %@ %@?"
+    "Was %@ %@?": {
+      "comment": "Parameter summary for yesterday case",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "War %1$@ %2$@?"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Was %@ %@?"
+          }
         }
       }
     },
-    "Was ${date} ${typeOfDay}?" : {
-
+    "Was ${date} ${typeOfDay}?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "War ${date} ${typeOfDay}?"
+          }
+        }
+      }
     },
-    "wednesday" : {
-
+    "wednesday": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "mittwoch"
+          }
+        }
+      }
     },
-    "Wednesday" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wednesday"
+    "Wednesday": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mittwoch"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wednesday"
+          }
         }
       }
     },
-    "weekday" : {
-
+    "weekday": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "wochentag"
+          }
+        }
+      }
     },
-    "Weekday" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Weekday"
+    "Weekday": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wochentag"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weekday"
           }
         }
       }
     },
-    "weekend" : {
-
+    "weekend": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "wochenende"
+          }
+        }
+      }
     },
-    "Weekend" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Weekend"
+    "Weekend": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wochenende"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weekend"
+          }
         }
       }
     },
-    "What happens when you tap on the notification" : {
-      "comment" : "Parameter description",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "What happens when you tap on the notification"
+    "What happens when you tap on the notification": {
+      "comment": "Parameter description",
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Was passiert, wenn du auf die Mitteilung tippst"
           }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "What happens when you tap on the notification"
+          }
         }
       }
     },
-    "yesterday" : {
-
+    "yesterday": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "gestern"
+          }
+        }
+      }
     },
-    "Yesterday" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Yesterday"
+    "Yesterday": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gestern"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yesterday"
           }
         }
       }
     }
   },
-  "version" : "1.0"
+  "version": "1.0"
 }
