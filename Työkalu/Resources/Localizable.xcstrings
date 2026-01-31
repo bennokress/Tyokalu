@@ -143,6 +143,12 @@
             "value": "\"Työkalu\" to fińskie słowo oznaczające \"narzędzie\"."
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"Työkalu\" é a palavra finlandesa para \"ferramenta\"."
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -333,6 +339,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Data nigdy nie może być między dwiema równymi godzinami, proszę podać różne liczby dla wcześniejszej i późniejszej godziny"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uma Data nunca pode estar entre duas horas iguais, por favor introduza números diferentes para as horas anteriores e posteriores"
           }
         },
         "ro": {
@@ -527,6 +539,12 @@
             "value": "Dzień ma 24 godziny, więc sprawdzanie godzin wyższych niż 24 jest niemożliwe"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Um dia tem 24 horas, portanto verificar horas superiores a 24 é impossível"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -719,6 +737,12 @@
             "value": "Dzień nie ma ujemnych godzin, więc sprawdzanie godzin niższych niż 0 jest niemożliwe"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Um dia não tem horas negativas, portanto verificar horas inferiores a 0 é impossível"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -908,6 +932,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "O tej aplikacji"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sobre Esta Aplicação"
           }
         },
         "ro": {
@@ -1102,6 +1132,12 @@
             "value": "Załącznik, który będzie wyświetlany w powiadomieniu (opcjonalnie, zobacz UNNotificationAttachment po więcej informacji)"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Um anexo que será exibido na notificação (opcional, consulte UNNotificationAttachment para mais informações)"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -1294,6 +1330,12 @@
             "value": "Załącznik"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anexo"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -1481,6 +1523,12 @@
           }
         },
         "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Data"
+          }
+        },
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "Data"
@@ -1678,6 +1726,12 @@
             "value": "Data i czas"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Data e Hora"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -1870,6 +1924,12 @@
             "value": "Funkcjonalność urządzenia"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Funcionalidade do Dispositivo"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -2059,6 +2119,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Czy wiesz?"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sabia Que?"
           }
         },
         "ro": {
@@ -2253,6 +2319,12 @@
             "value": "Nic nie rób"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Não fazer nada"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -2443,6 +2515,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Wcześniejsza godzina"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hora Anterior"
           }
         },
         "ro": {
@@ -2636,6 +2714,12 @@
             "value": "Piątek"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sexta-feira"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -2825,6 +2909,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Udziel uprawnienia"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Conceder Permissão"
           }
         },
         "ro": {
@@ -3019,6 +3109,12 @@
             "value": "Udziel uprawnienia do powiadomień"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Conceder permissão de notificação"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -3209,6 +3305,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Najpierw udziel uprawnienia do powiadomień"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Conceda primeiro a permissão de notificação"
           }
         },
         "ro": {
@@ -3403,6 +3505,12 @@
             "value": "Sprawdzanie godziny"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verificação de Hora"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -3587,6 +3695,12 @@
             "value": "Czy ${date} to ${typeOfDay}?"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date} é ${typeOfDay}?"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -3765,6 +3879,12 @@
             "value": "Czy ${date} to ${typeOfDay}?"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date} é um(a) ${typeOfDay}?"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -3941,6 +4061,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Czy ${date} przypada na ${typeOfDay}?"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date} é num(a) ${typeOfDay}?"
           }
         },
         "ro": {
@@ -4127,6 +4253,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Czy %1\\$@ to %2\\$@?"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ é %@?"
           }
         },
         "ro": {
@@ -4321,6 +4453,12 @@
             "value": "Czy %1\\$@ to %2\\$@?"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ é um(a) %@?"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -4511,6 +4649,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Czy %1\\$@ przypada na %2\\$@?"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ é num(a) %@?"
           }
         },
         "ro": {
@@ -4705,6 +4849,12 @@
             "value": "Czy to typ dnia"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "É Tipo de Dia"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -4887,6 +5037,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Czy godzina ${date} jest między ${lowerBound} a ${upperBound}?"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A hora de ${date} está entre ${lowerBound} e ${upperBound}?"
           }
         },
         "ro": {
@@ -5073,6 +5229,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Czy godzina %1\\$@ jest między %2\\$lld a %3\\$lld?"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A hora de %@ está entre %lld e %lld?"
           }
         },
         "ro": {
@@ -5267,6 +5429,12 @@
             "value": "Późniejsza godzina"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hora Posterior"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -5459,6 +5627,12 @@
             "value": "Wiadomość"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mensagem"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -5648,6 +5822,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Poniedziałek"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Segunda-feira"
           }
         },
         "ro": {
@@ -5842,6 +6022,12 @@
             "value": "ID powiadomienia"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ID da Notificação"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -6031,6 +6217,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Uprawnienie do powiadomień"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Permissão de Notificação"
           }
         },
         "ro": {
@@ -6225,6 +6417,12 @@
             "value": "Uprawnienie do powiadomień zostało odrzucone. Włącz je w Ustawieniach, aby używać akcji powiadomień."
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A permissão de notificação foi negada. Por favor, ative-a nas Definições para usar ações de notificação."
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -6413,6 +6611,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Uprawnienie do powiadomień zostało odrzucone. Aby używać akcji powiadomień w Skrótach, musisz włączyć powiadomienia w aplikacji Ustawienia."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A permissão de notificação foi negada. Para usar ações de notificação nos Atalhos, precisa de ativar as notificações na aplicação Definições."
           }
         },
         "ro": {
@@ -6607,6 +6811,12 @@
             "value": "Powiadomienia są włączone."
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "As notificações estão ativadas."
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -6797,6 +7007,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Powiadomienia są tymczasowo dozwolone. Udziel pełnego uprawnienia dla najlepszego doświadczenia."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "As notificações estão provisoriamente permitidas. Conceda permissão total para a melhor experiência."
           }
         },
         "ro": {
@@ -6991,6 +7207,12 @@
             "value": "Powiadomienia są tymczasowo dozwolone."
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "As notificações estão temporariamente permitidas."
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -7181,6 +7403,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Powiadomienia działają poprawnie!"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "As notificações estão a funcionar corretamente!"
           }
         },
         "ro": {
@@ -7375,6 +7603,12 @@
             "value": "Powiadomienia na iOS nie obsługują załączników tak dużych jak ten, który podałeś."
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "As notificações no iOS não suportam anexos tão grandes como o que forneceu."
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -7565,6 +7799,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Powiadomienia na iOS nie obsługują załączników tego typu."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "As notificações no iOS não suportam anexos deste tipo."
           }
         },
         "ro": {
@@ -7759,6 +7999,12 @@
             "value": "Powiadomienia na iOS nie obsługują załączników typu «%@»."
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "As notificações no iOS não suportam anexos do tipo '%@'."
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -7950,6 +8196,12 @@
             "value": "Po udzieleniu uprawnienia do powiadomień, nie ma tu żadnej dodatkowej funkcjonalności poza użyciem przycisku testowego poniżej, aby zweryfikować, że powiadomienia działają poprawnie."
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uma vez concedida a permissão de notificação, não há funcionalidade adicional aqui além de usar o botão de teste abaixo para verificar se as notificações funcionam corretamente."
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -8138,6 +8390,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Otwórz Ustawienia"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abrir Definições"
           }
         },
         "ro": {
@@ -8332,6 +8590,12 @@
             "value": "Otwórz URL"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abrir URL"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -8520,6 +8784,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Otwórz ustawienia aplikacji"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abrir definições da aplicação"
           }
         },
         "ro": {
@@ -8714,6 +8984,12 @@
             "value": "Otwiera okno dialogowe systemu, aby zezwolić na powiadomienia z tej aplikacji"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abre uma caixa de diálogo do sistema para permitir notificações desta aplicação"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -8902,6 +9178,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Otwiera aplikację Ustawienia, aby włączyć powiadomienia"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abre a aplicação Definições para ativar as notificações"
           }
         },
         "ro": {
@@ -9093,6 +9375,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Wymagane uprawnienie"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Permissão necessária"
           }
         },
         "ro": {
@@ -9287,6 +9575,12 @@
             "value": "Proszę udzielić uprawnienia do powiadomień, aby używać wszystkich funkcji."
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Por favor, conceda permissão de notificação para usar todas as funcionalidades."
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -9476,6 +9770,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Gotowe do wysyłania powiadomień"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pronto para enviar notificações"
           }
         },
         "ro": {
@@ -9670,6 +9970,12 @@
             "value": "Uruchom skrót"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Executar Atalho"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -9859,6 +10165,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Sobota"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sábado"
           }
         },
         "ro": {
@@ -10052,6 +10364,12 @@
             "value": "Wyślij testowe powiadomienie"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enviar Notificação de Teste"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -10234,6 +10552,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Wyślij testowe powiadomienie"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enviar notificação de teste"
           }
         },
         "ro": {
@@ -10420,6 +10744,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Wysyła testowe powiadomienie, aby zweryfikować konfigurację"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Envia uma notificação de teste para verificar a configuração"
           }
         },
         "ro": {
@@ -10614,6 +10944,12 @@
             "value": "Ustawienie ID powiadomienia zastąpi wszystkie starsze powiadomienia z tym samym ID powiadomienia"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Definir um ID de Notificação irá substituir qualquer notificação mais antiga com o mesmo ID de Notificação"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -10804,6 +11140,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ustawienie ID wątku zgrupuje powiadomienie z innymi powiadomieniami, które mają to samo ID wątku"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Definir um ID de Tópico irá agrupar a notificação com outras notificações que tenham o mesmo ID de Tópico"
           }
         },
         "ro": {
@@ -10998,6 +11340,12 @@
             "value": "Parametr wejściowy skrótu"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Parâmetro de Entrada do Atalho"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -11188,6 +11536,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Nazwa skrótu"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nome do Atalho"
           }
         },
         "ro": {
@@ -11382,6 +11736,12 @@
             "value": "Pokaż powiadomienie"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mostrar Notificação"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -11564,6 +11924,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Pokaż powiadomienie z ${title} i ${message}"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mostrar notificação com ${title} e ${message}"
           }
         },
         "ro": {
@@ -11750,6 +12116,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Pokaż powiadomienie z %1\\$@ i %2\\$@"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mostrar notificação com %@ e %@"
           }
         },
         "ro": {
@@ -11944,6 +12316,12 @@
             "value": "Podtytuł"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Subtítulo"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -12133,6 +12511,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Niedziela"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Domingo"
           }
         },
         "ro": {
@@ -12327,6 +12711,12 @@
             "value": "Akcja dotknięcia"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ação ao Tocar"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -12515,6 +12905,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Dotknij poniższego przycisku, aby otworzyć Ustawienia, a następnie włącz „Zezwalaj na powiadomienia\" dla tej aplikacji."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Toque no botão abaixo para abrir as Definições e depois ative \"Permitir Notificações\" para esta aplicação."
           }
         },
         "ro": {
@@ -12709,6 +13105,12 @@
             "value": "Testowe powiadomienie"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notificação de Teste"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -12897,6 +13299,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Testuj funkcję powiadomień"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testar Capacidade de Notificação"
           }
         },
         "ro": {
@@ -13088,6 +13496,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Testuj powiadomienia"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testar Notificações"
           }
         },
         "ro": {
@@ -13282,6 +13696,12 @@
             "value": "(Niekodowane) wejście skrótu do uruchomienia po dotknięciu powiadomienia (opcjonalnie)"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A entrada (não codificada) do Atalho a executar quando a notificação é tocada (opcional)"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -13472,6 +13892,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "URL do otwarcia po dotknięciu powiadomienia (wymagane, jeśli „Akcja dotknięcia\" to „Otwórz URL\")"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O URL a abrir quando a notificação é tocada (obrigatório se 'Ação ao Tocar' for \"Abrir URL\")"
           }
         },
         "ro": {
@@ -13666,6 +14092,12 @@
             "value": "Początek przedziału czasowego do sprawdzenia (15 oznacza o lub po 15:00)"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O início do período de tempo a verificar (15 significa às ou após as 15:00)"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -13856,6 +14288,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Koniec przedziału czasowego do sprawdzenia (17 oznacza przed 17:00)"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O fim do período de tempo a verificar (17 significa antes das 17:00)"
           }
         },
         "ro": {
@@ -14050,6 +14488,12 @@
             "value": "Nazwa skrótu do uruchomienia po dotknięciu powiadomienia (wymagane, jeśli „Akcja dotknięcia\" to „Uruchom skrót\")"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O nome do Atalho a executar quando a notificação é tocada (obrigatório se 'Ação ao Tocar' for \"Executar Atalho\")"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -14240,6 +14684,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Treść powiadomienia nie może być pusta"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A mensagem da notificação não pode estar vazia"
           }
         },
         "ro": {
@@ -14434,6 +14884,12 @@
             "value": "Tytuł powiadomienia nie może być pusty"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O título da notificação não pode estar vazio"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -14624,6 +15080,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Podtytuł powiadomienia (opcjonalnie)"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O subtítulo da notificação (opcional)"
           }
         },
         "ro": {
@@ -14818,6 +15280,12 @@
             "value": "Akcja dotknięcia „Otwórz URL\" wymaga prawidłowego URL"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A ação ao tocar \"Abrir URL\" requer um URL válido"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -15008,6 +15476,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Akcja dotknięcia „Uruchom skrót\" wymaga prawidłowej nazwy skrótu"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A ação ao tocar \"Executar Atalho\" requer um Nome de Atalho válido"
           }
         },
         "ro": {
@@ -15202,6 +15676,12 @@
             "value": "Typ dnia, który chcesz sprawdzić"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O tipo de dia que pretende verificar"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -15392,6 +15872,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ta czynność wyświetli powiadomienie na tym urządzeniu."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esta ação irá mostrar uma notificação neste dispositivo."
           }
         },
         "ro": {
@@ -15586,6 +16072,12 @@
             "value": "Ta czynność zwróci wartość logiczną reprezentującą, czy podana data ma podany typ dnia."
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esta ação irá retornar um valor Booleano que indica se a data especificada corresponde ao tipo de dia indicado."
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -15778,6 +16270,12 @@
             "value": "Ta czynność zwróci wartość logiczną reprezentującą, czy godzina podanej daty mieści się w podanym przedziale czasowym."
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esta ação irá retornar um valor Booleano que indica se a hora da data especificada está dentro do período de tempo indicado."
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -15967,6 +16465,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ta aplikacja to Twój zestaw narzędzi dla Skrótów, oferujący czynności wielokrotnego użytku, które Apple nie dołącza standardowo."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esta aplicação é a sua caixa de ferramentas para Atalhos, fornecendo ações reutilizáveis que a Apple não inclui de origem."
           }
         },
         "ro": {
@@ -16161,6 +16665,12 @@
             "value": "Ta aplikacja potrzebuje uprawnienia do wysyłania powiadomień dla czynności Skrótów."
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esta aplicação precisa de permissão para enviar notificações para ações de Atalhos."
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -16350,6 +16860,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ta aplikacja oferuje czynności dla aplikacji Skróty."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esta aplicação fornece ações para a aplicação Atalhos."
           }
         },
         "ro": {
@@ -16544,6 +17060,12 @@
             "value": "ID wątku"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ID do Tópico"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -16733,6 +17255,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Czwartek"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quinta-feira"
           }
         },
         "ro": {
@@ -16927,6 +17455,12 @@
             "value": "Pilne?"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Urgente?"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -17117,6 +17651,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tytuł"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Título"
           }
         },
         "ro": {
@@ -17310,6 +17850,12 @@
             "value": "Dzisiaj"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hoje"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -17501,6 +18047,12 @@
             "value": "Jutro"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Amanhã"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -17690,6 +18242,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Wtorek"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Terça-feira"
           }
         },
         "ro": {
@@ -17884,6 +18442,12 @@
             "value": "Włączenie tej opcji pozwoli powiadomieniu przebić się przez tryby skupienia"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ativar isto irá permitir que a notificação ultrapasse os Modos de Concentração"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -18074,6 +18638,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Typ dnia"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tipo de Dia"
           }
         },
         "ro": {
@@ -18268,6 +18838,12 @@
             "value": "Työkalu potrzebuje uprawnienia do wysyłania powiadomień. Proszę sprawdzić swoje ustawienia."
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O Työkalu precisa de permissão para enviar notificações. Por favor, reveja as suas definições."
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -18460,6 +19036,12 @@
             "value": "URL"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -18642,6 +19224,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Czy ${date} było ${typeOfDay}?"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${date} foi ${typeOfDay}?"
           }
         },
         "ro": {
@@ -18828,6 +19416,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Czy %1\\$@ było %2\\$@?"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ foi %@?"
           }
         },
         "ro": {
@@ -19021,6 +19615,12 @@
             "value": "Środa"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quarta-feira"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -19212,6 +19812,12 @@
             "value": "Dzień roboczy"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dia de Semana"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -19401,6 +20007,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Weekend"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fim de Semana"
           }
         },
         "ro": {
@@ -19595,6 +20207,12 @@
             "value": "Co się dzieje po dotknięciu powiadomienia"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O que acontece quando toca na notificação"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -19786,6 +20404,12 @@
             "value": "Wczoraj"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ontem"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -19970,6 +20594,12 @@
             "value": "popołudnie"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "tarde"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -20146,6 +20776,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "alert"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "alerta"
           }
         },
         "ro": {
@@ -20326,6 +20962,12 @@
             "value": "wieczór"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "noite"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -20502,6 +21144,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "piątek"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "sexta-feira"
           }
         },
         "ro": {
@@ -20682,6 +21330,12 @@
             "value": "poniedziałek"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "segunda-feira"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -20858,6 +21512,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "rano"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "manhã"
           }
         },
         "ro": {
@@ -21038,6 +21698,12 @@
             "value": "noc"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "madrugada"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -21211,6 +21877,12 @@
           }
         },
         "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "push"
+          }
+        },
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "push"
@@ -21394,6 +22066,12 @@
             "value": "sobota"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "sábado"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -21570,6 +22248,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "niedziela"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "domingo"
           }
         },
         "ro": {
@@ -21750,6 +22434,12 @@
             "value": "czwartek"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "quinta-feira"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -21926,6 +22616,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "dzisiaj"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hoje"
           }
         },
         "ro": {
@@ -22106,6 +22802,12 @@
             "value": "jutro"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "amanhã"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -22282,6 +22984,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "wtorek"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "terça-feira"
           }
         },
         "ro": {
@@ -22462,6 +23170,12 @@
             "value": "środa"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "quarta-feira"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -22638,6 +23352,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "dzień roboczy"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "dia de semana"
           }
         },
         "ro": {
@@ -22818,6 +23538,12 @@
             "value": "weekend"
           }
         },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "fim de semana"
+          }
+        },
         "ro": {
           "stringUnit": {
             "state": "translated",
@@ -22994,6 +23720,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "wczoraj"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ontem"
           }
         },
         "ro": {

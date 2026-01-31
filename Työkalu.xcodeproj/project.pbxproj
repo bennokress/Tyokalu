@@ -119,6 +119,7 @@
 				nl,
 				nn,
 				pl,
+				pt,
 				ro,
 				sk,
 				sl,
