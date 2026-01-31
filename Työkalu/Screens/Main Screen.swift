@@ -4,6 +4,7 @@
 //
 
 import SwiftUI
+import UIKit
 import UserNotifications
 
 /// The main screen of the app displaying notification setup and testing UI.
@@ -42,10 +43,7 @@ struct MainScreen: View {
     private var allBoxes: some View {
         VStack(spacing: 24) {
             introductionBox
-            if notificationStatus != .authorized {
-                permissionBox
-            }
-            testNotificationBox
+            notificationBox
             didYouKnowBox
         }
     }
@@ -70,97 +68,99 @@ struct MainScreen: View {
         }
     }
 
-    // MARK: - Permission Section
+    // MARK: - Notification Section
 
-    private var permissionBox: some View {
+    private var notificationBox: some View {
         GroupBox {
-            permissionBoxContent
+            notificationBoxContent
                 .frame(maxWidth: .infinity, alignment: .leading)
         }
     }
 
-    private var permissionBoxContent: some View {
+    @ViewBuilder
+    private var notificationBoxContent: some View {
+        switch notificationStatus {
+        case .authorized, .provisional, .ephemeral:
+            testNotificationContent
+        case .denied:
+            permissionDeniedContent
+        case .notDetermined:
+            requestPermissionContent
+        @unknown default:
+            requestPermissionContent
+        }
+    }
+
+    // MARK: Permission Request Content
+
+    private var requestPermissionContent: some View {
         VStack(alignment: .leading, spacing: 12) {
             Label("Notification Permission", systemImage: "bell.badge")
                 .font(.headline)
 
-            Text(permissionStatusText)
+            Text("This app needs permission to send notifications for Shortcuts actions.")
                 .foregroundStyle(.secondary)
 
-            permissionButton
-                .buttonStyle(PrimaryButtonStyle())
-                .accessibilityLabel("Grant notification permission")
-                .accessibilityHint("Opens a system dialog to allow notifications from this app")
+            Button {
+                LocalNotification.authorize()
+            } label: {
+                Text("Grant Permission")
+            }
+            .buttonStyle(PrimaryButtonStyle())
+            .accessibilityLabel("Grant notification permission")
+            .accessibilityHint("Opens a system dialog to allow notifications from this app")
         }
     }
 
-    /// Human-readable description of the current notification authorization status.
-    private var permissionStatusText: String {
-        switch notificationStatus {
-        case .notDetermined:
-            return String(localized: "This app needs permission to send notifications for Shortcuts actions.")
-        case .denied:
-            return String(localized: "Notification permission was denied. Please enable it in Settings to use notification actions.")
-        case .provisional:
-            return String(localized: "Notifications are provisionally allowed. Grant full permission for the best experience.")
-        case .authorized:
-            return String(localized: "Notifications are enabled.")
-        case .ephemeral:
-            return String(localized: "Notifications are temporarily allowed.")
-        @unknown default:
-            return String(localized: "Please grant notification permission to use all features.")
-        }
-    }
+    // MARK: Permission Denied Content
 
-    private var permissionButton: some View {
-        Button {
-            LocalNotification.authorize()
-        } label: {
-            Text("Grant Permission")
-        }
-    }
-
-    // MARK: - Test Notification Section
-
-    private var testNotificationBox: some View {
-        GroupBox {
-            testNotificationBoxContent
-                .frame(maxWidth: .infinity, alignment: .leading)
-        }
-    }
-
-    private var testNotificationBoxContent: some View {
+    private var permissionDeniedContent: some View {
         VStack(alignment: .leading, spacing: 12) {
-            Label("Test Notifications", systemImage: "paperplane")
+            Label("Notification Permission", systemImage: "bell.badge")
                 .font(.headline)
 
-            notificationStatusDisplay
-
-            testNotificationButton
-                .buttonStyle(SecondaryButtonStyle())
-                .disabled(notificationStatus != .authorized)
-                .accessibilityLabel("Send test notification")
-                .accessibilityHint(notificationStatus == .authorized ? "Sends a test notification to verify the setup" : "Grant notification permission first")
-        }
-    }
-
-    private var notificationStatusDisplay: some View {
-        HStack(spacing: 8) {
-            Image(systemName: notificationStatus == .authorized ? "checkmark.circle.fill" : "xmark.circle.fill")
-                .foregroundStyle(notificationStatus == .authorized ? .green : .red)
-            Text(notificationStatus == .authorized ? "Ready to send notifications" : "Permission required")
+            Text("Notification permission was denied. To use notification actions in Shortcuts, you need to enable notifications in the Settings app.")
                 .foregroundStyle(.secondary)
+
+            Text("Tap the button below to open Settings, then enable \"Allow Notifications\" for this app.")
+                .foregroundStyle(.secondary)
+
+            Button {
+                openAppSettings()
+            } label: {
+                Text("Open Settings")
+            }
+            .buttonStyle(PrimaryButtonStyle())
+            .accessibilityLabel("Open app settings")
+            .accessibilityHint("Opens the Settings app to enable notifications")
         }
     }
 
-    private var testNotificationButton: some View {
-        Button {
-            Task {
-                let notification = LocalNotification(title: String(localized: "Test Notification"), message: String(localized: "Notifications are working correctly!"), isTimeSensitive: true, threadID: "Main Screen")
-                try? await notification.send()
+    // MARK: Test Notification Content
+
+    private var testNotificationContent: some View {
+        VStack(alignment: .leading, spacing: 12) {
+            Label("Test Notification Capability", systemImage: "bell.badge")
+                .font(.headline)
+
+            HStack(spacing: 8) {
+                Image(systemName: "checkmark.circle.fill")
+                    .foregroundStyle(.green)
+                Text("Ready to send notifications")
+                    .foregroundStyle(.secondary)
             }
-        } label: {
-            Text("Send Test Notification")
+
+            Button {
+                Task {
+                    let notification = LocalNotification(title: String(localized: "Test Notification"), message: String(localized: "Notifications are working correctly!"), isTimeSensitive: true, threadID: "Main Screen")
+                    try? await notification.send()
+                }
+            } label: {
+                Text("Send Test Notification")
+            }
+            .buttonStyle(SecondaryButtonStyle())
+            .accessibilityLabel("Send test notification")
+            .accessibilityHint("Sends a test notification to verify the setup")
         }
     }
 
@@ -206,6 +206,12 @@ struct MainScreen: View {
         await MainActor.run {
             notificationStatus = settings.authorizationStatus
         }
+    }
+
+    /// Opens the app's notification settings in the Settings app.
+    private func openAppSettings() {
+        guard let settingsURL = URL(string: UIApplication.openSettingsURLString) else { return }
+        UIApplication.shared.open(settingsURL)
     }
 
 }

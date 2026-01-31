@@ -375,6 +375,9 @@
         }
       }
     },
+    "Notification permission was denied. To use notification actions in Shortcuts, you need to enable notifications in the Settings app." : {
+
+    },
     "Notifications are enabled." : {
       "comment" : "Permission status: authorized",
       "extractionState" : "manual",
@@ -470,6 +473,12 @@
         }
       }
     },
+    "Open app settings" : {
+
+    },
+    "Open Settings" : {
+
+    },
     "Open URL" : {
       "comment" : "Tap action option and notification button",
       "extractionState" : "manual",
@@ -493,6 +502,9 @@
           }
         }
       }
+    },
+    "Opens the Settings app to enable notifications" : {
+
     },
     "Permission required" : {
       "extractionState" : "manual",
@@ -696,6 +708,9 @@
         }
       }
     },
+    "Tap the button below to open Settings, then enable \"Allow Notifications\" for this app." : {
+
+    },
     "Test Notification" : {
       "comment" : "Title for test notification",
       "extractionState" : "manual",
@@ -707,6 +722,9 @@
           }
         }
       }
+    },
+    "Test Notification Capability" : {
+
     },
     "Test Notifications" : {
       "extractionState" : "manual",
