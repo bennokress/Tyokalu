@@ -34,4 +34,4 @@ Lost track of where a variable came from? Tap the variable token and use the **R
 
 ---
 
-[← Previous: Shortcuts Organization](Shortcuts%20Organization.md) | [Back to Overview](README.md) | [Next: Coming Soon →]
+[← Previous: Shortcuts Organization](Shortcuts%20Organization.md) | [Back to Overview](README.md) | [Next: Show When Run →](Show%20When%20Run.md)
