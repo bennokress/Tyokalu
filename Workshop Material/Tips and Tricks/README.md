@@ -9,3 +9,4 @@ This folder contains practical tips and tricks for Shortcuts creators. These are
 3. [Show When Run](Show%20When%20Run.md) - Run third-party app actions in the background
 4. [Data Types](Data%20Types.md) - Converting between types by tapping on variables
 5. [Data Parameters](Data%20Parameters.md) - Discovering hidden properties in action outputs
+6. [Helper Shortcuts](Helper%20Shortcuts.md) - Refactoring reusable logic into separate shortcuts
