@@ -18,3 +18,23 @@ Curated resources to help you learn, connect, and enhance your Shortcuts workflo
 ## Tips and Tricks
 
 Practical tips and tricks for Shortcuts creators. These are the kinds of insights that come from experience - small techniques and best practices that make building and maintaining shortcuts easier and more enjoyable.
+
+1. **[Shortcuts Organization](Tips%20and%20Tricks/Shortcuts%20Organization.md)** - Using folders, colors, and icons to keep your shortcuts tidy
+2. **[Magic Variables](Tips%20and%20Tricks/Magic%20Variables.md)** - Why you rarely need the Set Variable action
+3. **[Show When Run](Tips%20and%20Tricks/Show%20When%20Run.md)** - Run third-party app actions in the background
+4. **[Usage Scenarios](Tips%20and%20Tricks/Usage%20Scenarios.md)** - Where and how to run your shortcuts
+5. **[URL Scheme](Tips%20and%20Tricks/URL%20Scheme.md)** - Running shortcuts from anywhere via URL
+6. **[Calling URL Schemes](Tips%20and%20Tricks/Calling%20URL%20Schemes.md)** - Launching other apps when native actions aren't available
+7. **[Data Types](Tips%20and%20Tricks/Data%20Types.md)** - Converting between types by tapping on variables
+8. **[Data Parameters](Tips%20and%20Tricks/Data%20Parameters.md)** - Discovering hidden properties in action outputs
+9. **[Conditionals and Loops](Tips%20and%20Tricks/Conditionals%20and%20Loops.md)** - Using If, Repeat, and Repeat with Each
+10. **[Helper Shortcuts](Tips%20and%20Tricks/Helper%20Shortcuts.md)** - Refactoring reusable logic into separate shortcuts
+11. **[Dictionary Input](Tips%20and%20Tricks/Dictionary%20Input.md)** - Passing named parameters between shortcuts
+12. **[Shortcut Input](Tips%20and%20Tricks/Shortcut%20Input.md)** - Configuring what input types your shortcut accepts
+13. **[Comments](Tips%20and%20Tricks/Comments.md)** - Documenting your shortcuts for future reference
+14. **[Nothing Action](Tips%20and%20Tricks/Nothing%20Action.md)** - Implementing Optional-like behavior in Shortcuts
+15. **[Wait Actions](Tips%20and%20Tricks/Wait%20Actions.md)** - Using Wait and Wait to Return
+16. **[Debugging](Tips%20and%20Tricks/Debugging.md)** - Techniques for inspecting and troubleshooting shortcuts
+17. **[Base64 Encoding](Tips%20and%20Tricks/Base64%20Encoding.md)** - Embedding files directly in your shortcuts
+18. **[Working with APIs](Tips%20and%20Tricks/Working%20with%20APIs.md)** - Making HTTP requests and handling JSON responses
+19. **[Advanced Menus](Tips%20and%20Tricks/Advanced%20Menus.md)** - Creating rich menus with icons and subtitles using vCards

@@ -80,4 +80,4 @@ The only maintenance required is keeping the contacts in each group up to date -
 
 ---
 
-[← Previous: Working with APIs](Working%20with%20APIs.md) | [Back to Overview](README.md) | [Next: Coming Soon →]
+[← Previous: Working with APIs](Working%20with%20APIs.md) | [Back to Overview](README.md)
