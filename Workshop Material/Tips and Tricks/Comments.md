@@ -19,4 +19,4 @@ Shortcuts has been known to have [one bug](https://appleinsider.com/articles/19/
 
 ---
 
-[← Previous: Dictionary Input](Dictionary%20Input.md) | [Back to Overview](README.md) | [Next: Coming Soon →]
+[← Previous: Dictionary Input](Dictionary%20Input.md) | [Back to Overview](README.md) | [Next: Nothing Action →](Nothing%20Action.md)
