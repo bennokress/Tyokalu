@@ -15,3 +15,4 @@ This folder contains practical tips and tricks for Shortcuts creators. These are
 9. [Nothing Action](Nothing%20Action.md) - Implementing Optional-like behavior in Shortcuts
 10. [URL Scheme](URL%20Scheme.md) - Running shortcuts from anywhere via URL
 11. [Calling URL Schemes](Calling%20URL%20Schemes.md) - Launching other apps when native actions aren't available
+12. [Advanced Menus](Advanced%20Menus.md) - Creating rich menus with icons and subtitles using vCards

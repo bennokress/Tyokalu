@@ -31,4 +31,4 @@ The URL scheme has since been [documented by the community](https://discussions.
 
 ---
 
-[← Previous: URL Scheme](URL%20Scheme.md) | [Back to Overview](README.md) | [Next: Coming Soon →]
+[← Previous: URL Scheme](URL%20Scheme.md) | [Back to Overview](README.md) | [Next: Advanced Menus →](Advanced%20Menus.md)
