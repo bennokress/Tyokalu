@@ -13,3 +13,4 @@ This folder contains practical tips and tricks for Shortcuts creators. These are
 7. [Dictionary Input](Dictionary%20Input.md) - Passing named parameters between shortcuts
 8. [Comments](Comments.md) - Documenting your shortcuts for future reference
 9. [Nothing Action](Nothing%20Action.md) - Implementing Optional-like behavior in Shortcuts
+10. [URL Scheme](URL%20Scheme.md) - Running shortcuts from anywhere via URL
