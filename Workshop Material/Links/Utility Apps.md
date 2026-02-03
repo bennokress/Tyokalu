@@ -142,7 +142,7 @@ The following apps are ones I do not use myself, but have heard good things abou
 <table>
   <tr>
     <td><a href="https://apps.apple.com/app/id6751129542"><img src="https://raw.githubusercontent.com/bennokress/Tyokalu/main/Assets/shortcuty-6751129542.png" width="50" height="50"></a></td>
-    <td><b><a href="https://apps.apple.com/app/id6751129542">Shortcuty</a></b><br>Browse, share, and download shortcuts plus reusable Action Clips.</td>
+    <td><b><a href="https://apps.apple.com/app/id6751129542">Shortcuty</a></b><br>Browse, share, and download shortcuts plus reusable community actions.</td>
   </tr>
 </table>
 
