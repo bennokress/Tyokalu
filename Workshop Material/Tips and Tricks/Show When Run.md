@@ -27,4 +27,4 @@ Tap on any third-party app action in your shortcut to expand its options. If the
 
 ---
 
-[← Previous: Magic Variables](Magic%20Variables.md) | [Back to Overview](README.md) | [Next: Coming Soon →]
+[← Previous: Magic Variables](Magic%20Variables.md) | [Back to Overview](README.md) | [Next: Data Types →](Data%20Types.md)

@@ -7,3 +7,4 @@ This folder contains practical tips and tricks for Shortcuts creators. These are
 1. [Shortcuts Organization](Shortcuts%20Organization.md) - Using folders, colors, and icons to keep your shortcuts tidy
 2. [Magic Variables](Magic%20Variables.md) - Why you rarely need the Set Variable action
 3. [Show When Run](Show%20When%20Run.md) - Run third-party app actions in the background
+4. [Data Types](Data%20Types.md) - Converting between types by tapping on variables
