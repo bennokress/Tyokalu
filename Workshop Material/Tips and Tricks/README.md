@@ -12,8 +12,9 @@ This folder contains practical tips and tricks for Shortcuts creators. These are
 6. [Calling URL Schemes](Calling%20URL%20Schemes.md) - Launching other apps when native actions aren't available
 7. [Data Types](Data%20Types.md) - Converting between types by tapping on variables
 8. [Data Parameters](Data%20Parameters.md) - Discovering hidden properties in action outputs
-9. [Helper Shortcuts](Helper%20Shortcuts.md) - Refactoring reusable logic into separate shortcuts
-10. [Dictionary Input](Dictionary%20Input.md) - Passing named parameters between shortcuts
-11. [Comments](Comments.md) - Documenting your shortcuts for future reference
-12. [Nothing Action](Nothing%20Action.md) - Implementing Optional-like behavior in Shortcuts
-13. [Advanced Menus](Advanced%20Menus.md) - Creating rich menus with icons and subtitles using vCards
+9. [Conditionals and Loops](Conditionals%20and%20Loops.md) - Using If, Repeat, and Repeat with Each
+10. [Helper Shortcuts](Helper%20Shortcuts.md) - Refactoring reusable logic into separate shortcuts
+11. [Dictionary Input](Dictionary%20Input.md) - Passing named parameters between shortcuts
+12. [Comments](Comments.md) - Documenting your shortcuts for future reference
+13. [Nothing Action](Nothing%20Action.md) - Implementing Optional-like behavior in Shortcuts
+14. [Advanced Menus](Advanced%20Menus.md) - Creating rich menus with icons and subtitles using vCards

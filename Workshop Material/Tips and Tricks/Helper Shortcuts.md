@@ -34,4 +34,4 @@ My solution is the color coding system from the [Shortcuts Organization](Shortcu
 
 ---
 
-[← Previous: Data Parameters](Data%20Parameters.md) | [Back to Overview](README.md) | [Next: Dictionary Input →](Dictionary%20Input.md)
+[← Previous: Conditionals and Loops](Conditionals%20and%20Loops.md) | [Back to Overview](README.md) | [Next: Dictionary Input →](Dictionary%20Input.md)

@@ -28,4 +28,4 @@ If you just need the general vicinity - not exact coordinates - the quickest way
 
 ---
 
-[← Previous: Data Types](Data%20Types.md) | [Back to Overview](README.md) | [Next: Helper Shortcuts →](Helper%20Shortcuts.md)
+[← Previous: Data Types](Data%20Types.md) | [Back to Overview](README.md) | [Next: Conditionals and Loops →](Conditionals%20and%20Loops.md)
