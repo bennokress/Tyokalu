@@ -10,3 +10,4 @@ This folder contains practical tips and tricks for Shortcuts creators. These are
 4. [Data Types](Data%20Types.md) - Converting between types by tapping on variables
 5. [Data Parameters](Data%20Parameters.md) - Discovering hidden properties in action outputs
 6. [Helper Shortcuts](Helper%20Shortcuts.md) - Refactoring reusable logic into separate shortcuts
+7. [Dictionary Input](Dictionary%20Input.md) - Passing named parameters between shortcuts
