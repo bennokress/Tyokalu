@@ -1,10 +1,10 @@
 # Workshop Material
 
-This folder contains supplementary material for the Shortcuts workshop. Browse the subfolders for exercises, useful links, and tips to help you on your Shortcuts journey.
+This folder contains supplementary material for the Shortcuts workshop. Browse the subfolders for inspiration, useful links, and tips to help you on your Shortcuts journey.
 
-## Exercises
+## Shortcuts Inspiration
 
-This folder contains shortcut and automation ideas organized by skill level (1-5). Each exercise provides inspiration and guidance for building shortcuts that match your current experience level. If you're stuck or not feeling creative, pick an exercise that interests you and follow along.
+Ideas for shortcuts and automations organized by skill level (1-5). Each idea describes what you can build and gives a sense of how complex the logic might get. If you're stuck or not feeling creative, pick an idea that interests you and try implementing it.
 
 ## Links
 
