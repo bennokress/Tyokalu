@@ -36,4 +36,4 @@ The **Wait to Return** action pauses your shortcut until you leave the Shortcuts
 
 ---
 
-[← Previous: Nothing Action](Nothing%20Action.md) | [Back to Overview](README.md) | [Next: Advanced Menus →](Advanced%20Menus.md)
+[← Previous: Nothing Action](Nothing%20Action.md) | [Back to Overview](README.md) | [Next: Debugging →](Debugging.md)
