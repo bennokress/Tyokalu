@@ -43,4 +43,4 @@ This pattern keeps your shortcuts flexible. Instead of aborting when optional da
 
 ---
 
-[← Previous: Comments](Comments.md) | [Back to Overview](README.md) | [Next: Advanced Menus →](Advanced%20Menus.md)
+[← Previous: Comments](Comments.md) | [Back to Overview](README.md) | [Next: Wait Actions →](Wait%20Actions.md)

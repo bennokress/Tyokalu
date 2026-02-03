@@ -18,4 +18,5 @@ This folder contains practical tips and tricks for Shortcuts creators. These are
 12. [Shortcut Input](Shortcut%20Input.md) - Configuring what input types your shortcut accepts
 13. [Comments](Comments.md) - Documenting your shortcuts for future reference
 14. [Nothing Action](Nothing%20Action.md) - Implementing Optional-like behavior in Shortcuts
-15. [Advanced Menus](Advanced%20Menus.md) - Creating rich menus with icons and subtitles using vCards
+15. [Wait Actions](Wait%20Actions.md) - Using Wait and Wait to Return
+16. [Advanced Menus](Advanced%20Menus.md) - Creating rich menus with icons and subtitles using vCards

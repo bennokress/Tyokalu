@@ -80,4 +80,4 @@ The only maintenance required is keeping the contacts in each group up to date -
 
 ---
 
-[← Previous: Nothing Action](Nothing%20Action.md) | [Back to Overview](README.md) | [Next: Coming Soon →]
+[← Previous: Wait Actions](Wait%20Actions.md) | [Back to Overview](README.md) | [Next: Coming Soon →]
