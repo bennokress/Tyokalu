@@ -18,15 +18,15 @@ Connect with other Shortcuts enthusiasts to share ideas, get help, and discover 
 
 <table>
   <tr>
-    <td><a href="https://routinehub.co"><img src="https://raw.githubusercontent.com/bennokress/Tyokalu/main/Assets/web-routinehub-co.png" width="50" height="50"></a></td>
-    <td><b><a href="https://routinehub.co">RoutineHub</a></b><br>Platform for sharing and discovering shortcuts with comments and version updates.</td>
+    <td><a href="https://browse.shortcuty.app"><img src="https://raw.githubusercontent.com/bennokress/Tyokalu/main/Assets/shortcuty-6751129542.png" width="50" height="50"></a></td>
+    <td><b><a href="https://browse.shortcuty.app">Shortcuty</a></b><br>A community platform that combines shortcut sharing with powerful actions you can use in your iOS shortcuts.</td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><a href="https://browse.shortcuty.app"><img src="https://raw.githubusercontent.com/bennokress/Tyokalu/main/Assets/shortcuty-6751129542.png" width="50" height="50"></a></td>
-    <td><b><a href="https://browse.shortcuty.app">Shortcuty</a></b><br>Browse and share shortcuts plus Action Clips - reusable snippets for common shortcut patterns.</td>
+    <td><a href="https://routinehub.co"><img src="https://raw.githubusercontent.com/bennokress/Tyokalu/main/Assets/web-routinehub-co.png" width="50" height="50"></a></td>
+    <td><b><a href="https://routinehub.co">RoutineHub</a></b><br>Platform for sharing and discovering shortcuts with comments and version updates.</td>
   </tr>
 </table>
 
