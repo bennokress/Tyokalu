@@ -15,6 +15,7 @@ This folder contains practical tips and tricks for Shortcuts creators. These are
 9. [Conditionals and Loops](Conditionals%20and%20Loops.md) - Using If, Repeat, and Repeat with Each
 10. [Helper Shortcuts](Helper%20Shortcuts.md) - Refactoring reusable logic into separate shortcuts
 11. [Dictionary Input](Dictionary%20Input.md) - Passing named parameters between shortcuts
-12. [Comments](Comments.md) - Documenting your shortcuts for future reference
-13. [Nothing Action](Nothing%20Action.md) - Implementing Optional-like behavior in Shortcuts
-14. [Advanced Menus](Advanced%20Menus.md) - Creating rich menus with icons and subtitles using vCards
+12. [Shortcut Input](Shortcut%20Input.md) - Configuring what input types your shortcut accepts
+13. [Comments](Comments.md) - Documenting your shortcuts for future reference
+14. [Nothing Action](Nothing%20Action.md) - Implementing Optional-like behavior in Shortcuts
+15. [Advanced Menus](Advanced%20Menus.md) - Creating rich menus with icons and subtitles using vCards
