@@ -30,4 +30,4 @@ If you use Logger, be mindful of this dependency. Consider removing Logger actio
 
 ---
 
-[← Previous: Wait Actions](Wait%20Actions.md) | [Back to Overview](README.md) | [Next: Advanced Menus →](Advanced%20Menus.md)
+[← Previous: Wait Actions](Wait%20Actions.md) | [Back to Overview](README.md) | [Next: Base64 Encoding →](Base64%20Encoding.md)

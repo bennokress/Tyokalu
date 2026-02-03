@@ -20,4 +20,5 @@ This folder contains practical tips and tricks for Shortcuts creators. These are
 14. [Nothing Action](Nothing%20Action.md) - Implementing Optional-like behavior in Shortcuts
 15. [Wait Actions](Wait%20Actions.md) - Using Wait and Wait to Return
 16. [Debugging](Debugging.md) - Techniques for inspecting and troubleshooting shortcuts
-17. [Advanced Menus](Advanced%20Menus.md) - Creating rich menus with icons and subtitles using vCards
+17. [Base64 Encoding](Base64%20Encoding.md) - Embedding files directly in your shortcuts
+18. [Advanced Menus](Advanced%20Menus.md) - Creating rich menus with icons and subtitles using vCards
