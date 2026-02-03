@@ -37,4 +37,4 @@ Then follow it with **If** checks for all mandatory parameters using "has any va
 
 ---
 
-[← Previous: Helper Shortcuts](Helper%20Shortcuts.md) | [Back to Overview](README.md) | [Next: Coming Soon →]
+[← Previous: Helper Shortcuts](Helper%20Shortcuts.md) | [Back to Overview](README.md) | [Next: Comments →](Comments.md)
