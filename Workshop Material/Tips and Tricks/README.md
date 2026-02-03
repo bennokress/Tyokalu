@@ -8,3 +8,4 @@ This folder contains practical tips and tricks for Shortcuts creators. These are
 2. [Magic Variables](Magic%20Variables.md) - Why you rarely need the Set Variable action
 3. [Show When Run](Show%20When%20Run.md) - Run third-party app actions in the background
 4. [Data Types](Data%20Types.md) - Converting between types by tapping on variables
+5. [Data Parameters](Data%20Parameters.md) - Discovering hidden properties in action outputs
