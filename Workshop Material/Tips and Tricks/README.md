@@ -5,3 +5,4 @@ This folder contains practical tips and tricks for Shortcuts creators. These are
 ## Articles
 
 1. [Shortcuts Organization](Shortcuts%20Organization.md) - Using folders, colors, and icons to keep your shortcuts tidy
+2. [Magic Variables](Magic%20Variables.md) - Why you rarely need the Set Variable action

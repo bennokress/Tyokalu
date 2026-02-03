@@ -40,4 +40,4 @@ Here's a system that works well for managing complex shortcut libraries:
 
 ---
 
-[Back to Overview](README.md) | [Next: Coming Soon →]
+[Back to Overview](README.md) | [Next: Magic Variables →](Magic%20Variables.md)
