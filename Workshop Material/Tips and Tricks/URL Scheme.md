@@ -54,4 +54,4 @@ It's my favorite feature of the app and sets it apart from other utility apps on
 
 ---
 
-[← Previous: Nothing Action](Nothing%20Action.md) | [Back to Overview](README.md) | [Next: Coming Soon →]
+[← Previous: Nothing Action](Nothing%20Action.md) | [Back to Overview](README.md) | [Next: Calling URL Schemes →](Calling%20URL%20Schemes.md)
