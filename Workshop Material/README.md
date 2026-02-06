@@ -8,44 +8,48 @@ Ideas for shortcuts and automations to get your creativity going. Each idea desc
 
 ### Share Sheet
 
-1. **[Save for Later](Shortcuts%20Inspiration/Save%20for%20Later.md)** - Sort saved content into categories based on the URL
-2. **[Save to Cloud Storage](Shortcuts%20Inspiration/Save%20to%20Cloud%20Storage.md)** - Sort files by type before uploading to cloud storage
-3. **[Ask AI](Shortcuts%20Inspiration/Ask%20AI.md)** - Send files, websites, or text to an AI for quick answers
+- **[Save for Later](Shortcuts%20Inspiration/Save%20for%20Later.md)** - Sort saved content into categories based on the URL
+- **[Save to Cloud Storage](Shortcuts%20Inspiration/Save%20to%20Cloud%20Storage.md)** - Sort files by type before uploading to cloud storage
+- **[Ask AI](Shortcuts%20Inspiration/Ask%20AI.md)** - Send files, websites, or text to an AI for quick answers
 
 ### Quick Actions
 
-1. **[Restart Phone](Shortcuts%20Inspiration/Restart%20Phone.md)** - One-tap restart without holding buttons
-2. **[Connect to Speakers](Shortcuts%20Inspiration/Connect%20to%20Speakers.md)** - Skip the Bluetooth menu and connect to a specific device
-3. **[Open Password App](Shortcuts%20Inspiration/Open%20Password%20App.md)** - Jump straight to your password manager
-4. **[Open App Settings](Shortcuts%20Inspiration/Open%20App%20Settings.md)** - Jump to an app's page in the Settings app
-5. **[Save Current Song](Shortcuts%20Inspiration/Save%20Current%20Song.md)** - Save what's playing to one or more playlists
-6. **[Call Anonymously](Shortcuts%20Inspiration/Call%20Anonymously.md)** - Hide your caller ID with a number prefix
-7. **[Reset Cellular Data](Shortcuts%20Inspiration/Reset%20Cellular%20Data.md)** - Quickly cycle your cellular connection
-8. **[QR Code Generator](Shortcuts%20Inspiration/QR%20Code%20Generator.md)** - Generate a QR code from any text or URL
-9. **[App Icon Downloader](Shortcuts%20Inspiration/App%20Icon%20Downloader.md)** - Download an app's icon from the App Store
+- **[Restart Phone](Shortcuts%20Inspiration/Restart%20Phone.md)** - One-tap restart without holding buttons
+- **[Connect to Speakers](Shortcuts%20Inspiration/Connect%20to%20Speakers.md)** - Skip the Bluetooth menu and connect to a specific device
+- **[Open Password App](Shortcuts%20Inspiration/Open%20Password%20App.md)** - Jump straight to your password manager
+- **[Open App Settings](Shortcuts%20Inspiration/Open%20App%20Settings.md)** - Jump to an app's page in the Settings app
+- **[Save Current Song](Shortcuts%20Inspiration/Save%20Current%20Song.md)** - Save what's playing to one or more playlists
+- **[Call Anonymously](Shortcuts%20Inspiration/Call%20Anonymously.md)** - Hide your caller ID with a number prefix
+- **[Reset Cellular Data](Shortcuts%20Inspiration/Reset%20Cellular%20Data.md)** - Quickly cycle your cellular connection
+- **[QR Code Generator](Shortcuts%20Inspiration/QR%20Code%20Generator.md)** - Generate a QR code from any text or URL
+- **[App Icon Downloader](Shortcuts%20Inspiration/App%20Icon%20Downloader.md)** - Download an app's icon from the App Store
 
 ### Automations
 
-1. **[Orientation Lock per App](Shortcuts%20Inspiration/Orientation%20Lock%20per%20App.md)** - Auto-rotate only in apps where it makes sense
-2. **[Unmute per App](Shortcuts%20Inspiration/Unmute%20per%20App.md)** - Force sound on for apps that respect the mute switch too well
-3. **[Dumb Phone](Shortcuts%20Inspiration/Dumb%20Phone.md)** - Make your iPhone less addictive with Shortcuts
-4. **[Battery Low Notification](Shortcuts%20Inspiration/Battery%20Low%20Notification.md)** - Alert all your devices when battery gets low
-5. **[Time Tracking](Shortcuts%20Inspiration/Time%20Tracking.md)** - Automatically track working hours based on context
-6. **[CarPlay Navigation](Shortcuts%20Inspiration/CarPlay%20Navigation.md)** - Navigate to the next calendar event or home when CarPlay connects
+- **[Orientation Lock per App](Shortcuts%20Inspiration/Orientation%20Lock%20per%20App.md)** - Auto-rotate only in apps where it makes sense
+- **[Unmute per App](Shortcuts%20Inspiration/Unmute%20per%20App.md)** - Force sound on for apps that respect the mute switch too well
+- **[Dumb Phone](Shortcuts%20Inspiration/Dumb%20Phone.md)** - Make your iPhone less addictive with Shortcuts
+- **[Battery Low Notification](Shortcuts%20Inspiration/Battery%20Low%20Notification.md)** - Alert all your devices when battery gets low
+- **[Time Tracking](Shortcuts%20Inspiration/Time%20Tracking.md)** - Automatically track working hours based on context
+- **[CarPlay Navigation](Shortcuts%20Inspiration/CarPlay%20Navigation.md)** - Navigate to the next calendar event or home when CarPlay connects
 
 ### Helper Shortcuts
 
-1. **[Get Current Vicinity](Shortcuts%20Inspiration/Get%20Current%20Vicinity.md)** - Determine where you are as a reusable building block
-2. **[Checks](Shortcuts%20Inspiration/Checks.md)** - Reusable yes-or-no questions about your current state
+- **[Get Current Vicinity](Shortcuts%20Inspiration/Get%20Current%20Vicinity.md)** - Determine where you are as a reusable building block
+- **[Checks](Shortcuts%20Inspiration/Checks.md)** - Reusable yes-or-no questions about your current state
 
 ### Complex Setups
 
-1. **[Focus Mode Automation](Shortcuts%20Inspiration/Focus%20Mode%20Automation.md)** - Activate the right Focus Mode based on your current circumstances
-2. **[Action Button Automation](Shortcuts%20Inspiration/Action%20Button%20Automation.md)** - Make the Action Button context-aware
-3. **[Night Time Preparation](Shortcuts%20Inspiration/Night%20Time%20Preparation.md)** - Automate your going-to-sleep and waking-up routines
-4. **[Work Calendar Sync](Shortcuts%20Inspiration/Work%20Calendar%20Sync.md)** - Mirror work events to your personal calendar
-5. **[Debug URL Schemes](Shortcuts%20Inspiration/Debug%20URL%20Schemes.md)** - Use Shortcuts to trigger debug states in your own apps
-6. **[Packing List](Shortcuts%20Inspiration/Packing%20List.md)** - Generate a personalized packing list for any trip
+- **[Focus Mode Automation](Shortcuts%20Inspiration/Focus%20Mode%20Automation.md)** - Activate the right Focus Mode based on your current circumstances
+- **[Action Button Automation](Shortcuts%20Inspiration/Action%20Button%20Automation.md)** - Make the Action Button context-aware
+- **[Night Time Preparation](Shortcuts%20Inspiration/Night%20Time%20Preparation.md)** - Automate your going-to-sleep and waking-up routines
+- **[Work Calendar Sync](Shortcuts%20Inspiration/Work%20Calendar%20Sync.md)** - Mirror work events to your personal calendar
+- **[Debug URL Schemes](Shortcuts%20Inspiration/Debug%20URL%20Schemes.md)** - Use Shortcuts to trigger debug states in your own apps
+- **[Packing List](Shortcuts%20Inspiration/Packing%20List.md)** - Generate a personalized packing list for any trip
+
+### Still Out of Ideas?
+
+If none of the above clicked with you, check out the impressive [Shortcuts Catalog by Matthew Cassinelli](https://matthewcassinelli.com/membership/shortcuts/) - especially the section with more complex shortcuts exclusive to his paying members. See if any description catches your eye and think about how you'd build it yourself. It's a great way to practice and saves you the membership fee at the same time.
 
 ## Links
 
