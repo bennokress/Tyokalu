@@ -16,6 +16,7 @@ Ideas for shortcuts and automations to get your creativity going. Each idea desc
 4. [Open App Settings](Open%20App%20Settings.md) - Jump to an app's page in the Settings app
 5. [Save Current Song](Save%20Current%20Song.md) - Save what's playing to one or more playlists
 6. [Call Anonymously](Call%20Anonymously.md) - Hide your caller ID with a number prefix
+7. [Reset Cellular Data](Reset%20Cellular%20Data.md) - Quickly cycle your cellular connection
 
 ## Automations
 
