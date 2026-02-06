@@ -20,6 +20,10 @@ Ideas for shortcuts and automations to get your creativity going. Each idea desc
 4. **[Open App Settings](Shortcuts%20Inspiration/Open%20App%20Settings.md)** - Jump to an app's page in the Settings app
 5. **[Save Current Song](Shortcuts%20Inspiration/Save%20Current%20Song.md)** - Save what's playing to one or more playlists
 
+### Automations
+
+1. **[Orientation Lock per App](Shortcuts%20Inspiration/Orientation%20Lock%20per%20App.md)** - Auto-rotate only in apps where it makes sense
+
 ## Links
 
 Curated resources to help you learn, connect, and enhance your Shortcuts workflow:

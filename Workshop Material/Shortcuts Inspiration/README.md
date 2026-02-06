@@ -18,7 +18,7 @@ Ideas for shortcuts and automations to get your creativity going. Each idea desc
 
 ## Automations
 
-*Coming soon …*
+1. [Orientation Lock per App](Orientation%20Lock%20per%20App.md) - Auto-rotate only in apps where it makes sense
 
 ## Helper Shortcuts
 
