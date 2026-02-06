@@ -24,6 +24,7 @@ Ideas for shortcuts and automations to get your creativity going. Each idea desc
 
 1. **[Orientation Lock per App](Shortcuts%20Inspiration/Orientation%20Lock%20per%20App.md)** - Auto-rotate only in apps where it makes sense
 2. **[Unmute per App](Shortcuts%20Inspiration/Unmute%20per%20App.md)** - Force sound on for apps that respect the mute switch too well
+3. **[Dumb Phone](Shortcuts%20Inspiration/Dumb%20Phone.md)** - Make your iPhone less addictive with Shortcuts
 
 ## Links
 
