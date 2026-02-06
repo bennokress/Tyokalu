@@ -23,6 +23,7 @@ Ideas for shortcuts and automations to get your creativity going. Each idea desc
 ### Automations
 
 1. **[Orientation Lock per App](Shortcuts%20Inspiration/Orientation%20Lock%20per%20App.md)** - Auto-rotate only in apps where it makes sense
+2. **[Unmute per App](Shortcuts%20Inspiration/Unmute%20per%20App.md)** - Force sound on for apps that respect the mute switch too well
 
 ## Links
 
