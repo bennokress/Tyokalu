@@ -4,7 +4,11 @@ This folder contains supplementary material for the Shortcuts workshop. Browse t
 
 ## Shortcuts Inspiration
 
-Ideas for shortcuts and automations organized by skill level (1-5). Each idea describes what you can build and gives a sense of how complex the logic might get. If you're stuck or not feeling creative, pick an idea that interests you and try implementing it.
+Ideas for shortcuts and automations to get your creativity going. Each idea describes what you can build and gives a sense of how complex the logic might get. If you're stuck or not feeling creative, pick an idea that interests you and try implementing it.
+
+### Share Sheet
+
+1. **[Save for Later](Shortcuts%20Inspiration/Save%20for%20Later.md)** - Sort saved content into categories based on the URL
 
 ## Links
 
