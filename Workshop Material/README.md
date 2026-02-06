@@ -44,6 +44,7 @@ Ideas for shortcuts and automations to get your creativity going. Each idea desc
 2. **[Action Button Automation](Shortcuts%20Inspiration/Action%20Button%20Automation.md)** - Make the Action Button context-aware
 3. **[Night Time Preparation](Shortcuts%20Inspiration/Night%20Time%20Preparation.md)** - Automate your going-to-sleep and waking-up routines
 4. **[Work Calendar Sync](Shortcuts%20Inspiration/Work%20Calendar%20Sync.md)** - Mirror work events to your personal calendar
+5. **[Debug URL Schemes](Shortcuts%20Inspiration/Debug%20URL%20Schemes.md)** - Use Shortcuts to trigger debug states in your own apps
 
 ## Links
 
