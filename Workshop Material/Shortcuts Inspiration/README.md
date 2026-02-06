@@ -10,7 +10,7 @@ Ideas for shortcuts and automations to get your creativity going. Each idea desc
 
 ## Quick Actions
 
-*Coming soon …*
+1. [Restart Phone](Restart%20Phone.md) - One-tap restart without holding buttons
 
 ## Automations
 

@@ -12,6 +12,10 @@ Ideas for shortcuts and automations to get your creativity going. Each idea desc
 2. **[Save to Cloud Storage](Shortcuts%20Inspiration/Save%20to%20Cloud%20Storage.md)** - Sort files by type before uploading to cloud storage
 3. **[Ask AI](Shortcuts%20Inspiration/Ask%20AI.md)** - Send files, websites, or text to an AI for quick answers
 
+### Quick Actions
+
+1. **[Restart Phone](Shortcuts%20Inspiration/Restart%20Phone.md)** - One-tap restart without holding buttons
+
 ## Links
 
 Curated resources to help you learn, connect, and enhance your Shortcuts workflow:
