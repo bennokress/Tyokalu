@@ -6,6 +6,7 @@ Ideas for shortcuts and automations to get your creativity going. Each idea desc
 
 1. [Save for Later](Save%20for%20Later.md) - Sort saved content into categories based on the URL
 2. [Save to Cloud Storage](Save%20to%20Cloud%20Storage.md) - Sort files by type before uploading to cloud storage
+3. [Ask AI](Ask%20AI.md) - Send files, websites, or text to an AI for quick answers
 
 ## Quick Actions
 
