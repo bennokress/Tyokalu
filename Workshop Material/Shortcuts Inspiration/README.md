@@ -22,6 +22,7 @@ Ideas for shortcuts and automations to get your creativity going. Each idea desc
 2. [Unmute per App](Unmute%20per%20App.md) - Force sound on for apps that respect the mute switch too well
 3. [Dumb Phone](Dumb%20Phone.md) - Make your iPhone less addictive with Shortcuts
 4. [Battery Low Notification](Battery%20Low%20Notification.md) - Alert all your devices when battery gets low
+5. [Time Tracking](Time%20Tracking.md) - Automatically track working hours based on context
 
 ## Helper Shortcuts
 
