@@ -23,6 +23,7 @@ Ideas for shortcuts and automations to get your creativity going. Each idea desc
 3. [Dumb Phone](Dumb%20Phone.md) - Make your iPhone less addictive with Shortcuts
 4. [Battery Low Notification](Battery%20Low%20Notification.md) - Alert all your devices when battery gets low
 5. [Time Tracking](Time%20Tracking.md) - Automatically track working hours based on context
+6. [CarPlay Navigation](CarPlay%20Navigation.md) - Navigate to the next calendar event or home when CarPlay connects
 
 ## Helper Shortcuts
 
