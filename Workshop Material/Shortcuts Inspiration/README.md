@@ -27,7 +27,7 @@ Ideas for shortcuts and automations to get your creativity going. Each idea desc
 
 ## Helper Shortcuts
 
-*Coming soon …*
+1. [Get Current Vicinity](Get%20Current%20Vicinity.md) - Determine where you are as a reusable building block
 
 ## Complex Setups
 

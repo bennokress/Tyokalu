@@ -29,6 +29,10 @@ Ideas for shortcuts and automations to get your creativity going. Each idea desc
 5. **[Time Tracking](Shortcuts%20Inspiration/Time%20Tracking.md)** - Automatically track working hours based on context
 6. **[CarPlay Navigation](Shortcuts%20Inspiration/CarPlay%20Navigation.md)** - Navigate to the next calendar event or home when CarPlay connects
 
+### Helper Shortcuts
+
+1. **[Get Current Vicinity](Shortcuts%20Inspiration/Get%20Current%20Vicinity.md)** - Determine where you are as a reusable building block
+
 ## Links
 
 Curated resources to help you learn, connect, and enhance your Shortcuts workflow:
