@@ -19,6 +19,7 @@ Ideas for shortcuts and automations to get your creativity going. Each idea desc
 3. **[Open Password App](Shortcuts%20Inspiration/Open%20Password%20App.md)** - Jump straight to your password manager
 4. **[Open App Settings](Shortcuts%20Inspiration/Open%20App%20Settings.md)** - Jump to an app's page in the Settings app
 5. **[Save Current Song](Shortcuts%20Inspiration/Save%20Current%20Song.md)** - Save what's playing to one or more playlists
+6. **[Call Anonymously](Shortcuts%20Inspiration/Call%20Anonymously.md)** - Hide your caller ID with a number prefix
 
 ### Automations
 
