@@ -47,3 +47,4 @@ Here are some fully local ideas that are highly customizable to your personal ne
 3. [Night Time Preparation](Night%20Time%20Preparation.md) - Automate your going-to-sleep and waking-up routines
 4. [Work Calendar Sync](Work%20Calendar%20Sync.md) - Mirror work events to your personal calendar
 5. [Debug URL Schemes](Debug%20URL%20Schemes.md) - Use Shortcuts to trigger debug states in your own apps
+6. [Packing List](Packing%20List.md) - Generate a personalized packing list for any trip

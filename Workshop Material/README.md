@@ -45,6 +45,7 @@ Ideas for shortcuts and automations to get your creativity going. Each idea desc
 3. **[Night Time Preparation](Shortcuts%20Inspiration/Night%20Time%20Preparation.md)** - Automate your going-to-sleep and waking-up routines
 4. **[Work Calendar Sync](Shortcuts%20Inspiration/Work%20Calendar%20Sync.md)** - Mirror work events to your personal calendar
 5. **[Debug URL Schemes](Shortcuts%20Inspiration/Debug%20URL%20Schemes.md)** - Use Shortcuts to trigger debug states in your own apps
+6. **[Packing List](Shortcuts%20Inspiration/Packing%20List.md)** - Generate a personalized packing list for any trip
 
 ## Links
 
