@@ -38,3 +38,4 @@ So think of your phone as exactly that when designing a complex automation. Use 
 Here are some fully local ideas that are highly customizable to your personal needs:
 
 1. [Focus Mode Automation](Focus%20Mode%20Automation.md) - Activate the right Focus Mode based on your current circumstances
+2. [Action Button Automation](Action%20Button%20Automation.md) - Make the Action Button context-aware

@@ -36,6 +36,7 @@ Ideas for shortcuts and automations to get your creativity going. Each idea desc
 ### Complex Setups
 
 1. **[Focus Mode Automation](Shortcuts%20Inspiration/Focus%20Mode%20Automation.md)** - Activate the right Focus Mode based on your current circumstances
+2. **[Action Button Automation](Shortcuts%20Inspiration/Action%20Button%20Automation.md)** - Make the Action Button context-aware
 
 ## Links
 
