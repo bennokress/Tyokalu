@@ -39,4 +39,5 @@ Here are some fully local ideas that are highly customizable to your personal ne
 
 1. [Focus Mode Automation](Focus%20Mode%20Automation.md) - Activate the right Focus Mode based on your current circumstances
 2. [Action Button Automation](Action%20Button%20Automation.md) - Make the Action Button context-aware
-3. [Work Calendar Sync](Work%20Calendar%20Sync.md) - Mirror work events to your personal calendar
+3. [Night Time Preparation](Night%20Time%20Preparation.md) - Automate your going-to-sleep and waking-up routines
+4. [Work Calendar Sync](Work%20Calendar%20Sync.md) - Mirror work events to your personal calendar
