@@ -12,6 +12,7 @@ Ideas for shortcuts and automations to get your creativity going. Each idea desc
 
 1. [Restart Phone](Restart%20Phone.md) - One-tap restart without holding buttons
 2. [Connect to Speakers](Connect%20to%20Speakers.md) - Skip the Bluetooth menu and connect to a specific device
+3. [Open Password App](Open%20Password%20App.md) - Jump straight to your password manager
 
 ## Automations
 
