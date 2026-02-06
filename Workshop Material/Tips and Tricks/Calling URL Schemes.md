@@ -29,6 +29,27 @@ I use this in a shortcut that:
 
 The URL scheme has since been [documented by the community](https://discussions.tomtom.com/en/discussion/998502/url-scheme-for-new-tomtom-go-mobile-for-ios-app), but TomTom still doesn't officially publish it. Many apps are like this - the schemes exist and work, you just have to find them.
 
+## Settings URL Schemes
+
+iOS has a special URL scheme for opening specific pages in the Settings app. In Shortcuts, use `prefs:root=` to jump to system settings or `App-prefs:` followed by an app's bundle ID to open that app's settings page directly.
+
+Some useful examples:
+
+| Destination | URL |
+|---|---|
+| Wi-Fi | `prefs:root=WIFI` |
+| Bluetooth | `prefs:root=Bluetooth` |
+| Battery | `prefs:root=BATTERY_USAGE` |
+| Display & Brightness | `prefs:root=DISPLAY` |
+| Notifications | `prefs:root=NOTIFICATIONS_ID` |
+| Accessibility | `prefs:root=ACCESSIBILITY` |
+| Camera | `prefs:root=CAMERA` |
+| Any app's settings | `App-prefs:com.example.bundleid` |
+
+You can go even deeper with `&path=` - for instance, `prefs:root=BATTERY_USAGE&path=BATTERY_HEALTH` opens the Battery Health page directly.
+
+Be aware that these URLs are not officially documented by Apple and can break between iOS versions. Community-maintained lists like [ios-settings-urls on GitHub](https://github.com/FifiTheBulldog/ios-settings-urls) are the best reference for what currently works.
+
 ---
 
 [← Previous: URL Scheme](URL%20Scheme.md) | [Back to Overview](README.md) | [Next: Data Types →](Data%20Types.md)
