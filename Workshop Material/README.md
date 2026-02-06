@@ -15,6 +15,7 @@ Ideas for shortcuts and automations to get your creativity going. Each idea desc
 ### Quick Actions
 
 1. **[Restart Phone](Shortcuts%20Inspiration/Restart%20Phone.md)** - One-tap restart without holding buttons
+2. **[Connect to Speakers](Shortcuts%20Inspiration/Connect%20to%20Speakers.md)** - Skip the Bluetooth menu and connect to a specific device
 
 ## Links
 
