@@ -31,4 +31,10 @@ Ideas for shortcuts and automations to get your creativity going. Each idea desc
 
 ## Complex Setups
 
-*Coming soon …*
+The really complex shortcuts almost always depend heavily on your personal needs and the services you already use. In general, complex automations are more at home on bigger machines like your Mac, where complexity can be managed far more easily in tools beyond Shortcuts. But phones have two key advantages: they are basically available to you 24/7, and they know more about what you're currently doing than your Mac - think location, active connections, a workout on your Apple Watch, and more.
+
+So think of your phone as exactly that when designing a complex automation. Use Shortcuts as a data collector and let it trigger logic from the data it gathers - either still on your phone or by kicking off an action online via webhooks or API calls.
+
+Here are some fully local ideas that are highly customizable to your personal needs:
+
+1. [Focus Mode Automation](Focus%20Mode%20Automation.md) - Activate the right Focus Mode based on your current circumstances

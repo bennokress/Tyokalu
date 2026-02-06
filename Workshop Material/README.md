@@ -33,6 +33,10 @@ Ideas for shortcuts and automations to get your creativity going. Each idea desc
 
 1. **[Get Current Vicinity](Shortcuts%20Inspiration/Get%20Current%20Vicinity.md)** - Determine where you are as a reusable building block
 
+### Complex Setups
+
+1. **[Focus Mode Automation](Shortcuts%20Inspiration/Focus%20Mode%20Automation.md)** - Activate the right Focus Mode based on your current circumstances
+
 ## Links
 
 Curated resources to help you learn, connect, and enhance your Shortcuts workflow:
