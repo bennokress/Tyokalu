@@ -17,6 +17,7 @@ Ideas for shortcuts and automations to get your creativity going. Each idea desc
 5. [Save Current Song](Save%20Current%20Song.md) - Save what's playing to one or more playlists
 6. [Call Anonymously](Call%20Anonymously.md) - Hide your caller ID with a number prefix
 7. [Reset Cellular Data](Reset%20Cellular%20Data.md) - Quickly cycle your cellular connection
+8. [QR Code Generator](QR%20Code%20Generator.md) - Generate a QR code from any text or URL
 
 ## Automations
 
