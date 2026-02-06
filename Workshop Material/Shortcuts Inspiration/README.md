@@ -14,6 +14,7 @@ Ideas for shortcuts and automations to get your creativity going. Each idea desc
 2. [Connect to Speakers](Connect%20to%20Speakers.md) - Skip the Bluetooth menu and connect to a specific device
 3. [Open Password App](Open%20Password%20App.md) - Jump straight to your password manager
 4. [Open App Settings](Open%20App%20Settings.md) - Jump to an app's page in the Settings app
+5. [Save Current Song](Save%20Current%20Song.md) - Save what's playing to one or more playlists
 
 ## Automations
 
