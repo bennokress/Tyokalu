@@ -26,7 +26,7 @@ END:VCARD
 - **ORG:** is the subtitle (what appears as the organization) - this is optional
 - **PHOTO;BASE64:** is the icon as a base64-encoded image - also optional
 
-To create multiple menu items, concatenate multiple vCard blocks in a single text.
+To create multiple menu items, concatenate multiple vCard blocks in a single text. Tools like [vCard Maker](https://vcardmaker.com/) can help you generate the VCF code.
 
 ## The Advanced VCF Structure
 
