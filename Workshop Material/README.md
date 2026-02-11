@@ -1,6 +1,6 @@
 # Workshop Material
 
-This folder contains supplementary material for the Shortcuts workshop. Browse the subfolders for inspiration, useful links, and tips to help you on your Shortcuts journey.
+This folder contains supplementary material for the Shortcuts workshop. Browse the subfolders for inspiration, useful links, and tips to help you on your Shortcuts journey. The **[Presentation Slides](Presentation%20Slides.pdf)** used during the workshop are also available here.
 
 ## Shortcuts Inspiration
 
